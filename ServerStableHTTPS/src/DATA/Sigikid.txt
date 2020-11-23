@@ -1,0 +1,980 @@
+Artikelnummer;Artikelbezeichnung;EAN;Netto
+23291;Regenschirm Sammy Samoa      ;4001190232918;7.15
+23324;Regenschirm Pinky Queeny     ;4001190233243;7.15
+23421;Regenschirm Frido            ;4001190234219;7.15
+23769;Rucksack kl Kily Keeper      ;4001190237692;13.35
+23795;Trinkflasche Kily Keeper     ;4001190237951;4.8
+23797;Regenschirm Kily Keeper      ;4001190237975;7.15
+23814;Brustbeutel Kily Keeper      ;4001190238149;6.7
+24002;Rucksack klein Florentine    ;4001190240029;13.35
+24216;Mini Rucksack Dra. OnTour    ;4001190242160;11.9
+24218;Mini Rucksack Hase OnTour    ;4001190242184;11.9
+24219;Mini Rucksack Hund OnTour    ;4001190242191;11.9
+24427;Melamin Schüssel Semmel      ;4001190244270;2.4
+24428;Melamin Tasse Semmel         ;4001190244287;2.4
+24429;Melamin Teller Semmel        ;4001190244294;3.35
+24430;Melamin Schüssel Lolo        ;4001190244300;2.4
+24431;Melamin Tasse Lolo           ;4001190244317;2.4
+24432;Melamin Teller Lolo          ;4001190244324;3.35
+24436;Melamin Schüssel Schnuggi    ;4001190244362;2.4
+24437;Melamin Tasse Schnuggi       ;4001190244379;2.4
+24438;Melamin Teller Schnuggi      ;4001190244386;3.35
+24439;Melamin Schüssel Rainbow     ;4001190244393;2.4
+24440;Melamin Tasse Rainbow        ;4001190244409;2.4
+24441;Melamin Teller Rainbow       ;4001190244416;3.35
+24445;Trinkflasche Florentine      ;4001190244454;4.8
+24448;Regenschirm Florentine       ;4001190244485;7.15
+24452;Rucksack groß Florentine     ;4001190244522;14.5
+24458;Brustbeutel Florentine       ;4001190244584;7.15
+24472;Lunchbox Pinky Queeny        ;4001190244720;3.8
+24473;Lunchbox Sammy Samoa         ;4001190244737;3.8
+24474;Lunchbox Frido               ;4001190244744;3.8
+24482;Trinkflasche Pinky Queeny    ;4001190244829;4.8
+24483;Trinkflasche Sammy Samoa     ;4001190244836;4.8
+24484;Trinkflasche Frido           ;4001190244843;4.8
+24543;Trolley Pinky Queeny         ;4001190245437;33.35
+24621;Mini Rucksack Ele. OnTour    ;4001190246212;11.9
+24732;Spardose Sammy Samoa         ;4001190247325;3.8
+24734;Spardose Kily Keeper         ;4001190247349;3.8
+24735;Spardose Pinky Queeny        ;4001190247356;3.8
+24736;Spardose Florentine          ;4001190247363;3.8
+24738;Lunchbox Apfelherz           ;4001190247387;3.8
+24739;Trinkflasche Apfelherz       ;4001190247394;4.8
+24768;Trinkflasche Forest Grizzly. ;4001190247684;4.8
+24780;Lunchbox Forest Grizzly      ;4001190247806;3.8
+24781;Lunchbox Kily Keeper         ;4001190247813;3.8
+24782;Lunchbox Florentine          ;4001190247820;3.8
+24870;Besteckset Rainbow Rabbit    ;4001190248704;2.4
+24871;Besteckset Schnuggi          ;4001190248711;2.4
+24874;Besteckset Semmel Bunny      ;4001190248742;2.4
+24875;Besteckset Lolo Lombardo     ;4001190248759;2.4
+24901;Kulturtasche Kily Keeper     ;4001190249015;7.15
+24913;Rucksack kl Pinky Queeny     ;4001190249138;14.5
+24915;Brustbeutel Pinky Queeny     ;4001190249152;6.2
+24916;Kulturtasche Pinky Queeny    ;4001190249169;7.15
+24918;Rucksack Bär OnTour          ;4001190249183;14.5
+24919;Rucksack Fuchs OnTour        ;4001190249190;14.5
+24920;Rucksack Frosch OnTour       ;4001190249206;14.5
+24921;Rucksack Hase OnTour         ;4001190249213;14.5
+24922;Rucksack Tiger OnTour        ;4001190249220;14.5
+24924;Pallimchen blau Soft&Play    ;4001190249244;28.6
+24925;Pallimchen rosa Soft&Play    ;4001190249251;28.6
+24926;Pallimchen grün Soft&Play    ;4001190249268;28.6
+24927;Pallimchen pink Soft&Play    ;4001190249275;28.6
+24933;Kulturtasche Florentine      ;4001190249336;7.15
+24935;Rucksack gr Sammy Samoa      ;4001190249350;16.7
+24936;Rucksack kl Sammy Samoa      ;4001190249367;14.5
+24938;Brustbeutel Sammy Samoa      ;4001190249381;6.2
+24939;Kulturtasche Sammy Samoa     ;4001190249398;7.15
+24941;Regenschirm Kroko OnTour     ;4001190249411;6.2
+24942;Regensch. Hase gr. OnTour    ;4001190249428;6.2
+24943;Regenschirm Löwe OnTour      ;4001190249435;6.2
+24944;Regenschirm Eisbär OnTour    ;4001190249442;6.2
+24945;Regensch. Hase bl. OnTour    ;4001190249459;6.2
+24946;Regenschirm Maus OnTour      ;4001190249466;6.2
+24951;Rucksack kl Gina Galopp      ;4001190249510;14.5
+24953;Brustbeutel Gina Galopp      ;4001190249534;6.2
+24978;Melamin Set Marienkäfer      ;4001190249787;11.9
+24981;Melamin Set Igel             ;4001190249817;11.9
+24984;Melamin Set Biene            ;4001190249848;11.9
+24985;Snackboxenset Fuchs Forest   ;4001190249855;4.8
+24986;Snackboxenset Hund Forest    ;4001190249862;4.8
+24987;Snackboxenset Farm           ;4001190249879;4.8
+24988;Snackboxenset Wald           ;4001190249886;4.8
+24990;Mel. Teller Fuchs Forest     ;4001190249909;2.7
+24991;Mel Schüssel Fuchs Forest    ;4001190249916;2.4
+24992;Mel. Becher Fuchs Forest     ;4001190249923;1.9
+24994;Trinkflasche Fuchs Forest    ;4001190249947;6.2
+24995;Mel. Teller Hund Forest      ;4001190249954;2.7
+24996;Mel. Schüssel Hund Forest    ;4001190249961;2.4
+24997;Mel. Becher Hund Forest      ;4001190249978;1.9
+25004;Lunchbox Sammy Samoa         ;4001190250042;3.8
+25006;Lunchbox Gina Galopp         ;4001190250066;3.8
+25007;Lunchbox Pinky Queeny        ;4001190250073;3.8
+25012;Trinkflasche Sammy Samoa     ;4001190250127;4.8
+25013;Trinkflasche Gina Galopp     ;4001190250134;4.8
+25014;Trinkflasche Pinky Queeny    ;4001190250141;4.8
+25020;Melamin Tasse Forest Fox     ;4001190250202;2.4
+25021;Melamin Schüssel Forest      ;4001190250219;2.4
+25022;Rucksack Krokodil            ;4001190250226;13.35
+25023;Rucksack Igel                ;4001190250233;13.35
+25024;Rucksack Käfer               ;4001190250240;13.35
+25027;Trinkflasche Hund Forest     ;4001190250271;6.2
+25034;Trinkfl. Eisbär Forest       ;4001190250349;7.15
+25035;Trinkflasche Affen Forest    ;4001190250356;7.15
+25036;Trinkflasche Dachs Forest    ;4001190250363;7.15
+25041;Rucksack kl Frido            ;4001190250417;14.5
+25042;Brustbeutel Frido            ;4001190250424;6.2
+25043;Kulturbeutel Frido           ;4001190250431;7.15
+25044;Trolley Frido Firefighter    ;4001190250448;33.35
+25045;Bambusbrotd. Hase Green      ;4001190250455;6.2
+25046;Bambusbrotd. Fuchs Green     ;4001190250462;6.2
+25047;Bambusbrotd. Biber Green     ;4001190250479;6.2
+25048;Bambusbrotd. Kroko Green     ;4001190250486;6.2
+25051;Turnbeutel Flederm School    ;4001190250516;9.55
+25053;Rucksack Fuchs Forest        ;4001190250530;11.9
+25054;Rucksack Hund Forest         ;4001190250547;11.9
+25061;Rucksack Elefant School      ;4001190250615;23.8
+25062;Tischset 4 Jahreszeiten      ;4001190250622;6.2
+25063;ABC Tischunterlage deu.      ;4001190250639;7.15
+25064;ABC Tischunterlage eng.      ;4001190250646;7.15
+25065;Turnbeutel Frosch School     ;4001190250653;9.55
+25067;Turnbeutel Bär School        ;4001190250677;9.55
+25068;Turnbeutel Hase School       ;4001190250684;9.55
+25077;Rucksack Kroko School        ;4001190250776;23.8
+25078;Rucksack Tiger School        ;4001190250783;23.8
+25079;Rucksack Fuchs School        ;4001190250790;23.8
+25080;Rucksack Hase School         ;4001190250806;23.8
+25081;Melamin Set Schildkröte      ;4001190250813;11.9
+25082;Besteckstet Forest Fox       ;4001190250820;2.4
+25083;Besteckset Pony Hoppe Dot    ;4001190250837;2.4
+25084;Besteckset Hügge Hug         ;4001190250844;2.4
+25085;Besteckset Boller Schäfle    ;4001190250851;2.4
+25086;Lunchbox Pony OnTour         ;4001190250868;3.35
+25087;Lunchbox Chamäl. OnTour      ;4001190250875;3.35
+25088;Lunchbox Dino OnTour         ;4001190250882;3.35
+25089;Lunchbox Löwe OnTour         ;4001190250899;3.35
+25090;Trinkflasche Pony OnTour     ;4001190250905;7.15
+25091;Trinkfl. Chamäleon OnTour    ;4001190250912;7.15
+25092;Trinkflasche Dino OnTour     ;4001190250929;7.15
+25093;Trinkflasche Löwe OnTour     ;4001190250936;7.15
+25094;Isolierfl. Farm OnTour       ;4001190250943;13.35
+25095;Isolierfl. Zoo OnTour        ;4001190250950;13.35
+25096;Isolierfl. Schafe OnTour     ;4001190250967;13.35
+25097;Isolierfl. Helden OnTour     ;4001190250974;13.35
+25098;Edelst-Trinkf Hund Green 400m;4001190250981;8.6
+25100;Edelst-Brotd Hund Green      ;4001190251001;9.55
+25101;Melamin Teller Forest Fox    ;4001190251018;3.35
+25102;Melamin Tasse Hoppe Dot      ;4001190251025;2.4
+25103;Melamin Schüssel Hoppe       ;4001190251032;2.4
+25104;Melamin Teller Hoppe Dot     ;4001190251049;3.35
+25105;Melamin Tasse Hügge Hund     ;4001190251056;2.4
+25106;Melamin Schüssel Hügge       ;4001190251063;2.4
+25107;Melamin Teller Hügge Hug     ;4001190251070;3.35
+25108;Melamin Tasse Boller         ;4001190251087;2.4
+25109;Melamin Schüssel Boller      ;4001190251094;2.4
+25110;Melamin Teller Boller        ;4001190251100;3.35
+25111;Mel. Teller Löwe Forest      ;4001190251117;2.7
+25112;Mel. Schüssel Löwe Forest    ;4001190251124;2.4
+25113;Mel. Becher Löwe Forest      ;4001190251131;1.9
+25114;Snackboxenset Löwe Forest    ;4001190251148;4.8
+25115;Trinkflasche Löwe Forest     ;4001190251155;6.2
+25116;Rucksack Löwe Forest         ;4001190251162;11.9
+25117;Mel. Teller Hase Forest      ;4001190251179;2.7
+25118;Mel. Schüssel Hase Forest    ;4001190251186;2.4
+25119;Mel. Becher Hase Forest      ;4001190251193;1.9
+25120;Snackboxenset Hase Forest    ;4001190251209;4.8
+25121;Trinkflasche Hase Forest     ;4001190251216;6.2
+25122;Rucksack Hase Forest         ;4001190251223;11.9
+25123;Lunchbox girls School        ;4001190251230;3.8
+25124;Lunchbox boys School         ;4001190251247;3.8
+25125;Trinkflasche girls School    ;4001190251254;8.6
+25126;Trinkflasche boys School     ;4001190251261;8.6
+25127;Rucksack Waschbär COLORI     ;4001190251278;13.35
+25128;Rucksack Biber COLORI        ;4001190251285;13.35
+25129;Rucksack Drache COLORI       ;4001190251292;13.35
+25130;Rucksack Elefant COLORI      ;4001190251308;13.35
+25131;Rucksack Fuchs COLORI        ;4001190251315;13.35
+25132;Lunchbox Farm OnTour         ;4001190251322;3.8
+25133;Lunchbox Zoo OnTour          ;4001190251339;3.8
+25134;Lunchbox Schafe OnTour       ;4001190251346;3.8
+25135;Lunchbox Helden OnTour       ;4001190251353;3.8
+25136;Teller Hund Green            ;4001190251360;4.3
+25137;Schüssel Hund Green          ;4001190251377;4.3
+25138;Tasse Hund Green             ;4001190251384;3.35
+25139;Besteck Set Hund Green       ;4001190251391;4.3
+25140;Rucksack blau Green          ;4001190251407;19.05
+25141;Edelst-Trinkf Katz Green 400m;4001190251414;8.6
+25143;Edelst-Brotd Katze Green     ;4001190251438;9.55
+25144;Teller Katze Green           ;4001190251445;4.3
+25145;Schüssel Katze Green         ;4001190251452;4.3
+25146;Tasse Katze Green            ;4001190251469;3.35
+25147;Besteck Set Katze Green      ;4001190251476;4.3
+25148;Rucksack rot Green           ;4001190251483;19.05
+25149;Regensch. Waschbär COLORI    ;4001190251490;6.2
+25150;Regenschirm Biber COLORI     ;4001190251506;6.2
+25151;Regenschirm Drache COLORI    ;4001190251513;6.2
+25152;Regenschirm Elef. COLORI     ;4001190251520;6.2
+25153;Regenschirm Fuchs COLORI     ;4001190251537;6.2
+25154;Trolley Waschbär COLORI      ;4001190251544;28.6
+25155;Trolley Elefant COLORI       ;4001190251551;28.6
+25156;Trolley Fuchs COLORI         ;4001190251568;28.6
+25157;Kulturta. Waschb. COLORI     ;4001190251575;9.55
+25158;Kulturtasche Elef. COLORI    ;4001190251582;9.55
+25159;Kulturtasche Fuchs COLORI    ;4001190251599;9.55
+37730;Ach Good!- Beasts            ;4001190377305;19.05
+37853;Mopp Toddel- Beasts          ;4001190378531;30.95
+38025;Cheerio Chicken- Beasts      ;4001190380251;30.95
+38056;Metusa Leo- Beasts           ;4001190380565;23.8
+38057;Cat Macchiato- Beasts        ;4001190380572;26.2
+38058;Paul Platt- Beasts           ;4001190380589;28.6
+38120;Doc Nightmare- Beasts        ;4001190381203;33.35
+38218;Äffchen Patchwork Sweety     ;4001190382187;14.5
+38243;Kiez Miez- Beasts            ;4001190382439;26.2
+38300;Giraffe Patchwork Sweety     ;4001190383009;15.75
+38302;Igel Patchwork Sweety        ;4001190383023;16.7
+38305;Kiki Kiwi- Beasts            ;4001190383054;19.05
+38309;Kuh Patchwork Sweety         ;4001190383092;14.5
+38311;Elefant Patchwork Sweety     ;4001190383115;14.5
+38322;Erwin kl. Pat. Soft&Play     ;4001190383221;19.05
+38337;Ach Good! Bear mini- B       ;4001190383375;11.9
+38361;Never let You go- Beasts     ;4001190383610;23.8
+38367;Bär Patchwork Sweety         ;4001190383672;14.5
+38368;Fuchs Patchwork Sweety       ;4001190383689;14.5
+38370;Katze Patchwork Sweety       ;4001190383702;14.5
+38371;Pferd Patchwork Sweety       ;4001190383719;14.5
+38372;Elefant Patchwork Sweety     ;4001190383726;14.5
+38374;Löwe Patchwork Sweety        ;4001190383740;14.5
+38375;Hund Patchwork Sweety        ;4001190383757;14.5
+38377;Tiger Patchwork Sweety       ;4001190383771;14.5
+38380;Karrieresau- Beasts          ;4001190383801;26.2
+38410;Ever Clever- Beasts..        ;4001190384105;21.45
+38415;I wass nix- Beasts           ;4001190384150;23.8
+38436;Katze Patchwork Sweety       ;4001190384365;13.35
+38456;Fritten Fritze- Beasts       ;4001190384563;23.8
+38457;Bloody Marie- Beasts         ;4001190384570;23.8
+38482;Doodle Donkey- Beasts        ;4001190384822;23.8
+38488;Uni Que- Beasts              ;4001190384884;28.6
+38523;Ach Good! Rabbit- Beasts     ;4001190385232;19.05
+38524;Ach Good! Rabitt mini- B     ;4001190385249;11.9
+38535;Mutt Mutty- Beasts           ;4001190385355;14.5
+38575;Mini Bär Gadgets             ;4001190385751;3.8
+38576;Mini Hase Gadgets            ;4001190385768;3.8
+38606;Lalalangeweile- Beasts       ;4001190386062;19.05
+38642;Lost and Found- Beasts       ;4001190386420;28.6
+38675;Duchess of Hampershire- B    ;4001190386758;30.95
+38692;Känguru Patchwork Sweety     ;4001190386925;16.7
+38693;Maus Patchwork Sweety        ;4001190386932;14.5
+38694;Frosch Patchwork Sweety      ;4001190386949;14.5
+38709;Elefant Patchwork Sweety     ;4001190387090;14.5
+38711;Drache Patchwork Sweety      ;4001190387113;14.5
+38715;Brave Hair- Beasts           ;4001190387151;28.6
+38720;Ach Good! Cow- Beasts        ;4001190387205;19.05
+38721;Ach Good! Cow mini- B        ;4001190387212;11.9
+38722;Ach Good! Dog- Beasts        ;4001190387229;19.05
+38723;Ach Good! Dog mini- B        ;4001190387236;11.9
+38727;Hairy Queeny rewashed- B     ;4001190387274;19.05
+38741;Mon Key- Beasts              ;4001190387410;23.8
+38744;XXL Pferd Patchwork          ;4001190387441;57.5
+38745;XXL Fuchs Patchwork          ;4001190387458;57.5
+38748;XXL Elefant Patchwork        ;4001190387489;57.5
+38764;Kuscheltier Hund Green       ;4001190387649;18.1
+38767;Kuscheltier Pferd Green      ;4001190387670;18.1
+38768;Kuscheltier Bär Green        ;4001190387687;16.7
+38781;Kuscheltier Fuchs Green..    ;4001190387816;16.7
+38820;Mini Kroko Gadgets           ;4001190388202;3.8
+38821;Mini Fuchs Gadgets           ;4001190388219;3.8
+38822;Mini Schaf Gadgets           ;4001190388226;3.8
+38826;Hase Patchwork Sweety        ;4001190388264;14.5
+38831;Löwe Silvio Savanne klein    ;4001190388318;11.9
+38844;Faultier Patchwork Sweety    ;4001190388448;16.7
+38847;Schnuller-Schnuffelt pink    ;4001190388479;10.95
+38848;Schnuller-Schnuffelt blau    ;4001190388486;10.95
+38849;Kuschelwichtel bl Green      ;4001190388493;11.9
+38850;Schnuffelwichtel bl Green    ;4001190388509;13.35
+38852;Kuschelwichtel ro Green      ;4001190388523;11.9
+38853;Schnuffelwichtel ro Green    ;4001190388530;13.35
+38864;Fuchs Patchwork Sweety       ;4001190388646;14.5
+38866;Bär Patchwork Sweety         ;4001190388660;14.5
+38873;XXL Bär Patchwork            ;4001190388738;57.5
+38874;XXL Drache Patchwork         ;4001190388745;57.5
+38875;Ach Good! Sheep mini- B      ;4001190388752;11.9
+38876;Ach Good! Fox mini- B        ;4001190388769;11.9
+38880;Ach Good! Frog mini- B       ;4001190388806;11.9
+38881;Ach Good! Rabbit mini- B     ;4001190388813;11.9
+38884;Einhorn Patchwork Sweety     ;4001190388844;16.7
+38885;Schnuffeltuch Schaf Green    ;4001190388851;13.35
+38887;Spieluhr Schaf Green         ;4001190388875;16.7
+38888;Ach Good! Sheep- Beasts      ;4001190388882;19.05
+38889;Ach Good! Fox- Beasts        ;4001190388899;19.05
+38923;Ach Good! Frog- Beasts       ;4001190389230;19.05
+38924;Ach Good! Rabbit- Beasts     ;4001190389247;19.05
+38925;Ach Good! Bear- Beasts       ;4001190389254;19.05
+38926;Ach Good! Bear mini- B       ;4001190389261;11.9
+38927;Ach Good! Polar Bear- B      ;4001190389278;19.05
+38928;Ach Good! Icebear mini- B    ;4001190389285;11.9
+38929;Casual Friday- Beasts..      ;4001190389292;27.6
+38933;Taco Tuesday- Beasts..       ;4001190389339;21.45
+38934;Always in your arms Beast    ;4001190389346;23.8
+38935;Forever Together- Beasts     ;4001190389353;23.8
+38936;Paradise Paul- Beasts..      ;4001190389360;22.85
+38937;Lady Hoo- Beasts             ;4001190389377;19.05
+38940;Taste of Tropics- Beasts     ;4001190389407;23.8
+38941;Flying French- Beasts        ;4001190389414;21.45
+38945;Head Up- Beasts..            ;4001190389452;27.6
+38949;Biber Patchwork Sweety       ;4001190389490;14.5
+38954;Eidechse oliv Gadgets        ;4001190389544;4.8
+38957;Anhänger Elefant Green       ;4001190389575;8.6
+38975;HSP-Figur Fuchs Soft&Play    ;4001190389759;19.05
+38978;HSP-Figur Kroko Soft&Play    ;4001190389780;19.05
+38980;Milk on the fields- Beast    ;4001190389803;23.8
+38982;Igel Patchwork Sweety        ;4001190389827;14.5
+38995;Schnuffeltuch Hase Green     ;4001190389957;13.35
+38996;Schnuffeltuch Bär Green      ;4001190389964;13.35
+38997;Greifling Wal Green          ;4001190389971;9.55
+38999;Frosch Patchwork Sweety      ;4001190389995;11.9
+39001;Bär Flobo Flunderberg br     ;4001190390014;9.55
+39003;Holunder Hockenstedt- B      ;4001190390038;23.8
+39008;Sushi Susi- Beasts           ;4001190390083;20.5
+39023;Spieluhr Hund Signature      ;4001190390236;16.7
+39025;Spieluhr Hase Signature      ;4001190390250;16.7
+39045;Schnuffeltuch Faultier       ;4001190390458;11.9
+39046;Schnuffeltuch Panda          ;4001190390465;11.9
+39048;Spieluhr Hase Green          ;4001190390489;16.7
+39049;Kuscheltier Hase Green       ;4001190390496;16.7
+39052;Spieluhr Hund Green          ;4001190390526;16.7
+39053;Kuscheltier Hund Green..     ;4001190390533;15.75
+39055;Spieluhr Schaf Green         ;4001190390557;16.7
+39056;Kuscheltier Schaf Green..    ;4001190390564;15.75
+39074;Eidechse grün Gadgets        ;4001190390748;4.8
+39075;Eidechse orange Gadgets      ;4001190390755;4.8
+39076;Eidechse grau Gadgets        ;4001190390762;4.8
+39077;Eidechse braun Gadgets       ;4001190390779;4.8
+39079;Eidechse getupft Gadgets     ;4001190390793;4.8
+39081;Chicken Checker- Beasts      ;4001190390816;23.8
+39082;Dachs Patchwork Sweety       ;4001190390823;16.7
+39083;Wolf Patchwork Sweety        ;4001190390830;16.7
+39084;Schwein Patchwork Sweety     ;4001190390847;13.35
+39085;Nashorn Patchwork Sweety     ;4001190390854;14.5
+39089;Holzgreifling Wolke Green    ;4001190390892;6.2
+39090;Holzgreifling Stern Green    ;4001190390908;6.2
+39091;Holzgreifling Blatt Green    ;4001190390915;6.2
+39092;Waschbär Patchwork Sweety    ;4001190390922;16.7
+39106;Schnuffeltuch Hase Green     ;4001190391066;13.35
+39107;Schnuffelt. Eisbär Green     ;4001190391073;13.35
+39108;Schnuffeltuch Eber Green     ;4001190391080;13.35
+39118;Mama Makaka- Beasts          ;4001190391189;23.8
+39126;Eule Patchwork Sweety        ;4001190391264;16.7
+39127;Schaf Patchwork Sweety       ;4001190391271;16.7
+39132;Uncle Jungle- Beasts         ;4001190391325;23.8
+39134;Snow Patrol- Beasts..        ;4001190391349;21.45
+39135;King Bombastic- Beasts       ;4001190391356;28.6
+39142;Spielfigur Debby Dumb        ;4001190391424;11.9
+39143;Schnuffeltuch Debby Dumb     ;4001190391431;10.95
+39144;Mini-Schnuffeltuch Debby..   ;4001190391448;8.6
+39145;Spieluhr Debby Dumb          ;4001190391455;15.75
+39146;Rassel Debby Dumb            ;4001190391462;7.15
+39148;Schnuffelt Flecken Frog      ;4001190391486;10.95
+39149;Mini-Schnuffelt Flecken F..  ;4001190391493;8.6
+39152;Battery Bat- Beasts          ;4001190391523;21.45
+39156;I'm on fire- Beasts          ;4001190391561;23.8
+39157;Bonsai's Brother- Beasts     ;4001190391578;23.8
+39159;Smart Smudge- Beasts         ;4001190391592;19.05
+39161;Quck & Dirty- Beasts         ;4001190391615;23.8
+39162;Rosi Romadur- Beasts         ;4001190391622;23.8
+39164;Luxury Lux- Beasts           ;4001190391646;19.05
+39165;Gulli Gallo- Beasts          ;4001190391653;21.45
+39166;Game Over- Beasts..          ;4001190391660;23.8
+39167;Rhino Nino- Beasts           ;4001190391677;23.8
+39168;Longnose Hose- Beasts        ;4001190391684;26.2
+39169;Sweet Teeth- Beasts          ;4001190391691;23.8
+39170;Black Sheepy- Beasts         ;4001190391707;22.85
+39171;Spielfigur Dachs Green       ;4001190391714;14.5
+39172;Spieluhr Dachs Green         ;4001190391721;19.05
+39173;Schnuffeltuch Dachs Green    ;4001190391738;13.35
+39174;Greifling Dachs Green        ;4001190391745;10.95
+39175;Greifling Hase oran Green    ;4001190391752;7.65
+39176;Greifling Hase ecru Green    ;4001190391769;7.65
+39177;Greifling Hase blau Green    ;4001190391776;7.65
+39178;Greifling Hase hbr Green     ;4001190391783;7.65
+39179;Greifling Hase br Green      ;4001190391790;7.65
+39180;Dotty Dot- Beasts            ;4001190391806;28.6
+39181;Lazy Bunny- Beasts..         ;4001190391813;23.8
+39182;Zicken Ziege- BeastsTown     ;4001190391820;26.2
+39183;Lady Hairy Mary- Beasts      ;4001190391837;19.05
+39184;The Race Winner- Beasts      ;4001190391844;23.8
+39185;Fuchs Sweety                 ;4001190391851;19.05
+39186;Hase Sweety                  ;4001190391868;19.05
+39187;Schnuffelt. Tiger Green      ;4001190391875;13.35
+39188;Greifling Tiger Green        ;4001190391882;8.6
+39189;Schnuffelt. Frosch Green     ;4001190391899;13.35
+39190;Greifling Frosch Green       ;4001190391905;8.6
+39191;Schnuffelt. Eisbär Green     ;4001190391912;13.35
+39192;Greifling Eisbär Green       ;4001190391929;8.6
+39193;Fuchs Patchwork Sweety       ;4001190391936;16.7
+39194;Schnuffeltuch Waschbär ro    ;4001190391943;11.9
+39195;Schnuffeltuch Waschbär bl    ;4001190391950;11.9
+39196;Hund Patchwork Sweety        ;4001190391967;16.7
+39197;Bär Sweety                   ;4001190391974;19.05
+39198;Weh Weh Wasp- Beasts         ;4001190391981;21.45
+39199;Schnuffeltuch Maus Signature ;4001190391998;11.9
+39200;Spieluhr Maus Signature      ;4001190392001;16.7
+39201;Greifling Maus Signature     ;4001190392018;8.6
+39202;Silly Duck SB-Patchwork      ;4001190392025;16.7
+39203;Schnuffeltuch Wolf Signature ;4001190392032;11.9
+39204;Spieluhr Wolf Signature      ;4001190392049;16.7
+39205;Greifling Wolf Signature     ;4001190392056;8.6
+39206;Bär Patchwork Sweety         ;4001190392063;14.5
+39207;Marienkäfer Gadgets          ;4001190392070;7.15
+39208;Biene Gadgets                ;4001190392087;7.15
+39209;Schmetterling Gadgets        ;4001190392094;7.15
+39210;Grashüpfer Gadges            ;4001190392100;7.15
+39213;Löwe Patchwork Sweety        ;4001190392131;16.7
+39214;Hase Patchwork Sweety        ;4001190392148;16.7
+39215;Schaf Patchwork Sweety       ;4001190392155;14.5
+39217;Spieluhr Hügge Hug           ;4001190392179;15.75
+39218;Greifling Hügge Hug          ;4001190392186;7.15
+39219;Schnuffeltuch Hügge Hug      ;4001190392193;10.95
+39220;Nackenkissen Hügge Hug       ;4001190392209;9.55
+39221;Handpuppe Hügge Hug          ;4001190392216;14.5
+39222;Mini-Schnuffelt Hügg Hug     ;4001190392223;8.6
+39226;Hund Sweety                  ;4001190392261;19.05
+39227;Elefant Sweety               ;4001190392278;19.05
+39228;Katze Sweety                 ;4001190392285;19.05
+39229;Schnuffeltuch Schaf Green    ;4001190392292;13.35
+39230;Mini Schnuff. Schaf Green    ;4001190392308;9.55
+39231;Greifling Schaf Green        ;4001190392315;8.6
+39232;Spieluhr Schaf Green         ;4001190392322;16.7
+39233;Spieluhr Forest Fox          ;4001190392339;15.75
+39234;Schnuffeltuch Forest Fox     ;4001190392346;10.95
+39235;Handpuppe Forest Fox         ;4001190392353;14.5
+39236;Greifling Forest Fox         ;4001190392360;7.15
+39237;Mini-Schnuffeltuch Forest    ;4001190392377;8.6
+39238;Greifring Forest Fox         ;4001190392384;8.6
+39239;Spieluhr Boller Schäfle      ;4001190392391;15.75
+39240;Schnuffelt Boller Schäfle    ;4001190392407;10.95
+39241;Handpuppe Boller Schäfle     ;4001190392414;14.5
+39242;Greifling Boller Schäfle     ;4001190392421;7.15
+39243;Mini Schnuffeltuch Boller    ;4001190392438;8.6
+39244;Greifring Boller             ;4001190392445;8.6
+39245;Handpuppe Lolo Lombardo      ;4001190392452;14.5
+39246;Greifling Lolo Lombardo      ;4001190392469;7.15
+39247;Mini-Schnuffeltuch Lolo      ;4001190392476;8.6
+39248;Greifring Lolo               ;4001190392483;8.6
+39249;Schnuffeltuch Hoppe Dot      ;4001190392490;10.95
+39250;Spieluhr Hoppe Dot           ;4001190392506;15.75
+39251;Handpuppe Hoppe Dot          ;4001190392513;14.5
+39252;Greifling Hoppe Dot          ;4001190392520;7.15
+39253;Mini-Schnuffeltuch Hoppe     ;4001190392537;8.6
+39254;Greifring Hoppe Dot          ;4001190392544;8.6
+39255;Greifling Flecken Frog       ;4001190392551;7.15
+39256;Spieluhr Flecken Frog        ;4001190392568;15.75
+39257;Handpuppe Flecken Frog       ;4001190392575;14.5
+39265;Spieluhr Semmel Bunny        ;4001190392650;15.75
+39266;Handpuppe Semmel Bunny       ;4001190392667;14.5
+39267;Greifling Semmel Bunny       ;4001190392674;7.15
+39268;Mini-Schnuffeltuch Semmel    ;4001190392681;8.6
+39269;Greifring Semmel             ;4001190392698;8.6
+39270;Schnuffelt. Rosalie Rose     ;4001190392704;10.95
+39271;Spieluhr Rosalie Rose        ;4001190392711;15.75
+39272;Handpuppe Rosalie Rose       ;4001190392728;14.5
+39273;Greifling Rosalie Rose       ;4001190392735;7.15
+39274;Mini-Schnuffelt. Rosalie     ;4001190392742;8.6
+39275;Greifring Rosalie            ;4001190392759;8.6
+39276;Handpuppe Schnuggi           ;4001190392766;14.5
+39277;Greifling Schnuggi           ;4001190392773;7.15
+39278;Mini-Schnuffelt. Schnuggi    ;4001190392780;8.6
+39279;Greifring Schnuggi           ;4001190392797;8.6
+39280;Nackenkissen Boller          ;4001190392803;9.55
+39281;Nackenkissen Rosalie Rose    ;4001190392810;9.55
+39282;Nackenkissen Forest Fox      ;4001190392827;9.55
+39283;Nackenkissen Hoppe Dot       ;4001190392834;9.55
+39284;Alpaka Patchwork             ;4001190392841;14.5
+39285;Ente Patchwork               ;4001190392858;14.5
+39286;Kroko Patchwork              ;4001190392865;14.5
+39288;Schwein Patchwork            ;4001190392889;14.5
+39290;Hase Patchwork Sweety        ;4001190392902;14.5
+39291;Panther Patchwork Sweety     ;4001190392919;14.5
+39292;Greifring Flecken Frog       ;4001190392926;8.6
+39293;Schnullerband Forest Fox     ;4001190392933;4.8
+39294;Schnullerband Boller         ;4001190392940;4.8
+39295;Schnullerband Lolo           ;4001190392957;4.8
+39296;Schnullerband Hoppe Dot      ;4001190392964;4.8
+39297;Schnullerband Semmel         ;4001190392971;4.8
+39298;Schnullerb. Rosalie Rose     ;4001190392988;4.8
+39299;Schnullerband Schnuggi       ;4001190392995;4.8
+39300;Greifling Frosch Green       ;4001190393008;9.55
+39301;Greifling Affe Green         ;4001190393015;9.55
+39302;Greifling Hase bl Green      ;4001190393022;9.55
+39303;Greifling Hase ro Green      ;4001190393039;9.55
+39304;Ach Good! Limited Edition    ;4001190393046;21.45
+39305;Ach Good! Limited Edition    ;4001190393053;21.45
+39306;Ach Good! Limited Edition    ;4001190393060;21.45
+39307;Bad Cat- BeastsTown          ;4001190393077;21.45
+39308;Mad Math- BeastsTown         ;4001190393084;19.05
+39309;Gimme Hugs- BeastsTown       ;4001190393091;23.8
+39311;Plump Plumer- Beasts         ;4001190393114;23.8
+39314;White Nights- BeastsTown     ;4001190393145;23.8
+39315;Shy Shannan- BeastsTown      ;4001190393152;26.2
+39316;Bär Patchwork Sweety         ;4001190393169;14.5
+39317;Katze Patchwork Sweety       ;4001190393176;16.7
+39322;Fool Fly- BeastsTown         ;4001190393220;19.05
+39323;Ricky Raven- BeastsTown      ;4001190393237;23.8
+39325;Strick-Spielfigur Green      ;4001190393251;14.5
+39326;Strick-Schnuffelt. Green     ;4001190393268;14.5
+39327;Strick-Greifling Green       ;4001190393275;9.55
+39328;Mini Strick-Schnuff Green    ;4001190393282;11.9
+39329;Kissen Wal Urban Wildlife    ;4001190393299;14.5
+39330;Kuscheltier Elefant Green    ;4001190393305;16.7
+39331;Kuscheltier Bär Green        ;4001190393312;16.7
+39332;Kuscheltier Eisbär Green     ;4001190393329;16.7
+39333;Kuscheltier Hase Green       ;4001190393336;16.7
+39334;Kuscheltier Hund Green       ;4001190393343;16.7
+39335;Kuscheltier Frosch Green     ;4001190393350;16.7
+39336;Greifring Hügge Hug          ;4001190393367;8.6
+39337;Schnullerband Hügge Hug      ;4001190393374;4.8
+39338;Crazy Sheep- Beasts          ;4001190393381;23.8
+39339;Love in danger- Beasts       ;4001190393398;30.95
+39340;Woody Moody- Beasts          ;4001190393404;21.45
+39341;Frog Doc- BeastsTown         ;4001190393411;23.8
+39342;Day Dreamer- Beasts          ;4001190393428;23.8
+39343;Aufbrezelalpaka Green        ;4001190393435;19.05
+39344;Halligallihenne Green        ;4001190393442;19.05
+39345;Krokolores Green             ;4001190393459;19.05
+39346;Schnupperschweinch Green     ;4001190393466;19.05
+39422;Bär Schnuffeltuch            ;4001190394227;11.9
+39423;Bär Schnullertuch            ;4001190394234;13.35
+39424;Bär Spieluhr                 ;4001190394241;19.05
+39426;Bär Handspielpuppe           ;4001190394265;16.7
+39427;Bär Nackenkissen             ;4001190394272;11.9
+39429;Bär Rassel                   ;4001190394296;8.6
+39431;Bär Wärmekissen klein        ;4001190394319;10.95
+40034;Aktiv-Kissen Drache PlayQ    ;4001190400348;30.95
+40061;Anhänger Drache Hangons      ;4001190400614;9.55
+40099;Aktiv-Hund PlayQ             ;4001190400997;9.55
+40100;Multi-Tier Bär PlayQ         ;4001190401000;11.9
+40101;Aktiv-Känguru PlayQ          ;4001190401017;13.35
+40103;Multi-Tier Giraffe PlayQ     ;4001190401031;9.55
+40104;Aktiv-Fisch PlayQ            ;4001190401048;10.95
+40120;Aktiv-Blume PlayQ            ;4001190401208;11.9
+40183;HSP Krokodil Soft&Play       ;4001190401833;9.55
+40318;Mini-Spieluhr Schmetterling..;4001190403189;10.95
+40356;Mini-Spieluhr Hase blau..    ;4001190403561;10.95
+40357;Mini-Spieluhr Bär..          ;4001190403578;10.95
+40370;Fingerp Kasper Soft&Play     ;4001190403707;3.35
+40371;Fingerp Seppl Soft&Play      ;4001190403714;3.35
+40373;Fingerp Räuber Soft&Play     ;4001190403738;3.35
+40375;Fingerp Prinz. Soft&Play     ;4001190403752;3.35
+40379;Fingerp Kroko Soft&Play      ;4001190403790;3.35
+40490;Ringgreifling Bär PlayQ      ;4001190404902;7.15
+40496;Anhänger Bär Hangons         ;4001190404964;8.6
+40502;Greifling Schaf Green        ;4001190405022;8.1
+40503;Schnuffeltuch Hund Green     ;4001190405039;13.35
+40504;Schnuffeltuch Hase Green     ;4001190405046;13.35
+40576;Schnuffeltuch Rainbow        ;4001190405763;10.95
+40577;Spieluhr Rainbow Rabbit      ;4001190405770;15.75
+40578;Rassel Rainbow Rabbit        ;4001190405787;7.15
+40594;Schnuffeltuch Hase           ;4001190405947;10.95
+40609;Krabbelrolle Hase PlayQ      ;4001190406098;14.5
+40675;Knistertuch Hase PlayQ       ;4001190406753;6.2
+40780;Mini-Spieluhr Eule..         ;4001190407804;10.95
+40781;Mini-Spieluhr Frosch..       ;4001190407811;10.95
+40833;Nackenkissen Schnuggi        ;4001190408337;9.55
+40834;Nackenkissen Semmel Bunny    ;4001190408344;9.55
+40836;Nackenkissen Lolo            ;4001190408368;9.55
+40844;Spieluhr Hund Green          ;4001190408443;16.7
+40862;Schnuffeltuch Schaf Green    ;4001190408627;13.35
+40863;Multi-Tier Elefant PlayQ     ;4001190408634;14.5
+40882;Aktiv-Puppe PlayQ            ;4001190408825;14.5
+40887;Wende-Käfer PlayQ            ;4001190408870;7.15
+40907;Aktiv-Wal PlayQ              ;4001190409075;10.95
+40940;Mobile-Halter Ast Hangons    ;4001190409402;16.7
+40941;Affe Patchwork Sweety        ;4001190409419;10.95
+40946;Mobile Vogelast Hangons      ;4001190409464;16.7
+40989;Lernaffe Soft&Play           ;4001190409891;19.05
+40991;Kuschelkissen Rainbow        ;4001190409914;11.9
+40992;Kuschelkissen Semmel         ;4001190409921;11.9
+40994;Kuschelkissen Lolo           ;4001190409945;11.9
+40995;Kuschelkissen Schnuggi       ;4001190409952;11.9
+40999;Aktiv-Kissen Hund PlayQ      ;4001190409990;30.95
+41010;Anhänger Eichhörn Hangons    ;4001190410101;8.6
+41011;Anhänger Fuchs Hangons       ;4001190410118;8.6
+41012;Anhänger Stinkt. Hangons     ;4001190410125;8.6
+41013;Anhänger blau Bite Me!       ;4001190410132;6.2
+41056;Anhänger Chamäl. Hangons     ;4001190410569;8.6
+41083;Safari-Zug PlayQ             ;4001190410835;26.2
+41099;Schnuffelt. blau Bite Me!    ;4001190410996;6.2
+41169;Rassel Hase RedStars         ;4001190411696;3.35
+41170;Rassel Giraffe RedStars      ;4001190411702;3.35
+41172;Rassel Wal RedStars          ;4001190411726;2.7
+41174;Rassel Pferd br. RedStars    ;4001190411740;3.35
+41176;Rassel Elefant RedStars      ;4001190411764;3.8
+41178;Rassel Krokodil RedStars     ;4001190411788;2.7
+41179;Schmetterling gr RedStars    ;4001190411795;2.4
+41180;Schmetterling bl RedStars    ;4001190411801;2.4
+41181;Schmetterling or RedStars    ;4001190411818;2.4
+41187;Rassel Maus RedStars         ;4001190411870;3.35
+41188;Rassel Bär RedStars          ;4001190411887;3.35
+41189;Rassel Schaf RedStars        ;4001190411894;3.35
+41190;Rassel Känguru RedStars      ;4001190411900;3.35
+41274;Schnuffeltuch Ringel Ding..  ;4001190412747;11.9
+41286;Mobile-Spielwerk Brahms      ;4001190412860;4.8
+41294;Rattel-Raupe                 ;4001190412945;9.55
+41340;Schnuffeltuch Fudallo Fox    ;4001190413409;10.95
+41352;Schnuffelt. Frosch Green..   ;4001190413522;13.35
+41435;Rassel Kaktus RedStars       ;4001190414352;3.35
+41436;Quietsche Kaktus RedStars    ;4001190414369;3.35
+41437;Anhänger Faultier Hangons    ;4001190414376;7.15
+41450;Aktiv-Buch PlayQ             ;4001190414505;9.55
+41474;Spielpuppe rot Soft&Play     ;4001190414741;14.5
+41475;Spielpuppe bl Soft&Play      ;4001190414758;14.5
+41529;Aktiv-Decke Wald PlayQ       ;4001190415298;42.85
+41532;Ball bunt PlayQ              ;4001190415328;7.15
+41545;Mobile Bauernhof Hangons     ;4001190415458;16.7
+41550;Aktiv-Decke Bauernhof PQ     ;4001190415502;42.85
+41564;Fingerp-Set Wald Soft&Pl     ;4001190415649;9.55
+41565;Fingerp-Set Farm Soft&Pl     ;4001190415656;9.55
+41672;Rassel Frosch RedStars       ;4001190416721;3.8
+41676;Greifl. Werkzeugset P&M      ;4001190416769;9.55
+41677;Rassel Motorsäge Papa&Me     ;4001190416776;4.8
+41762;Mobile Werkzeug Papa&Me      ;4001190417629;11.9
+41763;Spieluhr Bohrm. Papa&Me      ;4001190417636;10.95
+41834;Schnuffeltuch Bär Blue       ;4001190418343;7.15
+41835;Spieluhr Bär Blue            ;4001190418350;10.95
+41836;Greifling Bär Blue           ;4001190418367;3.8
+41837;Anhänger Bär Blue            ;4001190418374;4.8
+41839;Schnuffeltuch Hase Blue      ;4001190418398;7.15
+41840;Spieluhr Hase Blue           ;4001190418404;10.95
+41841;Greifling Hase Blue          ;4001190418411;3.8
+41842;Anhänger Hase Blue           ;4001190418428;4.8
+41863;Wagenkette bunt Blue         ;4001190418633;8.6
+41865;Anhänger Würfel bunt Blue    ;4001190418657;7.15
+41866;Anhänger Hase bunt Blue      ;4001190418664;8.6
+41868;Ball bunt Blue               ;4001190418688;6.2
+41869;Anhänger Haus Blue           ;4001190418695;7.15
+41879;Knistertuch Bär PlayQ        ;4001190418794;6.2
+41880;Knistertuch Kroko PlayQ      ;4001190418800;6.2
+41882;Knistertuch Fuchs PlayQ      ;4001190418824;6.2
+41883;Rasselring Mond Hangons      ;4001190418831;4.8
+41884;Rasselring Pilz Hangons      ;4001190418848;4.8
+41885;Rasselring Beere Hangons     ;4001190418855;4.8
+41898;Mobile sigimix               ;4001190418985;5.75
+41899;Wagenkette sigimix           ;4001190418992;4.8
+41901;Anhänger-Set Wasser mix..    ;4001190419012;8.6
+41902;Anhänger-Set Farm sigimix..  ;4001190419029;8.6
+41903;Anhänger-Set Wiese mix..     ;4001190419036;8.6
+41904;Anhänger-Set Wald sigimix..  ;4001190419043;8.6
+41906;Elefant Torsten Trockau k    ;4001190419067;11.9
+41910;Greifling-Set Musik Papa&Me  ;4001190419104;10.95
+41912;Mobile Gitarren Papa&Me      ;4001190419128;11.9
+41916;Rassel Fisch RedStars        ;4001190419166;4.3
+41919;Rassel Igel RedStars         ;4001190419197;4.3
+41922;Spieluhr Radio Papa&Me       ;4001190419227;11.9
+41923;Rassel Gitarre Papa&Me..     ;4001190419234;7.15
+41924;Schnuffelt. Gans gr Green..  ;4001190419241;13.35
+41925;Schnuffelt. Gans br Green..  ;4001190419258;13.35
+41926;Schnuffelt. Gans ro Green..  ;4001190419265;13.35
+41935;Kuscheltier Hase Signature.. ;4001190419357;15.75
+41936;Schnuffeltuch Hase Signature ;4001190419364;11.9
+41938;Kuscheltier Hund Sign..      ;4001190419388;15.75
+41939;Schnuffeltuch Hund Signature ;4001190419395;11.9
+41952;Handpuppe Fuchs Soft&Play    ;4001190419524;9.55
+41953;Handpuppe Hase Soft&Play     ;4001190419531;9.55
+41955;Schnuffeltuch Schaf Schön    ;4001190419555;10.95
+41986;Handpuppe Fro. Soft&Play     ;4001190419869;9.55
+41987;Handpuppe Bär Soft&Play      ;4001190419876;9.55
+41988;Handpuppe Schaf Soft&Play    ;4001190419883;9.55
+41989;Handpuppe Ente Soft&Play     ;4001190419890;9.55
+41992;Krabbelrolle Bär PlayQ       ;4001190419920;16.7
+41995;Knistertuch Stern blau       ;4001190419951;4.8
+41996;Knistertuch Stern rosa       ;4001190419968;4.8
+42128;Spieluhr Elefant             ;4001190421282;10.95
+42129;Spieluhr Frosch              ;4001190421299;10.95
+42130;Spieluhr Fuchs               ;4001190421305;10.95
+42131;Spieluhr Hase                ;4001190421312;10.95
+42132;Spieluhr Bär                 ;4001190421329;10.95
+42134;Mobile Tiere blau Hangons    ;4001190421343;19.05
+42135;Mobile Tiere rosa Hangons    ;4001190421350;19.05
+42136;Mobile Tiere bunt Hangons    ;4001190421367;19.05
+42137;Katze Nachtbrillenträger     ;4001190421374;9.55
+42139;Kroko Nachtbrillenträger     ;4001190421398;9.55
+42153;Aktiv-Spielhörnchen PlayQ    ;4001190421534;19.05
+42155;Multi-Tier Löwe Urban        ;4001190421558;18.1
+42156;Spieluhr Löwe Urban          ;4001190421565;15.75
+42157;Schnuffeltuch Löwe Urban..   ;4001190421572;11.9
+42161;Greifring Löwe Urban..       ;4001190421619;8.6
+42168;Anhänger Affe ro. Hangons    ;4001190421688;4.8
+42169;Anhänger Affe bl. Hangons    ;4001190421695;4.8
+42171;Anhänger Affe gr. Hangons    ;4001190421718;4.8
+42172;Wagenkette Affen Hangons     ;4001190421725;10.95
+42173;Aktiv-Blatt PlayQ            ;4001190421732;9.55
+42174;Lernhase Soft&Play           ;4001190421749;19.05
+42179;Greifling Bär RedStars       ;4001190421794;3.8
+42181;Greifling Hase RedStars      ;4001190421817;3.8
+42182;Greifling Fuchs RedStars     ;4001190421824;3.8
+42183;Greifling Forsch RedStars    ;4001190421831;3.8
+42185;Multi-Tier Eule PlayQ        ;4001190421855;11.9
+42187;Rassel Einhorn RedStars      ;4001190421879;3.35
+42196;Mini-Spieluhr Hase rosa.     ;4001190421961;10.95
+42204;Anhänger Wal Hangons         ;4001190422043;9.55
+42206;Anhänger Schmett Hangons     ;4001190422067;10.95
+42207;Schnuffelt. rosa Bite Me!..  ;4001190422074;7.15
+42208;Anhänger rosa Bite Me!       ;4001190422081;6.2
+42227;Schnuffeltuch Puppe Blue     ;4001190422272;7.15
+42228;Spieluhr Puppe Blue          ;4001190422289;10.95
+42230;Rassel Puppe Blue            ;4001190422302;3.8
+42232;Spielbogen sigimix           ;4001190422326;23.8
+42240;Granulat Fuchs RedStars      ;4001190422401;3.8
+42241;Granulat Krokodil RedStars   ;4001190422418;3.8
+42242;Granulat Hase RedStars       ;4001190422425;3.8
+42243;Granulat Hund RedStars       ;4001190422432;3.8
+42247;Anhänger Raupe Hangons       ;4001190422470;10.95
+42248;Aktivspirale Wald Hangons    ;4001190422487;14.5
+42249;Aktivspirale Schmett Hang    ;4001190422494;14.5
+42250;Spielpuppe bl Soft&Play      ;4001190422500;18.1
+42253;Anhänger Bär Hängons         ;4001190422531;4.8
+42254;Anhänger Papagei Hangons     ;4001190422548;4.8
+42257;Bär Flobo Flunderberg bg     ;4001190422579;9.55
+42259;Aktiv-Schmetterling PlayQ    ;4001190422593;11.9
+42260;Wende-Raupe PlayQ            ;4001190422609;13.35
+42261;Anhänger Einhorn Hangons     ;4001190422616;4.8
+42262;Anhänger Hase Hangons        ;4001190422623;4.8
+42263;Aktiv-Kissen Raupe PlayQ     ;4001190422630;30.95
+42264;Mobile Pferde Hangons        ;4001190422647;16.7
+42265;Wagenkette Pferd Hangons     ;4001190422654;14.5
+42266;Panda Shaggi Shanghai kl     ;4001190422661;9.55
+42270;Wagenkette Zoo Urban         ;4001190422708;14.5
+42271;Spieluhr Zebra Urban         ;4001190422715;10.95
+42272;Schnuffeltuch Kroko Urban    ;4001190422722;9.55
+42273;Anhänger Krokodil Urban      ;4001190422739;7.15
+42274;Greifling Krokodil Urban     ;4001190422746;6.2
+42275;Greifling Zebra Urban        ;4001190422753;6.2
+42276;Greifling Elefant Urban      ;4001190422760;6.2
+42277;Quietsche Fuchs RedStars     ;4001190422777;4.3
+42278;Quietsche Frosch RedStars    ;4001190422784;4.3
+42279;Trudel Trude- Beasts         ;4001190422791;23.8
+42280;Dachs Sweety                 ;4001190422807;11.9
+42282;Aktiv-Panda PlayQ            ;4001190422821;11.9
+42284;Spieluhr Saxophon            ;4001190422845;23.8
+42285;Spieluhr Geige               ;4001190422852;23.8
+42286;Würfel türkis PlayQ          ;4001190422869;6.2
+42287;Würfel rosa PlayQ            ;4001190422876;6.2
+42289;Spieluhr Mond sigimix        ;4001190422890;9.55
+42290;Rassel Elef. bl RedStars     ;4001190422906;4.8
+42291;Rassel Elef. ro RedStars     ;4001190422913;4.8
+42292;Wende-Vogel PlayQ            ;4001190422920;8.6
+42293;Wagenkette bunt Bite Me!     ;4001190422937;14.5
+42294;Rassel Bär Biene RedStars    ;4001190422944;4.8
+42295;Rassel Bär Käfer RedStars    ;4001190422951;4.8
+42296;Stehauf Krokodil PlayQ       ;4001190422968;7.15
+42297;Stehauf Panda PlayQ          ;4001190422975;7.15
+42298;Stehauf Tiger PlayQ          ;4001190422982;7.15
+42299;Rassel Dino RedStars         ;4001190422999;4.8
+42300;Quietsche Dino RedStars      ;4001190423002;4.8
+42301;Knistertuch Traktor PlayQ    ;4001190423019;7.15
+42304;Knistertuch Feuerw PlayQ     ;4001190423040;7.15
+42305;Anhänger Pferd Hangons       ;4001190423057;8.6
+42307;Wagenk. Dschungel Hangons    ;4001190423071;14.5
+42313;Ball bunt PlayQ              ;4001190423132;4.8
+42314;Ball rosa PlayQ              ;4001190423149;4.8
+42315;Ball blau PlayQ              ;4001190423156;4.8
+42316;Quietsche Bär RedStars       ;4001190423163;4.3
+42318;Zipfel-Schnuffelt Löwe       ;4001190423187;7.15
+42319;Zipfel-Schnuffelt Igel       ;4001190423194;7.15
+42320;Schnuller-Knisterbl grün     ;4001190423200;6.2
+42321;Fuchs Sweety                 ;4001190423217;11.9
+42322;Hase Sweety                  ;4001190423224;11.9
+42323;Koala Sweety                 ;4001190423231;11.9
+42324;Igel Sweety                  ;4001190423248;11.9
+42325;Greifling Fuchs Blue         ;4001190423255;3.8
+42326;Spieluhr Fuchs Blue          ;4001190423262;10.95
+42327;Schnuffeltuch Fuchs Blue     ;4001190423279;7.15
+42331;Greifling Waschbär Blue      ;4001190423316;3.8
+42332;Spieluhr Waschbär Blue       ;4001190423323;10.95
+42333;Schnuffelt. Waschbär Blue    ;4001190423330;7.15
+42334;Greifling Hase Blue          ;4001190423347;3.8
+42335;Spieluhr Hase Blue           ;4001190423354;10.95
+42336;Schnuffeltuch Hase Blue      ;4001190423361;7.15
+42339;Schnuller-Knisterbl hellg    ;4001190423392;6.2
+42340;Spieluhr Bohrm.ro Papa&Me    ;4001190423408;10.95
+42341;Rassel Motors. ro Papa&Me    ;4001190423415;4.8
+42342;Greifl Werkzeugset ro P&M    ;4001190423422;9.55
+42343;Schnuffeltuch Zebra Urban    ;4001190423439;9.55
+42344;Schnuffelt. Elefant Urban    ;4001190423446;9.55
+42345;Spieluhr Krokodil Urban      ;4001190423453;10.95
+42346;Spieluhr Elefant Urban       ;4001190423460;10.95
+42347;Anhänger Zebra Urban         ;4001190423477;7.15
+42348;Anhänger Elefant Urban       ;4001190423484;7.15
+42349;Spieluhr blau Bite Me!       ;4001190423491;14.5
+42350;Spieluhr rosa Bite Me!       ;4001190423507;14.5
+42351;Wagenkette Bälle Papa&Me     ;4001190423514;11.9
+42352;Kegelspiel Papa&Me           ;4001190423521;16.7
+42353;Greifling Tennis Papa&Me     ;4001190423538;3.8
+42354;Greifling Hantel Papa&Me     ;4001190423545;3.8
+42361;Bär Gildehard Günsburg mi    ;4001190423613;6.2
+42362;Bär Gildehard Günsburg kl    ;4001190423620;10.5
+42363;Bär Gildehard Günsburg gr    ;4001190423637;14.5
+42364;Hase Huberto Hummeltal mi    ;4001190423644;6.2
+42365;Hase Huberto Hummeltal kl    ;4001190423651;10.5
+42366;Hase Huberto Hummeltal gr    ;4001190423668;14.5
+42367;Schaf Emmala mini            ;4001190423675;6.2
+42368;Schaf Emmala klein           ;4001190423682;10.5
+42369;Schaf Emmala groß            ;4001190423699;14.5
+42370;In good & bad days- Beast    ;4001190423705;23.8
+42371;Spieluhr Schaf Blue          ;4001190423712;10.95
+42372;Schnuffeltuch Schaf Blue     ;4001190423729;7.15
+42373;Rassel Schaf Blue            ;4001190423736;3.8
+42374;Spieluhr Hase Blue           ;4001190423743;10.95
+42375;Schnuffeltuch Hase Blue      ;4001190423750;7.15
+42376;Rassel Hase Blue             ;4001190423767;3.8
+42380;Mini-Spieluhr Fuchs          ;4001190423804;10.95
+42383;Schnullerh. Chamäl RedSt     ;4001190423835;4.3
+42386;Schnuffeltuch Set Hase bl    ;4001190423866;13.35
+42387;Schnuffeltuch Set Hase ro    ;4001190423873;13.35
+42389;Anhänger Hund Sweety         ;4001190423897;7.15
+42391;Anhänger Panda Sweety        ;4001190423910;7.15
+42393;Anhänger Hase Sweety         ;4001190423934;7.15
+42395;Anhänger Frosch Sweety       ;4001190423958;7.15
+42397;Anhänger Bär Sweety          ;4001190423972;7.15
+42399;Anhänger Eisbär Sweety       ;4001190423996;7.15
+42401;Anhänger Schaf Sweety        ;4001190424016;7.15
+42403;Anhänger Elefant Sweety      ;4001190424030;7.15
+42405;Anhänger-Set Monster mix     ;4001190424054;9.55
+42406;Multi-Tier Bär PlayQ         ;4001190424061;14.5
+42414;Wagenk. Frühling Hangons     ;4001190424146;14.5
+42416;Hänge-Spieluhr Koala         ;4001190424160;14.5
+42417;Hänge-Spieluhr Faultier      ;4001190424177;14.5
+42418;Hänge-Spieluhr Panda         ;4001190424184;14.5
+42419;Hänge-Spieluhr Affe          ;4001190424191;14.5
+42420;Ringgreifling Elef. PlayQ    ;4001190424207;6.2
+42421;Ringgreifling Fuchs PlayQ    ;4001190424214;6.2
+42422;Ringgreifling Hund PlayQ     ;4001190424221;6.2
+42423;Ringgreifling Frosch PQ      ;4001190424238;6.2
+42424;Ringgreifling Ente PlayQ     ;4001190424245;6.2
+42434;Knistertuch LKW PlayQ        ;4001190424344;7.15
+42435;Knistertuch Auto PlayQ       ;4001190424351;7.15
+42436;Rattel-Schnecke              ;4001190424368;9.55
+42437;Anhänger-Set Autos mix       ;4001190424375;11.9
+42440;Anhänger-Set Safari mix      ;4001190424405;10.95
+42441;Wagenkette Straße Papa&Me    ;4001190424412;11.9
+42442;Aktivtuch Straße Papa&Me     ;4001190424429;10.95
+42455;Knistertuch Giraffe PlayQ    ;4001190424559;6.2
+42456;Bär Sweety                   ;4001190424566;14.5
+42458;Frosch Sweety                ;4001190424580;14.5
+42459;Fuchs Sweety                 ;4001190424597;14.5
+42460;Hase Sweety                  ;4001190424603;14.5
+42467;Motorik-Greifling Kroko      ;4001190424672;7.15
+42468;Motorik-Greifling Fuchs      ;4001190424689;7.15
+42476;Aktiv-Auto rot Papa&Me       ;4001190424764;7.15
+42478;Aktiv-Auto grün Papa&Me      ;4001190424788;7.15
+42483;Multi-Tier Fuchs PlayQ       ;4001190424832;14.5
+42486;Mini-Spieluhr Maus           ;4001190424863;10.95
+42487;Mini-Spieluhr Hund           ;4001190424870;10.95
+42500;Hund Keyring                 ;4001190425006;6.2
+42502;Hase Keyring                 ;4001190425020;6.2
+42503;Frosch Keyring               ;4001190425037;6.2
+42504;Bär Keyring                  ;4001190425044;6.2
+42506;Schaf Keyring                ;4001190425068;6.2
+42507;Elefant Keyring              ;4001190425075;6.2
+42512;Aktiv-Buch Marienkäfer       ;4001190425129;11.9
+42513;Aktiv-Buch Krokodil          ;4001190425136;11.9
+42514;Aktiv-Buch Hase              ;4001190425143;11.9
+42515;Aktiv-Spieltuch Hase         ;4001190425150;10.95
+42516;Aktiv-Spieltuch Elefant      ;4001190425167;10.95
+42517;Aktiv-Schnuffelt. Hase       ;4001190425174;8.6
+42518;Aktiv-Schnuffelt. Drache     ;4001190425181;8.6
+42519;Aktiv-Schnuffelt. Tiger      ;4001190425198;8.6
+42520;Aktiv-Schnuffelt. Elefant    ;4001190425204;8.6
+42522;Spieluhr Wal Urban           ;4001190425228;14.5
+42523;Anhänger Wal Urban           ;4001190425235;9.55
+42524;Wagenkette Wal Urban         ;4001190425242;11.9
+42525;Holzgreifling Wal Urban      ;4001190425259;8.6
+42526;Schnuffeltuch Wal Urban      ;4001190425266;11.9
+42532;Greifling bunt Bite Me!      ;4001190425327;4.8
+42533;Schnuffelt. bunt Bite Me!    ;4001190425334;7.15
+42534;Anhänger bunt Bite Me!       ;4001190425341;6.2
+42535;Mobile Flugzeuge Hangons     ;4001190425358;16.7
+42536;Mobile Bienen Hangons        ;4001190425365;16.7
+42537;Multi-Tier Schaf PlayQ       ;4001190425372;11.9
+42538;Rassel Eichhörn. RedStars    ;4001190425389;3.8
+42539;Rassel Fuchs RedStars        ;4001190425396;3.8
+42540;Rassel Stinktier RedStars    ;4001190425402;3.8
+42545;Mini-Spieluhr Eule           ;4001190425457;10.95
+42547;Lernschaf Soft&Play          ;4001190425471;19.05
+42548;Lernbär Soft&Play            ;4001190425488;19.05
+42551;Rassel Flugzeug  RedStars    ;4001190425518;3.35
+42552;Wagenk. Bauernhof Hangons    ;4001190425525;14.5
+42553;Hund Sweety                  ;4001190425532;7.15
+42554;Hase rosa Sweety             ;4001190425549;7.15
+42555;Bär Sweety                   ;4001190425556;7.15
+42556;Maus Sweety                  ;4001190425563;7.15
+42557;Pferd Sweety                 ;4001190425570;7.15
+42558;Schaf Sweety                 ;4001190425587;7.15
+42559;Schlenker Hase bg Sweety     ;4001190425594;13.35
+42560;Schlenker Hase br Sweety     ;4001190425600;13.35
+42568;Maus Sweety                  ;4001190425686;7.15
+42569;Igel Sweety                  ;4001190425693;7.15
+42570;Krokodil Sweety              ;4001190425709;7.15
+42572;Wärmekissen Hund Sweety      ;4001190425723;11.9
+42573;Wärmekissen Ente Sweety      ;4001190425730;11.9
+42575;Wärmekissen Kroko Sweety     ;4001190425754;11.9
+42576;Wärmekissen Hase Sweety      ;4001190425761;11.9
+45570;Schnuffeltuch Hase           ;4001190455706;10.95
+45580;Schnuffeltuch Hund           ;4001190455805;10.95
+47893;Schnuffeltuch Semmel         ;4001190478934;10.95
+48088;Schnuffeltuch Hase Wombel    ;4001190480883;10.95
+48096;Schnuffeltuch Hund           ;4001190480968;10.95
+48168;Spieluhr Schnuggi            ;4001190481682;15.75
+48173;Schnuffeltuch Schnuggi       ;4001190481736;10.95
+48620;Spielwerk -Brahms Wiegenl-   ;4001190486205;4.8
+48621;Spielwerk -Mozarts Wiegenl-  ;4001190486212;4.8
+48622;Spielwerk -LaLeLu-           ;4001190486229;4.8
+48623;Spielwerk -Schlaf Kindlein-  ;4001190486236;4.8
+48624;Spielwerk -Weißt du wieviel- ;4001190486243;4.8
+48800;Spieluhr Lolo Lombardo       ;4001190488001;15.75
+48814;Schnuffeltuch ro- Wassemann  ;4001190488148;7.15
+48815;Schnuffeltuch ro- Fisch      ;4001190488155;7.15
+48816;Schnuffeltuch ro- Widder     ;4001190488162;7.15
+48817;Schnuffeltuch ro- Stier      ;4001190488179;7.15
+48818;Schnuffeltuch ro- Zwilling   ;4001190488186;7.15
+48819;Schnuffeltuch ro- Krebs      ;4001190488193;7.15
+48820;Schnuffeltuch ro- Löwe       ;4001190488209;7.15
+48821;Schnuffeltuch ro- Jungfrau   ;4001190488216;7.15
+48822;Schnuffeltuch ro- Waage      ;4001190488223;7.15
+48823;Schnuffeltuch ro- Skorpion   ;4001190488230;7.15
+48824;Schnuffeltuch ro- Schütze    ;4001190488247;7.15
+48825;Schnuffeltuch ro- Steinbock  ;4001190488254;7.15
+48826;Schnuffeltuch bl- Wassermann ;4001190488261;7.15
+48827;Schnuffeltuch bl- Fisch      ;4001190488278;7.15
+48828;Schnuffeltuch bl- Widder     ;4001190488285;7.15
+48829;Schnuffeltuch bl- Stier      ;4001190488292;7.15
+48830;Schnuffeltuch bl- Zwilling   ;4001190488308;7.15
+48831;Schnuffeltuch bl- Krebs      ;4001190488315;7.15
+48832;Schnuffeltuch bl- Löwe       ;4001190488322;7.15
+48833;Schnuffeltuch bl- Jungfrau   ;4001190488339;7.15
+48834;Schnuffeltuch bl- Waage      ;4001190488346;7.15
+48835;Schnuffeltuch bl- Skorpion   ;4001190488353;7.15
+48836;Schnuffeltuch bl- Schütze    ;4001190488360;7.15
+48837;Schnuffeltuch bl- Steinbock  ;4001190488377;7.15
+48916;Spieluhr Bär Green           ;4001190489169;19.05
+48917;Schnuffeltuch Bär Green      ;4001190489176;13.35
+48921;Schnuffeltuch Hase Green     ;4001190489213;13.35
+48933;Schnuffeltuch Hase Bungee    ;4001190489336;10.95
+48935;Schnuffeltuch Lolo           ;4001190489350;10.95
+48937;Spielwerk -Star Wars-        ;4001190489374;4.8
+48938;Spielwerk -Harry Potter-     ;4001190489381;4.8
+48939;Spielwerk -Schöne & Beast-   ;4001190489398;4.8
+48940;Spielwerk -Imagine-          ;4001190489404;4.8
+48941;Spielwerk -All of me-        ;4001190489411;4.8
+48942;Spielwerk -All you need-     ;4001190489428;4.8
+48943;Spielwerk -Your song-        ;4001190489435;4.8
+48999;Zirbensäckchen Schloßmacher  ;4001190489992;2.7
+49000;Kirschkernkissen             ;4001190490004;3.8
+49002;Mobile-Halter Holz natur     ;4001190490028;14.5
+49039;HSP Polizist Soft&Play       ;4001190490394;9.55
+49040;HSP Räuber Soft&Play         ;4001190490400;9.55
+49042;HSP König Soft&Play          ;4001190490424;9.55
+49043;HSP Prinzessin Soft&Play     ;4001190490431;9.55
+49045;HSP Seppl Soft&Play          ;4001190490455;9.55
+49047;HSP Hexe Soft&Play           ;4001190490479;9.55
+49049;HSP Kasperl Soft&Play        ;4001190490493;9.55
+49136;Rassel Maus pink RedStars..  ;4001190491360;3.35
+49137;Rassel Maus blau RedStars..  ;4001190491377;3.35
+49289;Aktiv-Schmetterl. bunt PQ    ;4001190492893;7.15
+49305;Mini-Spieluhr Schaf weiß..   ;4001190493050;10.95
+49310;Mini-Spieluhr Schaf grün     ;4001190493104;10.95
+49421;Mobile Wiese Hangons         ;4001190494217;16.7
+49520;Kegelspiel PlayQ             ;4001190495207;19.05
+49540;Wagenkette Tiere Hangons     ;4001190495405;14.5
+49580;Softball klein PlayQ         ;4001190495801;3.8
+49581;Sofball groß PlayQ           ;4001190495818;7.65
+49850;Aktivspirale Raupe Hang      ;4001190498505;14.5
+49897;Aktiv-Schmetterl. pink PQ    ;4001190498970;7.15
+49931;Anhänger Raupe Hangons       ;4001190499311;7.15
+49962;Wagenkette Farm Hangons      ;4001190499625;14.5
+52785;Spieluhr Frosch -Beauty&Beast;4001190527854;7.15
+52786;Spieluhr Frosch -Weisst du..-;4001190527861;7.15
+52787;Schaf Emmala m. Gesichtsmaske;4001190527878;25.2
+68997;Display Beasts-Laterne       ;4001190689972;240
+71647;Quick Order Blue             ;4001190716470;439.8
+75090;Mobile-Halter Holz weiß      ;4001190750900;14.5

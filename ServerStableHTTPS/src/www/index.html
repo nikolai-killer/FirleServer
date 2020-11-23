@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+        <title>Nikos Webserver</title>
+        <meta charset="utf-8">
+		<link rel="stylesheet" href="style.css" type="text/css"/>
+		
+		
+		<!--audio-->
+		<audio id="audio" src="fail.mp3" > </audio>
+		<!--javascipt-->
+		<script src=download.js charset="utf-8"></script>
+		<script src=save.js charset="utf-8" ></script>
+		<script src=script.js charset="utf-8"></script>
+</head>
+
+<body>
+        <h1>Firlefanz Inventur</h1>
+		<div id="getISBNBOX">
+				<label for="lastAddedField"> Zuletzt hinzugefügt: </label>
+				<table id="lastAddedField">
+					<thead>
+						<tr>
+							<th> Firma </th>
+							<th> Titel </th>
+							<th> Preis </th>
+							<th> Anzahl </th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+							<th id="col1"> </th>
+							<th id="col2"> </th>
+							<th id="col3"> </th>
+							<th id="col4"> </th>
+						</tr>
+						<tr>
+								<th id="col1"> </th>
+								<th id="col2"> </th>
+								<th id="col3"> </th>
+								<th id="col4"> </th>
+						</tr>
+						<tr>
+								<th id="col1"> </th>
+								<th id="col2"> </th>
+								<th id="col3"> </th>
+								<th id="col4"> </th>
+						</tr>
+						<tr>
+								<th id="col1"> </th>
+								<th id="col2"> </th>
+								<th id="col3"> </th>
+								<th id="col4"> </th>
+						</tr>
+					</tbody>
+				</table>
+			
+			<label for"notFound"> Nicht gefunden </label>
+			<textarea id="notFound"></textarea> 
+		</div>
+		
+		<div id="buttonBox">
+			<label for="getISBN"> Hier Barcodes scannen </label>
+			<textarea id ="getISBN"	placeholder="Cursor hier hinein!"></textarea>
+
+			<button type="button" id="searchBut"> Suchen </button>
+			<button type="button" id="backBut"> Zurück </button>
+			<Button type="button" id="safe"> Daten sichern </button>
+			<Button type="button" id="delete"> Daten löschen </button>
+		</div>
+		
+		
+		
+		<div id="resultISBN">
+			<label for="resISBN"> Ergebnisse </label>
+			<textarea id ="resISBN" >Firma;EAN-Nummer;Arikel-Nr;Bezeichnung;Preis;Anzahl;Gesamtpreis</textarea>
+			
+			
+			<div>
+				
+				<code id="anzUA"> Anzahl unt. Artikel: 0 </code>
+				<code id="anzA"> Anzahl Artikel: 0 </code>
+				<code id="gesP"> Gesamtpreis: 0,00€</code>
+			</div>
+		</div>
+		
+		<img id="logo" src="logo.gif" alt="Firlefanz"/>
+		
+		
+</body>
+</html>

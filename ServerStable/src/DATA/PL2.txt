@@ -1,0 +1,15 @@
+Artikelnummer;Bezeichnung;EAN;Netto
+7083;Thekendisplay Gelateria 112 Teile;4007275070833;130.56
+7085;Thekendisplay Sommer classic 77 Teile;4007275070857;105.81
+7086;Thekendisplay Sommer fashion 107 Teile;4007275070864;106.09
+7103;Thekendisplay Sandförmchen - unbestückt -;4007275071038;5
+7061;Bodendisplay Baumeister 120 Teile;4007275070611;350.1
+7068;Bodendisplay Fashion 251 Teile;4007275070680;380.36
+7080;Bodendisplay Gelateria 237 Teile;4007275070802;367.78
+7081;Bodendisplay Kindergärtnerei 118 Teile;4007275070819;319
+7082;Bodendisplay Prinzessin & Pirat 204 Teile;4007275070826;318.32
+7126;Strandkorb Holzdisplay - unbestückt -;4007275071267;310
+7003;Inhalt Strandkorb 644 Teile ;4007275070024;1,400.08
+7918;Haube zu Display 7126;4007275079188;21.5
+7129;Bodendisplay Holz groß - unbestückt -;4007275071298;200
+7008;Inhalt Bodendisplay Holz groß 368 Teile;4007275070086;788.11

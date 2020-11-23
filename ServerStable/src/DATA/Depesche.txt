@@ -1,0 +1,1990 @@
+Artikelnummer;Bezeichnung;Netto;EAN
+1928;Noisy Cards;2.93;4010070906160
+1929;Giggles-Klappkarten;0.93;4010070906177
+7518;Schutzengel Schlüsselanhänger;3.41;4010070168933
+7598;Schutzengel Schlüsselanhänger mit Sternzeichen;3.41;4010070173739
+3865;Archie's Musikkarten;2.54;4010070180812
+3868;Hit Mix Klappkarten;2.54;4010070183424
+5549;Trauerkarten;0.93;4010070189402
+5567;Liebe Grüße für jeden Anlass Klappkarten;0.93;4010070193478
+7823;TOPModel Alphabet Armband;2.15;4010070188399
+1421;Weltbester Becher;2.93;4010070186920
+6771;TOPModel Riesen-Papiertüten;0.49;4010070199685
+9301;Anlass-Schilder f. Kartentruhe;0;4010070206116
+5585;Designers Best Klappkarten;1.27;4010070201685
+5589;Anlässe Klappkarten;0.93;4010070206161
+7839;Speed Glider Creative Book;3.41;4010070205126
+6827;TOPModel Notizbuch;1.27;4010070179137
+5580;Soundboxen, klein 9 x 9 cm;2.93;4010070201517
+5598;Zahlengeburtstagskarten;0.93;4010070211783
+1428;Sortiment Weltbester Becher 1421 für ST 9240;439.5;4010070217846
+6767;TOPModel Papiertüten, klein;0;4010070216283
+7597;Schutzengel Alphabet Schlüsselanhänger;2.54;4010070179847
+5642;Horses Dreams Buntstifte;2.54;4010070202095
+5999;Doggy Love Schlüsselanhänger - Hunderassen;2.15;4010070215699
+5645;Horses Dreams Brotdose;2.15;4010070202125
+8154;Undercover Postkarten;0.43;4010070220549
+8155;Undercover Klappkarten;0.95;4010070220556
+8156;Cartolini Klappkarten;0.95;4010070220921
+8157;Cartolini Medi Klappkarten;0.65;4010070221614
+8160;Cartolini Medi + KlappkartenErstbestückung;442.2;4010070222338
+6989;TOPModel Kugelschreiber mit Alphabet-Anhänger;2.54;4010070190422
+8256;Princess Mimi´s Magical Picture Book (Rubbelbüchlein);0.91;4010070229634
+6775;TOPModel Papiertragetaschen, groß;0.1;4010070203009
+4775;Kinderkarten;1.07;4010070229702
+5454;Horses Dreams Einladungskartenset;2.54;4010070231743
+7937;TOPModel DANCE - Malbuch;4.65;4010070231972
+7923;TOPModel Spielkarten Quartett;1.66;4010070232153
+7470;Sugar Pie Schmuck - Bestellartikel;14.07;4010070238629
+7471;Sugar Pie Haarspangen, -klemmen, -gummis & Ohrclips;0.98;4010070238636
+7472;Sugar Pie Armbänder;1.07;4010070238643
+7473;Sugar Pie Haarreifen, -spangen, -bänder & Kamm/Bürsten-Set;1.16;4010070238650
+7474;Sugar Pie Ketten & Geschenksets;1.66;4010070238667
+6182;Horses Dreams Glückssteinkette;2.93;4010070210052
+8023;Klappkarten zum Valentinstag - Vier Jahreszeiten;1.07;4010070235512
+8022;Klappkarten zur Hochzeit - Vier Jahreszeiten;1.27;4010070235505
+8024;Klappkarten zu Ostern - Vier Jahreszeiten;1.07;4010070235529
+8025;Klappkarten Schule - Vier Jahreszeiten;1.07;4010070235536
+8030;Klappkarten zur Geburt + Taufe - Vier Jahreszeiten;1.07;4010070236489
+6659;Create your TOPModel Doggy - Malbuch;3.71;4010070239121
+7945;TOPModel Hand Designer - Malbuch;3.71;4010070239237
+7938;TOPModel Neon Gelstifteset;2.15;4010070232436
+7962;TOPModel Papiertragetaschen, klein;0.08;4010070240554
+8303;Princess Mimi's Home, Malbuch mit Stickern;2.31;4010070240608
+3003;Elegance Klappkarten;1.27;4010070242008
+4907;Emotions Klappkarten;1.27;4010070242572
+8301;My Style Princess Perlenbox zum Selberfädeln;4.2;4010070240585
+6287;TOPModel Tattooblock;2.54;4010070243340
+8027;Klappkarten zur Konfirmation - Vier Jahreszeiten;1.07;4010070235550
+6748;TOPModel Portemonnaie;3.41;4010070201357
+6081;Minimoomis Plüsch 20cm;5.46;4010070240998
+8354;Ylvi & the Minimoomis Haargummis;1.27;4010070266998
+8333;TOPModel Turnbeutel YOLO;8.29;4010070265106
+4701;Forbetter your English Postkarten;0.39;4010070266738
+6062;Ylvi & the Minimoomis Freundebuch;4.2;4010070245054
+1064;Depesche Schlüsselanhänger, Alphabet - bunte Steine;3.41;4010070244385
+7981;Create your TOPModel Fashion Kids - Malbuch;4.65;4010070244316
+8298;My Style Princess Buntstifte Set 10 Farben;2.93;4010070239657
+5326;3D Klappkarten;1.66;4010070244392
+5948;Geschenktaschen aus Filz mit Musik;3.41;4010070243906
+6064;Ylvi & the Minimoomis Einladungskarten;2.15;4010070245078
+4059;Tassenkarton für Weltbester Becher 1421;0;4010070187507
+8135;Vivo Arte Weihnachts Klappkarten;1.27;4010070270315
+8132;Vivo Arte Klappkarten;1.27;4010070269333
+8133;Vivo Arte Medi Klappkarten;0.74;4010070270025
+8134;Erstbestückung Vivo Arte Klappkarten;580.32;4010070270797
+8324;My Style Princess Lipgloss;1.66;4010070266639
+8392;My Style Princess Kette;2.54;4010070271336
+8393;My Style Princess Armband;2.15;4010070271343
+7997;TOPModel Briefpapier in der Mappe mit Duft;3.41;4010070271909
+8361;Ylvi & the Minimoomis Zettelbox;1.66;4010070271961
+8362;Ylvi & the Minimoomis Rubbelbilder;2.15;4010070270193
+7987;TOPModel Shoe Designer - Malbuch mit Rubbelsticker;4.18;4010070270223
+4297;Horses Dreams Lipgloss + Haarspange;2.15;4010070266035
+7857;TOPModel Pocket Malbuch mit 3D Cover;2.31;4010070272012
+7943;Fantasy Model Schlüsselanhänger figürlich;2.93;4010070239138
+6079;Ylvi & the Minimoomis magische Socken;2.15;4010070245009
+4702;Musikkarten mit Überraschung;3.41;4010070267230
+5463;Horses Dreams Haarbürste;2.15;4010070243333
+8051;Fantasy Model Freundebuch;4.2;4010070274931
+6540;Schutzengel Schlüsselanhänger;3.41;4010070275051
+8053;Fantasy Model Schmuckkästchen;5.46;4010070275785
+8369;Ylvi & the Minimoomis Create your Kaleidoscope Bastelset;3.8;4010070281830
+8376;Minimoomis Blöcke A5 mit Duft;1.27;4010070275204
+8365;Minimoomis Plüschanhänger 10cm;2.93;4010070273774
+4799;Schutzengel Anhänger in kleiner Schachtel;1.66;4010070240981
+6244;Monster Cars Stickerworld;3.71;4010070275754
+7999;TOPModel Dress me up Stickerbuch;2.31;4010070279585
+8364;Ylvi & the Minimoomis Knete;1.27;4010070271626
+8370;Ylvi's Rätsel-Mal-Spaß;2.78;4010070275198
+8475;Create your Picture;0.78;4010070271916
+8616;Schutzengel im Glas;2.15;4010070280987
+8622;Fröhliche Weihnachtsgrüße Klappkarten;0.84;4010070281106
+8633;X-MAS Dreams Weihnachts-Schokolade, 12,5g;0.49;4010070281434
+8634;Klappkarten Weihnachten X-MAS Dreams;1.07;4010070281458
+8635;Medi Klappkarten Weihnachten X-MAS Dreams;0.7;4010070281472
+8636;Postkarten Weihnachten X-MAS Dreams;0.39;4010070281496
+4753;3D Fotokarten Erstbestückung;545.9;4010070280369
+4755;3D Foto Klappkarten;1.46;4010070279592
+4756;3D Foto Mediklappkarten;1.07;4010070279608
+4758;3D Foto Klappkarten, quadratisch;1.66;4010070279615
+8651;Weihnachtsgeschenkpapierrollen;1.07;4010070289638
+7488;Kleine Geschenkkärtchen -handmade- im Display;0.78;4010070270490
+8655;Herzanhänger in kleiner Schachtel;1.66;4010070292935
+7992;TOPModel Papiertüten, groß;0;4010070286545
+8026;Klappkarten zur Jugendweihe - Vier Jahreszeiten;1.07;4010070235543
+8493;TOPModel POPSTAR Malbuch;4.65;4010070294786
+8667;Schutzengel Armband in Pappverpackung;2.54;4010070293062
+8672;Schutzengel Anhänger in kleiner Schachtel;1.66;4010070293697
+5098;TOPModel Handtuch 60 x 120 cm;7.32;4010070298012
+5461;TOPModel große Federtasche, Friends;17.07;4010070297480
+5918;Princess Mimi Fahrradlenker-Tasche;6.34;4010070286439
+6119;Monster Cars Brotdose;2.54;4010070286026
+6797;Princess Mimi Aufzäumgurte;6.34;4010070286491
+8366;Ylvi & the Minimoomis Handtäschchen;6.34;4010070284626
+8373;Ylvi & the Minimoomis Badekonfetti;2.15;4010070275600
+8465;Miss Melody Sticker Fun;2.78;4010070271107
+8477;Schraffierblöcke - 6 verschiedene Themen;0.39;4010070275112
+8483;Miss Melody Style your Horse - Malbuch;4.18;4010070275259
+8973;TOPModel Federtasche De Luxe - Nietenstern gross;14.63;4010070286569
+8975;Princess Mimi Utensilo für Rückenlehne im Auto;9.76;4010070286675
+6021;Minimoomis Plüsch 50 cm;29.14;4010070293635
+8334;My Style Princess Radierer Set;1.46;4010070271244
+8359;Ylvi & the Minimoomis Fadenspaß;1.27;4010070269081
+8368;Ylvi & the Minimoomis Babymoomi Plüsch 18 cm;6.34;4010070273965
+8419;TOPModel Schlamper rund - Stars and Stars;7.32;4010070283315
+8455;Miss Melody Plüschpferd - Mr. Big;6.34;4010070296346
+8479;Create your Dance House - Malbuch;3.25;4010070289706
+5970;TOPModel Haarbürsten mit Namen und Texten - mit Duft;2.93;4010070241254
+8268;My Style Princess Haarspangen;1.27;4010070226282
+6245;Monster Cars Pocket Malbuch;2.31;4010070294052
+8309;Princess Mimi Malbuch - Malen nach Zahlen;1.85;4010070297954
+7180;Handmade Art Klappkarten;1.66;4010070295363
+8454;Miss Melody Plüschpferd;8.29;4010070296339
+8406;Miss Melody Dress up your Horse - Malbuch;2.78;4010070291587
+5469;TOPModel T-Shirt Designer - Malbuch;4.18;4010070293536
+8458;Miss Melody Mini-Schreibtisch-Set mit Clips, Schere und Tape;2.54;4010070290450
+8391;Create your Monster Cars - Malbuch mit vielen Stickern;4.18;4010070289751
+8270;My Style Princess Fasermaler, 10 Farben;2.93;4010070225247
+8621;Designers Best Weihnachtsklappkarten;1.27;4010070281083
+8665;Schutzengelflügel Schlüsselanhänger;2.54;4010070293048
+8625;Weihnachtsgeschenkanhänger mit Klammer;0.68;4010070281175
+8619;Schutzengelmünze in kleiner Box;1.27;4010070281045
+6537;Monster Cars Schlamper rund;8.29;4010070293673
+6538;Monster Cars Freizeitrucksack;12.2;4010070293659
+6539;Monster Cars Portemonnaie - Karabiner;4.88;4010070293666
+8731;TOPModel Plüschhund Bisou in Plüschtasche;8.29;4010070304126
+8073;TOPModel Buntstifteset 24 Farben;4.2;4010070286095
+8663;Schutzengelanhänger im Glasfläschchen;1.66;4010070293024
+4988;Monster Cars Kugelschreiber Racing;1.27;4010070313364
+8033;TOPModel Bleistift mit Puschel SO HAPPY;1.27;4010070286484
+8445;Miss Melody Freundebuch;4.2;4010070303709
+8047;Fantasy Model Tagebuch mit Schloss;4.2;4010070303587
+4482;Flaschenöffner für jederMan(n);4.2;4010070311537
+5688;Horses Dreams Taschenlampe mit Bildeffekten;2.54;4010070312145
+7763;TOPModel Schlamper rund INDIGO;8.29;4010070314279
+7958;Fantasy Model Kugelschreiber in Geschenkbox;1.66;4010070311049
+8057;Horses Dreams Schmuckkästchen;5.46;4010070303051
+8216;TOPModel Schlüsselanhänger Herz;3.41;4010070303310
+8247;TOPModel Anhänger Rucksack mini;4.2;4010070215811
+8429;Princess Mimi Malbuch;3.25;4010070303631
+8435;Princess Mimi Glitter Book - Malbuch;3.25;4010070304027
+8706;My Style Princess Umhängetäschchen - Tiergesicht - Glitter;5.85;4010070312572
+1943;Minimalbuch Create your Kitty, Bunny, Teddy, Panda;1.17;4010070308544
+8449;TOPModel Schlamper rund, DANCE;8.29;4010070308902
+8700;TOPModel Schulrucksack, DANCE;38.54;4010070310127
+8713;Miss Melody XXL Federtasche, Mr. Big;17.07;4010070303389
+8725;TOPModel Schlamper rund - Stars and Stars;8.29;4010070303778
+8972;Monster Cars Schulrucksack SET 4tlg.;63.7;4010070312565
+1960;ROBO Designer - Malbuch;4.65;4010070309909
+3046;Geschenkumschlag in Box;1.27;4010070311490
+4483;Schlüsselanhänger für jederMan(n)!;4.2;4010070311544
+4484;Geschenkumschlag in Box für jederMan(n);1.27;4010070311551
+4726;Stahlglanz Klappkarten;1.66;4010070300241
+5450;My Style Princess Nelly Plüsch mit Puschen;6.34;4010070304034
+6405;7Skills 3-fach Federtasche mit Pennyboard klein;17.07;4010070308094
+8055;TOPModel Schulrucksack INDIGO;33.66;4010070310110
+8433;Princess Mimi Ballerina Malbuch;3.71;4010070303693
+8716;Miss Melody Brustbeutel, Mr. Big;6.34;4010070303402
+8736;My Style Princess Casual Rucksack;9.76;4010070312237
+8739;Miss Melody Plüschpferd - Mr. Big mit Sound;4.39;4010070314163
+8968;My Style Princess Kindergartenrucksack;13.17;4010070286446
+8060;TOPModel Fineliner Set - 10 Farben;2.54;4010070304072
+8070;TOPModel Kreativ Set -Fantasy-;3.8;4010070286064
+8342;TOPModel Steckbleistift 3er Set;1.27;4010070293130
+8436;Princess Mimi Dress me up - Malbuch;2.31;4010070308445
+8447;Miss Melody Kugelschreiber 2er Set;1.66;4010070305079
+8728;Miss Melody Plüschpferd Pelly, 27 cm;8.29;4010070315283
+1237;Horses Dreams Plüschpferde-Anhänger;2.93;4010070304447
+2214;Schutzengel Schlüsselanhänger, oval;2.15;4010070309916
+3048;Teelicht in kleiner Schachtel;1.27;4010070311513
+4481;Untersetzer für jederMan(n)!;0.78;4010070311520
+8381;Ylvi & the Minimoomis Schüttelbecher mit Glitzer;2.93;4010070294892
+8727;Miss Melody Plüschpferd Dancer 27 cm;8.29;4010070303938
+8730;TOPModel Umhängetasche Satin;12.2;4010070304089
+2239;Wenn Geld geschenkt wird Klappkarte;1.27;4010070311483
+4759;Monster Cars Kugelschreiber mit 6 Tintenfarben;1.27;4010070303020
+5140;Dino World Handpuppe;2.54;4010070314002
+5460;Horses Dreams Haarspangen;1.27;4010070303037
+8497;TOPModel Fasermaler 15 Farben;3.41;4010070303013
+8499;Miss Melody Bleistift mit 3D-Topper;1.27;4010070305116
+8729;Miss Melody Plüschpferd Black Angel, 27 cm;8.29;4010070315290
+8737;Horses Dreams Beautykoffer;8.29;4010070312121
+8738;Miss Melody Plüschpferd mit Sound;5.85;4010070314156
+9739;Topschild Wenn Geld geschenkt wird;0;4010070312596
+4786;Weihnachtsklammerkarten;0.54;4010070240929
+7919;Fantasy Model Zettelbox;1.66;4010070227166
+8428;My Style Princess Studio-Malbuch;4.18;4010070303624
+8505;Ylvi & the Minimoomis Gummi Twist;1.66;4010070313678
+8708;TOPModel 3-fach Federtasche Mille Fleurs;17.07;4010070308889
+991240;Süße Naschboxen mit erweiterter Auszeichnung;1.46;4010070305109
+998626;Schoko-Geschenkanhänger vom Weihnachtsmann (Grundpreis);0.98;4010070281250
+7960;Fantasy Model Becher;2.93;4010070275419
+8371;Ylvi & the Minimoomis Stift mit Geheim-Tinte und LED-Licht;1.66;4010070275136
+8466;Miss Melody Zettelbox;1.66;4010070271114
+8252;TOPModel große Federtasche Friends gold;17.07;4010070315580
+8606;Fröhliche Duftkerze in kleiner, runder Blechdose;1.27;4010070280789
+8607;Weihnachtliche Duftkerze in Herz-Blechdose;1.46;4010070280802
+8683;Geschenkboxen mit Sound;3.41;4010070320669
+8692;Weihnachtsgeschenkeanhänger im Display;0.68;4010070320829
+998687;Schokoweihnachtsmann in kleiner Schachtel (Grundpreis);1.27;4010070320768
+8682;Weihnachtliche Karten mit Geldsack;1.46;4010070320652
+8696;3D Weihnachtsklappkarten, 16,6 x 11,5 cm;1.27;4010070322137
+8711;TOPModel Handtasche schwarz;6.34;4010070318949
+8751;TOPModel Handtasche beige;6.34;4010070323530
+6472;Minimoomis Plüsch 20 cm Loola;6.34;4010070323059
+6475;Minimoomis Plüsch 20 cm Pooby;6.34;4010070323080
+6570;SNUKIS Plüsch 18 cm Danny der Esel;5.46;4010070324216
+8064;Create your Football Game Malbuch;2.78;4010070320065
+5690;SNUKIS Plüsch 18 cm Ella das Erdmännchen;5.46;4010070321277
+5691;SNUKIS Plüsch 18 cm Mizzy die Katze;5.46;4010070321284
+5692;SNUKIS Plüsch 18 cm Rosy das Schwein;5.46;4010070321291
+5693;SNUKIS Plüsch 18 cm Bella das Pferd;5.46;4010070321307
+335;Papiertüten, klein;0;4010070319243
+5741;Miss Melody 6farb. Kugelschreiber;1.27;4010070313685
+5138;Dino World Mini Dino Schleuder;0.78;4010070313982
+5139;Dino World Schleimknete im Dino-Ei;1.66;4010070313999
+8740;Miss Melody kleine Snackbox;1.27;4010070315597
+6569;SNUKIS Plüsch 18 cm Loui der Löwe;5.46;4010070324209
+8382;Create your Minimoomi Malbuch;3.25;4010070304096
+6568;SNUKIS Plüsch 18 cm Gina die Giraffe;5.46;4010070324193
+6573;SNUKIS Plüsch 18 cm Daffy der Hase;5.46;4010070324247
+6574;SNUKIS Plüsch 18 cm Suse das Schaf;5.46;4010070324254
+8242;Ylvi & the Minimoomis Haarkreide-Set;2.93;4010070315313
+8448;Miss Melody Tintenroller-Set, Tintenroller & Tintenlöscher;3.8;4010070307943
+6575;SNUKIS Plüsch 18 cm Tommy der Tiger;5.46;4010070324353
+8426;Miss Melody Gelstifte Set, 5 Farben;1.66;4010070314231
+6571;SNUKIS Plüsch 18 cm Flip der Affe;5.46;4010070324223
+6572;SNUKIS Plüsch 18 cm Benni der Eisbär;5.46;4010070324230
+6476;Minimoomis Plüsch 20 cm Floodo;6.34;4010070323097
+8271;My Style Princess Glittergelstifte-Set, 5 Farben;1.66;4010070225230
+6363;Miss Melody Fasermaler 15 Farben;3.41;4010070323486
+8434;My Style Princess Kindergartenfreundebuch;4.2;4010070303679
+5135;Dino World Freundebuch;4.2;4010070308575
+8072;TOPModel Stifte Set -Jeans-;4.2;4010070286088
+6345;TOPModel Portemonnaie, Stars and Stars rot;7.32;4010070321628
+6349;TOPModel 3-fach Federtasche Friends lila;17.07;4010070321703
+6354;TOPModel große Federtasche Friends lila;17.07;4010070321710
+6456;TOPModel Umhängetasche Friends lila;11.22;4010070323189
+7758;TOPModel Portemonnaie, Stars and Stars navy;7.32;4010070319038
+8091;TOPModel Tagebuch Design 1, Katzen Amy und Mr. Bob;4.2;4010070321758
+8092;TOPModel Tagebuch Design 2, Model Jenny;4.2;4010070321796
+8911;TOPModel Edel Handtasche, dunkelblau;17.07;4010070325206
+8913;TOPModel Edel Portemonnaie, dunkelblau;9.76;4010070326258
+7912;TOPModel Schulrucksack Friends blau;38.54;4010070323202
+8714;TOPModel Beauty Case Friends lila;8.29;4010070321444
+6336;TOPModel Schulrucksack - Stars and Stars rot;38.54;4010070321086
+6347;TOPModel 3-fach Federtasche, Stars and Stars rot;17.07;4010070321642
+6457;TOPModel Schulrucksack Friends lila;38.54;4010070323172
+7913;TOPModel Umhängetasche Friends blau;11.22;4010070323196
+8424;TOPModel 3-fach Federtasche, Stars and Stars navy;17.07;4010070313357
+8715;TOPModel Beauty Case Friends blau;8.29;4010070323868
+7694;TOPModel große Federtasche Friends blau;17.07;4010070319137
+7715;TOPModel Schlamper rund - Stars and Stars navy;8.29;4010070319014
+6339;TOPModel Schlamper rund, Stars and Stars rot;8.29;4010070321581
+4838;TOPModel Briefpapier in Fächermappe A5, Motiv 2 silber;4.2;4010070323301
+2080;TOPModel Maniküreset;4.2;4010070320058
+5380;Ylvi & the Minimoomis Federtasche Deluxe mit LED, lila;16.07;4010070322786
+5381;Ylvi & the Minimoomis Malmappe, lila;8.78;4010070322793
+5382;Ylvi & the Minimoomis 3-Fach Federtasche mit LED lila;18.48;4010070322779
+6360;Miss Melody 3-fach Federtasche rot;17.07;4010070321659
+6523;Monster Cars 3-fach Federtasche LED Funktion;18.48;4010070320393
+6561;Miss Melody 3-fach Federtasche navy;17.07;4010070320409
+6563;Miss Melody Schlamper navy;8.29;4010070320430
+7176;TOPModel Portemonnaie DANCE;7.32;4010070319076
+8040;TOPModel 3-fach Federtasche, SO HAPPY grau;17.07;4010070313340
+8042;TOPModel Schmuckschatulle mit Licht, Dunkelblau;8.49;4010070321499
+8142;Pink Flamingo Klappkarten 11,6 x 16,6 cm;1.16;4010070325275
+8383;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.49;4010070308605
+8471;Miss Melody Malspaß Set;5.46;4010070275389
+8515;Miss Melody Anspitzer;1.27;4010070321932
+8695;Schutzengelschlüsselanhänger aus Filz;2.54;4010070321123
+8734;Ylvi & the Minimoomis 3-Fach Federtasche mit LED türkis;18.48;4010070320188
+8876;Baby Maus Plüsch, Mädchen 13 cm in Box;4.2;4010070313524
+8977;Princess Mimi Schmuckkästchen, Motiv 1 pink;3.8;4010070322113
+6647;TOPModel Becher mit Golddruck, Best Friends;2.93;4010070323929
+8043;TOPModel Schmuckschatulle mit Licht, Azurblau;8.49;4010070321550
+8517;MANGAModel Pocket Malbuch;1.85;4010070323998
+8720;Ylvi & the Minimoomis Federtasche Deluxe mit LED, türkis;16.07;4010070319359
+8721;Ylvi & the Minimoomis Malmappe, türkis;8.78;4010070303440
+8858;House of Mouse Handtäschchen;6.34;4010070324735
+8877;Baby Maus Plüsch, Junge 13 cm in Box;4.2;4010070313531
+8879;Ballett Maus Plüsch, 55 cm;14.83;4010070313586
+8898;House of Mouse Schmuckkästchen Motiv 2, pink;3.8;4010070326395
+8978;Princess Mimi Schmuckkästchen, Motiv 2 rosa;3.8;4010070322120
+3902;Miss Melody Magnet Lesezeichen mit Notizblock;0.78;4010070324667
+4422;Horses Dreams Tagebuch mit Code und Sound Motiv 1, pink;8.49;4010070308513
+4423;Horses Dreams Tagebuch mit Code und Sound Motiv 2, blau;8.49;4010070308520
+4425;Horses Dreams Notizbuch;1.27;4010070308537
+4839;Sortiment Pompom Schlüsselanhänger;50.4;4010070326326
+5026;TOPModel Metallic Tattoos;1.66;4010070320935
+5426;Monster Car Race Book mit 2 Rennautos;4.2;4010070301958
+5696;SNUKIS Plüsch 18 cm Harry der Elch;5.46;4010070321338
+5930;MANGAModel Schlamper + Rubbelsticker;3.41;4010070322748
+6420;Fantasy Model Federtasche DeLuxe, Bunter Wolf;14.63;4010070324995
+6440;Monster Cars Magic Towel;1.66;4010070320720
+6516;Dino World Tagesrucksack;12.2;4010070323851
+6521;Monster Cars 3-fach Federtasche Karo;17.07;4010070320324
+6522;Dino World Federtasche Deluxe Doppelklappe, befüllt;14.63;4010070320874
+6528;Monster Cars Federtasche Deluxe m. Taschenlampe;16.07;4010070320171
+6560;Miss Melody Schulrucksack Karo mit Kletties;43.41;4010070320416
+6562;Miss Melody Federtasche Deluxe;14.63;4010070320423
+6648;TOPModel Becher mit Golddruck, Love;2.93;4010070320997
+6720;TOPModel Schulrucksack, SO HAPPY;38.54;4010070319090
+6727;Fantasy Model Tablet Tasche;7.32;4010070319083
+7771;TOPModel Federtasche 3-fach, befüllt mit LED, DANCE;18.48;4010070319052
+8079;Fantasy Model Schulrucksack, Bunter Wolf;38.54;4010070319274
+8080;TOPModel Kosmetiktasche, SO HAPPY grau;4.39;4010070321529
+8081;TOPModel Kosmetiktasche, SO HAPPY smaragd;4.39;4010070321543
+8082;TOPModel Kosmetiktasche, SO HAPPY pink;4.39;4010070321536
+8088;TOPModel Tablet Tasche, SO HAPPY;7.32;4010070323707
+8099;Fantasy Model Schulrucksack, Nieten Wolf;38.54;4010070323844
+8379;Ylvi & the Minimoomis Sammelfiguren Sortiment;45.72;4010070275853
+8384;Ylvi & the Minimoomis Schmuckbox mit Sound;7.22;4010070308612
+8441;Miss Melody Freundebuch mit Licht u. Sound, Mot. 1, Meer;6.34;4010070327613
+8506;Ylvi & the Minimoomis Glittergelstifte Set 6 Farben;2.15;4010070320508
+8510;Miss Melody Spardose Motiv Strand;2.93;4010070321352
+8511;Miss Melody Spardose Motiv Wiese;2.93;4010070321369
+8518;MANGAModel Notes to Go, Motiv 1, grün;3.8;4010070326029
+8519;MANGAModel Dress me up;2.31;4010070324001
+8531;MANGAModel Notes to Go, Motiv 2, rosa gestreift;3.8;4010070326401
+8698;Schutzengelkerze in kleiner runder Blechdose;1.66;4010070321178
+8718;Ylvi & the Minimoomis Ranzen Soft mit LED;43.41;4010070303426
+8735;Ylvi & the Minimoomis Ranzen Fester Korpus, mit LED;43.41;4010070319366
+8742;TOPModel Freundebuch mit Licht und Sound, Motiv 1, blau;6.34;4010070326265
+8855;House of Mouse Sortiment komplett;902.12;4010070326166
+8859;House of Mouse Mini Geldbörse rechteckig;3.9;4010070324926
+8860;House of Mouse Geldbörse in Mausform;3.9;4010070320843
+8861;House of Mouse Rucksack;12.2;4010070320850
+8862;House of Mouse Magic Towel;1.66;4010070320713
+8864;House of Mouse Haarbänder;2.15;4010070323882
+8870;Mama Maus Plüsch, 35 cm;7.22;4010070313463
+8871;Papa Maus Plüsch, 35 cm;7.22;4010070313470
+8872;Teenie Maus Plüsch, Holly 25 cm;5.46;4010070313487
+8873;Teenie Maus Plüsch, Fips 25 cm;5.46;4010070313494
+8881;Engelmäuschen Plüsch, Mädchen 25 cm;6.34;4010070313661
+8882;Engelmäuschen Plüsch, Junge 25 cm;6.34;4010070323899
+8885;House of Mouse Schmuckkästchen Motiv 1, rosa;3.8;4010070325855
+8886;House of Mouse Rätseltasche für unterwegs;2.78;4010070326098
+8887;House of Mouse Stickerworld;1.38;4010070326388
+8888;House of Mouse Kindergartenfreundebuch;4.2;4010070323981
+8889;House of Mouse Malbuch;3.25;4010070325930
+8890;House of Mouse Bilderbuch;6.05;4010070324872
+8891;House of Mouse Haarbürste;2.93;4010070320553
+8892;House of Mouse Glitzergelstifte Set, 4 Farben;1.66;4010070320560
+8893;House of Mouse Buntstifte, 5 Farben;2.15;4010070320577
+8894;House of Mouse Fasermaler, 8 Farben;2.54;4010070320546
+8895;House of Mouse Blechdöschen;0.78;4010070320584
+8896;House of Mouse Brotdose;2.54;4010070320591
+8899;House of Mouse magische Socken;2.15;4010070323127
+8981;Princess Mimis Katze Lou, Plüsch 20 cm, in Tasche;7.32;4010070324636
+9562;House of Mouse Papiertragetaschen für Erstbestückung;0;4010070329587
+9563;House of Mouse Papiertragetaschen;0.11;4010070328948
+1291;Miss Melody Maniküre-Set;4.2;4010070323608
+2089;Kette und Armband im Display;92.48;4010070325053
+5143;Dino World Malbuch figürlich mit Stickern;1.85;4010070325886
+5694;SNUKIS Plüsch 18 cm Robby die Robbe;5.46;4010070321314
+5695;SNUKIS Plüsch 18 cm Ivy der Pinguin;5.46;4010070321321
+6443;Minimoomis Plüsch 20 cm Zooi;6.34;4010070321925
+8090;TOPModel magische Socken SO HAPPY;2.15;4010070323141
+8385;Ylvi & the Minimoomis Magic Becher, Ylvi & Naya;2.93;4010070319304
+8442;Miss Melody Freundebuch mit Licht u. Sound, Mot. 2, Wiese;6.34;4010070308421
+8520;TOPModel Schlüsselanhänger pink SO HAPPY;4.2;4010070323325
+8521;TOPModel Schlüsselanhänger beere SO HAPPY;4.2;4010070323332
+8522;TOPModel Schlüsselanhänger puder SO HAPPY;4.2;4010070323370
+8523;TOPModel Schlüsselanhänger dunkelblau SO HAPPY;4.2;4010070323363
+8524;TOPModel Schlüsselanhänger hellblau SO HAPPY;4.2;4010070323356
+8525;TOPModel Schlüsselanhänger schwarz SO HAPPY;4.2;4010070323349
+8701;Schutzengel Teelicht in kleiner Box;1.27;4010070303204
+8702;Schutzengel Schlüsselanhänger in Box;3.41;4010070320515
+8743;TOPModel Freundebuch mit Licht und Sound, Motiv 2, pink;6.34;4010070327606
+8806;Miss Melody Buntstifte Set, 15 Farben;3.41;4010070321000
+1268;Horses Dreams magische Socken;2.15;4010070323134
+1944;Doodle Book, malen, kritzeln, Spaß haben;2.78;4010070308551
+1961;TOPModel Dusch- & Badeschaum, 200 ml;1.27;4010070321864
+2088;Miss Melody Dusch- & Badeschaum, 200 ml;1.27;4010070321871
+4276;Namensschlüsselanhänger, Den schönsten Namen trägst du;2.54;4010070169992
+5131;Dino World Wisch-und-Weg- Buch;2.31;4010070324513
+6672;TOPModel Haarbürste mit Duft;3.41;4010070314248
+7686;Fantasy Model Umhängetasche Satin;12.2;4010070326227
+8386;Ylvi & the Minimoomis Haarbürste;2.93;4010070319311
+8432;Princess Mimi Wisch-und-Weg- Buch;2.31;4010070308490
+8530;Ylvi & the Minimoomis Magic Becher, Minimoomis;2.93;4010070326333
+8741;TOPModel Mobile Notebooks mit Wackelbild;1.27;4010070323950
+8914;House of Mouse Banner;0;4010070325961
+1243;Geburtstagsteelicht in kleiner Box;1.27;4010070326357
+2247;Horses Dreams Magic Towel;1.66;4010070320126
+4326;Schlüsselbändiger;2.93;4010070324742
+4865;Lieblingsmensch Klappkarten;1.16;4010070318253
+5355;Miss Melody Becher, pink;2.93;4010070323783
+5356;Miss Melody Becher, blau;2.93;4010070323790
+5697;SNUKIS Plüsch 18 cm Stella das Einhorn;5.46;4010070321345
+6441;Minimoomis Plüsch 20 cm Dracoo;6.34;4010070321901
+8041;Ylvi & the Minimoomis Silikonarmbänder;1.27;4010070319977
+8089;TOPModel Spiral Haarbänder SO HAPPY;1.66;4010070322106
+8387;Ylvi & the Minimoomis Gelstifte-Set in Regenbogenfarben;2.15;4010070319298
+8437;Princess Mimi Mini Malbuch mit Magicseiten;0.91;4010070325947
+8516;MANGAModel Malbuch;4.65;4010070321949
+8617;Schutzengel in Geschenkumschlag;2.15;4010070281007
+8807;Miss Melody Fineliner Set, 15 Farben;3.8;4010070321017
+8061;Create your Fantasy Friend Malbuch mit Rubbelbildern;4.65;4010070323400
+8222;TOPModel Musik CD, Deine TOPModel Songs Vol. 2;4.88;4010070324933
+6461;Create your Fantasy Princess - Malbuch mit Stickern;4.65;4010070324124
+6518;Create your Castle, Malbuch mit Stickern;2.78;4010070320690
+8066;Horses Dreams Malbuch;3.71;4010070320478
+5144;Dino World Flutsch Dino mit Flüssigkeit gefüllt;1.27;4010070325923
+6517;Create your Space Fun, Malbuch mit Stickern;2.78;4010070320706
+5137;Dino World Radierer Set;0.78;4010070312138
+6473;Minimoomis Plüsch 20cm Cooco;6.34;4010070323066
+8732;Horses Dreams kleine Plüschpferde, Anhänger mit Karabiner;2.93;4010070314170
+6380;Princess Mimi Haarbürste;2.15;4010070320522
+8028;Klappkarten zur Kommunion - Vier Jahreszeiten;1.07;4010070235567
+8093;TOPModel Freundebuch Motiv 1 blau;4.2;4010070322854
+8094;TOPModel Freundebuch Motiv 2 rosa;4.2;4010070323219
+6565;Miss Melody Stickerworld - Mal- und Stickerbuch;3.25;4010070324032
+8097;Create your -Glamour Special- Malbuch;5.58;4010070323684
+8856;House of Mouse Plüsch Sortiment im Display und auf Karte;236.5;4010070326111
+8950;Fantasy Model Haarbürste;2.15;4010070332969
+8095;TOPModel Anspitzer & Radiergummi Mikrofon;1.27;4010070323462
+3047;Gutschein in Flaschenpost;1.46;4010070311506
+6463;Create your Fantasy Face - Malbuch;4.65;4010070324018
+6519;Create your Crazy City Malbuch mit Stickern;2.78;4010070320683
+4747;Schulanfangskarten im Display;1.07;4010070266691
+8528;Ylvi & the Minimoomis Briefpapier in Fächermappe, rosa;4.2;4010070324094
+5689;Create your Happy Horses - Malbuch mit Stickern;2.78;4010070328535
+8529;Ylvi & the Minimoomis Briefpapier in Fächermappe, blau;4.2;4010070324131
+4466;Ylvi´s Mandalas - Malbuch;2.31;4010070332853
+7468;TOPModel Stickeralbum;2.15;4010070323516
+8573;Ylvi & the Minimoomis Hörspiel Magische Freunde;4.2;4010070332471
+6462;Fantasy Model Stickerheft;2.15;4010070324049
+3748;TOPModel Lipglossset im Täschchen;2.93;4010070323585
+8045;Fantasy Model Becher, Wolf;2.93;4010070321512
+8046;Fantasy Model Becher, Delfin;2.93;4010070321505
+5617;Firmungskarten im Display;1.27;4010070183318
+8087;Horses Dreams Pocket Malbuch;2.31;4010070330194
+4888;TOPModel Schmuckkästchen groß, Motiv 1 blau;5.46;4010070323318
+6614;TOPModel 3-fach Federtasche Friends pink;17.07;4010070330347
+6624;TOPModel Schulrucksack Friends pink;38.54;4010070330415
+5376;Create your ZOO - Malbuch mit Stickern;2.78;4010070333805
+6385;Horses Dreams Matchbag;4.88;4010070332822
+6386;Horses Dreams 3-fach Federtasche;17.07;4010070333768
+6613;TOPModel 3-fach Federtasche Friends blau;17.07;4010070330774
+6619;TOPModel große Federtasche Friends pink;17.07;4010070330378
+6620;TOPModel Umhängetasche Friends blau;11.22;4010070330385
+6621;TOPModel Umhängetasche Friends pink;11.22;4010070330392
+6622;TOPModel Schulrucksack Friends blau;38.54;4010070330408
+8147;TOPModel 3-fach Federtasche INDIGO mit Maus;17.07;4010070333577
+4889;TOPModel Schmuckkästchen groß, Motiv 2 rosa;5.46;4010070323387
+6618;TOPModel große Federtasche Friends blau;17.07;4010070330361
+6478;Minimoomis Plüsch 20 cm Rooky;6.34;4010070323110
+998132;Vivo Arte Klappkarten Sortiment incl. Ständer 9752;411.48;4010070340339
+998156;Cartolini Klappkarten Sortiment incl. Ständer 9752;307.8;4010070340308
+5459;Horses Dreams Gelstifte Set Glitter - 6 Farben;2.15;4010070241148
+8209;Monster Cars 3-fach Federtasche;17.07;4010070303730
+6367;Miss Melody Tagebuch mit Stickern, Motiv 1, Pferd u. Mädchen;4.2;4010070323578
+6368;Miss Melody Tagebuch mit Stickern, Motiv 2, zwei Pferde;4.2;4010070323592
+6477;Minimoomis Plüsch 20cm Doodo;6.34;4010070323103
+6566;Miss Melody Briefpapier in Fächermappe, Motiv 1 pink;4.2;4010070324162
+6567;Miss Melody Briefpapier in Fächermappe, Motiv 2 blau;4.2;4010070324179
+6128;TOPModel Lipgloss - SO HAPPY;2.15;4010070334826
+4485;Kleine Kunstwerke Klappkarten;1.46;4010070313739
+6300;TOPModel Radierer-Lippenstift;0.68;4010070189228
+8561;Ylvi & the Minimoomis Sammelfigur, Pooby;2.54;4010070325176
+8562;Ylvi & the Minimoomis Sammelfigur, Loola;2.54;4010070325169
+8563;Ylvi & the Minimoomis Sammelfigur, Cooco;2.54;4010070325152
+8564;Ylvi & the Minimoomis Sammelfigur, Floodo;2.54;4010070325145
+8565;Ylvi & the Minimoomis Sammelfigur, Doodo;2.54;4010070325138
+8566;Ylvi & the Minimoomis Sammelfigur, Rooky;2.54;4010070325121
+8543;TOPModel Brotdose Friends;2.54;4010070332846
+6674;TOPModel Make-Up Creative-Mappe;6.34;4010070318857
+4086;Trend LOVE Anhänger Miniatur Tasche nougat;4.2;4010070337568
+4998;Trend LOVE Handtasche klein dunkelblau;6.34;4010070337421
+5301;Trend LOVE Handtasche groß fuchsia;9.76;4010070337476
+5699;Trend LOVE Taschensortiment;329.84;4010070343897
+6348;TOPModel Beauty Bag gelb, OMG!!;4.88;4010070321697
+6604;TOPModel 3-fach Federtasche, Pailetten Smiley rot;17.07;4010070330248
+6605;TOPModel Beauty Bag grün, Smiley;4.88;4010070339951
+6608;TOPModel Schulrucksack, Pailetten Smiley rot;38.54;4010070330682
+6973;Trend LOVE Handtasche klein fuchsia;6.34;4010070330606
+6974;Trend LOVE Handtasche klein azurblau;6.34;4010070330873
+6977;Trend LOVE Portemonnaie groß azurblau;8.29;4010070330613
+7009;TOPModel Trinkflasche, schwarz mit Sternen;5.46;4010070313449
+7469;TOPModel Trinkflasche mit Logodruck in Lila;5.46;4010070321062
+8044;TOPModel Beauty Bag grün, HA HA HA!;6.34;4010070333553
+8375;TOPModel 3-fach Federtasche, smaragd;17.07;4010070339944
+8534;Trend LOVE Handtasche groß dunkelblau;9.76;4010070330620
+8535;Trend LOVE Handtasche groß azurblau;9.76;4010070330880
+8537;Trend LOVE Handtasche groß nougat;9.76;4010070330644
+8538;Trend LOVE Anhänger Miniatur Tasche azurblau;4.2;4010070330651
+8539;Trend LOVE Portemonnaie groß nougat;8.29;4010070330668
+8703;TOPModel 3-fach Federtasche mit Flicken khaki;17.07;4010070333904
+8717;TOPModel 3-fach Federtasche mit Flicken marine;17.07;4010070337285
+8952;Fantasy Model 3-fach Federtasche, LED;18.48;4010070332662
+8953;Fantasy Model 3-fach Federtasche, Glitzer Meerjungfrau;17.07;4010070332679
+4999;Trend LOVE Handtasche klein nougat;6.34;4010070337438
+6323;TOPModel Matchbag, Flamingo;5.85;4010070332525
+6578;Dino World Matchbag;4.88;4010070330484
+6641;TOPModel Handtasche gelb;9.76;4010070330859
+8578;TOPModel Magic-Scratch;4.65;4010070337209
+9568;TOPModel Schmuckkästchen groß, Flamingo;5.46;4010070336899
+9569;TOPModel Lipgloss Flamingo;2.15;4010070339975
+9570;TOPModel Haarbürste, Flamingo;2.93;4010070336851
+2304;Hans und Grete 3D Klappkarten;1.66;4010070341213
+4022;TOPModel Magic Towel;3.41;4010070332501
+4464;Miss Melody Activity Book, malen, kritzeln, Spaß haben;2.78;4010070336974
+4953;Trend LOVE Pompom offwhite;4.2;4010070338084
+4954;Trend LOVE Pompom dunkelblau;4.2;4010070337650
+4970;Trend LOVE Pompom azurblau;4.2;4010070337636
+4978;Trend LOVE Pompom natur;4.2;4010070337629
+5145;Dino World Soft Ball;1.27;4010070330767
+5346;SNUKIS Plüsch 18 cm, Bibi der Flamingo;5.46;4010070332419
+5347;SNUKIS Plüsch 18 cm, Cecil das Zebra;5.46;4010070332426
+5685;Horses Dreams Schlüsselanhänger;3.8;4010070305680
+6442;Minimoomis Plüsch 20 cm Kikoo;11.74;4010070321918
+6626;TOPModel -let's Party- Einladungskarten zum Gestalten;2.54;4010070343163
+6643;TOPModel Portemonnaie grün;9.76;4010070330552
+6994;Trend LOVE Anhänger Miniatur Tasche dunkelblau;4.2;4010070337575
+8067;TOPModel Buntstifteset 12 Basic Farben;2.54;4010070322953
+8071;TOPModel Buntstifteset, Haut- und Haartöne;2.54;4010070286071
+8096;TOPModel Gelstiftset 4 Metallic Farben;1.66;4010070323479
+8098;House of Mouse Umhängetäschchen;4.88;4010070332907
+8136;Vivo Arte Weihnachts Medikarten;0.74;4010070270339
+8137;Vivo Arte Weihnachts Postkarten;0.54;4010070270735
+8541;Trend LOVE Anhänger Miniatur Tasche fuchsia;4.2;4010070330675
+8545;House of Mouse Matchbag pink;3.9;4010070332921
+8546;Horses Dreams Schmuckbox Motiv 1;3.8;4010070335076
+8547;Horses Dreams Schmuckbox Motiv 2;3.8;4010070335083
+8574;TOPModel Stickerblock OMG;2.15;4010070340551
+8577;Create Ylvi´s World Malbuch mit Stickern;2.78;4010070336837
+8582;Dino World 3-fach Federtasche mit Soundanhänger;17.07;4010070331061
+8583;Dino World 3-fach Federtasche LED;18.48;4010070336677
+8585;Monster Cars 3-fach Federtasche;17.07;4010070331085
+8586;Monster Cars 3-fach Federtasche mit LED Funktion;18.48;4010070331092
+8595;Miss Melody 3-fach Federtasche LED;18.48;4010070332358
+8597;Miss Melody Federtasche Deluxe;14.63;4010070332365
+8626;Schoko-Geschenkanhänger vom Weihnachtsmann;0.98;4010070281250
+8630;Gutschein in der Flaschenpost;1.46;4010070281359
+8704;Miss Melody Rätselspaß;2.78;4010070334239
+8848;House of Mouse Bunny Mama mit Babybauch Plüsch, 35cm;9.76;4010070336462
+8849;House of Mouse Bunny Mama Plüsch, 35cm;7.22;4010070332341
+8850;House of Mouse Bunny Papa Plüsch, 35cm;7.22;4010070332334
+8851;House of Mouse Bunny Oma Plüsch, 35cm;8;4010070332327
+8852;House of Mouse Bunny Betty Plüsch, 25cm;5.46;4010070332310
+8853;House of Mouse Bunny Paul Plüsch, 25cm;5.46;4010070332303
+8854;House of Mouse Bunny Betty Fee Plüsch, 25 cm;8;4010070332297
+8874;Teenie Maus Plüsch, Holly 25 cm auf Karte;8;4010070313500
+8875;Teenie Maus Plüsch, Fips 25 cm auf Karte;8;4010070313517
+8878;Mama Maus mit Babybauch, Plüsch, 35 cm;9.76;4010070313548
+8880;Ballett Maus Plüsch, 25 cm auf Karte;8;4010070313623
+8884;House of Mouse Armbänder;2.15;4010070333645
+8907;House of Mouse Matchbag silber;3.9;4010070340414
+8920;House of Mouse Stickerworld Familie Hase;1.38;4010070337247
+8944;TOPModel Beste Freundinnen Buch;4.2;4010070334925
+8951;Fantasy Model Federtasche DeLuxe, Delfin Glitzer;14.63;4010070332532
+9572;TOPModel Becher mit Golddruck, Flamingo;2.93;4010070336868
+4465;Miss Melody Pocket Stickerworld;1.38;4010070343781
+5147;Princess Mimi Plüschhase Nelly;5.46;4010070333676
+5151;Dino World Magic Becher;2.93;4010070333898
+5348;SNUKIS Plüsch 18 cm, Davy der Delfin;5.46;4010070332433
+5349;SNUKIS Plüsch 18 cm, Fanny der Elefant;5.46;4010070332440
+5361;Create your TOPModel Kitty Malbuch;3.71;4010070333782
+5374;Create your Sweet Home - Malbuch mit Stickern;3.25;4010070333799
+5386;Herzanhänger mit Licht;1.27;4010070340575
+5399;Miss Melody Umhängetasche Satin;12.2;4010070334918
+5738;Trend LOVE Portemonnaie groß fuchsia;8.29;4010070337520
+6306;Monster Cars Radiergummi Racing Car;1.46;4010070327620
+6314;Monster Cars Blech Spartruhe;2.93;4010070331177
+6317;Monster Cars Freundebuch;4.2;4010070327637
+6318;Monster Cars Freundebuch mit Licht und Sound;6.34;4010070327644
+6358;TOPModel Kitty Block;1.27;4010070340360
+6577;Fantasy Model Matchbag, Mermaid;5.85;4010070337254
+6597;Create your TOPModel Wedding Special Malbuch;4.65;4010070335007
+6646;TOPModel Radierer Set Statement;1.27;4010070324384
+8068;TOPModel Buntstifteset 4 Neon Farben;1.07;4010070322960
+8431;TOPModel Stickerworld;3.25;4010070314217
+8549;Create your Fantasy Model - Malbuch mit Stickern;4.65;4010070334802
+8587;Monster Cars Rucksack;9.76;4010070331108
+8596;Miss Melody 3-fach Federtasche;17.07;4010070333546
+8659;Weihnachtliche Anhänger mit Licht;1.27;4010070292973
+8755;Fantasy Model Dress me up Stickerbook;2.78;4010070339913
+8983;My Style Princess Stamping Fun, Malbuch;3.25;4010070329020
+8985;TOPModel Geheimcode Tagebuch mit Sound, Motiv 1;8.49;4010070340032
+8986;TOPModel Geheimcode Tagebuch mit Sound, Motiv 2;8.49;4010070340049
+4447;Horses Dreams Becher mit Golddruck;2.93;4010070324483
+4698;Miss Melody Haar- und Armband Set;1.66;4010070333744
+5148;Princess Mimi Plüschschaf Walli;5.46;4010070333690
+5149;Princess Mimi Plüschente Ella;5.46;4010070333706
+5150;Princess Mimi Plüschkatze Lou;5.46;4010070333713
+5379;Ylvi & the Minimoomis Schmuckschatulle mit Geheimfach, Mot.2;5.07;4010070329143
+6439;Minimoomis Plüsch 20 cm Leoo;6.34;4010070332402
+6520;Gestalte deine Märchenwelt;2.78;4010070332891
+6925;Trend LOVE Portemonnaie groß dunkelblau;8.29;4010070330590
+8039;TOPModel Haarbürste - SO HAPPY;2.93;4010070333911
+1394;Ylvi & the Minimoomis Tattoo Glitzer-Gelstifte;2.54;4010070333584
+3043;TOPModel Special Design Book & Videos - Malbuch Flamingo;4.65;4010070333829
+3725;TOPModel Kugelschreiber mit Sound;3.41;4010070325992
+3751;Miss Melody Freundschaftsarmbänder;2.15;4010070336820
+3758;TOPModel Mini-Lipgloss-Set;2.15;4010070332952
+4247;TOPModel Haar- und Armband Set;1.66;4010070333652
+4298;Glücksfilz Schlüsselband;2.93;4010070334192
+4446;Horses Dreams Notizbuch;1.66;4010070321451
+4448;Horses Dreams Stickeralbum im Display;1.66;4010070324575
+4715;Namensarmband versilbert;2.93;4010070323288
+5056;Ylvi & the Minimoomis Naya Lipgloss;2.15;4010070337315
+5146;Dino World Kugelschreiber mit 6 Tintenfarben;1.27;4010070332945
+5378;Ylvi & the Minimoomis Schmuckschatulle mit Geheimfach, Mot.1;5.07;4010070329105
+5476;Horses Dreams Glitter Mandalas Creativeset Box;4.2;4010070335014
+5698;Zahlenkarten mit Musik;2.15;4010070337278
+6438;Minimoomis Plüsch 20 cm Fioona;6.34;4010070332396
+8514;Miss Melody Mini Notizbuch Set mit Kugelschreiber;1.66;4010070321437
+8526;Ylvi & the Minimoomis Kugelschreiber mit Licht;2.15;4010070323752
+8579;Ylvi Create your Glitter Card Creative-Set Box;4.2;4010070338183
+8748;Miss Melody Notes to Go;3.8;4010070336547
+8836;Dino World Rätselspaß;2.78;4010070338138
+8837;Dino World Tattoos;0.78;4010070343798
+8916;Create your Colourful Animals Malbuch;2.78;4010070337193
+8918;House of Mouse Fingerprint Fun Malbuch;3.71;4010070337223
+8919;House of Mouse Glitter Malbuch;2.78;4010070337230
+8980;Princess Mimi Rätselspaß mitSteckbuntstift;2.78;4010070324568
+9571;TOPModel Armband Flamingo;2.15;4010070340209
+4255;Erstbestückung Namensschlüsselanhänger, Den schönsten...;711.2;4010070328610
+8542;Fantasy Model Brotdose;2.54;4010070332839
+8509;Miss Melody Brotdose, pink;2.54;4010070321161
+8508;Miss Melody Brotdose, blau;2.54;4010070321147
+5937;TOPModel Elastikarmband Emoji;2.15;4010070218829
+6670;TOPModel Magic Fun - Malbuch mit Stickern zum Gestalten;3.25;4010070308131
+4895;Pompom Schlüsselanhänger, dunkelblau;4.2;4010070324674
+4896;Pompom Schlüsselanhänger, türkis;4.2;4010070324681
+4897;Pompom Schlüsselanhänger, cremeweiß;4.2;4010070324698
+4898;Pompom Schlüsselanhänger, beige;4.2;4010070324704
+2665;Depesche Halskette;3.8;4010070307929
+2666;Depesche Armband;2.93;4010070307936
+8909;Create your TOPModel Design Studio;5.07;4010070336806
+6631;TOPModel Schulrucksack mit Trolley Friends blau;33.66;4010070330446
+6764;TOPModel Schulrucksack mit Trolley Friends pink;33.66;4010070333737
+9556;TOPModel Sammelmappe, Motiv 1, Hayden;5.07;4010070324148
+9557;TOPModel Sammelmappe, Motiv 2, Fantasy;5.07;4010070324155
+1480;Emotions Weihnachtsklappkarten;1.27;4010070351229
+8532;TOPModel Magic Doppelfasermaler;3.41;4010070348427
+8085;Horses Dreams Briefpapier in Fächermappe Motiv 1, Blau;4.2;4010070322755
+8086;Horses Dreams Briefpapier in Fächermappe Motiv 2, Lila;4.2;4010070322762
+8148;Fantasy Model Stickerworld;3.25;4010070334222
+4467;Dino Stickerfun, Malbuch mit Stickerbogen;2.78;4010070332860
+5416;Create your Farm - Malbuch mit Stickern;2.78;4010070342081
+6844;Miss Melody Sticker Fun;2.78;4010070334994
+3042;TOPModel Design Book + Videos - Malbuch;3.71;4010070333812
+1559;Weihnachtliche Türhänger;2.54;4010070352141
+1905;Weihnachtliche Lichttüte;1.66;4010070352356
+1933;Weihnachtslicht Anhänger, rund;1.27;4010070352684
+5068;Trend LOVE Handtasche klein marine;6.34;4010070337445
+5625;Trend LOVE Handtasche groß schwarz;9.76;4010070337490
+5628;Trend LOVE Handtasche groß khaki;9.76;4010070337506
+5717;Trend LOVE Handtasche groß marine;9.76;4010070337513
+1642;Weihnachtsstiefel mit Sound;3.41;4010070352332
+4096;TOPModel Stempel Set Box;5.86;4010070347239
+4981;Trend LOVE Handtasche klein schwarz;6.34;4010070337469
+5076;Trend LOVE Handtasche klein lila;6.34;4010070337452
+6580;Trend LOVE Portemonnaie groß lila;8.29;4010070337551
+1498;Weihnachtskerze mit Namen;2.15;4010070352066
+5825;Trend LOVE Portemonnaie groß schwarz;8.29;4010070337537
+6579;Trend LOVE Portemonnaie groß marine;8.29;4010070338169
+6922;Trend LOVE Handtasche klein khaki;6.34;4010070330583
+7088;Trend LOVE Anhänger Miniatur Tasche schwarz;4.88;4010070337582
+7310;Trend LOVE Anhänger Miniatur Tasche khaki;4.88;4010070337599
+7454;Trend LOVE Anhänger Miniatur Tasche marine;4.88;4010070337605
+8143;Undercover Klappkarten, klein mit 13 Motiven Zahlenkarten;0.98;4010070348175
+8536;Trend LOVE Handtasche groß lila;9.76;4010070330637
+1499;Geb.-Kerzen mit Namen - Erstbestückung;825.6;4010070352073
+5826;Trend LOVE Portemonnaie groß khaki;8.29;4010070337544
+6673;TOPModel kleine Snackbox;1.27;4010070315610
+8584;Trend LOVE Anhänger Miniatur Tasche lila;4.88;4010070337612
+6322;Fantasy Model Matchbag, Face;5.85;4010070332518
+3726;TOPModel Kugelschreiber mit Sound;3.41;4010070326012
+5419;Create your TOPModel Make-Up - Malbuch;2.31;4010070342067
+8756;Fantasy Model Freundebuch Motiv 1;4.2;4010070339920
+2199;Geburtstagskerze mit Namen;2.15;4010070355401
+6557;Princess Mimi Malbuch;3.25;4010070350482
+8757;Fantasy Model Freundebuch Motiv 2;4.2;4010070339937
+6369;Princess Mimi Magic Towel;1.66;4010070348168
+8759;Fantasy Model Bleistiftset 4er;1.27;4010070343156
+8758;Fantasy Model Anspitzer;0.78;4010070343149
+5418;Create your TOPModel Doggy Malbuch;3.71;4010070341978
+6312;Create your Monster Cars - Malbuch mit vielen Stickern;4.18;4010070323691
+3012;TOPModel Maniküreset;4.2;4010070348144
+8699;Halskette mit Stern- oder Herzanhänger;4.2;4010070321185
+8705;Halskette mit Kreuz- oder Engelanhänger;4.2;4010070334185
+8844;House of Mouse Bunny Betty im Overall Plüsch, 25 cm;6.34;4010070343811
+8845;House of Mouse Bunny Baby Plüsch, 13 cm in Box;4.2;4010070342692
+8580;TOPModel DANCE Malbuch;4.65;4010070335137
+8598;Miss Melody Schmuckkästchen Motiv 1;5.46;4010070346973
+8599;Miss Melody Schmuckkästchen Motiv 2;5.46;4010070346997
+2783;Miss Melody Style your Horse Malbuch;4.18;4010070347413
+8982;Princess Mimi Glitter Book Malbuch;3.25;4010070328979
+4324;TOPModel POPSTAR Malbuch;4.65;4010070347185
+8548;Miss Melody Dress up your Horse Malbuch;2.78;4010070334819
+8328;My Style Princess Schüttelbecher mit Glitzer;2.93;4010070271237
+8540;Ylvi & the Minimoomis Schlüsselanhänger;2.15;4010070321260
+8594;TOPModel 3-fach Federtasche LED;18.48;4010070332686
+8146;TOPModel Sticker Patches Set;2.93;4010070333560
+6593;Vivo Arte Minikarten;0.68;4010070353230
+6594;Cartolini Minikarten;0.68;4010070353360
+6595;Minikarten Sortiment Erstbestückung;195.84;4010070358969
+8412;TOPModel Schultertasche LOVE;7.32;4010070275266
+6375;Miss Melody Mobile Blöcke mit Wackelbild;1.27;4010070349288
+6504;TOPModel Papiertüten, groß;0;4010070349097
+3418;Ylvi & the Minimoomis Naya Einhorn Plüsch mit Sound 18cm;6.34;4010070349158
+3755;TOPModel Loopschal, Sterne, sortiert im Display;45.6;4010070353940
+4694;Ylvi & the Minimoomis Naya Einhorn Plüsch mit Sound 33 cm;11.41;4010070333720
+8559;Ylvi & the Minimoomis Naya Einhorn Plüsch mit Sound 24 cm;8.49;4010070351854
+784;TOPModel 3-fach Federtasche Popstar Gitarre pink;17.07;4010070358761
+3103;TOPModel Kosmetiktasche Panda;4.88;4010070348496
+3106;TOPModel Rucksack Panda;8.78;4010070315870
+5294;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.49;4010070354077
+5324;MANGAModel Panda Lipgloss;2.15;4010070352646
+5413;SNUKIS Plüsch 15 cm, Stella Schutzengel;5.46;4010070351069
+6077;Miss Melody Beauty Case;7.61;4010070333669
+6379;TOPModel Streichpailletten Handtasche;11.22;4010070332747
+6382;Miss Melody Brustbeutel;4.2;4010070332761
+6384;TOPModel Kosmetiktasche Multiglitzer;4.88;4010070332815
+6388;TOPModel Loopschal, Sterne, schwarz;3.8;4010070349646
+6390;TOPModel Loopschal, Sterne, pink;3.8;4010070349660
+6427;Monster Cars Schlamper in Autoform;4.39;4010070353209
+6469;TOPModel Briefpapier in Fächermappe A5, Motiv 1;4.2;4010070350413
+6470;TOPModel Briefpapier in Fächermappe A5, Motiv 2;4.2;4010070350420
+6635;TOPModel Mini Tasche Multiglitzer;3.9;4010070337292
+7062;TOPModel Bisou Plüsch mit Sound-Sensoren;12.68;4010070335113
+8592;TOPModel Brotdose, pink;2.54;4010070349813
+8593;TOPModel Brotdose, türkis;2.54;4010070349837
+8762;TOPModel Becher im Geschenkkarton BEST FRIENDS;2.93;4010070351861
+8763;TOPModel Becher im Geschenkkarton LOVE;2.93;4010070351885
+8764;TOPModel gr. Schmuckkästchen mit Code und Sound, Mot. 1;10.54;4010070352219
+8765;TOPModel gr. Schmuckkästchen mit Code und Sound, Mot. 2;10.54;4010070352264
+8769;TOPModel Anspitzer und Radierer Nagellackfläschchen;0.78;4010070349165
+8821;TOPModel 3-fach Federtasche, Pailetten Smiley lila;17.07;4010070340094
+8823;TOPModel Portemonnaie, Pailletten Smiley lila;7.32;4010070340117
+8825;TOPModel Schlamper, Pailletten Smiley lila;8.29;4010070340131
+8923;TOPModel Portemonnaie Friends türkis;6.89;4010070340612
+8924;TOPModel Schlampertasche Friends pink;8.29;4010070340629
+8925;TOPModel Schlampertasche Friends türkis;8.29;4010070340636
+8989;TOPModel 3-fach Federtasche Friends pink;17.07;4010070346836
+8992;TOPModel große Federtasche Friends türkis;17.07;4010070346720
+8995;TOPModel Umhängetasche Friends pink;11.22;4010070346768
+8996;TOPModel Umhängetasche Friends türkis;11.22;4010070346775
+8997;TOPModel gefüllter Schlamper Friends pink;14.3;4010070346782
+8998;TOPModel gefüllter Schlamper Friends türkis;14.3;4010070346799
+8999;TOPModel Portemonnaie Friends pink;6.89;4010070346805
+1936;TOPModel Make-Up Creative-Mappe;6.34;4010070332877
+2198;TOPModel Hasenplüschanhänger;4.2;4010070349462
+2337;TOPModel Schmuckschatulle mit Licht;8.49;4010070354039
+3828;Dino World Lichtanhänger figürlich;1.66;4010070349899
+4986;Princess Mimi Nelly Plüsch mit Puschen, türkis, 21 cm;6.34;4010070351847
+5289;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.49;4010070354053
+5299;Dino World 3D Puzzle Radierer;1.46;4010070341138
+5403;Dino World Dino Maske;2.15;4010070348090
+5414;Miss Melody Gewinnerschleife;2.15;4010070358617
+6332;Monster Cars Springball mit Sound und Licht;1.66;4010070328832
+6335;Monster Cars 3-fach Federtasche mit LED Funktion;18.48;4010070347444
+6376;Miss Melody Becher in Geschenkbox, blau;2.93;4010070349615
+6377;Miss Melody Becher in Geschenkbox, pink;2.93;4010070349622
+6381;Miss Melody Loopschal, farbl. sortiert;3.8;4010070332754
+6383;TOPModel 3-fach Federtasche Popstar Gitarre blau;17.07;4010070332778
+6391;TOPModel Loopschal, Sterne, indigo;3.8;4010070349677
+6558;Princess Mimi Schmuckkästchen, Motiv 1;4.2;4010070350512
+6559;Princess Mimi Schmuckkästchen, Motiv 2;4.2;4010070350505
+6596;TOPModel Radierer und Steckbleistift Set POPSTAR;1.07;4010070349936
+8527;Ylvi & the Minimoomis Springball;1.27;4010070323875
+8552;Ylvi & the Minimoomis Dress Me Up Sticker Fun;2.78;4010070350314
+8555;Ylvi & the Minimoomis Spieluhr mit Naya;6.7;4010070350345
+8776;SNUKIS Plüsch 35 cm, Lucy der Panda als Pandicorn;9.76;4010070355845
+8785;Miss Melody Tagebuch mit Code und Sound, Motiv 1;8.49;4010070352509
+8786;Miss Melody Tagebuch mit Code und Sound, Motiv 2;8.49;4010070352516
+8829;Ylvi & the Minimoomis Schere;1.27;4010070336554
+8990;TOPModel 3-fach Federtasche Friends türkis;17.07;4010070346829
+2254;Gutschein mit Mini-Schutzengel in kleiner Schachtel;1.66;4010070355869
+2336;TOPModel Schmuckschatulle mit Licht;8.49;4010070353988
+3810;Ylvi & the Minimoomis Stimmungsarmband;1.66;4010070349103
+5055;Horses Dreams Taschenlampe mit Bildeffekten;2.54;4010070349585
+5353;Create Your Animal World Malbuch mit Stickern;2.78;4010070340407
+5404;Dino World magische Socken;2.15;4010070348595
+6498;MANGAModel Korrekturroller figürlich;1.27;4010070352011
+6588;MANGAModel Dekoabroller figürlich;1.27;4010070349509
+6693;Dino World Fun-Kit;4.18;4010070349134
+8440;Miss Melody Winner Stickers;0.78;4010070354442
+8588;SNUKIS Plüsch 18 cm, Darla der Dino;5.46;4010070331146
+8746;Miss Melody Create your Dream Horse;5.58;4010070336516
+8775;SNUKIS Plüsch 35 cm, Eva der Fuchs;9.76;4010070355838
+8777;SNUKIS Plüsch 35 cm, Karla das Krokodil;9.76;4010070355852
+8928;TOPModel Tagebuch Design 1;4.2;4010070350055
+8929;TOPModel Tagebuch Design 2;4.2;4010070350062
+8938;Minimoomis Plüsch Cooco 30 cm;12.68;4010070351168
+8939;Minimoomis Plüsch Pooby 30 cm;12.68;4010070351175
+8974;TOPModel Loopschal, Sterne, dunkelblau;3.8;4010070332693
+8987;TOPModel Smartphone Cover;2.93;4010070358846
+8991;TOPModel große Federtasche Friends pink;17.07;4010070346737
+2263;Princess Mimi Taschenlampe;2.93;4010070356019
+2270;TOPModel Sortiment Loopständer - Bestellnr. - wird aufgelöst;342;4010070354046
+3085;Princess Mimi Bonny Pony Plüsch 27 cm;8;4010070320737
+3128;TOPModel Wanduhr;6.34;4010070355074
+3756;TOPModel Loopschal, Punkte, sortiert im Display;45.6;4010070353964
+3786;TOPModel Loopschal, Anker, sortiert im Display;45.6;4010070353971
+4463;Miss Melody Nail Tattoos;1.27;4010070354992
+4955;Dino World Taschenlampe mit Bildeffekten, Dino Kino;2.54;4010070349561
+4985;Princess Mimi Nelly Plüsch mit Puschen, rosa, 21 cm;6.34;4010070351830
+5027;Dino World Fliegender Dino;0.78;4010070349578
+5028;Create your TOPModel Malbuch;3.71;4010070354343
+5296;TOPModel Dress me Up Pocket Stickerbuch;1.85;4010070354466
+5297;TOPModel Nail Tattoos;1.27;4010070354473
+5323;Ylvi & the Minimoomis Silikon Wuschelball;2.93;4010070350284
+5412;SNUKIS Plüsch 15 cm, Mizzy Schutzengel;5.46;4010070351052
+6356;Monster Cars Springknete mit Flashkugel;1.66;4010070336684
+6373;Miss Melody Beste Freundinnen Buch mit Glitzercover;4.2;4010070349219
+6389;TOPModel Loopschal, Sterne, rosa;3.8;4010070349653
+6392;TOPModel Loopschal, Sterne, grau;3.8;4010070349684
+6393;TOPModel Loopschal, Punkte, indigo;3.8;4010070349691
+6394;TOPModel Loopschal, Punkte, dunkelrot;3.8;4010070349707
+6395;TOPModel Loopschal, Punkte, grau;3.8;4010070349714
+6396;TOPModel Loopschal, Punkte, schwarz;3.8;4010070349721
+6397;TOPModel Loopschal, Punkte, dunkelblau;3.8;4010070349738
+6398;TOPModel Lipgloss SO HAPPY Metallic;2.15;4010070340063
+6419;Miss Melody Plüschpferd, 50 cm;21.17;4010070349189
+6481;Miss Melody Wanduhr;6.34;4010070354312
+6586;TOPModel Sticker Rolle;2.15;4010070348571
+6640;Dino World Activity Book;3.25;4010070349127
+7775;Princess Mimi Nelly Plüsch mit Puschen, grau, 21 cm;6.34;4010070358938
+8457;Ylvi & the Minimoomis Taschenlampe mit Zoom;2.54;4010070358808
+8554;Ylvi & the Minimoomis Sticky-Notes;2.15;4010070350338
+8556;Ylvi & the Minimoomis Stamping Fun Set;2.15;4010070350352
+8581;TOPModel Hand Lettering Set, Buch & Stifte-Set;4.2;4010070351083
+8589;SNUKIS Plüsch 18 cm, Rex der Dino;5.46;4010070351236
+8766;MANGAModel Cute Friends Kreativ-Mappe, Malblock & Stifteset;7.22;4010070354480
+8789;TOPModel Loopschal, Punkte, rosa;3.8;4010070349745
+8790;TOPModel Loopschal, Anker, dunkelrot;3.8;4010070349752
+8791;TOPModel Loopschal, Anker, dunkelblau;3.8;4010070349769
+8792;TOPModel Loopschal, Anker, grau;3.8;4010070349776
+8793;TOPModel Loopschal, Anker, rosa;3.8;4010070349783
+8794;TOPModel Loopschal, Anker, pink;3.8;4010070349790
+8795;TOPModel Loopschal, Anker, hellblau;3.8;4010070349806
+8830;Ylvi & the Minimoomis Magic Doppelfasermaler, 12 Stifte;4.2;4010070336561
+8949;Ylvi & the Minimoomis Einhorn Knete;1.27;4010070352059
+8993;Minimoomis Plüsch Baby Pink, 18 cm;6.34;4010070358914
+8994;Minimoomis Plüsch Baby Blau, 18 cm;6.34;4010070358921
+7691;TOPModel 3-fach Federtasche Friends blau;17.07;4010070319120
+5596;Konfirmationskarten Designers Best im Display;1.27;4010070210403
+6123;Minimoomis Plüsch im Schlafsack;5.37;4010070286040
+6418;Miss Melody Portemonnaie Streichpailletten rot;7.32;4010070356194
+6428;Miss Melody Umhängetasche Streichpailletten blau;12.2;4010070356163
+6429;Miss Melody Umhängetasche Streichpailletten rot;12.2;4010070356170
+6514;Miss Melody 3-fach Federtasche Streichpailletten blau;17.07;4010070350604
+6628;Miss Melody Haarspangen Neon Metallic Set;1.66;4010070349394
+8576;Miss Melody Malbuch mit Tierkindern;1.85;4010070355968
+6045;Miss Melody Portemonnaie Streichpailletten blau;7.32;4010070266073
+6416;Miss Melody Striegel Radierer;1.27;4010070350567
+6387;Horses Dreams Tattoos Metallic Look;0.78;4010070348052
+6455;Ylvi and the Minimoomis Tattoos Metallic;0.78;4010070348076
+6582;MANGAModel Pocket Malbuch;1.85;4010070348465
+6587;MANGAModel Sticky Notes;1.27;4010070349080
+6637;Princess Mimi Beautyset;2.54;4010070352615
+8833;TOPModel Mini Textmarker Set;1.66;4010070349493
+8947;Princess Mimi Metallic Tattoos;0.78;4010070338275
+8217;Monster Cars 3-fach Federtasche LED Funktion;18.48;4010070315429
+2296;Ylvi & the Minimoomis Magic Towel;1.66;4010070320133
+6602;TOPModel Glitter Tattoo Set;2.93;4010070320485
+6556;Princess Mimi Studio-Malbuch;4.18;4010070350468
+5743;Abiturkarten im Display;1.07;4010070336660
+8784;Miss Melody Stickerworld, Mal- und Stickerbuch;3.25;4010070353926
+4709;Erstbestückung Namensarmbänder und Halsketten;884.14;4010070368418
+4710;Halskette, versilbert;3.8;4010070361556
+5901;Jugendweihe Klappkarten im Display;1.27;4010070366124
+8948;TOPModel Metallic Tattoos;0.78;4010070366186
+6474;Horses Dreams Wecker;4.68;4010070354381
+5130;Horses Dreams Glitzer-Schlüsselanhänger;4.68;4010070355067
+8930;Horses Dreams Schreibwarenbox, Motiv 1, blau;4.2;4010070350888
+8931;Horses Dreams Schreibwarenbox, Motiv 2, pink;4.2;4010070350901
+8932;Horses Dreams Zettelbox;2.15;4010070350925
+8933;Horses Dreams Schmuckkästchen mit Geheimfach, Motiv 1, blau;5.07;4010070350932
+8934;Horses Dreams Schmuckkästchen mit Geheimfach, Motiv 2, pink;5.07;4010070350956
+8935;Horses Dreams Tagebuch, blau;4.2;4010070350970
+8936;Horses Dreams Tagebuch, pink;4.2;4010070350994
+8937;Horses Dreams Notizbuch;1.66;4010070351014
+6467;TOPModel T-Shirt Designer Malbuch;4.18;4010070350741
+6431;TOPModel Glitter Tattoo Set;2.93;4010070358785
+1934;Miss Melody Tagebuch mit Stickern, Motiv 1;4.2;4010070355104
+8921;Miss Melody Hörspiel Summerset in Gefahr;4.2;4010070371326
+8808;Miss Melody Hörspiel Verrückt vor Glück;4.2;4010070332464
+6554;Papiertüten, groß;0;4010070368326
+3437;Fantasy Model Schreibwarenbox, Motiv 1;4.2;4010070354527
+3949;Fantasy Model  Schreibwarenbox, Motiv 2;4.2;4010070354961
+3433;Fantasy Model Malbuch mit LED und Sound;6.99;4010070354503
+6581;MANGAModel Malbuch;4.65;4010070348458
+2258;Ylvi & the Minimoomis Water Snake;2.15;4010070358563
+9807;Tischständer für Halsketten 4710 / 24 Haken;0;4010070374068
+5298;Create your Fantasy Face - Malbuch;4.65;4010070354541
+6576;TOPModel Schulrucksack Trolley Sommer grafisch bunt;29.14;4010070330453
+6634;TOPModel Schlamper gefächert Sommer grafisch bunt;4.39;4010070330477
+6636;TOPModel 3-fach Federtasche Sommer grafisch bunt;17.07;4010070330514
+8768;TOPModel Schulplaner 2017/18 Motiv 2;4.2;4010070342906
+8767;TOPModel Schulplaner 2017/18 Motiv 1;4.2;4010070342883
+6583;MANGAModel Notes to Go, Motiv 1 Panda;3.8;4010070348489
+3126;Fantasy Model Silikonarmbänder MERMAID;1.27;4010070337261
+6606;TOPModel Beauty Bag pink, So Fetch!;4.88;4010070339968
+1532;Weihnachtsteelicht in kleiner Box;1.27;4010070352127
+1619;Weihnachtlicher Bleistift mit Wichtel;1.66;4010070352301
+1726;Schutzengelbär auf Schachtel;2.93;4010070352349
+1931;Weihnachtliche Figur im Glas;2.15;4010070352660
+6683;TOPModel Glittergelstifteset;2.15;4010070200848
+1510;Weihnachtskerze groß mit Banderole;2.15;4010070352097
+1519;Weihnachtskerze im Glas;1.16;4010070352110
+1512;Weihnachtskerze im Bonbonglas;2.54;4010070352103
+1604;Weihnachtlicher Geldbrief im Filzherz;1.66;4010070352288
+1618;Weihnachtliche Geldtüte mit Filzmaus;1.66;4010070352295
+1635;Gutschein in der Flaschenpost;1.66;4010070352158
+1696;Weihnachtlicher Geldbrief im Glas;1.66;4010070354244
+1702;Weihnachtlicher Schutzengelbär in der Kugel;2.93;4010070354251
+1932;Weihnachtliche Figur in kleiner Schachtel;1.27;4010070352677
+8610;Soundbox mit Geldbrief;2.93;4010070280864
+8624;Fröhliche Weihnachtsgrüße Schokolade, 12,5g;0.49;4010070281236
+8627;Weihnachtsgeldschachtel;1.27;4010070281274
+8680;Wichtel auf Minibox;1.66;4010070320638
+8693;Weihnachtliche Soundboxen;3.41;4010070320836
+9567;TOPModel Bleistift mit Radierer-Topper TROPICAL;1.27;4010070336844
+340;Miss Melody 3-fach Federtasche Türkis;17.07;4010070367947
+643;TOPModel kleine Umhängetasche Friends gold;8.29;4010070363611
+723;TOPModel Portemonnaie Friends gold;6.89;4010070363666
+10071;TOPModel 3-fach Federtasche Streichpailletten Stern pink;17.07;4010070371180
+10168;TOPModel 3-fach Federtasche Sommer grafisch bunt;17.07;4010070382216
+5904;NEON Post- und Klappkarten Erstbestückung;512.88;4010070368814
+8883;TOPModel 3-fach Federtasche Streichpailletten, TROPICAL;17.07;4010070325015
+8906;TOPModel 3-fach Federtasche Streichpailletten Stern blau;17.07;4010070332716
+431;TOPModel Fächerschlamper, TROPICAL;4.88;4010070363598
+659;TOPModel Umhängetasche Friends dunkelblau;12.2;4010070363628
+704;TOPModel Umhängetasche Friends gold;12.2;4010070363635
+720;TOPModel Portemonnaie Friends dunkelblau;6.89;4010070363642
+739;TOPModel gefüllter Schlamper Friends dunkelblau;14.3;4010070363673
+838;Fantasy Model Beauty Bag Holo mit Muschelsticker MERMAID;4.88;4010070367206
+839;TOPModel 3-fach Federtasche, pinke Wellen mit Models;17.07;4010070363604
+10005;Monster Cars Schlamper in Autoform und Rädern;6.34;4010070366759
+10006;Monster Cars 3-fach Federtasche;17.07;4010070366766
+10007;Monster Cars 3-fach Federtasche mit LED Funktion;18.48;4010070367008
+10008;TOPModel Rucksack Streichpailletten GOLD;11.22;4010070366988
+10011;Dino World 3-fach Federtasche LED;18.48;4010070367022
+10012;Ylvi & the Minimoomis Beauty Bag;4.88;4010070367039
+10013;Fantasy Model 3-fach Federtasche Liquid MERMAID;18.48;4010070367046
+10020;Fantasy Model Handtasche Schuppen Effektfolie MERMAID;12.2;4010070367275
+10021;Fantasy Model Portemonnaie Schuppen Effektfolie MERMAID;6.89;4010070367305
+10024;TOPModel Magic Scratch Book;4.65;4010070367367
+10027;Fantasy Model Beauty Bag Schuppen Effektfolie MERMAID;4.88;4010070371319
+10032;TOPModel Schmuckkästchen groß, TROPICAL;5.46;4010070367558
+10037;Fantasy Model Schmuckschatulle mit Licht MERMAID;8.49;4010070367725
+10041;TOPModel Lip Gloss Ananas, TROPICAL;2.15;4010070367916
+10042;TOPModel kleiner Rucksack Friends gold;9.76;4010070367923
+10056;Miss Melody Schlampertasche, Streichpaillette Blau;8.29;4010070368654
+10057;Miss Melody 3-fach Federtasche, Streichpaillette Pink;17.07;4010070368661
+10059;Miss Melody Schlampertasche, Streichpaillette Pink;8.29;4010070368685
+10065;Princess Mimi Plüsch Ella Gold;5.46;4010070368760
+10072;TOPModel 3-fach Federtasche Friends Regenbogen blau;17.07;4010070371197
+10074;TOPModel Schlamper Streichpailletten Stern pink;8.29;4010070371210
+10075;TOPModel Portemonnaie Streichpailletten Stern pink;6.89;4010070371227
+10076;TOPModel Brustbeutel Streichpalletten Stern pink;5.85;4010070371234
+10077;Miss Melody 3-fach Federtasche, Streichpaillette Blau;17.07;4010070371241
+10079;Miss Melody Brustbeutel Blau;5.85;4010070371265
+10083;Fantasy Model Haarbürste MERMAID;2.93;4010070372200
+10084;Trend LOVE Handtasche klein dunkelblau;6.34;4010070372217
+10087;Trend LOVE Handtasche klein koralle;6.34;4010070372248
+10091;Trend LOVE Handtasche klein türkis mit Flamingos;7.32;4010070372286
+10114;Miss Melody Handtasche, Streichpaillette Blau;8.29;4010070373245
+10115;Miss Melody Handtasche, Streichpaillette Pink;8.29;4010070373252
+10123;Princess Mimi Handtasche fuchsia;6.34;4010070374051
+10140;Miss Melody Brustbeutel Pink;5.85;4010070378837
+10144;TOPModel Schulrucksack Streichpailletten Stern pink;29.14;4010070380915
+10166;TOPModel Schlamper gefächert Sommer grafisch bunt;4.39;4010070382193
+10167;TOPModel Schulrucksack Trolley Sommer grafisch bunt;29.14;4010070382209
+1178;TOPModel Schulrucksack Streichpailletten Stern blau;29.14;4010070378615
+5132;Monster Cars Schreibset Bleistift, Radierer, Lineal;2.15;4010070323745
+5902;NEON Postkarten;0.52;4010070368791
+5903;NEON Klappkarten;1.27;4010070368807
+5907;PINK Post- und Klappkarten Erstbestückung;573.84;4010070368869
+5994;Ylvi & the Minimoomis Pony Roosy Rainbow, 18 cm;6.34;4010070374099
+6240;Fantasy Model 3-fach Federtasche Einhorn LED;18.48;4010070320454
+6378;TOPModel Schlampertasche Friends gold;8.29;4010070367527
+6645;TOPModel kleine Umhängetasche Friends dunkelblau;8.29;4010070348106
+8077;TOPModel 3-fach Federtasche Friends dunkelblau;17.07;4010070316464
+8273;TOPModel 3-fach Federtasche Friends gold;17.07;4010070226060
+8568;TOPModel Brotdose, Friends;2.54;4010070380441
+8572;Fantasy Model Brotdose MERMAID;2.54;4010070381035
+8733;TOPModel 3-fach Federtasche,Pailletten Model;17.07;4010070364892
+8869;TOPModel Schulrucksack Friends dunkelblau;29.14;4010070366209
+8908;TOPModel Love Lettersset;6.34;4010070366278
+8946;Princess Mimi Handtasche rosa;6.34;4010070338268
+8988;TOPModel gefüllter Schlamper Friends gold;14.3;4010070367510
+188767;TOPModel Schulplaner 2018/19 Motiv 1;4.2;4010070384913
+188768;TOPModel Schulplaner 2018/19 Motiv 2;4.2;4010070384920
+850;TOPModel Schlampertasche Friends dunkelblau;8.29;4010070363680
+10019;TOPModel Reflektor Sticker Set;2.15;4010070367268
+10025;Princess Mimi Plüsch Ella Rosa Silber;5.46;4010070381127
+10030;TOPModel Schlamper Streichpailletten GOLD;6.34;4010070367497
+10031;TOPModel Dress me up, TROPICAL;3.71;4010070367534
+10033;TOPModel Tagebuch, TROPICAL;4.2;4010070367572
+10060;Miss Melody Umhängetasche Pink;12.2;4010070368715
+10063;Trend LOVE Satintuch dunkelblau;3.41;4010070368746
+10064;Trend LOVE Satintuch azur;3.41;4010070373849
+10078;Miss Melody Umhängetasche Blau;12.2;4010070371258
+10082;Fantasy Model Becher MERMAID;2.93;4010070372620
+10086;Trend LOVE Handtasche klein fuchsia;6.34;4010070372231
+10088;Trend LOVE Handtasche klein tükis;6.34;4010070372255
+10089;Trend LOVE Handtasche klein mauve;6.34;4010070372262
+10092;Trend LOVE Kosmetiktasche dunkelblau;4.88;4010070372293
+10093;Trend LOVE Kosmetiktasche azur;4.88;4010070372309
+10094;Trend LOVE Kosmetiktasche pink;4.88;4010070372316
+10095;Trend LOVE Kosmetiktasche koralle;4.88;4010070372323
+10096;Trend LOVE Satintuch türkis;3.41;4010070373832
+10097;Trend LOVE Satintuch pink;3.41;4010070372347
+10098;Trend LOVE Anhänger Miniatur Tasche dunkelblau;4.88;4010070372354
+10099;Trend LOVE Anhänger Miniatur Tasche azurblau;4.88;4010070372361
+10100;Trend LOVE Anhänger Miniatur Tasche fuchsia;4.88;4010070372378
+10101;Trend LOVE Anhänger Miniatur Tasche koralle;4.88;4010070372385
+10102;Trend LOVE Handtasche Paillette schwarz;9.76;4010070372392
+10103;Trend LOVE Handtasche Paillette mauve;9.76;4010070372408
+10105;Miss Melody Magic Scratch Book;4.65;4010070372477
+10106;Miss Melody Sticker Rolle;2.15;4010070372491
+10116;TOPModel Plüschherz-Anhänger BFF;1.27;4010070373863
+10122;Monster Cars Rucksack;11.22;4010070382223
+10130;Miss Melody Spieluhr mit Musik;6.7;4010070378707
+10137;Create Ylvi´s World Malbuch mit Stickern;2.78;4010070378776
+10162;TOPModel Freundebuch Back to School;4.2;4010070381110
+5152;Dino World Radierer mit Dino Figur;0.78;4010070336653
+5401;Dino World Bleistift mit Leucht Dino;1.66;4010070348069
+5905;PINK Postkarten;0.52;4010070368845
+5906;PINK Klappkarten;1.27;4010070368852
+5995;Ylvi & the Minimoomis Pony Roosy Rainbow, 24 cm;8.49;4010070216030
+6276;TOPModel Schreibset im Täschchen;2.54;4010070368630
+6357;Monster Cars 3D Puzzle mit Rückzugsmotor;2.93;4010070338244
+6402;TOPModel Bleistift 4er Set, Rainbow;2.15;4010070374174
+6424;TOPModel Anspitzer und Radierer Nagellackfläschchen;0.78;4010070371296
+6488;TOPModel Armbänder BFF;2.93;4010070351038
+6644;TOPModel Anhänger Miniatur Rucksack;4.88;4010070372170
+6709;TOPModel Kugelschreiber in Geschenkbox TROPICAL;1.66;4010070367381
+6964;SNUKIS Wassertierchen mit Licht;1.66;4010070372040
+8248;Natürlich NEON Klappkarten;1.66;4010070373825
+8571;TOPModel Trinkbecher-To-Go, TROPICAL;2.93;4010070381042
+8747;Miss Melody Love Lettersset;6.34;4010070336530
+8753;TOPModel Trinkflasche, lila;5.46;4010070336936
+8754;TOPModel Trinkflasche, türkis;5.46;4010070336943
+8761;TOPModel Schreibset GOLD;3.41;4010070350826
+8897;Dino World Bleistift mit Dino Anhänger;0.78;4010070320607
+10003;Dino World Kugelschreiber figürlich;2.15;4010070354183
+10014;Create your ZOO, Malbuch mit Stickern;2.78;4010070367060
+10017;TOPModel Geheim-Tagebuch BFF;2.93;4010070367213
+10018;TOPModel Sticker Patches GOLD;2.93;4010070378622
+10036;Fantasy Model Malbuch MERMAID;4.65;4010070367701
+10038;Fantasy Model Tagebuch MERMAID;4.2;4010070367749
+10040;Fantasy Model Metallic Tattoos MERMAID;0.78;4010070367770
+10046;Fantasy Model Notizbuch MERMAID;2.54;4010070368135
+10047;TOPModel Schlüsselanhänger Set Herz BFF;4.2;4010070368180
+10053;TOPModel Hand Designer Malbuch;2.78;4010070368609
+10066;Princess Mimi Nelly Plüsch 40 cm;9.76;4010070368777
+10070;Create your Mini Stickerworld;1.17;4010070373238
+10085;Trend LOVE Handtasche klein azur;6.34;4010070372224
+10090;Trend LOVE Taschensortiment 2018;307.32;4010070380885
+10109;Dino World Quetsch Dino-Figur;2.15;4010070372538
+10128;Miss Melody Activity Book, malen, kritzeln, Spaß haben;2.78;4010070374150
+10129;TOPModel DIY Notizbuch mit Stickern im Sortiment GOLD;80.93;4010070378639
+10132;Miss Melody Schreibwarenbox, Motiv 1;4.2;4010070378738
+10133;Miss Melody Schreibwarenbox, Motiv 2;4.2;4010070378745
+1147;TOPModel Silikon-Armbanduhr;5.46;4010070356118
+3044;TOPModel Lichtanhänger;1.66;4010070368593
+3857;Ylvi & the Minimoomis Maniküreset;4.2;4010070373955
+5096;Dino World Anspitzer;1.66;4010070371944
+5322;Fantasy Model Magic Towel MERMAID;1.66;4010070367053
+5411;TOPModel Zwei-Farben-Lippenstift;2.15;4010070355746
+5478;Miss Melody Silikonarmbänder;1.27;4010070372057
+5720;Dino World schleimspuckender Dino;1.66;4010070378608
+5972;TOPModel Wackelstift BFF;1.27;4010070366742
+6321;TOPModel Fineliner Set, 10 Farben;2.54;4010070359621
+6370;TOPModel Bleistift Set BFF;1.27;4010070374167
+6374;Miss Melody Blöcke;1.27;4010070354985
+6417;Dino World Spring Knete im Ei mit Flashkugel;1.66;4010070368708
+6421;TOPModel Korrekturroller;1.27;4010070371302
+6432;TOPModel Fasermaler Set mit Stempel;2.54;4010070349233
+6460;Miss Melody Radiergummi Set;1.66;4010070350550
+6507;TOPModel Armbänder Set, wear your wishes BFF;1.66;4010070349882
+6511;Trend Schlüsselanhänger, Alphabet, Strass;3.41;4010070351021
+6694;TOPModel Buntstifteset 12 Basic Farben;2.54;4010070367633
+6695;TOPModel Radierbarer Gelstift mit Ersatzmine;1.66;4010070367695
+6711;TOPModel Glittergelstifteset;2.15;4010070367503
+6781;Ylvi & the Minimoomis Schneekugel mit Licht;2.93;4010070368647
+8144;Happy Music Klappkarten;2.54;4010070371364
+8145;Simply The Best - Ansteckorden;2.15;4010070372569
+8211;Glamour Klappkarten, quadratisch;2.15;4010070372637
+8512;TOPModel Schulrucksack Friends pink;29.14;4010070372460
+8551;TOPModel Mini Schreibtisch Set in kleiner Box;2.15;4010070350277
+8557;TOPModel Stickerbuch GOLD;2.15;4010070365394
+8558;TOPModel DIY Notizbuch GOLD;3.41;4010070366261
+8570;Fantasy Model Maniküreset MERMAID;4.2;4010070381028
+8760;TOPModel Malbuch mit Stifte-Set;6.34;4010070350765
+8796;TOPModel Bleistift mit Mikrofon Radierer-Topper POPSTAR;1.66;4010070349486
+8824;Ylvi & the Minimoomis Mini-Einhorn-Radierer in Herzdose;1.27;4010070356026
+8834;Ylvi & the Minimoomis Kreiselstift;0.78;4010070336592
+8868;TOPModel Gelstifte 4 Metallic Farben GOLD;1.66;4010070365431
+8927;MANGAModel Schlüsselanhänger mit Licht;2.54;4010070349110
+8962;Schutzengel Anhänger 365 Tage;2.15;4010070378585
+8965;Beste Freunde - Figur in Schiebeschachtel;2.15;4010070380205
+8966;Kugelschreiber mit Namen;3.41;4010070378813
+8984;TOPModel Schreibset mit Schlüsselanhänger;3.8;4010070348588
+783;Create your -Glamour Special- Malbuch;5.58;4010070358884
+3384;Ylvi & the Minimoomis Naya Einhorn Plüsch mit Sound 18 cm;6.34;4010070386375
+3385;Ylvi & the Minimoomis Naya Einhorn Plüsch mit Sound 24 cm;8.49;4010070386382
+9814;Ständer für diverse Displays;0;4010070386306
+8749;Miss Melody Klapphaarbürste mit Spiegel;1.66;4010070338237
+1935;Miss Melody Tagebuch mit Stickern, Motiv 2;4.2;4010070355128
+6584;MANGAModel Notes to Go, Motiv 2 Model;3.8;4010070348533
+10051;TOPModel Freundebuch Motiv 1 blau;4.2;4010070368227
+10052;TOPModel Freundebuch Motiv 2 pink;4.2;4010070368241
+10044;TOPModel Schmuckkästchen groß, Motiv 1 blau;5.46;4010070368098
+10117;TOPModel Geheimcode Tagebuch mit Sound, pink;8.49;4010070373870
+10124;Ylvi & the Minimoomis Briefpapier in Fächermappe, lila;4.2;4010070374075
+10125;Ylvi & the Minimoomis Briefpapier in Fächermappe, pink;4.2;4010070374082
+10257;Weihnachtl. Schlüsselanhänger aus Filz im Display;1.66;4010070388072
+10258;Weihnachtsteelicht in kleinerBox Glamour;1.27;4010070388089
+10163;TOPModel gr. Schmuckkästchen mit Code und Sound, Mot. 1;10.54;4010070381691
+10255;Weihnachts-Bär in der Box;2.93;4010070388058
+10259;Kleiner Weihnachtsanhänger im Display;1.27;4010070388096
+10118;TOPModel Geheimcode Tagebuch mit Sound, blau;8.49;4010070373894
+10164;TOPModel gr. Schmuckkästchen mit Code und Sound, Mot. 2;10.54;4010070381707
+10250;Weihnachts-Soundboxen im Display Glamour mit Geldbrief;3.41;4010070387983
+10251;Gutschein im Glas mit Weihnachtsmann;1.66;4010070387990
+10252;Weihnachts-Minikärtchen im Display Glamour;0.78;4010070388003
+10253;Weihnachtsgeldbrief Umschlag;0.78;4010070388034
+10254;Kleine Weihnachtsschachtel mit Kerze u. Konfetti;1.27;4010070388041
+10256;Weihnachtl. Schutzengelbär in der Box;2.93;4010070388065
+10260;Erstbestückung Weihnachtssterne Post- u. Klappkarten;512.88;4010070388102
+10261;Weihnachtssterne Postkarten;0.52;4010070388119
+10262;Weihnachtssterne Klappkarten;1.27;4010070388126
+10263;Happy X-Mas Klappkarten;1.27;4010070390914
+6399;TOPModel Buntstiftset 4 Neon-Effektstifte;1.27;4010070372521
+9817;Topschild Happy X-Mas;0;4010070391485
+10131;Miss Melody Pocket Stickerworld;1.38;4010070378714
+6710;TOPModel Buntstift-Set 24 Farben;4.2;4010070367602
+10222;TOPModel Stickerworld;3.25;4010070388270
+10015;TOPModel Magic Fun, Malbuch mit Stickern zum Gestalten;3.25;4010070367169
+8865;TOPModel Brustbeutel Sommer grafisch bunt türkis;5.85;4010070380458
+8867;TOPModel Deko Tape GOLD;1.66;4010070365424
+10138;Ylvi Create your Unicorn;2.31;4010070378783
+10175;TOPModel Beste Freundinnen Buch;4.2;4010070386368
+10126;Fantasy Model Stickerworld;3.25;4010070374129
+10176;Create your Happy Horses - Stickerbuch;2.78;4010070386924
+10201;Create your TOPModel Design Studio;4.2;4010070387785
+10229;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.49;4010070389338
+10045;TOPModel Schmuckkästchen groß, Motiv 2 Lila;5.46;4010070368111
+10228;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.49;4010070389321
+10227;TOPModel Metallic Tattoos;1.66;4010070389178
+10236;Miss Melody Tagebuch mit Code und Sound, Motiv 1;8.49;4010070389390
+10200;Create your TOPModel Wedding Special Malbuch;4.65;4010070387761
+10237;Miss Melody Tagebuch mit Code und Sound, Motiv 2;8.49;4010070389406
+5936;Schutzengel Schlüsselanhänger im Display;3.41;4010070387655
+8787;Ylvi & the Minimoomis Brotdose;2.54;4010070390211
+10073;TOPModel 3-fach Federtasche Herzen lila;17.07;4010070371203
+10119;TOPModel Umhängetasche Herzen lila;11.22;4010070373924
+10189;TOPModel Schlamper gefächert Herzen lila;4.39;4010070387181
+10113;TOPModel Portemonnaie Herzen lila;6.89;4010070373221
+10194;TOPModel Sporttasche Herzen lila;8.78;4010070387501
+10224;TOPModel gefüllter Schlamper Herzen lila;14.3;4010070388294
+10188;TOPModel Schulrucksack Trolley Herzen lila;29.14;4010070389857
+8439;TOPModel Schreibset im Täschchen TROPICAL;2.93;4010070373900
+8782;TOPModel Radierer Set TROPICAL;1.27;4010070367688
+10127;Create your Fantasy Model - Malbuch mit Stickern;4.65;4010070374136
+10294;TOPModel Pocket Stickerworld Doggy;1.38;4010070390235
+10177;TOPModel Briefpapier in Fächermappe A5, Motiv 1;4.2;4010070386948
+10178;TOPModel Briefpapier in Fächermappe A5, Motiv 2;4.2;4010070386955
+10244;Miss Melody Tagebuch mit Stickern, Motiv 1;4.2;4010070389475
+10245;Miss Melody Tagebuch mit Stickern, Motiv 2;4.2;4010070389482
+10198;TOPModel Special Design Book;4.65;4010070387754
+10199;Create your TOPModel Make-Up - Malbuch;2.31;4010070387679
+5358;Ylvi & the Minimoomis Naya Plüsch mit Sound, 33 cm;11.41;4010070393526
+6466;Monster Cars Taschenlampe;2.93;4010070340292
+10135;Fantasy Model Schminkset MERMAID;3.8;4010070378769
+5735;Fantasy Model Radierer in muschelförmigem Anspitzer MERMAID;1.66;4010070368142
+1438;Horses Dreams Stimmungsring;1.66;4010070333775
+8826;Ylvi & the Minimoomis Knete mit Licht;1.66;4010070380939
+10028;TOPModel 3-fach Federtasche dunkelrot;17.07;4010070367473
+10029;TOPModel 3-fach Federtasche dunkelblau VELVET;17.07;4010070367480
+10112;TOPModel Rucksack Streichpailletten GOLD;11.22;4010070399283
+10149;Fantasy Model 3-fach Federtasche grau BALLETT;17.07;4010070384708
+10151;Fantasy Model Umhängetasche grau BALLETT;12.2;4010070384746
+10153;Fantasy Model Portemonnaie grau BALLETT;6.89;4010070384760
+10154;TOPModel Schlamper Friends pink;6.34;4010070384777
+10155;Fantasy Model Schlamper grau BALLETT;6.34;4010070384807
+10156;TOPModel kleine Umhängetasche Friends pink;8.29;4010070384814
+10157;Fantasy Model kleine Umhängetasche grau BALLETT;8.29;4010070384821
+10160;TOPModel Schulrucksack Friends pink;29.14;4010070384876
+10161;Fantasy Model Schulrucksack dunkelblau BALLETT;29.14;4010070384883
+10181;TOPModel kleiner Rucksack dunkelblau VELVET;9.76;4010070389703
+10187;TOPModel kleiner Rucksack Multiglitzer;9.76;4010070387730
+10204;TOPModel Rucksack mauve ALPAKA;8.78;4010070387822
+10205;TOPModel Kosmetiktasche mauve ALPAKA;4.88;4010070387839
+10238;Ylvi 3-fach Federtasche Naya Streichpaillette türkis;17.07;4010070389413
+10303;TOPModel Rucksack schwarz ALPAKA;8.78;4010070392260
+10304;TOPModel Kosmetiktasche schwarz ALPAKA;4.88;4010070392253
+10306;TOPModel 3-fach Federtasche Sterne schwarz;17.07;4010070392284
+10356;TOPModel 3-fach Federtasche pink ALPAKA;17.07;4010070393236
+10357;Trend LOVE Rucksack Paillette schwarz;11.22;4010070392499
+10043;Trend LOVE Rucksack Paillette mauve;11.22;4010070384340
+10141;Miss Melody 3-fach Federtasche LED, Blau;18.48;4010070378868
+10148;TOPModel 3-fach Federtasche Friends pink;17.07;4010070384678
+10150;TOPModel Umhängetasche Friends pink;12.2;4010070384739
+10152;TOPModel Portemonnaie Friends pink;6.89;4010070384753
+10158;Trend LOVE Rucksack Paillette dunkelblau;11.22;4010070384852
+10183;TOPModel Portemonnaie dunkelblau VELVET;6.89;4010070387693
+10206;TOPModel 3-fach Federtasche Pailletten Smiley Blau;17.07;4010070387846
+10208;TOPModel Schulrucksack Pailletten Smiley blau;29.14;4010070387860
+10231;TOPModel Portemonnaie dunkelrot VELVET;6.89;4010070389765
+10234;TOPModel Schlamper Glitzer rosa;6.34;4010070389376
+10235;TOPModel Schlamper Multiglitzer;6.34;4010070389383
+10275;Miss Melody 3-fach Federtasche Malve;17.07;4010070389550
+10277;Miss Melody Portemonnaie Blau;6.89;4010070389574
+10281;Miss Melody Handtasche Malve;8.29;4010070389611
+10284;Princess Mimi Malbuch Tasche;2.31;4010070389642
+10302;Fantasy Model gefüllter Schlamper dunkelblau Liquid BALLETT;14.3;4010070392246
+10314;J1MO71 Sortiment mit Pappdisplay;784.88;4010070399290
+10315;J1MO71 Sortiment ohne Pappdisplay;784.88;4010070399269
+10359;TOPModel Portemonnaie pink ALPAKA;6.89;4010070392512
+10377;Ylvi 3-fach Federtasche Naya Streichpailletten rosa;17.07;4010070393137
+10443;Miss Melody 3-fach Federtasche Blau;17.07;4010070396640
+4289;TOPModel Lipgloss-Set im Täschchen ALPAKA;2.93;4010070388355
+4347;TOPModel Brotdose ALPAKA;2.54;4010070396077
+6246;Princess Mimi Hase Nelly Plüsch, 28 cm;6.34;4010070392567
+6410;Ylvi & the Minimoomis Quetschball mit Licht;2.15;4010070388317
+6464;Sortiment Haarbürsten 8533 und Lipgloss 8544;905.49;4010070393939
+8780;TOPModel Radierer-Set Mini Schulbücher und Stifte;1.27;4010070381073
+10010;Miss Melody Glitzer Tattoo Set;2.93;4010070389871
+10048;TOPModel Glitzer Tattoo Set;2.93;4010070387952
+10050;TOPModel Haarspangen Words;1.27;4010070368210
+10067;SNUKIS Plüsch Alpaka Polly 21 cm, Rosa;7.22;4010070372187
+10081;Minimalbuch Create your Kitty, Bunny, Unicorn, Panda;1.38;4010070372033
+10107;SNUKIS Plüsch Alpaka Lolly 21 cm, Lila;7.22;4010070372507
+10111;Miss Melody Plüschpferd mit kämmbarer Mähne, 27 cm;8.49;4010070373207
+10121;Ylvi & the Minimoomis Naya Lip Gloss;2.15;4010070374037
+10134;TOPModel Magic Book;1.38;4010070378752
+10143;Ylvi & the Minimoomis Körper-Glitzergel;2.15;4010070386351
+10147;TOPModel Lipgloss Metallic;2.15;4010070389925
+10159;TOPModel Sporttasche Pailletten Smiley blau;8.78;4010070384869
+10165;TOPModel Make-Up Creative-Mappe;6.34;4010070381868
+10169;Miss Melody Tattoo Set;2.15;4010070384357
+10173;TOPModel Becher im Geschenkkarton, pink;3.41;4010070392321
+10174;TOPModel Becher im Geschenkkarton, lila;3.41;4010070392338
+10179;TOPModel Mini Tasche Glitzer rosa;3.9;4010070387723
+10180;TOPModel Kosmetiktasche Glitzer rosa;4.88;4010070387747
+10182;TOPModel Schlamper gefächert dunkelblau VELVET;6.34;4010070387709
+10191;TOPModel POPSTAR Malbuch;4.65;4010070387372
+10195;Create your Fantasy Model Malbuch mit Stickern BALLETT;4.65;4010070387631
+10196;Fantasy Model Geheimcode Tagebuch mit Code u. Sound BALLETT;8.49;4010070387648
+10197;Fantasy Model Schmuckkästchenmit Code und Sound BALLETT;10.54;4010070387662
+10202;TOPModel DANCE Sticker & Design Fun;4.65;4010070387792
+10207;TOPModel Schlamper Pailletten Smiley blau;8.29;4010070387853
+10209;TOPModel Portemonnaie Pailletten Smiley blau;6.89;4010070387877
+10210;Trend LOVE Handtasche Paillette mauve;9.76;4010070387884
+10211;Trend LOVE Handtasche Paillette dunkelblau;9.76;4010070387891
+10212;Trend LOVE Handtasche Paillette schwarz;9.76;4010070387907
+10214;Trend LOVE Handtasche mauve;7.32;4010070387914
+10215;Trend LOVE Handtasche dunkelblau;7.32;4010070388201
+10216;Trend LOVE Handtasche schwarz;7.32;4010070387921
+10217;Trend LOVE Handtasche pink;7.32;4010070387938
+10218;TOPModel Haarkreidestifte;2.54;4010070387969
+10223;TOPModel gefüllter Schlamper dunkelblau VELVET;14.3;4010070388287
+10225;TOPModel gefüllter Schlamper Pailletten Smiley blau;14.3;4010070388300
+10230;TOPModel Schlamper gefächert dunkelrot VELVET;6.34;4010070389772
+10232;TOPModel Mini Tasche Mulitglitzer;3.9;4010070389352
+10233;TOPModel Kosmetiktasche Multiglitzer;4.88;4010070389369
+10246;Monster Cars 3-fach Federtasche LED;18.48;4010070389499
+10249;Dino World 3-fach Federtasche LED;18.48;4010070389529
+10270;Wunscherfüller Armband;2.15;4010070388133
+10271;Porzellan Glücksbringer in Box;2.15;4010070388140
+10272;Kleinste Schutzengel im Glas in der Box;1.66;4010070388157
+10274;Dino World Brustbeutel;5.85;4010070389543
+10276;Miss Melody Kosmetiktasche Blau;4.88;4010070389567
+10278;Miss Melody Portemonnaie Malve;7.32;4010070389581
+10279;Miss Melody Umhängetasche Blau;12.2;4010070389598
+10280;Miss Melody Handtasche Blau;8.29;4010070389604
+10285;Miss Melody Kosmetiktasche Malve;4.88;4010070389802
+10286;Miss Melody Umhängetasche Malve;12.2;4010070389819
+10287;Miss Melody Loopschal Sortiert Blau & Malve;3.8;4010070389826
+10289;Fantasy Model Schreibtischunterlage mit  3D Effekt;4.2;4010070393021
+10290;TOPModel Schreibtischauflage mit 3D Effekt;4.2;4010070392932
+10291;TOPModel Spartruhe mit Code und Sound ALPAKA;8.49;4010070389901
+10295;Horses Dreams Malbuch;3.25;4010070390563
+10299;Miss Melody Dress me up;2.78;4010070391966
+10300;Monster Cars Tuning Fun;2.31;4010070392208
+10307;TOPModel Schulrucksack Sterne schwarz;29.14;4010070392291
+10308;TOPModel Create your Postcard VELVET;1.66;4010070392345
+10309;J1MO71 Schlamper pink;9.76;4010070395896
+10310;J1MO71 Schlamper dunkelgrau;9.76;4010070395902
+10311;J1MO71 Schlamper azurblau;9.76;4010070395926
+10312;J1MO71 Portemonnaie Holo multicolour;8.78;4010070395834
+10313;J1MO71 Schlamper rosa;9.76;4010070395919
+10320;J1MO71 Kosmetiktasche Holo multicolor;6.34;4010070395841
+10321;J1MO71 Kosmetiktasche Holo pink;6.34;4010070395858
+10326;J1MO71 Mini Tasche Holo multicolour;5.85;4010070395865
+10332;J1MO71 Sporttasche dunkelgrau;12.2;4010070395872
+10333;J1MO71 Sporttasche pink;12.2;4010070395889
+10335;J1MO71 Festivalarmbänder;2.15;4010070396503
+10336;J1MO71 Haarbürste;3.8;4010070392352
+10337;J1MO71 Patches 3er Set;2.93;4010070395933
+10338;J1MO71 Kugelschreiber Set;2.93;4010070392369
+10339;J1MO71 Radierer;1.27;4010070392376
+10340;J1MO71 Bleistift Set;2.15;4010070392390
+10341;J1MO71 Gelstift Set;2.54;4010070392413
+10342;J1MO71 Trinkbecher-To-Go;3.8;4010070392475
+10351;Fantasy Model Fancy Foils;2.78;4010070392383
+10352;Miss Melody Fancy Foils;2.78;4010070392406
+10353;TOPModel Love Lettersset ALPAKA;6.34;4010070392420
+10354;TOPModel Stickerblock ALPAKA;2.15;4010070392437
+10355;TOPModel Schlamper gefächert pink ALPAKA;4.39;4010070392482
+10358;Trend LOVE Kosmetiktasche Pailllette mauve;6.34;4010070392505
+10360;TOPModel Schulrucksack Trolley pink ALPAKA;29.14;4010070392529
+10361;Trend LOVE Kosmetiktasche Paillette dunkelblau;6.34;4010070392536
+10363;Dino World Magic Scratch Book;4.65;4010070392611
+10366;Create your Castle, Malbuch mit Stickern;2.78;4010070392673
+10370;Create your DINO ZOO, Malbuch mit Stickern;2.78;4010070392758
+10371;J1MO71 Creative Book;4.65;4010070392772
+10372;J1MO71 Sticker-Fan-Book;2.93;4010070392789
+10373;J1MO71 Metallic Tattoos;1.27;4010070396022
+10375;J1MO71 Block to do list;1.66;4010070392826
+10379;Ylvi & the Minimoomis Aqua Magic Book;2.78;4010070393212
+10380;Princess Mimi Aqua Magic Book;2.78;4010070393229
+10397;Trend LOVE Kosmetiktasche Paillette schwarz;6.34;4010070393977
+10398;Trend LOVE Kosmetiktasche mauve;4.88;4010070393984
+10399;Trend LOVE Kosmetiktasche dunkelblau;4.88;4010070393991
+10400;Trend LOVE Kosmetiktasche schwarz;4.88;4010070394004
+10401;Trend LOVE Kosmetiktasche pink;4.88;4010070394011
+10408;SNUKIS Plüsch Alpaka Olly 21 cm, Türkis;7.22;4010070394387
+10431;Horses Dreams Schmuckbox Motiv 1;3.8;4010070395940
+10432;Horses Dreams Schmuckbox Motiv 2;3.8;4010070395957
+3359;Dino World Sticker Fun;2.78;4010070355043
+3909;TOPModel Quetsch Figur ALPAKA;2.17;4010070392628
+3910;TOPModel Radierer ALPAKA;0.78;4010070353872
+3913;TOPModel schleimspuckendes ALPAKA;1.66;4010070389345
+3939;Miss Melody Maniküre-Set;4.2;4010070392635
+4190;Ylvi & the Minimoomis schleimspuckendes Einhorn;1.66;4010070389680
+4704;Armband, Just for you, mit Nylonband;2.54;4010070389796
+4984;Miss Melody Brustbeutel Malve;5.85;4010070392710
+5290;Horses Dreams Lipgloss;2.15;4010070389697
+5675;TOPModel Schreib-Set Lippenstift und Spiegel;2.15;4010070388263
+5676;TOPModel Radierer in Lippenstiftform;0.78;4010070388164
+5721;Ylvi & the Minimoomis Geheimbriefchen mit Deko Tapes;2.93;4010070378646
+5854;Dino World Festivalarmbänder;1.27;4010070387167
+5993;Horses Dreams Kugelschreiber figürlich;2.15;4010070373962
+5996;TOPModel Lipgloss ALPAKA;1.66;4010070391928
+6231;Dino World Radierbarer Gelstift mit Ersatzmine;1.66;4010070372019
+6324;Princess Mimi Elefant Lilly Plüsch, 28 cm;6.34;4010070392574
+6325;Princess Mimi Nilpferd Bella Plüsch, 28 cm;6.34;4010070392581
+6337;Miss Melody Taschenlampe;2.93;4010070392765
+6340;Princess Mimi Einhorn Bonny Pony Plüsch, 28 cm;6.34;4010070392598
+6433;TOPModel Bleistift mit Radiertopper;1.07;4010070349240
+6434;Dino World Water Snake;2.15;4010070392444
+6486;TOPModel Bleistift 3er Set in Schminkpinsel Optik;1.66;4010070358907
+6487;Dino World Wanduhr;6.34;4010070387266
+6585;MANGAModel Dress me up;2.31;4010070389789
+6706;TOPModel Haftnotizen mit Mini-Kugelschreiber ALPAKA;0.78;4010070392024
+6708;Dino World Kugelschreiber mit Farbwechsel Effekt;1.66;4010070367350
+7726;Miss Melody Schulrucksack Blau;29.14;4010070393922
+7761;Princess Mimi Einhorn Bonny Pony Plüsch, 38 cm;8.49;4010070394035
+8048;Fantasy Model Bleistift mit Radiertopper und Federn;1.27;4010070284718
+8533;TOPModel Klapp Haarbürsten mit Namen und Sprüchen;2.93;4010070364977
+8544;TOPModel Lipgloss;2.15;4010070387525
+8569;Princess Mimi Blechdöschen;0.78;4010070380922
+8575;TOPModel DIY Paper Fun Book;4.2;4010070390204
+8778;Miss Melody kleine Plüschpferdchen;3.8;4010070392031
+8783;Princess Mimi Spartruhe mit Code und Sound;8.49;4010070392543
+8810;Ylvi & the Minimoomis Pony Liloo Plüsch, 33 cm;11.41;4010070390884
+8811;Ylvi & the Minimoomis Pony Liloo Plüsch, 24 cm;8.49;4010070390891
+8812;Ylvi & the Minimoomis Pony Liloo Plüsch, 18 cm;6.34;4010070390907
+8822;Ylvi & the Minimoomis Stift mit Geheim-Tinte und LED-Licht;1.66;4010070356606
+8942;Miss Melody Notizbuch mit Schreibset;4.2;4010070389185
+8943;Ylvi & the Minimoomis Ballon Ball;1.27;4010070389659
+8945;Princess Mimi Stickerworld;2.31;4010070338251
+8979;Princess Mimi´s Stickerworld Mini;1.38;4010070324186
+10009;Dino World 3-fach Federtasche 3D;17.07;4010070366995
+6458;Dino World 3-fach Federtasche LED;18.48;4010070347437
+6515;Miss Melody 3-fach Federtasche Streichpailletten rot;17.07;4010070356187
+10362;TOPModel Magic Scratch Book;4.7;4010070392604
+10068;Ylvi & the Minimoomis Beauty Kit;2.56;4010070370688
+10069;Fantasy Model Face Jewels;1.68;4010070390600
+10170;TOPModel Perlenset Armbänder - Namen & Botschaften;5.52;4010070384364
+10248;Monster Cars Schlampertasche in Autoform mit Rädern;6.4;4010070389512
+10264;Schutzengel Armbändchen;2.17;4010070394486
+10265;Kleine Komplimente in der Schachtel;1.68;4010070394479
+10268;Glamour Schlüsselanhänger im Display;3.84;4010070396008
+10297;TOPModel Geheimcode Tagebuch mit Sound, Apricot;8.49;4010070391577
+3386;Dino World Pfeife;1.27;4010070389864
+5557;Konfirmationskarten im Display;0.93;4010070190477
+5558;Kommunionskarten im Display;0.93;4010070190484
+5597;Kommunionskarten Designers Best im Display;1.27;4010070210410
+6483;Ylvi & the Minimoomis Magic Slither- Magische Ringe;1.28;4010070396015
+10365;TOPModel Schmuckschatulle mit Licht;8.49;4010070392666
+10298;TOPModel Geheimcode Tagebuch mit Sound, blau;8.49;4010070391591
+10452;TOPModel Dress Me Up Stickerbuch;2.34;4010070399948
+10219;TOPModel Loopschal Metallicdruck sortiert im Display;4.24;4010070388218
+4348;Fantasy Model Brotdose MERMAID;2.56;4010070396091
+10378;TOPModel 3-fach Federtasche Liquid schwarz;18.66;4010070393205
+10383;TOPModel Gürteltasche Glitzer schwarz;4.93;4010070393267
+10288;MANGAModel Lidschatten;1.68;4010070392307
+10381;TOPModel Schlamper Liquid schwarz;6.4;4010070393243
+10369;TOPModel T-Shirt Designer Malbuch;4.22;4010070392741
+10190;Create your TOPModel Doggy Malbuch;3.71;4010070387365
+10193;TOPModel Tagebuch Design 2;4.2;4010070387396
+10445;Fantasy Model Dress me up Stickerbook;2.81;4010070399276
+10203;Create your TOPModel Malbuch;2.81;4010070387808
+10305;Ylvi & the Minimoomis Dress Me Up Sticker Fun;2.81;4010070392277
+10367;Create your Sweet Home - Malbuch mit Stickern;2.81;4010070392697
+10406;Miss Melody Stickerworld, Mal- und Stickerbuch;3.28;4010070394080
+10407;Ylvi & the Minimoomis Spieluhr mit Naya;6.77;4010070394134
+10409;Miss Melody Malbuch mit Tierkindern;1.86;4010070395209
+4293;TOPModel Lipgloss Tierfiguren;2.17;4010070392314
+10269;Zahlengeburtstagskarten Happy Birthday;1.28;4010070392048
+10434;Osterkarten im Display;1.08;4010070399771
+10435;Hochzeitskarten im Display;1.08;4010070399788
+10436;Hochzeitskarten Designers Best im Display;1.48;4010070399795
+10438;Geburt/Taufe Klappkarten im Display;1.08;4010070399818
+10449;Dino World Schlampertasche;4.43;4010070399825
+8181;Fantasy Model Tagebuch mit Schloss Motiv 1, Delfin;4.2;4010070334970
+8182;Fantasy Model Tagebuch mit Schloss Motiv 2, Pegasus;4.2;4010070334956
+10469;Create your TOPModel Kitty Malbuch;3.75;4010070400897
+10266;Geldgeschenk aus der Flaschenpost;1.68;4010070394493
+10267;Mini Herz Kerzenhalter in kleiner Schachtel;2.17;4010070395216
+10433;Herz Schlüsselanhänger;3.45;4010070396084
+10437;Schutzengel mit Filztäschchen;2.17;4010070399801
+10439;Die kleinste Botschaft der Welt im Glas;1.28;4010070400644
+10468;Miss Melody Briefpapier in Fächermappe, pink;4.24;4010070400804
+9903;J1MO71 Broschüre;0;4010070409685
+10451;Miss Melody Magic Scratch Book;4.7;4010070399931
+10464;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.57;4010070400620
+10465;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.57;4010070400637
+10493;Minicards GOLDIG;0.69;4010070401634
+10533;Create Ylvi´s World Malbuch mit Stickern;2.81;4010070401801
+3931;Miss Melody Pferdestall-Anspitzer;1.28;4010070389666
+10453;Ylvi and the Minimoomis Magic Scratch;4.7;4010070399955
+10192;TOPModel Tagebuch Design 1;4.2;4010070387389
+10368;Gestalte deine Märchenwelt;3.28;4010070392727
+10471;Create Your Animal World Malbuch mit Stickern;2.81;4010070400989
+6328;Miss Melody Festivalarmbänder;1.27;4010070333751
+10034;Ylvi & the Minimoomis Fächerschlamper;4.93;4010070367657
+10220;Fantasy Model 3-fach Federtasche Streichpailletten Delfine;17.24;4010070401610
+10226;Fantasy Model 3-fach Federtasche Einhorn LED;18.66;4010070388324
+10388;TOPModel kleine Umhängetasche Friends rosa;8.38;4010070394097
+10410;TOPModel 3-fach Federtasche Streichpaill. Stern dunkelblau;17.24;4010070395223
+10418;TOPModel 3-fach Federtasche Streichpaillette TROPICAL Kaktus;17.24;4010070406929
+10421;TOPModel 3-fach Federtasche TROPICAL blau;17.24;4010070401665
+10427;TOPModel kleiner Rucksack TROPICAL blau;9.85;4010070401719
+10428;TOPModel Brustbeutel TROPICAL blau;5.91;4010070401726
+10477;TOPModel kleiner Rucksack gold;9.85;4010070401221
+10478;TOPModel kleiner Rucksack rose;9.85;4010070401238
+10501;J1MO71 Portemonnaie Holo kupfer;8.87;4010070402686
+10502;J1MO71 Mini Tasche Holo silber;5.91;4010070402693
+10503;J1MO71 Mini Tasche Holo kupfer;5.91;4010070402709
+10504;J1MO71 Kulturtasche Holo silber;6.4;4010070402716
+10505;J1MO71 Kulturtasche Holo kupfer;6.4;4010070402723
+10507;J1MO71 Schlamper rund Holo kupfer;11.33;4010070402730
+10518;J1MO71 Mini Tasche pink;5.91;4010070412098
+10538;Ylvi 3-fach Federtasche Naya Glitzer Applikationen rosa;17.24;4010070401870
+10549;TOPModel 3-fach Federtasche Streichpaillette TROPICAL pink;17.24;4010070406851
+10551;TOPModel kleiner Rucksack TROPICAL pink;9.85;4010070406875
+10004;Miss Melody 3-fach Federtasche Rosa, Pailletten;17.24;4010070410827
+10035;Fantasy Model Kosmetiktasche Seepferde MERMAID;3.45;4010070367671
+10039;TOPModel Mini Malbuch mit Sound;2.34;4010070367763
+10104;Princess Mimi Schmuckbox mit Licht;8.57;4010070372439
+10120;TOPModel Schlamper HELLO im Display 6 Farben sortiert;8.87;4010070373931
+10139;Ylvi & the Minimoomis Pony Roosy Rainbow Plüsch, 18 cm;6.4;4010070407704
+10184;TOPModel Portemonnaie HELLO im Display 4 Farben sortiert;7.39;4010070387686
+10185;TOPModel Rucksack HELLO dunkelblau;9.85;4010070387716
+10186;TOPModel Rucksack HELLO pink;9.85;4010070387174
+10221;Ylvi & the Minimoomis Pony Roosy Rainbow Plüsch, 24 cm;8.57;4010070407711
+10239;Ylvi & the Minimoomis kleines Täschchen Holo;3.45;4010070389420
+10240;Ylvi & the Minimoomis Kosmetiktasche Holo;4.93;4010070389437
+10247;Ylvi & the Minimoomis Tattoo Glitzer-Gelstifte;2.56;4010070407025
+10292;Miss Melody Freundebuch, Motiv 1;4.24;4010070409272
+10293;Miss Melody Freundebuch, Motiv 2;4.24;4010070409340
+10316;TOPModel große Federtasche Friends rosa;17.24;4010070400651
+10317;Fantasy Model große Federtasche MERMAID;17.24;4010070398552
+10318;TOPModel Bauchtasche HELLO dunkelblau;4.93;4010070400606
+10319;TOPModel Bauchtasche HELLO pink;4.93;4010070400613
+10322;Trend LOVE Handtasche rosa;8.38;4010070410810
+10323;Trend LOVE Handtasche groß dunkelblau;9.85;4010070407001
+10324;Trend LOVE Handtasche groß schwarz;9.85;4010070407018
+10327;Trend LOVE Handtasche gelb;8.38;4010070410803
+10330;Princess Mimi Bubble Knete;1.28;4010070407780
+10334;J1MO71 Trinkflasche 500 ml;7.29;4010070401948
+10384;TOPModel 3-fach Federtasche Friends rosa;17.24;4010070393274
+10385;Fantasy Model 3-fach Federtasche MERMAID;17.24;4010070393281
+10386;TOPModel Schlamper Friends rosa;6.4;4010070393809
+10387;Fantasy Model Schlamper MERMAID;6.4;4010070393816
+10389;Fantasy Model kleine Umhängetasche MERMAID;8.38;4010070394103
+10390;TOPModel Umhängetasche Friendsrosa;12.32;4010070393298
+10391;Fantasy Model Umhängetasche MERMAID;12.32;4010070393823
+10392;TOPModel Portemonnaie Friends rosa;6.96;4010070393830
+10393;Fantasy Model Portemonnaie MERMAID;6.96;4010070393847
+10394;TOPModel Schulrucksack Friends himbeer;38.92;4010070393304
+10395;Fantasy Model Schulrucksack MERMAID;38.92;4010070393311
+10396;Ylvi & the Minimoomis Plüsch Schlamper Naya;6.4;4010070393533
+10402;TOPModel Rucksack HELLO azurblau;9.85;4010070394073
+10403;TOPModel Rucksack HELLO lila;9.85;4010070394042
+10404;TOPModel Bauchtasche HELLO azurblau;4.93;4010070394059
+10405;TOPModel Bauchtasche HELLO lila;4.93;4010070394066
+10411;TOPModel Fächerschlamper Streichpaillette Stern dunkelblau;6.4;4010070400668
+10412;TOPModel Portemonnaie Streichpaillette Stern dunkelblau;6.96;4010070400675
+10413;TOPModel Sporttasche Streichpaillette Stern dunkelblau;8.87;4010070400682
+10414;TOPModel Brustbeutel Streichpaillette Stern dunkelblau;5.91;4010070400699
+10415;TOPModel Schulrucksack Streichpaillette Stern dunkelblau;29.43;4010070400712
+10416;TOPModel Schlamper Streichpaillette pink;6.4;4010070400705
+10417;Horses Dreams 3-fach Federtasche Türkis;17.24;4010070409692
+10419;TOPModel Plüsch Schlamper TROPICAL Kaktus;4.93;4010070406936
+10422;TOPModel Schulrucksack Trolley TROPICAL blau;29.43;4010070401672
+10423;TOPModel Umhängetasche TROPICAL  blau;11.33;4010070401689
+10424;TOPModel Fächerschlamper TROPICAL blau;4.43;4010070401696
+10425;TOPModel Portemonnaie TROPICAL blau;6.96;4010070401740
+10429;TOPModel Kosmetiktasche TROPICAL blau;4.43;4010070401733
+10430;TOPModel Sporttasche TROPICAL blau;8.87;4010070401658
+10441;Miss Melody Dress up your Horse Malbuch;2.81;4010070396411
+10442;Fantasy Model Glitzer Tattoo Set MERMAID;2.96;4010070406950
+10444;Princess Mimi Dress me up Malbuch;2.81;4010070398590
+10446;Fantasy Model Schreibwarenbox MERMAID;4.24;4010070399306
+10448;TOPModel Schulrucksack Streichpaillette TROPICAL pink;29.43;4010070399764
+10456;SNUKIS Plüsch Marienkäfer Ida, 18 cm;5.52;4010070400033
+10457;SNUKIS Plüsch Eule Lulu, 18 cm;5.52;4010070400040
+10458;SNUKIS Plüsch Faultier Fred,18 cm;5.52;4010070400057
+10463;Ylvi & the Minimoomis Pony Roosy Rainbow Plüsch, 33 cm;11.53;4010070407698
+10466;Miss Melody Create your Baby Pony;2.81;4010070400729
+10470;Miss Melody Malbuch mit Masking Tapes;4.7;4010070400958
+10473;Fantasy Model Love Letterset MERMAID;6.4;4010070401009
+10474;Fantasy Model figürliche Blöckchen MERMAID;1.28;4010070401016
+10475;TOPModel kleiner Rucksack Streichpailletten gold;11.33;4010070401207
+10476;TOPModel kleiner Rucksack Streichpailletten rose multicolor;11.33;4010070401214
+10479;TOPModel Schlamper Streichpailllette gold;6.4;4010070401245
+10480;TOPModel Schlamper Streichpaillette rose multicolour;6.4;4010070401252
+10481;Fantasy Model Schmuckschatulle mit Licht MERMAID;8.57;4010070401269
+10482;TOPModel Notizbuch mit Liquid;2.56;4010070401290
+10484;TOPModel Schulplaner 2019/20 Motiv 1;4.24;4010070401320
+10485;TOPModel Schulplaner 2019/20 Motiv 2;4.24;4010070401337
+10491;Miss Melody Becher in Geschenkbox, pink;3.45;4010070401511
+10492;Miss Melody Becher in Geschenkbox, lila;3.45;4010070401504
+10494;Funky Jam Klappkarten;1.28;4010070401757
+10495;Glücksfilz Tassen;3.45;4010070407087
+10496;Klappkarten 100% Glitzer;1.48;4010070406806
+10497;Klappkarten Grüße in Gold;1.08;4010070406813
+10498;Portofino Klappkarten;1.28;4010070406967
+10500;J1MO71 Portemonnaie Holo silber;8.87;4010070402679
+10506;J1MO71 Schlamper rund Holo silber;11.33;4010070402761
+10508;J1MO71 Schlamper rund grün;9.85;4010070402747
+10509;J1MO71 Schlamper rund lila;9.85;4010070402754
+10512;J1MO71 Sporttasche Holo silber;13.3;4010070412111
+10515;J1MO71 Schlamper rund pink;11.33;4010070412135
+10517;J1MO71 Portemonnaie pink;8.87;4010070412081
+10519;J1MO71 Kulturtasche pink;6.4;4010070412104
+10521;J1MO71 Kette Silber;4.24;4010070413019
+10522;J1MO71 Ohrstecker;2.17;4010070413026
+10523;J1MO71 Perlenarmband;3.45;4010070412258
+10524;J1MO71 Kette Gold;4.24;4010070410797
+10525;J1MO71 BFF Armbänder;3.45;4010070412265
+10526;Fantasy Model Kosmetiktasche Seesterne MERMAID;3.45;4010070412326
+10527;J1MO71 Ear Cuffs;2.17;4010070412272
+10532;Horses Dreams 3-fach Federtasche Flieder;17.24;4010070409708
+10534;Ylvi Create your Unicorn Malbuch;2.34;4010070401832
+10537;Ylvi and the Minimoomis Unicorn Love Letter Set;6.4;4010070401863
+10539;TOPModel Doggy & Kitty Block;1.28;4010070401887
+10545;J1MO71 Fußbändchen;2.17;4010070412159
+10546;Ylvi 3-fach Federtasche Naya Streichpailletten flieder;17.24;4010070409739
+10550;TOPModel Portemonnaie Streichpailllette TROPICAL pink;6.96;4010070406868
+10552;TOPModel Kosmetiktasche TROPICAL pink;4.43;4010070406882
+10556;Monster Cars Geheimcode Tagebuch mit Sound;8.57;4010070407032
+10557;Dino World Geheimcode Tagebuch mit Sound;8.57;4010070407056
+10561;Morea Davis Spardose;2.17;4010070409289
+10562;Morea Davis Schmuckdose;2.56;4010070409296
+10563;Morea Davis Schlüsselanhänger in Geschenkbox;3.45;4010070409302
+10564;Morea Davis Wunsch im Fläschchen;2.56;4010070409319
+10565;Morea Davis Glücksbringermünze;1.68;4010070409326
+10566;Morea Davis Flaschenpost mit Glücksanhänger;2.17;4010070409333
+10568;Morea Davis Kerze in kleiner Dose;1.68;4010070409364
+10569;Morea Davis Schmuckschale (gold) in kleiner Box;2.17;4010070409371
+10570;Morea Davis Kugelschreiber FOR YOU;3.45;4010070409388
+10571;TOPModel Freundebuch Motiv 1;4.24;4010070409395
+10572;TOPModel Freundebuch Motiv 2;4.24;4010070409401
+10573;Ylvi & the Minimoomis Freundebuch Motiv 1;4.24;4010070409432
+10574;Ylvi & the Minimoomis Freundebuch Motiv 2;4.24;4010070409418
+10576;TOPModel Dress me up TROPICAL;3.75;4010070409630
+10577;TOPModel Schmuckkästchen groß, TROPICAL;5.52;4010070409647
+10578;TOPModel Schmuckbox;4.24;4010070409654
+10598;TOPModel 3-fach Federtasche Panda pink;17.24;4010070409975
+10600;TOPModel Portemonnaie Panda pink;6.96;4010070409999
+10601;TOPModel Umhängetasche Panda pink;11.33;4010070410001
+10602;TOPModel Sporttasche Panda pink;8.87;4010070410018
+10611;Trend LOVE Handtasche Streichpaillette schwarz Love & Peace;9.85;4010070410667
+10612;Minimoomis Plüsch Kraken Ahooy Paket;43.74;4010070410711
+10613;Minimoomi Plüsch Krake Ahooy Pink;7.29;4010070410742
+10614;Minimoomi Plüsch Krake Ahooy Lila;7.29;4010070410728
+10615;Minimoomi Plüsch Krake Ahooy Türkis;7.29;4010070410735
+10616;Ylvi & the Minimoomis Schmuckbox Unicorn;4.24;4010070410766
+10617;Create your Fantasy Friend;2.81;4010070410759
+10618;TOPModel Schulrucksack Trolley Panda pink;29.43;4010070410773
+10619;TOPModel Fächerschlamper Panda pink;4.43;4010070410780
+10622;Fantasy Model Malbuch Silver Art;3.75;4010070412234
+10623;Princess Mimi and Friends Malbuch;1.86;4010070412289
+10625;CLIP WEIN Sortiment;514.62;4010070418076
+10626;Dino World Fun-Kit;4.22;4010070412333
+10631;Monster Cars Pocket Malbuch;2.34;4010070413095
+10643;Trend LOVE Handtasche Streichpaillette schwarz Kiss & Lips;9.85;4010070414924
+10685;Secco Frizzante  0,2 l CLIP WEIN;1.97;4010070417833
+10686;Secco Frizzante 0,75 l CLIP WEIN;4.93;4010070418069
+10687;Rotwein 0,75 l CLIP WEIN;4.93;4010070418083
+10688;Weißwein 0,75 l CLIP WEIN;4.93;4010070418090
+3732;Horses Dreams Radierer Set;1.68;4010070373856
+3912;TOPModel Kugelschreiber in Geschenkbox;1.68;4010070388027
+4987;Monster Cars Kugelschreiber mit Rückzugsmotor;1.68;4010070328740
+5295;TOPModel Deko Tape;1.68;4010070400965
+5351;Fantasy Model Lipgloss Set im Täschchen MERMAID;2.96;4010070406943
+5357;Ylvi & the Minimoomis Trinkflasche Naya, 400 ml;4.24;4010070402648
+5677;Miss Melody Radierer Set im Putzkasten;2.17;4010070386320
+5678;TOPModel Buntstifteset, Haut- und Haartöne;2.56;4010070401603
+5760;Miss Melody Armbanduhr;6.4;4010070403089
+5864;Miss Melody Haftnotizen mit Mini-Kugelschreiber;0.79;4010070400941
+6011;Horses Dreams Trinkbecher-To-Go;2.96;4010070401481
+6346;Horses Dreams Mini Schreibblock mit Kugelschreiber;2.17;4010070393779
+6371;TOPModel Silikonarmbänder;1.28;4010070400972
+6412;Princess Mimi Haarbürste in Herzform;2.17;4010070401580
+6435;Minimoomis Plüsch Baby Cooco im Bettchen;9.85;4010070349417
+6454;Minimoomis Plüsch Moozi 20 cm;6.4;4010070349424
+6490;Horses Dreams Glitter-Gelstifte-Set, 5 Farben;2.17;4010070394141
+7078;Dino World Silikon-Armbanduhr;5.52;4010070401962
+7181;Fantasy Model Lipgloss MERMAID;2.17;4010070407674
+7219;Horses Dreams Mini-Schreibtisch-Set in kleiner Herzbox;2.17;4010070408138
+7983;TOPModel Bleistift mit Pompon Topper;1.28;4010070401955
+8781;Fantasy Model Feder-Kugelschreiber;2.17;4010070388232
+8831;TOPModel Glitter-Kleber-Set;1.68;4010070336578
+8866;Fantasy Model Bleistift mit Maske und Federn;1.28;4010070392925
+8922;Miss Melody Gelstifte-Set, 4 Farben;1.68;4010070402044
+10243;Ylvi & the Minimoomis kleine Plüsch-Einhörner;4.73;4010070407759
+10542;TOPModel gr. Schmuckkästchen mit Code und Sound, Mot. 1;10.64;4010070401924
+10638;Ylvi & the Minimoomis Plüsch Cooco im Schlafsack;5.52;4010070414115
+10639;Ylvi & the Minimoomis Plüsch Pooby im Schlafsack;5.52;4010070414122
+10640;Ylvi & the Minimoomis Plüsch Zooi im Schlafsack;5.52;4010070414139
+10641;Ylvi & the Minimoomis Plüsch Fioona im Schlafsack;5.52;4010070414146
+5142;Ylvi & the Minimoomis Kugelschreiber mit Licht;2.17;4010070401276
+5456;Dino World Dino-Pranke;2.56;4010070401597
+6484;Princess Mimi Fahrradklingel;2.96;4010070396039
+6707;Miss Melody Plüschfohlen Heartbreaker;5.52;4010070400934
+8779;Ylvi & the Minimoomis Einhorn Radierer;1.28;4010070409609
+10553;Dino Stickerfun, Malbuch mit Stickerbogen;2.81;4010070406974
+5991;Ylvi & the Minimoomis Bleistift mit 3D-Topper;1.28;4010070393748
+10540;TOPModel Geheimcode Tagebuch mit Sound;8.57;4010070401900
+10581;TOPModel Schmuckkästchen groß, Motiv 1;5.52;4010070409715
+10582;TOPModel Schmuckkästchen groß, Motiv 2;5.52;4010070409722
+10454;Miss Melody Tagebuch mit Code und Sound, Motiv 1;8.57;4010070399979
+10487;TOPModel Mobile Notizbuch mit Wackelbild;1.28;4010070401450
+10554;Ylvi & the Minimoomis Briefpapier in Fächermappe;4.24;4010070406981
+10555;Ylvi & the Minimoomis Briefpapier in Fächermappe;4.24;4010070406998
+10628;TOPModel 3-fach Federtasche Friends Regenbogen lila;17.24;4010070413033
+10629;TOPModel Schlamper Friends Regenbogen lila;6.4;4010070420048
+10630;TOPModel Brustbeutel Friends Regenbogen lila;6.4;4010070413057
+10634;TOPModel kleine Umhängetasche Friends Regenbogen lila;8.38;4010070420055
+10635;TOPModel Umhängetasche Friends Regenbogen lila;12.32;4010070420062
+10636;TOPModel Portemonnaie Friends Regenbogen lila;6.96;4010070414078
+10637;TOPModel Schulrucksack Friends Regenbogen lila;38.92;4010070414108
+10325;Trend LOVE Handtasche dunkelgrün;8.38;4010070398583
+10778;Handwärmer;2.17;4010070426392
+10779;Weihnachtliche Gutscheinrolle;0.79;4010070426385
+10781;Weihnachtsgeld im Filzstiefel;1.68;4010070426323
+10782;Weihnachtlicher Gutschein im Samtsäckchen;1.68;4010070426286
+10783;Weihnachtsgeld im Glas mit Wichtel;1.68;4010070426262
+10784;Weihnachtsgeld Filztäschchen;1.68;4010070426255
+10785;Weihnachtlicher Schutzengel in der Kugel;2.96;4010070426248
+10786;Kleine Weihnachtsschachtel mitKonfetti;0.79;4010070426224
+10787;Weihnachtsgeldschachtel Designers Best;1.28;4010070426200
+10788;Weihnachts-Klappkarten, Schöne Weihnachten;1.08;4010070426187
+10790;Trend LOVE kleiner Rucksack sortiert;9.85;4010070426217
+10796;Weihnachtliche Soundbox;3.45;4010070426408
+10797;Weihnachtsduftkerze in Blechdose;1.28;4010070426415
+10804;Weihnachtliche Geschenkanhänger;0.53;4010070426484
+10837;Weihnachtsgutschein Umschlag;0.79;4010070427467
+10798;Kleiner Schutzengelanhänger (weiß) in der Box;1.68;4010070426446
+10799;Schutzengel (weiß) Schlüsselanhänger in der Box;3.45;4010070426453
+10800;Schutzengel Armband,versilbert;2.56;4010070426460
+10364;TOPModel Schmuckschatulle mit Licht;8.57;4010070392642
+4197;TOPModel Trinkbecher-To-Go, TROPICAL;2.96;4010070401566
+6757;TOPModel Haarbürste mit Sprüchen, beduftet;2.96;4010070425104
+10499;Sound & Light Klappkarten;3.45;4010070412982
+10620;Musikkarten Das waren noch Zeiten;3.45;4010070411428
+10541;TOPModel Geheimcode Tagebuch mit Sound;8.57;4010070401917
+10543;TOPModel gr. Schmuckkästchen mit Code und Sound, Mot. 2;10.64;4010070401931
+981696;Weihnachtlicher Geldbrief im Glas - Nanu Nana;1.68;4010070354244
+TEST;Ständer für Giggles Tassen;3.84;4010070436490
+10447;Fantasy Model  Schreibwarenbox, Motiv 2;4.24;4010070399313
+10712;TOPModel Briefpapier in Fächermappe A5, Motiv 1;4.24;4010070418465
+10713;TOPModel Briefpapier in Fächermappe A5, Motiv 2;4.24;4010070418472
+10301;Dino World 3-fach Federtasche Streichpailletten;17.24;4010070392215
+10707;TOPModel Magic Scratch Book;4.7;4010070418410
+10746;Create your ZOO, Malbuch mit Stickern;2.81;4010070425494
+10455;Miss Melody Tagebuch mit Code und Sound, Motiv 2;8.57;4010070399986
+10528;Miss Melody 3-fach Federtasche Blau LED;18.66;4010070427993
+10529;Miss Melody 3-fach Federtasche Streichpailletten, Pink;17.24;4010070429522
+10590;Miss Melody Schulrucksack Blau;29.43;4010070409883
+10591;Miss Melody XXL Federtasche Blau;17.24;4010070409890
+10592;Miss Melody Umhängetasche Blau;12.32;4010070409906
+10593;Miss Melody Schlampertasche Blau;8.87;4010070409913
+10595;Miss Melody Kosmetiktasche Blau;4.93;4010070409937
+10596;Miss Melody Portemonnaie Blau;6.96;4010070409944
+10603;Miss Melody Schulrucksack Pink;29.43;4010070410025
+10604;Miss Melody XXL Federtasche Pink;17.24;4010070410032
+10605;Miss Melody Umhängetasche Pink;12.32;4010070410049
+10606;Miss Melody Schlampertasche Pink;6.4;4010070410056
+10608;Miss Melody Kosmetiktasche Pink;4.93;4010070410070
+10609;Miss Melody Brustbeutel Pink;5.91;4010070410087
+10621;Dino World Spring-Knete mit Glitzer;1.28;4010070412180
+10594;Miss Melody Handtasche Pailletten, Blau;8.38;4010070409920
+10607;Miss Melody Handtasche Pailletten, Pink;8.38;4010070410063
+10627;Miss Melody Handtasche Pailletten, Rosa;8.38;4010070412821
+10145;TOPModel Brotdose, lila;2.56;4010070417925
+10726;Create your Fantasy Model - Malbuch mit Stickern;4.7;4010070420291
+8940;TOPModel Kunststoff Mülleimer;3.45;4010070413088
+10420;Miss Melody Glitzer Tattoo Set;2.96;4010070412166
+10440;Create your Fantasy Face - Malbuch;4.7;4010070396343
+10724;TOPModel Magic Doppelfasermaler-Set, 10 Stifte;3.45;4010070420079
+10725;TOPModel Fasermaler-Set, 15 Stifte;3.45;4010070420086
+10871;WUNSCHERFÜLLER Soundboxen;3.45;4010070429744
+10872;WUNSCHERFÜLLER Geldschachtel, lustig;1.28;4010070429751
+10873;WUNSCHERFÜLLER Geldflasche;2.17;4010070429768
+10874;WUNSCHERFÜLLER Glasfläschchen;1.68;4010070429775
+10876;WUNSCHERFÜLLER Einmachglas;2.17;4010070430986
+10877;WUNSCHERFÜLLER Engelfigur auf Box;1.28;4010070429799
+10878;WUNSCHERFÜLLER Engel im Federkleid auf Box;2.56;4010070430290
+10879;WUNSCHERFÜLLER Engelwichtel auf  Box;1.68;4010070430313
+10880;WUNSCHERFÜLLER Engelfigur auf Glasröhrchen;2.56;4010070430320
+10881;WUNSCHERFÜLLER Schutzengelbär Gold auf Box;2.96;4010070430337
+10882;WUNSCHERFÜLLER Schutzengelbär Silber auf Box;2.96;4010070430344
+10883;WUNSCHERFÜLLER Kohlesack;1.28;4010070430375
+10885;WUNSCHERFÜLLER Glasspardose;2.17;4010070430399
+10886;WUNSCHERFÜLLER Umschlag mit Gutschein;0.79;4010070430412
+10887;WUNSCHERFÜLLER Umschlag mit Geldbrief;0.79;4010070430603
+10888;WUNSCHERFÜLLER große Karte mit Geldbrief;1.68;4010070430610
+10889;WUNSCHERFÜLLER Geldschachtel Glamour;1.68;4010070430733
+10896;WUNSCHERFÜLLER Erstbestückung;713.76;4010070430726
+8846;TOPModel Klapphaarbürste mit Spiegel;1.68;4010070420727
+10558;Fantasy Model Stickerworld;3.28;4010070408176
+10548;TOPModel Bleistift mit Radierer-Topper und Federn;1.28;4010070406844
+10728;Create your TOPModel Make-Up - Malbuch;2.34;4010070420314
+10832;Ylvi & the Minimoomis Dress Me Up Sticker Fun;2.81;4010070427399
+10535;TOPModel Trinkflasche, lila;5.52;4010070401849
+10536;TOPModel Trinkflasche, pink;5.52;4010070401856
+10752;Flower Pictures Klappkarten;1.08;4010070426507
+10753;Flower Pictures Medikarten;0.71;4010070427481
+10763;Erstbestückung Flower Pictures;413.28;4010070436506
+10890;Schutzengel Glücksfilz Schlüsselanhänger;3.45;4010070430405
+10906;Kleiner Umschlag für Geldgeschenke;0.79;4010070431266
+5757;Miss Melody Malbuch mit Stifte-Set;5.52;4010070401641
+7097;Ylvi & the Minimoomis Bleistift 3er Set;2.17;4010070409586
+7898;Ylvi & the Minimoomis Malbuch mit Magic Doppelfasermalern;4.24;4010070407773
+10461;SNUKIS Plüsch Pferd Bella, 18 cm;5.52;4010070400088
+10690;Fantasy Model 3-fach Federtasche ICEPRINCESS;17.24;4010070417857
+10691;Fantasy Model Schlamper ICEPRINCESS;6.4;4010070418656
+10692;Fantasy Model kleine Umhängetasche ICEPRINCESS;8.38;4010070418649
+10693;Fantasy Model Umhängetasche ICEPRINCESS;12.32;4010070419202
+10694;Fantasy Model Portemonnaie ICEPRINCESS;6.96;4010070419257
+10695;Fantasy Model Schulrucksack ICEPRINCESS;38.92;4010070417895
+10696;Fantasy Model große Federtasche ICEPRINCESS;17.24;4010070417901
+10697;Fantasy Model Brustbeutel ICEPRINCESS;6.4;4010070417918
+10708;TOPModel Mini Magic Scratch Book;2.34;4010070418427
+10709;Miss Melody Mini Magic Scratch Book;2.34;4010070418434
+10710;Ylvi and the Minimoomis Mini Magic Scratch Book;2.34;4010070418441
+10711;Dino World  Mini Magic Scratch Book;2.34;4010070418458
+10754;TOPModel 3-fach Federtasche Aquarell blau;17.24;4010070425111
+10755;TOPModel Portemonnaie Aquarell blau;6.96;4010070425128
+10756;TOPModel Umhängetasche Aquarell blau;11.33;4010070425135
+10757;TOPModel Sporttasche Aquarell blau;8.87;4010070425142
+10758;TOPModel Schulrucksack Trolley Aquarell Blau;29.43;4010070425159
+10759;TOPModel Fächerschlamper Aquarell blau;4.43;4010070425166
+10760;TOPModel Schlamperrolle Panda pink;4.43;4010070425173
+10762;TOPModel Flötentasche Aquarell blau;4.43;4010070425197
+10777;TOPModel 4 in1 Schlamper gefüllt Panda pink;14.78;4010070425579
+10855;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.57;4010070429287
+10856;Ylvi & the Minimoomis Tagebuch mit LED, Code und Sound;8.57;4010070429294
+8788;Dino World Brotdose;2.54;4010070390228
+6663;TOPModel Schieb-und Weg Radierer;0.98;4010070211509
+10241;Sortiment TOPModel Schlangenprägung gold und pink;78.84;4010070389444
+10242;Princess Mimi Handtasche mit Pailletten Applikation mauve;7.39;4010070389451
+10273;TOPModel Neon Doodle Malbuch mit Neon Stifte-Set;4.7;4010070393885
+10328;Ylvi & the Minimoomis Zauberstab mit Sound & Licht;5.52;4010070407179
+10329;Princess Mimi Zauberstab mit Sound & Licht;5.52;4010070407186
+10459;SNUKIS Plüsch Panda Piet, 18 cm;5.52;4010070400064
+10462;SNUKIS Plüsch Hase Daffy, 18 cm;5.52;4010070400095
+10490;SNUKIS Plüsch Zebra Mila, 18 cm;5.52;4010070401498
+10510;Ylvi kleiner Rucksack Regenbogen Glitter Anthrazit;9.85;4010070412128
+10511;Ylvi kleiner Rucksack Regenbogen Glitter Mauve;9.85;4010070414672
+10514;Sortiment TOPModel schwarz CAT;79.8;4010070414719
+10547;TOPModel Neon Doppel-Fasermaler-Set 6er;2.17;4010070406820
+10560;TOPModel Kugelschreiber mit 6 Tintenfarben;1.28;4010070408404
+10624;Princess Mimi Modelliermasse;1.28;4010070412302
+10632;Miss Melody Love Letter Set;6.4;4010070413101
+10633;Create your TOPModel Design Studio;4.24;4010070413606
+10642;Dino World 3-fach Federtasche LED;18.66;4010070414153
+10644;Ylvi 3-fach Federtaschen Regenbogen Glitzer Anthrazit;17.24;4010070415105
+10646;Ylvi 3-fach Federtaschen Regenbogen Glitzer Mauve;17.24;4010070429560
+10662;Ylvi Portemonnaie Regenbogen Glitter Mauve;7.39;4010070431853
+10663;Ylvi Portemonnaie Regenbogen Glitter Anthrazit;7.39;4010070431860
+10679;TOPModel 3-fach Federtasche dunkelblau DOG;17.24;4010070418588
+10680;TOPModel Bauchtasche Patches dunkelblau DOG;8.38;4010070418595
+10681;TOPModel Fächerschlamper Patches dunkelblau DOG;6.4;4010070418601
+10682;TOPModel Rucksack Kunstfell mit Patches dunkelblau DOG;12.32;4010070418618
+10683;TOPModel Beutel Kunstfell mit Patches dunkelblau DOG;8.87;4010070418625
+10684;TOPModel Schlampertasche Kunstfell m. Patches dunkelblau DOG;7.39;4010070418632
+10689;TOPModel 3-fach Federtasche Friends Hund pink;17.24;4010070417840
+10698;TOPModel Rucksack schwarz CAT;9.85;4010070417949
+10699;TOPModel Rucksackbeutel Kunstfell Leo mauve CAT;8.87;4010070417963
+10700;TOPModel Kosmetiktasche schwarz CAT;4.93;4010070417970
+10701;TOPModel Kosmetiktasche Kunstfell Leo mauve CAT;4.93;4010070417987
+10702;TOPModel Portemonnaie schwarz CAT;7.39;4010070417994
+10703;TOPModel Handytasche Kunstfell Leo mauve CAT;4.93;4010070418007
+10704;TOPModel 3-fach Federtasche Kunstfell Leo mauve CAT;17.24;4010070418014
+10705;TOPModel Plüsch Schlamper Katze schwarz CAT;6.4;4010070418021
+10714;TOPModel Make-Up Creative-Mappe;6.4;4010070418502
+10715;TOPModel Special Design Book;4.7;4010070418519
+10717;TOPModel 3-fach Federtasche Streichpaillette Stern Pink;17.24;4010070419356
+10718;TOPModel Fächerschlamper Streichpaillette Stern Pink;6.4;4010070419363
+10719;TOPModel Portemonnaie Streichpaillette Stern pink;6.96;4010070419370
+10720;TOPModel Sporttasche Streichpaillette Stern pink;8.87;4010070419387
+10721;TOPModel Brustbeutel Streichpaillette Stern pink;6.4;4010070419394
+10722;TOPModel Schulrucksack Streichpaillette Stern pink;29.43;4010070419400
+10723;Sortiment TOPModel Kunstfell mit Patches dunkelblau DOG;71.94;4010070419417
+10727;Fantasy Model Malbuch mit LED und Sound ICEPRINCESS;7.06;4010070420307
+10729;TOPModel 3-fach Federtasche Model pink;17.24;4010070420321
+10733;Create your -Glamour Special- Malbuch;4.7;4010070420581
+10734;TOPModel Malbuch mit Masking Tapes DOG;4.7;4010070420598
+10738;TOPModel Schlafmaske Kunstfell sortiert 3 Farben im Tray CAT;2.96;4010070420673
+10739;TOPModel Schulrucksack Streichpaillette dunkelblau DOG;29.43;4010070420680
+10740;TOPModel Stickerworld DOG;2.34;4010070420697
+10744;TOPModel Malbuch mit Pailletten;3.28;4010070425036
+10745;Create your Crazy Farm, Malbuch mit Stickern;2.81;4010070425463
+10748;TOPModel Beste Freundinnen Buch;4.24;4010070425524
+10750;Stilvoll Klappkarten;1.28;4010070420734
+10751;Trauerkarten im Display;1.28;4010070425050
+10764;TOPModel Schlamper Friends Hund pink;6.4;4010070425210
+10765;TOPModel kleine Umhängetasche Friends Hund Pink;8.38;4010070425227
+10766;TOPModel Umhängetasche Friends Hund Pink;12.32;4010070425241
+10767;TOPModel Portemonnaie Friends Hund Pink;6.96;4010070425258
+10768;TOPModel Schulrucksack Friends Hund Pink;38.92;4010070425265
+10770;Miss Melody 3-fach Federtasche Glitzer, Lila;17.24;4010070425401
+10771;Miss Melody Umhängetasche Glitzer, Lila;12.32;4010070425418
+10772;Miss Melody kleine Umhängetasche Glitzer, Lila;8.38;4010070425425
+10773;Miss Melody Brustbeutel Glitzer, Lila;6.4;4010070425432
+10774;Miss Melody Schlampertasche Glitzer, Lila;5.52;4010070425449
+10775;Miss Melody Portemonnaie Glitzer, Lila;6.96;4010070425456
+10776;Miss Melody Schulrucksack Glitzer, Lila;38.92;4010070425487
+10789;TOPModel BFF Armbändchen DOG;2.96;4010070426170
+10794;SNUKIS Rucksack Panda Pailletten;9.85;4010070426316
+10795;TOPModel Magic Scratch Book CAT;4.7;4010070426378
+10801;Halskette mit Herzanhänger, versilbert;3.84;4010070426491
+10802;TOPModel Block mit Magnetverschluss CAT;1.28;4010070426422
+10805;Miss Melody 3-fach Federtasche Lila LED;18.66;4010070427078
+10815;Sortiment TOPModel Kunstfell Leo mauve CAT;124.2;4010070427177
+10816;TOPModel Etui gefüllt blau;9.85;4010070427184
+10817;TOPModel Schlamper blau;7.39;4010070427191
+10818;TOPModel kleiner Rucksack blau;9.85;4010070427207
+10824;TOPModel kleiner Rucksack Schlangenprägung pink;9.85;4010070427269
+10825;TOPModel Schlamper Schlangenprägung pink;4.93;4010070427283
+10826;TOPModel Rucksack Streichpaillette multicolour blau;11.33;4010070427276
+10827;TOPModel Schlamper Streichpaillette multicolour blau;6.4;4010070427290
+10828;Sortiment TOPModel blau;68.96;4010070437374
+10830;TOPModel Bauchtasche Streichpaillette multicolour blau;8.38;4010070427320
+10833;Dino World Magic Scratch Book;4.7;4010070427405
+10834;Fantasy Model Schminkset ICEPRINCESS;3.84;4010070427436
+10835;Fantasy Model Glitzer Tattoo Set ICEPRINCESS;2.96;4010070427443
+10836;Fantasy Model Puder-Spray ICEPRINCESS;2.96;4010070427450
+10838;TOPModel Beauty Set CAT;3.45;4010070427474
+10839;Princess Mimi Malbuch mit Pailletten;3.28;4010070427771
+10847;TOPModel Bauchtasche Kunstfell Leo mauve CAT;7.39;4010070428297
+10854;Schutzengelbär in der Box;2.96;4010070429201
+10867;Fantasy Model Geheimcode Tagebuch mit Sound ICEPRINCESS;8.57;4010070429645
+10868;Fantasy Model Schmuckkästchen mit Code & Sound ICEPRINCESS;10.64;4010070429652
+10869;Miss Melody DIY Paper Fun Book;4.24;4010070429706
+10870;Princess Mimi Malbuch;3.28;4010070429713
+10891;Halskette mit Herzanhänger, versilbert - Erstbestückung;184.32;4010070430580
+10892;TOPModel kleiner Rucksack Schlangenprägung gold;9.85;4010070430672
+10893;TOPModel Schlamperrolle Schlangenprägung gold;4.93;4010070430665
+10894;Miss Melody Spieluhr mit Musik;6.77;4010070430696
+10895;Ylvi & the Minimoomis Spieluhr mit Naya;6.77;4010070430719
+10897;Ylvi and the Minimoomis Magic Scratch Book;4.7;4010070430818
+10898;Miss Melody Create your Dream Horse;4.7;4010070430993
+10899;Miss Melody Schmuckkästchen;5.52;4010070431037
+10900;TOPModel POPSTAR Malbuch;4.7;4010070431129
+10905;Miss Melody Puzzle 50 Teile;1.28;4010070431242
+10918;Ylvi & the Minimoomis Klapphaarbürste mit Spiegel;2.17;4010070431402
+10919;TOPModel große Federtasche Friends Hund Pink;17.24;4010070431419
+10920;Create your DINO ZOO, Malbuch mit Stickern;2.81;4010070431440
+10925;Dino World Puzzle 50 Teile;2.96;4010070431563
+10927;SNUKIS Kosmetiktasche Panda Pailletten;6.4;4010070431648
+10928;Monster Cars Magic Scratch Book;4.7;4010070431747
+10931;Princess Mimi  Fairy Stickerworld;1.86;4010070431884
+10943;Ylvi & the Minimoomis Rubbelbilder;2.17;4010070436476
+10944;Klappkarten Menschenskinder;1.08;4010070436520
+10945;Miss Melody Rubbelbilder;2.17;4010070436483
+10946;Sortiment TOPModel Streichpaillette multicolour blau;65.02;4010070437367
+10952;Princess Mimi Puzzle in Herzschachtel, 25 Teile;3.84;4010070438692
+3923;TOPModel Mini Textmarker-Set 4er;1.68;4010070412241
+3942;TOPModel Radierer-Set Mini Schulbücher und Stifte  DOG;1.28;4010070428273
+4424;TOPModel Haftnotizen mit Mini-Kugelschreiber DOG;0.79;4010070426231
+4449;Miss Melody 3er Bleistiftset;1.68;4010070407094
+4845;TOPModel Trinkbecher-To-Go CAT;2.96;4010070431570
+5480;Ylvi & the Minimoomis Magische Muschel;1.66;4010070378653
+5657;TOPModel Porzellan Becher CAT;3.45;4010070429607
+5719;Miss Melody Deko Tapes;1.68;4010070425340
+5756;Ylvi & the Minimoomis Schreibset;2.17;4010070388195
+5759;Ylvi & the Minimoomis 3 in 1 Textmarker;1.28;4010070412173
+5762;Ylvi & the Minimoomis Stimmungsarmband;1.68;4010070425357
+5776;Miss Melody Mini Schreibtisch Set in kleiner Box;2.17;4010070408145
+5950;Dino World Taschenlampe mit Bildeffekten, Dino Kino;2.56;4010070420574
+6423;TOPModel Wecker CAT;4.73;4010070429485
+6733;TOPModel Mini Notizbuch Set mit Kugelschreiber DOG;1.68;4010070429362
+6999;Miss Melody Stimmungsarmband;1.68;4010070407636
+7214;Fantasy Model Bleistift MERMAID;1.68;4010070407681
+7460;Miss Melody Kugelschreiber-Set;2.17;4010070412975
+7461;Miss Melody Buntstift-Set 10 Basic Farben;3.45;4010070418533
+8054;TOPModel Anspitzer in To-Go Becher;1.28;4010070407766
+8487;TOPModel Haftnotizen;0.79;4010070425395
+8654;TOPModel Deko Tape CAT;1.68;4010070427764
+8941;TOPModel Mini-Lipgloss-Set;2.17;4010070413132
+9848;Topschild STILVOLL;0;4010070421304
+10559;TOPModel Stand Up;4.24;4010070408305
+10736;Miss Melody Rucksack Blau;14.78;4010070420659
+10737;Miss Melody Portemonnaie Blau;8.38;4010070420666
+10747;Create your Happy Horses - Stickerbuch;2.81;4010070425500
+10812;TOPModel Karo Rucksack beige & pink sortiert;9.85;4010070427146
+10813;TOPModel Karo Bauchtasche beige & pink sortiert;7.39;4010070449384
+10820;TOPModel Schlampertasche Kunstfell sortiert im Pappträger;7.39;4010070432119
+10829;TOPModel 3-fach Federtasche Dance;17.24;4010070431044
+10840;Monster Cars 3-fach Federtasche LED Polizeiauto;18.66;4010070427825
+10846;Fantasy Model Mermaid Stickerworld;3.28;4010070428280
+10859;TOPModel Geheimcode Tagebuch mit Sound;8.57;4010070429423
+10866;Miss Melody Magic Scratch Book;4.7;4010070429591
+10921;TOPModel T-Shirt Designer Malbuch;4.22;4010070431457
+10929;TOPModel Hand Designer Malbuch;2.81;4010070431754
+10930;Miss Melody Style your Horse Malbuch;4.22;4010070431877
+10948;Fantasy Model Schmuckschatulle mit  Licht;8.57;4010070437398
+10953;Miss Melody Taschen Sortiment Blau;46.32;4010070438708
+10955;Fantasy Model Dress me up Stickerbook;2.81;4010070438722
+2180;Depesche To-Go Becher mit Sprüchen;4.24;4010070406899
+3538;Miss Melody Textmarker;1.68;4010070425364
+5649;TOPModel Schreibset im Täschchen;2.56;4010070426477
+5909;Depesche Porzellan Becher mitSprüchen und Buchstaben;4.24;4010070366285
+6372;Fantasy Model Kugelschreiber mit Licht;1.68;4010070401825
+6422;Monster Cars Radierer in Controller-Form;1.48;4010070412227
+6953;TOPModel Mini Schreibtisch-Set in Box CAT;2.17;4010070431594
+7185;Sortiment Porzellan und To-GoBecher #5909 & #2180;814.08;4010070443986
+7239;Miss Melody Lipgloss Set;2.56;4010070430634
+8139;Schutzengel-Bär Angel 365 Tage;3.45;4010070388362
+10146;TOPModel Brotdose, pink;2.56;4010070417932
+9510896;WUNSCHERFÜLLER Erstbestückung Müller;686.16;4010070449780
+10924;TOPModel Love Lettersset;6.4;4010070431549
+9908;Promotion Paket;0;4010070450779
+10922;Ylvi & the Minimoomis Dress Me Up Sticker Fun;2.81;4010070431525
+10749;Miss Melody Dress me up;2.81;4010070425562
+10741;TOPModel Beauty-Tuchmaske;0.84;4010070421311
+10860;TOPModel Geheimcode Tagebuch mit Sound;8.57;4010070429430
+10901;Miss Melody Gestalte deinen Spring-Parcours;3.45;4010070431198
+10917;TOPModel 3-fach Federtasche Tiger Jeans;17.24;4010070431396
+10282;Princess Mimi  Kindergarten-Freundebuch;4.24;4010070389628
+10843;Ylvi & the Minimoomis Glitzer-Haargel;3.45;4010070428235

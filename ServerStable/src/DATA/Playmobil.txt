@@ -1,0 +1,474 @@
+Artikelnummer;Bezeichnung;EAN;Netto
+10209;TD PM THE MOVIE S2 ;4008789102096;86.4
+10210;NF PM MOVIE FIGURES S2;4008789102102;86.4
+70139;PLAYMOBIL-Figures Boys (Serie 17);4008789701398;1.8
+10043;TD FIGURES S17 - BOYS  48 Stück;4008789100436;55.2
+10045;NF-Figures S17 - Boys - 96  ;4008789100450;110.4
+70242;PLAYMOBIL-Figures Boys (Serie 17);4008789702425;1.15
+10044;TD FIGURES S17 - Girls  48 Stück;4008789100443;55.2
+10046;NF-Figures S17 - Girls - 96;4008789100467;110.4
+70243;PLAYMOBIL-Figures Girls (Serie 17) ;4008789702432;1.15
+10049;TD FIGURES S18 - BOYS  48 Stück;4008789100498;55.2
+10050;TD Figures S18 - Girls - 48;4008789100504;110.4
+70369;PLAYMOBIL-Figures Boys (Serie 18);4008789703699;1.15
+10051;NF-Figures S18 - Boys - 96 Stück;4008789100511;55.2
+10052;NF-Figures S18 - Girls - 96 Stück;4008789100528;110.4
+70370;PLAYMOBIL-Figures Girls (Serie 18);4008789703705;1.15
+10217;TD EverDreamerz Serie 1 - 48  ;4008789102171;163.2
+10123;Säule EverDreamerz Serie 1 ;4008789101235;163.2
+10218;NF EverDreamerz Serie 1 - 24 ;4008789102188;81.6
+70389;Überraschungsbox;4008789703897;3.4
+10028;TD SCOOBY-DOO! Serie 1 - 48 ;4008789100283;86.4
+10029;NF SCOOBY-DOO! Serie 1 - 48 ;4008789100290;86.4
+70288;SCOOBY-DOO! Mystery Figures (Serie 1) ;4008789702883;1.8
+5159;Unterwassermotor im Blister;4008789051592;4.66
+5167;Neues Mitnehm-Puppenhaus;4008789051677;18.75
+5337;Flughafenlöschfahrzeug mit Li;4008789053374;38.01
+5382;Junge mit Kart;4008789053824;2.28
+5573;Zwillingskinderwagen;4008789055736;4.85
+6765;Meine Mitnehm-Arche Noah;4008789067654;19.97
+6773;Reisebus;4008789067739;10.86
+6774;Müllauto;4008789067746;7.55
+6775;Radlader;4008789067753;7.55
+6872;Polizei-Kommandozentrale mit;4008789068729;50.85
+6873;Polizei-Einsatzwagen;4008789068736;19.1
+6874;Polizei-Helikopter mit LED-Su;4008789068743;18.43
+6876;Motorradstreife mit LED-Blink;4008789068767;9.09
+6878;Polizei-Straßensperre;4008789068781;8.66
+6879;Ganoven-Quad mit Seilwinde;4008789068798;6.97
+6914;RC-Modul-Set 2 4 GHz;4008789069146;24.5
+6926;Großer Reiterhof;4008789069269;53.89
+6927;Ponyhof;4008789069276;28.85
+6928;Pferdetransporter;4008789069283;23.25
+6929;Pferdewaschplatz;4008789069290;15.51
+6930;Reitturnier;4008789069306;16.85
+6932;Pferdekutsche;4008789069320;9.44
+6933;Voltigier-Training;4008789069337;4.78
+6934;"Pferdebox ""Araber""";4008789069344;11.55
+6935;"Pferdebox ""Appaloosa""";4008789069351;11.55
+6947;Fröhlicher Ausritt;4008789069474;10.91
+6948;Ausflug mit Ponywagen;4008789069481;7.1
+6962;Mein Mitnehm-Bauernhof;4008789069627;19.97
+6964;Traktor mit Anhänger;4008789069641;9.25
+6967;Feuerwehrleiterfahrzeug;4008789069672;8.66
+6973;Reiterin mit Pferd;4008789069733;3.42
+9079;Babyausstatter;4008789090799;22.22
+9081;Geldautomat;4008789090812;5.67
+9084;Strand-Girl mit Roller;4008789090843;2.28
+9118;Piratenschiff;4008789091185;15.64
+9122;Rettungswagen;4008789091222;9.25
+9142;Muldenkipper;4008789091420;12.5
+9144;Wassertank-Laster;4008789091444;12.5
+9145;Schaufelbagger;4008789091451;12.5
+9218;Duo Pack Polizist und Langfin;4008789092182;2.82
+9219;Ghostbusters Feuerwache;4008789092199;50.6
+9220;Ghostbusters Ecto-1;4008789092205;31.79
+9221;Stay Puft Marshmallow Man;4008789092212;11.44
+9222;Slimer mit Hot Dog Stand;4008789092229;10.16
+9223;Venkman und Terror Dogs;4008789092236;7.55
+9224;Spengler und Geist;4008789092243;4.78
+9247;Astrid und Sturmpfeil;4008789092472;15.8
+9257;Ranger mit Zebra;4008789092571;2.85
+9262;"Adventskalender ""Reiterhof""";4008789092625;13.7
+9266;Modernes Wohnhaus;4008789092663;59.2
+9267;Wohnzimmer;4008789092670;9.65
+9268;Badezimmer;4008789092687;11.55
+9269;Große Familienküche;4008789092694;12.64
+9270;Fröhliches Kinderzimmer;4008789092700;8.5
+9271;Schlafzimmer;4008789092717;9.99
+9272;Einweihungsparty;4008789092724;18.53
+9275;"Tierhotel ""Pfötchen""";4008789092755;35.1
+9276;Katzenpension;4008789092762;13.17
+9277;Kleintierpension;4008789092779;13.17
+9278;Mobiler Hundesalon;4008789092786;13.52
+9279;Hundetrainer;4008789092793;5.65
+9280;Skihütte;4008789092809;37.9
+9281;Auto mit Dachbox;4008789092816;11.44
+9282;Skischule;4008789092823;8.66
+9283;Schneeballschlacht;4008789092830;5.67
+9285;Schneemobil;4008789092854;5.67
+9286;Freizeit-Wintersportler;4008789092861;5.67
+9296;Schornsteinfeger mit Glückssc;4008789092960;1.85
+9334;Sheriff;4008789093349;1.85
+9336;Feuerwehrmann;4008789093363;1.85
+9338;Teenie mit Longboard;4008789093387;1.85
+9339;Waldelfe;4008789093394;1.85
+9340;Mobile Zwergenfestung;4008789093400;41.62
+9341;Ponygespann mit Zwergenballis;4008789093417;13.25
+9343;Riesentroll mit Zwergenrucksa;4008789093431;8.5
+9344;Zwergenkönig;4008789093448;5.67
+9345;Zwerg und Pony mit Rüstung;4008789093455;4.34
+9354;Stand Up Paddling;4008789093547;2.28
+9355;Meerjungfrau;4008789093554;2.28
+9356;Bäuerin mit Schäfchen;4008789093561;2.28
+9357;Motocross-Fahrer;4008789093578;2.28
+9358;Pirat mit Schatzkiste;4008789093585;2.28
+9360;SEK-Truck mit Licht und Sound;4008789093608;31.97
+9361;SEK-Zivilfahrzeug;4008789093615;16.85
+9362;SEK-Schlauchboot;4008789093622;18.7
+9363;SEK-Helikopter;4008789093639;18.43
+9364;Amphibienfahrzeug;4008789093646;16.2
+9365;SEK-Team;4008789093653;5.67
+9374;Wind Flyer;4008789093745;5.67
+9375;Stomp Racer;4008789093752;12
+9376;Porsche Macan GTS;4008789093769;35.06
+9377;Zoo;4008789093776;21.71
+9378;Löwengehege;4008789093783;5.83
+9379;Kinderkarussell;4008789093790;7.55
+9380;Tierpfleger mit Giraffe;4008789093806;3.42
+9381;Tierpflegerin mit Elefant;4008789093813;3.42
+9382;Meine Mitnehm-Polizeistation;4008789093820;19.97
+9383;Polizeihubschrauber;4008789093837;5.65
+9384;Polizeiauto;4008789093844;7.1
+9385;Venkman mit Helikopter;4008789093851;12
+9386;Spengler mit Käfigfahrzeug;4008789093868;12
+9387;Zeddemore mit Aqua Scooter;4008789093875;12
+9388;Stantz mit Flybike;4008789093882;12
+9391;"1.2.3 Adventskalender ""Waldwe";4008789093912;13.98
+9401;Reitsportgeschäft;4008789094018;19.88
+9403;Bioladen;4008789094032;19.88
+9404;Familien-PKW mit Parkbucht;4008789094049;19.88
+9419;Schulbus;4008789094193;12.5
+9420;Sonnige Ferienvilla;4008789094209;35.06
+9421;Familien-PKW;4008789094216;16.85
+9422;Swimmingpool;4008789094223;19.88
+9423;Großer Spielplatz;4008789094230;16.85
+9424;Tretboot;4008789094247;8.5
+9425;Familie am Strand;4008789094254;11.11
+9426;Fahrrad mit Eiswagen;4008789094261;7.1
+9429;Basecamp mit T-Rex;4008789094292;35.1
+9430;Helikopter mit Flugsaurier;4008789094308;14.5
+9431;Motocross-Bike mit Raptor;4008789094315;5.65
+9432;Forschermobil mit Stegosaurus;4008789094322;16.85
+9433;Propellerboot mit Dinokäfig;4008789094339;21.6
+9434;Offroader mit Dino-Fangnetz;4008789094346;21.6
+9437;Modedesignerin;4008789094377;2.28
+9438;Sonnenfee mit Einhornfohlen;4008789094384;2.28
+9439;Kinder beim Minigolfspiel;4008789094391;2.28
+9440;Bowling-Spieler;4008789094407;2.28
+9441;Ritter mit Kanone;4008789094414;2.28
+9449;Duo Pack Strandurlauber;4008789094490;2.82
+9453;Große Schule mit Einrichtung;4008789094537;76.02
+9454;Turnhalle;4008789094544;27.9
+9455;Klassenzimmer Geschichtsunter;4008789094551;16.85
+9456;Chemieunterricht;4008789094568;9.65
+9457;Hausmeister mit Kiosk;4008789094575;5.4
+9458;Raffnuss und Taffnuss mit Kot;4008789094582;32.95
+9459;Rotzbakke und Hakenzahn;4008789094599;19.95
+9460;Fischbein und Fleischklops;4008789094605;19.95
+9461;Grobian mit Schafschleuder;4008789094612;16.85
+9462;Große Feuerwache;4008789094629;50.89
+9463;Feuerwehr-Leiterfahrzeug;4008789094636;40.93
+9464;Feuerwehr-Rüstfahrzeug;4008789094643;38.01
+9465;Feuerwehr-Teleskoplader;4008789094650;18.53
+9466;Feuerwehr-Truck;4008789094667;24.57
+9467;Feuerwehr-Löschroboter;4008789094674;7.6
+9468;Feuerwehrmänner mit Löschpump;4008789094681;11.42
+9469;Funkelnder Kristallpalast;4008789094698;75.2
+9470;Suche nach dem Liebeskristall;4008789094704;31.9
+9471;Kristalltor zur Winterwelt;4008789094711;16.75
+9472;Prachtvoller Phönix;4008789094728;10.4
+9473;Schneetroll mit Schlitten;4008789094735;11.7
+9474;Schlitten mit Königspaar;4008789094742;9.4
+9475;Luckys glückliches Zuhause;4008789094759;52.78
+9476;Luckys Schlafzimmer;4008789094766;15.64
+9477;Vater Jim mit Kutsche;4008789094773;16.85
+9478;"Pferdebox ""Lucky & Spirit""";4008789094780;11.7
+9479;"Pferdebox ""Pru & Chica Linda""";4008789094797;11.7
+9480;"Pferdebox ""Abigail & Boomeran";4008789094803;11.7
+9481;Maricela;4008789094810;2.28
+9485;"Adventskalender ""Weihnachtsba";4008789094858;13.7
+9486;"Adventskalender ""Feuerwehrein";4008789094865;13.7
+9487;Mars-Station;4008789094872;44.64
+9488;Mars-Rakete mit Startrampe;4008789094889;38.01
+9489;Mars-Erkundungsfahrzeug;4008789094896;23.25
+9490;Meteoroiden-Zerstörer;4008789094902;13.14
+9491;Mars-Trike;4008789094919;5.67
+9492;Duo Pack Astronaut und Robote;4008789094926;2.82
+9493;Weihnachtsbäckerei mit Plätzc;4008789094933;25.71
+9494;"Lichterbogen ""Weihnachtskripp";4008789094940;16.85
+9495;Weihnachtliches Wohnzimmer;4008789094957;11.44
+9496;Rentierschlitten;4008789094964;7.1
+9497;Heilige Drei Könige;4008789094971;8.66
+9498;Duo Pack Weihnachtsmann und E;4008789094988;2.82
+9500;Pistenraupe;4008789095008;12.5
+70000;Romantisches Feenboot;4008789700001;6.25
+70001;Waldfeenhaus;4008789700018;15.6
+70002;Spy Team Turboship;4008789700025;24.2
+70003;Spy Team Sub Bot;4008789700032;12
+70004;Spy Team Underwater Wing;4008789700049;7.8
+70005;TEAM S.H.A.R.K. Drill Destroy;4008789700056;19.18
+70006;Team S.H.A.R.K. Harpoon Craft;4008789700063;15.51
+70007;Team S.H.A.R.K. Rocket Rafter;4008789700070;8.04
+70008;SuperSet Prinzessinnenball;4008789700087;12.45
+70009;SuperSet Galaxy Police Gefäng;4008789700094;12.45
+70010;SuperSet Familiengarten;4008789700100;12.45
+70011;SuperSet SEK-Taucheinsatz;4008789700117;12.45
+70012;Mitnehm-Westerncity;4008789700124;18.75
+70013;Westernkutsche;4008789700131;12.5
+70014;Mein Stadthaus;4008789700148;32.35
+70015;Mein Lieblingscafé;4008789700155;24.2
+70016;Mein Blumenladen;4008789700162;24.2
+70017;Meine Trendboutique;4008789700179;24.2
+70027;Weltraumagent;4008789700278;1.85
+70028;Ritter;4008789700285;1.85
+70029;Prinzessin;4008789700292;1.85
+70030;Bäuerin;4008789700308;1.85
+70031;Rockstar;4008789700315;1.85
+70032;Pirat;4008789700322;1.85
+70033;StarterPack Seepferdchenkutsc;4008789700339;7.8
+70034;StarterPack Beim Kinderarzt;4008789700346;7.8
+70035;StarterPack Kanu-Training;4008789700353;7.8
+70036;StarterPack Kampf um den Ritt;4008789700360;7.8
+70037;Ohnezahn und Hicks mit Babydr;4008789700377;24.2
+70038;Tagschatten und Kinder mit Ba;4008789700384;21.2
+70039;Todbringer und Grimmel;4008789700391;18
+70040;Hicks und Astrid mit Babydrac;4008789700407;9
+70041;Astrid mit Fluganzug und Nimm;4008789700414;3.98
+70042;Raffnuss und Taffnuss mit Flu;4008789700421;5.9
+70043;Rotzbakke mit Fluganzug;4008789700438;2.9
+70044;Fischbein mit Fluganzug;4008789700445;2.9
+70045;Astrid und Hicks;4008789700452;3.98
+70046;FC Bayern München Fußballaren;4008789700469;35.14
+70048;Rettungshelikopter;4008789700483;21.2
+70049;Rettungswagen mit Licht und S;4008789700490;27.9
+70050;Notarzt-PKW mit Licht und Sou;4008789700506;21.2
+70051;Notarzt-Motorrad mit Blinklic;4008789700513;9
+70052;Rettungs-Balance-Roller;4008789700520;5.9
+70053;Quad mit Rettungsanhänger;4008789700537;12.64
+70055;Top Agents Pull String Flyer;4008789700551;5.9
+70056;Fairy Pull String Flyer;4008789700568;5.9
+70057;"Wurfgleiter ""Wasserflugzeug""";4008789700575;15
+70058;Hexe;4008789700582;2.28
+70059;Elfe mit Reh;4008789700599;2.28
+70060;Mädchen mit Pony;4008789700605;2.28
+70061;Kinder m. Skates u. BMX;4008789700612;2.28
+70062;Indianerhäuptling;4008789700629;2.28
+70063;Angler;4008789700636;2.28
+70064;Bohrfahrzeug;4008789700643;12.5
+70065;"Sandeimerchen ""Frühlingsblume";4008789700650;8.1
+70067;Porsche 911 Carrera 4S Polize;4008789700674;27.9
+70071;PLAYMOBIL: THE MOVIE Robotitr;4008789700711;9
+70073;PLAYMOBIL: THE MOVIE Charlie;4008789700735;15
+70075;PLAYMOBIL: THE MOVIE Del's Fo;4008789700759;27.3
+70077;PLAYMOBIL: THE MOVIE Marla im;4008789700773;21.2
+70078;PLAYMOBIL: THE MOVIE Rex Dash;4008789700780;43.7
+70079;DuoPack Ärztin und Patient;4008789700797;2.82
+70080;DuoPack Spacepolizist und Gan;4008789700803;2.82
+70081;DuoPack Feuerwehrmann und -fr;4008789700810;2.82
+70082;DuoPack Meereskönig und Nixe;4008789700827;2.82
+70083;Gänsemagd;4008789700834;2.88
+70084;Kellnerin mit Diner-Theke;4008789700841;2.88
+70085;Polizist mit Spürhund;4008789700858;2.88
+70086;Ritter mit Kanone;4008789700865;2.88
+70087;Großer Campingplatz;4008789700872;37.5
+70088;Familien-Wohnmobil;4008789700889;32.35
+70089;Familien-Camping;4008789700896;16.09
+70090;Wassersport-Schule;4008789700902;15
+70091;Sportboot mit Fun-Reifen;4008789700919;12.64
+70092;Minigolf;4008789700926;9
+70093;Familien-Fahrrad;4008789700933;9
+70094;Korallenpavillon mit Leuchtku;4008789700940;38.23
+70095;"Nachtlicht ""Perlenmuschel""";4008789700957;21.2
+70096;Beautysalon mit Perlenschatul;4008789700964;15
+70097;Meereskönig mit Haikutsche;4008789700971;12
+70098;Meerjungfrau mit Schneckengon;4008789700988;10.8
+70099;Perlensammler mit Rochen;4008789700995;15.51
+70100;Familie mit Muschelkinderwage;4008789701008;9
+70118;Stall mit Lucky  Pru & Abigai;4008789701183;37.5
+70119;Reitplatz mit Lucky & Javier;4008789701190;12
+70120;"Pferdebox ""Snips & Herr Karot";4008789701206;10.4
+70121;Schulzimmer von Miss Flores;4008789701213;10.4
+70122;Pru mit Pferd und Fohlen;4008789701220;8.04
+70123;Solana beim Voltigieren;4008789701237;5.11
+70124;Maricela mit Fahrrad;4008789701244;4.1
+70125;Schaufelbagger;4008789701251;9
+70126;Kipplaster;4008789701268;9
+70127;Prinzessin mit Einhorn;4008789701275;2.9
+70128;Ritter mit Gespenst;4008789701282;2.9
+70129;Einfamilienhaus;4008789701299;27.3
+70130;Kinderspielplatz;4008789701305;9
+70131;Riesentraktor mit Anhänger;4008789701312;24.2
+70132;Großer Bauernhof mit Silo;4008789701329;62.5
+70133;Bauernhaus;4008789701336;31.25
+70134;Hofladen-Fahrzeug;4008789701343;24.2
+70136;Hofhund mit Hütte;4008789701367;4.7
+70137;Kleintiere im Freigehege;4008789701374;5.9
+70138;Mobiles Hühnerhaus;4008789701381;8.04
+70146;Mitnehm-Tierklinik;4008789701466;18.75
+70147;Feuerlöschboot;4008789701473;18.75
+70150;Mitnehm-Pirateninsel;4008789701503;18.75
+70151;Piratenschiff;4008789701510;18.75
+70153;Prinzessin mit Kleiderpuppe;4008789701534;2.28
+70154;Mama mit Baby und Hund;4008789701541;2.28
+70155;Kinder mit Kälbchen;4008789701558;2.28
+70156;Zauberer;4008789701565;2.28
+70157;Fußballspieler mit Torwand;4008789701572;2.28
+70158;Asiakämpfer;4008789701589;2.28
+70165;Baukran;4008789701657;10.8
+70170;Ghostbusters Ecto-1A;4008789701701;37.5
+70171;Ghostbusters Sammlerfigur W.;4008789701718;25.5
+70172;Ghostbusters Sammlerfigur P.;4008789701725;25.5
+70173;Ghostbusters Sammlerfigur E.;4008789701732;25.5
+70174;Ghostbusters Sammlerfigur R.;4008789701749;25.5
+70175;Ghostbusters Figurenset Ghost;4008789701756;12
+70179;Meine erste Eisenbahn;4008789701794;32.35
+70180;Mein Mitnehm-Reiterhof;4008789701800;18
+70181;PKW mit Pferdeanhänger;4008789701817;11.49
+70182;Zoofahrzeug mit Nashorn;4008789701824;10.91
+70183;Seemann mit Fischerboot;4008789701831;10.91
+70184;LKW mit Sortiergarage;4008789701848;14.36
+70185;Passagierflugzeug;4008789701855;12
+70186;Astronaut mit Rakete;4008789701862;5.11
+70187;Adventskalender 'Kampf um den;4008789701879;13.7
+70188;"Adventskalender ""Weihnachten";4008789701886;13.7
+70189;"Adventskalender ""Auf dem Baue";4008789701893;13.7
+70190;Großes Krankenhaus mit Einric;4008789701909;87.5
+70192;Kinderkrankenzimmer;4008789701923;9
+70193;Patient im Rollstuhl;4008789701930;4.7
+70194;Oma mit Rollator;4008789701947;4.7
+70195;Beim Facharzt: Physiotherapeu;4008789701954;9
+70196;Beim Facharzt: Radiologe;4008789701961;7.8
+70197;Beim Facharzt: Augenarzt;4008789701978;9
+70198;Beim Facharzt: Zahnarzt;4008789701985;7.8
+70199;Abschleppdienst;4008789701992;26.1
+70200;Müllfahrzeug;4008789702005;29.1
+70201;Große Tankstelle;4008789702012;40.6
+70202;Autowerkstatt;4008789702029;30.3
+70203;Kehrmaschine;4008789702036;5.9
+70204;Motorradtour;4008789702043;5.9
+70205;Mein Großes Puppenhaus;4008789702050;93.7
+70206;Familienküche;4008789702067;13.8
+70207;Gemütliches Wohnzimmer;4008789702074;10.8
+70208;Schlafzimmer mit Nähecke;4008789702081;13.8
+70209;Jugendzimmer;4008789702098;9
+70210;Babyzimmer;4008789702104;9
+70211;Badezimmer;4008789702111;9
+70212;Kindergeburtstag mit Clown;4008789702128;13.8
+70220;Große Burg von Novelmore;4008789702203;106.2
+70221;Festung der Burnham Raiders;4008789702210;81.2
+70223;Tempel der Zeit;4008789702234;18
+70224;Novelmore Geniale Wasserballi;4008789702241;15
+70225;Novelmore Wolfsgespann und Wa;4008789702258;12
+70226;Burnham Raiders Kampftraining;4008789702265;9
+70227;Burnham Raiders Feuergeist un;4008789702272;5.9
+70228;Burnham Raiders Feuerwerkskan;4008789702289;4.7
+70229;Novelmore Armbrustschütze mit;4008789702296;3.5
+70230;Spy Team Kommandoschlitten;4008789702302;38.23
+70231;Spy Team Schneegleiter;4008789702319;23.25
+70232;Arctic Rebels Eistrike;4008789702326;23.25
+70233;Arctic Rebels Eisroboter;4008789702333;14.36
+70234;Spy Team Fluggleiter;4008789702340;5.68
+70235;Arctic Rebels Eisscooter;4008789702357;5.68
+70236;Wolfskrieger;4008789702364;1.85
+70237;Rapperin;4008789702371;1.85
+70238;SEK-Polizist;4008789702388;1.85
+70239;Herzkönigin;4008789702395;1.85
+70240;Zwergenkämpfer;4008789702401;1.85
+70241;It-Girl;4008789702418;1.85
+70244;Große Fußballarena zum Mitneh;4008789702449;38.23
+70245;Torwandschießen;4008789702456;8.61
+70246;Schiedsrichter-Team;4008789702463;4.54
+70247;Prinzessin am Teich;4008789702470;2.28
+70248;Agent mit Drohne;4008789702487;2.28
+70249;Straßenreiniger;4008789702494;2.28
+70250;Kinder mit Schlitten;4008789702500;2.28
+70251;Slush-Ice Verkäufer;4008789702517;2.28
+70252;Tierärztin mit Kälbchen;4008789702524;2.28
+70253;Heidi und Großvater auf der A;4008789702531;35.29
+70254;Am Kristallsee mit Heidi, Pet;4008789702548;26.16
+70255;Peters Ziegenstall;4008789702555;17.24
+70256;Schulunterricht im Dörfli;4008789702562;11.49
+70257;Dorfladen der Familie Keller;4008789702579;8.61
+70258;Clara mit Vater und Fräulein;4008789702586;5.68
+70267;Fröhliche Wasserbahn;4008789702678;35.29
+70268;Wasserrad mit Karussell;4008789702685;14.36
+70269;Wasserwippe mit Gießkanne;4008789702692;11.49
+70270;Wasserrutsche;4008789702708;8.61
+70271;Entenfamilie;4008789702715;5.68
+70272;Zwei Bauarbeiter;4008789702722;2.82
+70273;Piratenkapitän und Rotrock;4008789702739;2.82
+70274;Urlauberpaar;4008789702746;2.82
+70275;Prinzessin und Schneiderin;4008789702753;2.82
+70277;Porsche Macan S Feuerwehr;4008789702777;32.35
+70278;Expeditionstruck;4008789702784;21.85
+70279;Eisdiele am Hafen;4008789702791;21.85
+70280;"KiTa ""Regenbogen""";4008789702807;41.17
+70281;Abenteuerspielplatz;4008789702814;20.34
+70282;Krabbelgruppe;4008789702821;11.49
+70283;Kinder mit Verkleidungskiste;4008789702838;7.47
+70284;Mama mit Kindern;4008789702845;5.68
+70285;Papa und Kind mit Cabrio;4008789702852;10.34
+70286;SCOOBY-DOO! Mystery Machine;4008789702869;29.06
+70287;SCOOBY-DOO! Scooby & Shaggy m;4008789702876;7.47
+70290;"Geschenkset ""Ritter""";4008789702906;4.54
+70291;"Geschenkset ""Feuerwehr""";4008789702913;4.54
+70292;"Geschenkset ""Go Kart-Rennen""";4008789702920;4.54
+70293;"Geschenkset ""Prinzessin""";4008789702937;4.54
+70294;"Geschenkset ""Reiterhof""";4008789702944;4.54
+70295;"Geschenkset ""Zoo""";4008789702951;4.54
+70299;Fee mit Drachenbaby;4008789702999;2.28
+70300;Urlauberin mit Liegestuhl;4008789703002;2.28
+70301;Mädchen beim Zähneputzen;4008789703019;2.28
+70302;Gladiator mit Waffenständer;4008789703026;2.28
+70303;Mountainbiker auf Bergtour;4008789703033;2.28
+70304;Polizist mit Radarfalle;4008789703040;2.28
+70306;"Spielbox ""In der Polizeistati";4008789703064;11.5
+70307;"Spielbox ""In der Raumstation""";4008789703071;11.5
+70308;"Spielbox ""Im Kindergarten""";4008789703088;11.5
+70309;"Spielbox ""Beim Tierarzt""";4008789703095;11.5
+70317;Back to the Future DeLorean;4008789703170;29.06
+70324;Elefanten im Freigehege;4008789703248;11.49
+70329;Sommercamp;4008789703293;23.25
+70330;Herausforderung am Fluss;4008789703309;17.24
+70331;Abenteuer im Freien;4008789703316;11.49
+70335;Feuerwehreinsatz mit Heli und;4008789703354;18.75
+70336;Pizzeria mit Gartenrestaurant;4008789703361;18.75
+70337;Großer Reitturnierplatz;4008789703378;31.25
+70338;Große Mitnehm-SEK-Zentrale;4008789703385;31.25
+70339;"Kreativset ""Sandbäckerei""";4008789703392;11.49
+70340;"Kreativset ""Sandburg""";4008789703408;11.49
+70341;Mein großer Erlebnis-Zoo;4008789703415;41.17
+70342;Erlebnis-Streichelzoo;4008789703422;26.16
+70343;Löwen im Freigehege;4008789703439;17.24
+70344;Kleine Pandas im Freigehege;4008789703446;8.61
+70345;Orang Utans im Baum;4008789703453;11.49
+70346;Zoo-Tierarzt mit Fahrzeug;4008789703460;10.34
+70347;Erlebnis-Zoogehege;4008789703477;4.54
+70348;Erweiterungsset Erlebnis-Zoo;4008789703484;7.47
+70349;Erdmännchenkolonie;4008789703491;3.97
+70350;Alpaka mit Baby;4008789703507;3.97
+70351;Flamingoschwarm;4008789703514;3.97
+70352;2 Koalas mit Baby;4008789703521;3.97
+70353;2 Pandas mit Baby;4008789703538;3.97
+70354;Flußpferd mit Baby;4008789703545;7.47
+70355;2 Kattas;4008789703552;3.97
+70356;2 Zebras mit Baby;4008789703569;7.47
+70357;Nashorn mit Baby;4008789703576;5.68
+70358;Alligator mit Babys;4008789703583;5.68
+70359;2 Tiger mit Baby;4008789703590;7.47
+70360;Gorilla mit Babys;4008789703606;5.68
+70367;Ladetraktor mit Wassertank;4008789703675;12.5
+70368;Korallen-Lounge der Meerjungf;4008789703682;12.5
+70375;Mein Supermarkt;4008789703750;24.2
+70376;Mein Friseursalon;4008789703767;24.2
+70384;Viona;4008789703842;8.61
+70385;Rosalee;4008789703859;8.61
+70386;Clare;4008789703866;8.61
+70387;Starleen;4008789703873;8.61
+70388;Edwina;4008789703880;8.61
+70411;Totenkopf-Kampfschiff;4008789704115;52.94
+70412;Rotrocksegler;4008789704122;23.25
+70413;Rotrockbastion;4008789704139;26.16
+70414;Piraten-Schatzversteck;4008789704146;11.49
+70415;Pirat mit Kanone;4008789704153;5.68
+70459;Back to the Future Marty McFl;4008789704597;4.54
+70479;Nationalspieler Deutschland;4008789704795;3.4
+70480;Nationalspieler Frankreich A;4008789704801;3.4
+70481;Nationalspieler Frankreich B;4008789704818;3.4
+70482;Nationalspieler Spanien;4008789704825;3.4
+70483;Nationalspieler Belgien;4008789704832;3.4
+70484;Nationalspieler England;4008789704849;3.4
+70485;Nationalspieler Italien;4008789704856;3.4
+70486;Nationalspieler Polen;4008789704863;3.4
+70487;Nationalspieler Niederlande;4008789704870;3.4

@@ -1,0 +1,2 @@
+Artikelnummer;EAN;Bezeichnung;Netto
+1;4260470080001;Skyjo;8.00

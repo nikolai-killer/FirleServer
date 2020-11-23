@@ -1,0 +1,36 @@
+Artikelnummer ;Bezeichnung;EAN;Netto;Brutto
+10065; AKZENTE Doppelkarten; 4260188892408 ;0.99 € ;2.40 € 
+10064 ;AKZENTE Postkarten ;4260188892415 ;0.46 € ;1.10 € 
+10001 ;Lichtblicke Doppelkarten; 4260188891883; 0.99 €; 2.40 € 
+10003 ;Lichtblicke Midikarten; 4260188891906; 0.68 €; 1.65 € 
+10002 ;Lichtblicke Postkarten; 4260188891890; 0.46 €; 1.10 € 
+10022 ;Lichtblicke Trauer Doppelkarten; 4260188892484; 0.99 €; 2.40 € 
+10018; Lichtblicke Kommunion Doppelkarten; 4260188891999; 0.99 €; 2.40 € 
+10019; Lichtblicke Konfirmation Doppelkarten; 4260188892002; 0.99 €; 2.40 € 
+10021; Lichtblicke Firmung Doppelkarten; 4260188892026; 0.99 €; 2.40 € 
+10020; Lichtblicke Jugendweihe Doppelkarten; 4260188892019; 0.99 €; 2.40 € 
+10295; Lichtblicke KoKo Midikarten; 4260188893542; 0.68 €; 1.75 € 
+10004; Lichtblicke X-MAS Doppelkarten; 4260188891913; 1.05 €; 2.50 € 
+10006; Lichtblicke X-MAS Midikarten; 4260188891937; 0.69 €; 1.75 € 
+10005; Lichtblicke X-MAS Postkarten; 4260188891920; 0.46 €; 1.10 € 
+10007; HANGOVER Doppelkarten; 4260188891968; 0.99 €; 2.40 € 
+10008; HANGOVER Postkarten; 4260188891951; 0.46 €; 1.10 € 
+10069; Grüße Lang & Breit Panoramakarten; 4260188892422; 1.05 €; 2.50 € 
+10169; hello friends Doppelkarten; 4260188892118; 1.05 €; 2.50 € 
+10170; hello friends Postkarten; 4260188892125; 0.48 €; 1.20 € 
+10171; Sternenstaub Doppelkarten; 4260188892095; 1.05 €; 2.50 € 
+10172; Sternenstaub Postkarten; 4260188892101 ;0.48 ;€ 1.20 € 
+10031; FairMail Doppelkarten; 4260188897014 ;1.05 € ;2.50 € 
+10036; FairMail Midikarten; 4260188892088 ;0.75 €; 1.75 € 
+10032; FairMail Postkarten; 4260188897021; 0.55 € ;1.20 € 
+10203; Lieblingsbilder Doppelkarten; 4260188892293 ;0.99 €; 2.40 € 
+10185; Strand di Vari Postkarten; 4260188892255 ;0.46 € ;1.10 € 
+10202; Feine Art Doppelkarten; 4260188892378 ;1.10 € ;2.60 € 
+10260; München Postkarten; 4260188893115 ;0.46 € ;1.10 € 
+10294; Goldrichtig Postkarten; 4260188893535 ;0.55 € ;1.50 € 
+10331; Goldrichtig X-MAS Doppelkarten; 4260188893856 ;1.15 € ;2.95 € 
+10332; Goldrichtig X-MAS Postkarten; 4260188893863 ;0.55 € ;1.50 € 
+10280; High5 Doppelkarten; 4260188893610 ;1.10 € ;2.60 € 
+10281; High5 Postkarten; 4260188893603 ;0.48 € ;1.20 € 
+10367; Kupfergold Doppelkarten; 4260188894112; 1.10 € ;2.60 € 
+10330; Simsalabim PopUp-Karte; 4260188893337; 3.18 €; 7.95 € 

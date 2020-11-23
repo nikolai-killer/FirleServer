@@ -1,0 +1,1535 @@
+Artikelnummer;EAN;Bezeichnung;VE;Netto
+2124;9783897772120;black stories 1;5.58;5.58
+2701;9783897772700;black stories 2;5.58;5.58
+3050;4033477030504;Expedition Natur Looky Periskop ;47.28;3.94
+3156;4033477031563;Die schönsten Hüpfspiele;6.5;6.5
+3157;4033477031570;Gummitwist-Set ;7.02;7.02
+3158;4033477031587;Spiele-Klassiker Die schönsten Murmelspiele ;6.5;6.5
+3159;4033477031594;Spiele-Klassiker Strickliesel;9.19;9.19
+4003;4033477040039;Das große Knetset von Rony Oren;14.7;2.45
+4006;4033477040060;Die Knotenbox;8.1;8.1
+4014;4033477040145;Die große Box der Knoten-Klassiker;7.02;7.02
+4029;4033477040299;Streichholzrätsel;4.85;4.85
+8020;4033477080202;Expedition Natur Becherlupe ;23.16;1.93
+8024;4033477080240;Expedition Natur Forscherlupe ;34.8;2.9
+8035;4033477080356;Expedition Natur 3-Wege Becherlupe ;26.64;4.44
+8062;4033477080622;Expedition Natur Maxi-Becherlupe ;20.34;3.39
+9454;4033477094544;Detektiv Geheimcodestift;21.96;1.83
+9598;4033477095985;Trumpf-Quartett Gefährliche Pflanzen;11.6;2.9
+9599;4033477095992;Trumpf-Quartett Meerestiere;11.6;2.9
+9610;4033477096104;Expedition Natur Profi-Kompass ;17.97;5.99
+9618;4033477096180;Expedition Natur Stethoskop ;22.44;3.74
+9622;4033477096227;Expedition Natur Mikroskop ;25.24;6.31
+9624;4033477096241;Expedition Natur Dynamo-Taschenlampe ;25.74;4.29
+9625;4033477096258;Expedition Natur Metall-Detektor;14.85;14.85
+9628;4033477096289;Expedition Natur Outdoor-Messer;28.68;9.56
+9629;4033477096296;Expedition Natur LED Kopflampe ;23.7;3.95
+9636;4033477096364;Expedition Natur Becherlupe Basic;20.52;1.71
+9654;4033477096548;Expedition Natur Fernglas;33.6;8.4
+9660;4033477096609;Expedition Natur Taschenlampe Power - LED;54.24;3.39
+9662;4033477096623;Expedition Natur Becherlupe mit Band;28.92;2.41
+9671;4033477096715;Expedition Natur Trumpf-Quartett Vögel;11.6;2.9
+9672;4033477096722;Expedition Natur Trumpf-Quartett Waldtiere;11.6;2.9
+9673;4033477096739;Expedition Natur Trumpf-Quartett Tier-Rekorde;11.6;2.9
+9674;4033477096746;Expedition Natur Trumpf-Quartett Minimonster;11.6;2.9
+9679;4033477096791;Expedition Natur Trumpf-Quartett Gefährliche Tiere;11.6;2.9
+9686;4033477096869;Expedition Natur Trumpf-Quartett Haustiere;11.6;2.9
+9692;4033477096920;Expedition Natur Taschenmesser ;22.86;3.81
+9697;4033477096975;Expedition Natur Teleskop ;13.62;13.62
+9698;4033477096982;Expedition Natur Lupe mit Licht ;19.08;4.77
+9712;4033477097125;Expedition Natur Karabiner-Becher ;26.16;4.36
+9713;4033477097132;Expedition Natur Multifunktionales Taschenmesser ;29.1;4.85
+9715;4033477097156;Expedition Natur 50 heimische Vögel ;4.09;4.09
+9716;4033477097163;Expedition Natur 50 heimische Bäume;4.09;4.09
+9717;4033477097170;Expedition Natur 50 heimische Blumen;4.09;4.09
+9721;4033477097217;Expedition Natur Besteck-Set  ;28.62;4.77
+9722;4033477097224;Expedition Natur 50 heimische Schmetterlinge;4.09;4.09
+9723;4033477097231;Expedition Natur 50 heimische Insekten & Spinnen ;4.09;4.09
+9724;4033477097248;Expedition Natur 50 Tierspuren;4.09;4.09
+9725;4033477097255;Expedition Natur LED-Armband ;34.8;2.9
+9733;4033477097330;Expedition Natur Schrittzähler  ;19.4;4.85
+9734;4033477097347;Expedition Natur Survival-Armband ;34.8;2.9
+9738;4033477097385;Expedition Natur Profi-Taschenfernglas  ;33.57;11.19
+9739;4033477097392;Expedition Natur 50 heimische Wald- & Wildtiere;4.09;4.09
+9740;4033477097408;Expedition Natur 50 Sternbilder & Planeten;4.09;4.09
+9744;4033477097446;Expedition Natur 50 Pferde & Ponys;4.09;4.09
+9745;4033477097453;Expedition Natur 50 heimische Strandtiere & Pflanzen;4.09;4.09
+9748;4033477097484;Expedition Natur Outdoor-Handschuhe;24.36;6.09
+9758;4033477097583;Expedition Natur Taschenlampe mit Karabiner;36.64;2.29
+9761;4033477097613;Expedition Natur 50 heimische Tiere & Pflanzen an Bach & Teich;4.09;4.09
+9762;4033477097620;Expedition Natur 50 heimische Tiere & Pflanzen im Gebirge;4.09;4.09
+9763;4033477097637;Expedition Natur Bunte Kompass-Anhänger;22.32;1.86
+9764;4033477097644;Expedition Natur Thermometer-Karabiner mit Kompass;33.6;2.8
+9765;4033477097651;Expedition Natur Sitzmatte;17.4;2.9
+9766;4033477097668;Expedition Natur 3in1 LED-Taschenlampe mit Zoom-Funktion;14.56;7.28
+9767;4033477097675;Expedition Natur Outdoor-Gürtel;12.18;6.09
+9768;4033477097682;Expedition Natur Signalpfeife;32.64;1.36
+9769;4033477097699;Expedition Natur 50 Hunde;4.09;4.09
+9770;4033477097705;Expedition Natur Leucht-Clip mit Magnetverschluss;28.92;2.41
+9771;4033477097712;Expedition Natur Monokular 16 x 52 mm;12.16;12.16
+9774;4033477097743;Expedition Natur Camping-Lampe;14.56;7.28
+9778;4033477097781;Expedition Natur 50 heimische Tiere in Stadt & Garten;4.09;4.09
+9779;4033477097798;Expedition Natur 50 heimische Garten- & Feldpflanzen;4.09;4.09
+9780;4033477097804;Expedition Natur Multi-Tool;46.44;3.87
+9781;4033477097811;Expedition Natur Multifunktionaler Klapp-Spaten;18.78;9.39
+9782;4033477097828;Expedition Natur Maßband mit Karabiner;22.32;1.86
+9783;4033477097835;Expedition Natur Isolierflasche ;19.44;9.72
+9784;4033477097842;Expedition Natur Robuste LED - Taschenlampe;16.56;4.14
+9786;4033477097866;Expedition Natur 50 Katzen;4.09;4.09
+9787;4033477097873;Expedition Natur Wasserdichte LED-Taschenlampe mit SOS-Funktion;46.44;3.87
+9788;4033477097880;Expedition Natur Ultraleichtes LED-Taschenmikroskop ;27.66;9.22
+9789;4033477097897;Expedition Natur Multitool-Schraubenzieher ;40.68;3.39
+9790;4033477097903;Expedition Natur Multifunktions-Tücher;24.48;1.36
+9791;4033477097910;Expedition Natur 50 Zootiere;4.09;4.09
+9792;4033477097927;Expedition Natur 50 Haustiere;4.09;4.09
+9793;4033477097934;Expedition Natur Schlüsselbänder ;27.12;3.39
+9794;4033477097941;Expedition Natur Magnetische LED-Taschenlampe;26.16;3.27
+9795;4033477097958;Expedition Natur LED-Karabiner;26.16;3.27
+9796;4033477097965;Expedition Natur Multifunktions-Kapsel;23.16;1.93
+9797;4033477097972;Expedition Natur Multitool Schlüsselanhänger;22.4;2.8
+9798;4033477097989;Expedition Natur Taschenmesser 3 in1;18.64;2.33
+9799;4033477097996;Expedition Natur Wasserwaage;21.96;1.83
+9803;4033477098030;Expedition Natur LED-Taschenlupe;18.64;2.33
+9804;4033477098047;Expedition Natur Taschenkompass ;26.16;3.27
+9805;4033477098054;Expedition Natur 2in1 Mini-Laterne;18.64;2.33
+9806;4033477098061;Expedition Natur Schlüsselanhänger Schraubenzieher-Tool ;14.88;1.86
+9809;4033477098092;Expedition Natur Multifunktions-Karabiner mit Messer, Säge und LED-Licht;14.04;4.68
+9810;4033477098108;Expedition Natur LED-Stirnlampe;18.76;9.38
+16003;4033477160034;Krabbelkäfer Fingerpüppchen;66.96;1.86
+16008;4033477160089;Krabbelkäfer Domino ;19.56;4.89
+16011;4033477160119;Krabbelkäfer Hüpfball;23.96;5.99
+16023;4033477160232;Krabbelkäfer Vogelfutterstation ;24.8;6.2
+16028;4033477160287;Krabbelkäfer Blätter- und Blütenpresse ;19.08;4.77
+16030;4033477160300;Krabbelkäfer Springseil;20.34;3.39
+16033;4033477160331;Krabbelkäfer Fahrradhupe;20.34;3.39
+16036;4033477160362;Krabbelkäfer Taschendrachen ;68.58;3.81
+16039;4033477160393;Mein erstes Krabbelkäfer Spiel;7.4;7.4
+16046;4033477160461;Krabbelkäfer Lustige Holzraupen ;27.96;2.33
+16050;4033477160508;Krabbelkäfer Schnecken-&-Käferlabyrinth ;25.24;6.31
+16056;4033477160560;Krabbelkäfer Vogelhäuschen ;18.93;6.31
+16063;4033477160638;Mein kleiner bunter Krabbelkäfer;7.91;7.91
+16064;4033477160645;Krabbelkäfer Zauberhandtuch ;28.92;2.41
+16065;4033477160652;Krabbelkäfer Gartenhandschuhe ;16.8;2.8
+16067;4033477160676;Krabbelkäfer Fang den Frosch ;18.27;6.09
+16069;4033477160690;Krabbelkäfer Gerätegürtel ;18.27;6.09
+16072;4033477160720;Krabbelkäfer Schürze für Kinder ;24.54;4.09
+16079;4033477160799;Krabbelkäfer Marienkäferball ;18.72;4.85
+16087;4033477160874;Krabbelkäfer Fernglas ;25.24;6.31
+16091;4033477160911;Krabbelkäfer Kastanienbohrer;14.04;4.68
+16092;4033477160928;Krabbelkäfer Anzuchtsets Gemüse zum Knabbern;31.08;2.59
+16093;4033477160935;Krabbelkäfer Spritztiere;18.88;1.18
+16094;4033477160942;Krabbelkäfer Lustiges Kegelspiel;18.93;6.31
+16095;4033477160959;Krabbelkäfer Große Handlupen;23.22;3.87
+16096;4033477160966;Krabbelkäfer Turnbeutel;15.24;3.81
+16097;4033477160973;Krabbelkäfer Mein kleiner Kressegarten;25.9;2.59
+16098;4033477160980;Das große Krabbelkäfer-Stempelset;18.93;6.31
+16099;4033477160997;Krabbelkäfer Insektenhotel zum Bemalen ;18.93;6.31
+16100;4033477161000;Krabbelkäfer Futterglocken selber machen ;28.16;7.04
+16101;4033477161017;Krabbelkäfer Regenschirm Bunte Tropfen;21.09;7.03
+16102;4033477161024;Krabbelkäfer Mein kleines Schablonen-Malset;23.22;3.87
+16103;4033477161031;Krabbelkäfer Mein erstes Stick-Set;28.92;2.41
+16104;4033477161048;Krabbelkäfer Mini-Taschenlämpchen  ;22.08;0.92
+16105;4033477161055;Krabbelkäfer Kuschelige Aufzieh-Freunde;40.68;3.39
+16106;4033477161062;Krabbelkäfer Beobachtungsbox;21.84;7.28
+16108;4033477161086;Krabbelkäfer Kleine Blütenpressen;23.2;2.9
+16109;4033477161093;Krabbelkäfer Kehrset;18.93;6.31
+16110;4033477161109;Krabbelkäfer Leuchtende Sprungbälle;23.16;1.93
+16111;4033477161116;Krabbelkäfer Zahndosen;34.74;1.93
+16112;4033477161123;Krabbelkäfer Rucksack;24.32;12.16
+16113;4033477161130;Krabbelkäfer Gießkanne;18.93;6.31
+16114;4033477161147;Krabbelkäfer Eimer;17.44;4.36
+16118;4033477161185;Krabbelkäfer Pflaster;17.28;1.44
+16119;4033477161192;Krabbelkäfer Memo;18.72;4.68
+16120;4033477161208;Krabbelkäfer Eichhörnchen-Futterhaus;16.52;8.26
+16121;4033477161215;Krabbelkäfer Pilzkreisel-Set;19.62;3.27
+16122;4033477161222;Krabbelkäfer Softball;25.2;2.8
+16123;4033477161239;Krabbelkäfer Radierbare Buntstifte;17.1;2.85
+16124;4033477161246;Krabbelkäfer Lichtlupe;23.22;3.87
+16953;4033477169532;Fingerpüppchen Weihnachtsschätze ;60.5;2.42
+16954;4033477169549;Schneekugel Weihnachtswerkstatt;46.4;2.9
+16955;4033477169556;Schneekugel Polarfreunde;46.4;2.9
+16956;4033477169563;Nachtleuchtender Zauberstab;33.36;1.39
+16957;4033477169570;Anhänger Puschel-Wichtel;32.94;1.83
+16958;4033477169587;Singende Weihnachtsfreunde;34.83;3.87
+16959;4033477169594;Plüsch-Knautschis Weihnachtsschätze;46.44;3.87
+16960;4033477169600;Plüschige Handwärmer;39.24;3.27
+16961;4033477169617;Zauberhafter Loop-Schal;38.8;4.85
+16962;4033477169624;Zauberhafte Beanie-Mütze;36.8;4.6
+16963;4033477169631;Großes Holzgeduldspiel Weihnachtsschätze;27.48;2.29
+16964;4033477169648;Steckspiel Weihnachtsschätze;33.9;3.39
+16965;4033477169655;Rasender Schlitten mit Gummiantrieb;23.22;3.87
+16966;4033477169662;Holzkreisel Weihnachtsschätze;14.4;0.9
+16967;4033477169679;Holz-Spieluhr Weihnachtsschätze;19.44;9.72
+16968;4033477169686;Leuchtkreisel Weihnachtsschätze;25.02;1.39
+16969;4033477169693;Blech-Jojo Weihnachtsschätze;22.32;1.86
+16970;4033477169709;Leuchtender Glitzerflummi;25.92;1.44
+16971;4033477169716;Schlüsselanhänger Leuchtender Weihnachtsmann;29.28;1.83
+16972;4033477169723;Glitzerlampe Weihnachtsschätze;33.68;4.21
+16973;4033477169730;Projektorlampe Adventsgeschichten;27.96;2.33
+16974;4033477169747;Leuchtende Weihnachtsmurmeln;34.74;1.93
+16976;4033477169761;Clip-Portemonnaie Weihnachtsschätze;43.92;1.83
+16977;4033477169778;Radiererset Sterne;28.92;2.41
+16978;4033477169785;Leuchtender Zauberstabkugelschreiber ;29.28;1.83
+16979;4033477169792;Bleistift mit Glitzer-Radierer;32.64;1.36
+16982;4033477169822;Handwärmer Herz;40.68;3.39
+16983;4033477169839;Filz Tasche Stern;27.64;6.91
+16984;4033477169846;Filz Portemonnaie Stern;36.64;2.29
+16985;4033477169853;Kleine Geschenk-Stiefel;32.64;1.36
+16986;4033477169860;Neon-Leuchte Stern;19.4;4.85
+16987;4033477169877;Leuchtender Elch;33.68;4.21
+16988;4033477169884;Schlüsselanhänger Weihnachtslicht;17.28;1.44
+16989;4033477169891;Lichtflasche;25.26;4.21
+16991;4033477169914;Anhänger Glitzernder Elch;24.48;1.36
+16992;4033477169921;Anhänger Leucht-Stern;27.48;2.29
+16993;4033477169938;Anhänger Samt-Stern;24.48;1.36
+16994;4033477169945;Samt-Wichtel Wackelmütze;34.35;2.29
+16995;4033477169952;Anhänger Samt-Wichtel ;24.48;1.36
+16996;4033477169969;Schneekugel Waldzauber;46.4;2.9
+16997;4033477169976;Leuchtender Rentier-Kugelschreiber;39.96;3.33
+16998;4033477169983;Glitter-Bilderrahmen Wintertraum;22;2.75
+16999;4033477169990;Gutschein-Buch Wintertraum ;27.48;2.29
+17003;4033477170033;Anhänger Wichtel-Stern;25.92;1.44
+17021;4033477170217;Leuchtende Sternenclips Weihnachtsschätze;33.36;1.39
+17026;4033477170262;Anhänger Zapfenbande;22;2.75
+17027;4033477170279;Blech-Spieluhr Weihnachtsschätze;43.65;4.85
+17036;4033477170361;Wackel-Bleistift Weihnachtsschätze;22.8;0.95
+17041;4033477170415;Mini-Taschenlampen Weihnachtsschätze;32.4;0.9
+17042;4033477170422;Radierer Lustige Weihnachtsfreunde;29.28;1.22
+17045;4033477170453;Zaubertafel Weihnachtsschätze;27.84;1.16
+17046;4033477170460;Funkenrad Weihnachtsschätze;32.64;1.36
+17053;4033477170538;Anhänger Tannenbaum;27.84;1.16
+17055;4033477170552;Anhänger Kugeliger Wichtel;24.48;1.36
+17058;4033477170583;24 Geschenkboxen;26.16;4.36
+17061;4033477170613;Lichterkette Mini-Stern & Co.;33.03;3.67
+17065;4033477170651;Handwärmer Flockenzauber;40.68;3.39
+17069;4033477170699;Weihnachtsklebeband Briefmarken;32.64;1.36
+17071;4033477170712;Schneekugeln Weihnacht;46.4;2.9
+17072;4033477170729;Schneekugeln Winterwald;46.4;2.9
+17080;4033477170804;Handwärmer Weihnachtsschätze;22.32;1.86
+17081;4033477170811;Gutschein-Glas Frohe Weihnachten;28.44;2.37
+17082;4033477170828;Kaleidoskop aus Holz;28.92;2.41
+17085;4033477170859;Spieluhr-Häuschen;43.65;4.85
+17086;4033477170866;Plüschige Weihnachtsflitzer;50.85;3.39
+17087;4033477170873;Zauberhafter Waschhandschuh Weihnachtsschätze;33.48;1.86
+17088;4033477170880;Plüschiger LED-Stern;34.88;4.36
+17089;4033477170897;Wackelige Weihnachtsfreunde;34.83;3.87
+17090;4033477170903;Flummi Weihnachtsfreunde;34.95;2.33
+17093;4033477170934;Shopper Lovely things;14.55;4.85
+17094;4033477170941;Handwärmflasche;40.68;3.39
+17096;4033477170965;Handwärmer Basic;27.9;1.86
+17097;4033477170972;Puschel-Bleistift Wintertraum;25.92;1.44
+17098;4033477170989;Krippe im Köfferchen ;36.48;12.16
+17100;4033477171009;Schneekugeln Wichtel;46.4;2.9
+17128;4033477171283;Weihnachtslichter LED;27.48;2.29
+17149;4033477171498;Teelicht-Karussell Weihnachten ;78.48;4.36
+17162;4033477171627;Glitter-Gelstifte Weihnachtsschätze;28.92;2.41
+17168;4033477171689;Leuchtender Sternenball;30.51;3.39
+17170;4033477171702;Meine kleine Weihnachtsmusik;40.68;3.39
+17171;4033477171719;Leuchtender Sprungball;27.8;1.39
+17176;4033477171764;Leuchtende Schneekugel Winterhaus ;29.1;4.85
+17183;4033477171832;Lichterkette Engelshaar;28.89;3.21
+17189;4033477171894;Gelstifte 3er-Set;14.46;2.41
+17192;4033477171924;Motivlocher Wintertraum;27.9;1.86
+17198;4033477171986;Rasende Weihnachtsboten;46.32;1.93
+17244;4033477172440;Kleines Holzgeduldspiel Weihnachtsschätze;34.56;1.44
+17254;4033477172549;Zauberhandtuch Weihnachtsschätze;27.96;2.33
+17266;4033477172662;Kleine Weihnachtsradierer;34.56;1.44
+17271;4033477172716;Säckchen voller Sterne ;52.2;2.9
+17281;4033477172815;Schneekugeln Winterzauber;46.4;2.9
+17293;4033477172938;Mein Weihnachtsengel;23.16;1.93
+17297;4033477172976;Kuschelige Zaubersocken;39.24;3.27
+17338;4033477173386;Anhänger Klingelnder Wichtel;27.2;1.36
+17345;4033477173454;Glitzerndes Gutscheinglas;29.28;1.83
+17348;4033477173485;Glitzernder LED Anhänger Stern & Herz;27.48;2.29
+17351;4033477173515;Glitzer-Leuchtstern;44.88;3.74
+17352;4033477173522;Bunte Mini-Lichterkette;33.03;3.67
+17355;4033477173553;LED Mini-Glas Wintertraum;36.15;2.41
+17359;4033477173591;Anhänger Weihnachtsengel;28.8;1.44
+17364;4033477173645;Anhänger Kuscheliger Elch;32.94;1.83
+17378;4033477173782;Lichtbox Wintertraum;36.54;6.09
+17379;4033477173799;Drehstempel Wintertraum;25.74;4.29
+17380;4033477173805;Wärmflasche Rudi;19.46;9.73
+17381;4033477173812;Shopper Wundertüte;14.55;4.85
+17382;4033477173829;Handlicht Wintertraum;44;2.75
+17384;4033477173843;Kugelschreiber Rudi;28.92;2.41
+17385;4033477173850;Zaubersocken für Große;40.68;3.39
+17386;4033477173867;Mini-Geschenkbriefe;32.94;1.83
+17387;4033477173874;Wandhänger Rudi;19.4;4.85
+17389;4033477173898;Filz Geschenktasche mit Grußkarte;34.8;2.9
+17390;4033477173904;Filz Täschchen mit Grußkarte;33;2.75
+17477;4033477174772;Weihnachtskrippe aus Holz;29.2;14.6
+17994;4033477179944;Spieluhr Wintertraum;67.2;2.8
+18000;4033477180001;Kinder-Koch-Set ;29.67;9.89
+18001;4033477180018;Kinder-Back-Set ;34.14;11.38
+20001;4033477200013;Traumsterne Box Große Sterne ;36;0.18
+20002;4033477200020;Traumsterne Box Kleine Sterne;32;0.08
+20006;4033477200068;Traumsterne Box Mittlere Sterne;36;0.12
+20007;4033477200075;Traumsterne Box Mond & Sterne ;39.95;0.1
+20008;4033477200082;Traumsterne Kleine Sternenmischung;36.25;1.45
+20018;4033477200181;Traumsterne Kleine Traumsternchen ;52.2;2.9
+21031;4033477210319;50 lustige Spiele für unterwegs;4.09;4.09
+21045;4033477210456;50 lustige Spiele für den Kindergeburtstag;4.09;4.09
+21051;4033477210517;50 knifflige Weihnachtsrätsel ;4.09;4.09
+21051;4033477210517;50 knifflige Weihnachtsrätsel ;4.09;4.09
+21057;4033477210579;50 tolle Ideen für die Ferien;4.09;4.09
+21058;4033477210586;50 knifflige Knobeleien für kleine Rätselfreunde;4.09;4.09
+21066;4033477210661;50 verblüffende Experimente zum Selbermachen und Staunen                               ;4.09;4.09
+21067;4033477210678;50 optische Illusionen                         ;4.09;4.09
+21077;4033477210777;50 lustige Bilderrätsel für Knobelfreunde;4.09;4.09
+21078;4033477210784;50 lustige Spiele für lange Autofahrten;4.09;4.09
+21079;4033477210791;50 Naturexperimente ;4.09;4.09
+21082;4033477210821;50 Logikrätsel für kleine Rätselfreunde;4.09;4.09
+21085;4033477210852;50 blitzschnelle Bastelideen;4.09;4.09
+21090;4033477210906;50 tolle Zaubertricks für kleine Magier;4.09;4.09
+21092;4033477210920;50 tolle Tipps für kleine Gärtner;4.09;4.09
+21093;4033477210937;Tierisch fit! 50 spielerische Übungen für kleine Energieb.;4.09;4.09
+21095;4033477210951;50 leckerleichte Rezepte für kleine Köche;4.09;4.09
+21096;4033477210968;50 tolle Entspannungsideen für Kinder;4.09;4.09
+21097;4033477210975;50 erstaunliche Experimente für kleine Wissenschaftler;4.09;4.09
+21123;4033477211231;50 Reise-Regen-Rücksitz-Rätsel;4.09;4.09
+25135;4033477251350;Querdenken - um die Ecke denken;10.81;10.81
+25139;4033477251398;Loop light;41.25;2.75
+25150;4033477251503;Christiane Stengers Gedächtnistraining;9.73;9.73
+25151;4033477251510;moses. Taschenbüro;40.68;3.39
+25158;4033477251589;Taschenlicht;44.8;2.8
+25168;4033477251688;Die große Box mit Optischen Illusionen;12.16;12.16
+25172;4033477251725;Lunchbag Flower;16.8;2.8
+25173;4033477251732;Lunchbag Dalmatiner Dots ;16.8;2.8
+26017;4033477260178;Mini Büro Box;40.68;3.39
+26029;4033477260291;Biegestifte Schlange & Co. ;33.48;1.86
+26046;4033477260468;Glitter Gelstifte ;23.16;1.93
+26056;4033477260567;Lehrerstempel ;14.55;4.85
+26058;4033477260581;Mini Glittergelstifte ;28.92;2.41
+26062;4033477260628;Geheimcodestift Schmetterling ;21.96;1.83
+26063;4033477260635;Lustige Lesefreunde  ;30.78;1.71
+26070;4033477260703;Wachsmalstifte Paper-Wrap ;34.88;4.36
+26072;4033477260727;Neon-Buntstifte ;34.74;1.93
+26079;4033477260796;Tagebuch Cats;12.18;6.09
+26092;4033477260925;Tagebuch Flowers;12.18;6.09
+26099;4033477260994;Knet-Radierer;21.12;0.44
+26106;4033477261069;Pferde-Radierer;22.32;1.86
+26107;4033477261076;Baustein-Radierer;22.32;1.86
+26108;4033477261083;Radiersets Bunte Tierwelt;34.35;2.29
+26109;4033477261090;Einhorn-Kugelschreiber;34.56;1.44
+26111;4033477261113;Einhorn-Glittergelstifte;23.04;1.92
+26113;4033477261137;8-Farb-Kugelschreiber ;21.96;1.83
+26115;4033477261151;Einhorn-Bleistift mit Radierer;22.08;0.92
+26118;4033477261182;Sticky Notes Flowers & Dots;34.8;2.9
+26119;4033477261199;Kugelschreiber Flowers & Dots;33.12;0.92
+26122;4033477261229;Bleistifte Flowers & Dots;14.16;0.59
+26123;4033477261236;Radierer Flowers & Dots;21.6;0.9
+26125;4033477261250;Mäppchen Flowers & Dots - Dots;12.63;4.21
+26127;4033477261274;Mini Büro Flowers & Dots;40.68;3.39
+26129;4033477261298;Sticker von der Rolle;24.48;1.36
+26130;4033477261304;Kleine Stempelbox Einhorn;19.98;3.33
+26133;4033477261335;Neon-Buntstifte XL ;34.8;2.9
+26135;4033477261359;Einhorn-Radierer;34.56;1.44
+26136;4033477261366;Radierer in der Sammeldose;34.56;1.44
+26138;4033477261380;Weltkugel-Radierer ;34.56;1.44
+26139;4033477261397;Tagebuch Comic;12.18;6.09
+26140;4033477261403;Emoji-Radierer;21.76;1.36
+26141;4033477261410;Space-Radierer;29.28;1.83
+26142;4033477261427;Radierer Crazy Cats & Dogs;28.32;1.18
+26143;4033477261434;Regenbogen-Marker;33.48;1.86
+26144;4033477261441;Diamant-Kugelschreiber ;29.28;1.83
+26146;4033477261465;Kugelschreiber Punkte & Sterne;33.6;2.8
+26147;4033477261472;Wachsmaler Multi-Color;23.2;2.9
+26148;4033477261489;Federmäppchen NEON;26.1;2.9
+26151;4033477261519;Lesezeichen mit Band Miezekatzen;14.4;1.2
+26152;4033477261526;Lesezeichen mit Band Pferdezauber;14.4;1.2
+26153;4033477261533;Lesezeichen mit Band Lesefuchs;14.4;1.2
+26154;4033477261540;Lesezeichen mit Band Alphabet;14.4;1.2
+26155;4033477261557;Lesezeichen mit Band Superhero;14.4;1.2
+26156;4033477261564;Lesezeichen mit Band Flowers & Dots;14.4;1.2
+26159;4033477261595;Tagebuch Dots;12.18;6.09
+26160;4033477261601;Lesezeichen mit Band Leseeule;14.4;1.2
+26161;4033477261618;Lesezeichen mit Band Meerjungfrau;14.4;1.2
+26162;4033477261625;Lesezeichen mit Band Monster;14.4;1.2
+26163;4033477261632;Radierer Bunte Stifte;21.6;0.9
+26164;4033477261649;Bunte Steck-Radierer;27.96;2.33
+26165;4033477261656;Puzzle-Cube Radierer ;28.32;1.18
+26166;4033477261663;Lama-Bleistift mit Radierer;32.64;1.36
+26167;4033477261670;Pony-Bleistift mit Radierer;27.6;1.15
+26168;4033477261687;Puschel-Kugelschreiber;16.68;1.39
+26169;4033477261694;Kugelschreiber Kleine Nixe;23.16;1.93
+26171;4033477261717;Glitzer-Dekokleber;16.32;1.36
+26172;4033477261724;Kugelschreiber Rainbow-Glitter;21.76;1.36
+26173;4033477261731;Notizbuch mit glitzernden Wendepailletten;16.84;4.21
+26174;4033477261748;Mäppchen mit glitzernden Wendepailletten;13.56;3.39
+26175;4033477261755;Deko-Tape Glitter;24.48;1.36
+26177;4033477261779;Hai-Radierer;27.6;1.15
+26178;4033477261786;Geheimcodestift Kamera;21.96;1.83
+26179;4033477261793;Lese Buddy - Das multifunktionale Leselicht pink;18.93;6.31
+26180;4033477261809;Lese Buddy - Das multifunktionale Leselicht blau;18.93;6.31
+26181;4033477261816;Regenbogen Deko-Tape ;26.16;3.27
+26182;4033477261823;Regenbogen Radierer;21.96;1.83
+26183;4033477261830;Regenbogen Kugelschreiber;22.32;1.86
+26184;4033477261847;Regenbogen Gelstifte;27.96;2.33
+26185;4033477261854;Radierset Meerjungfrau;33.48;1.86
+26187;4033477261878;Glitzer-Kugelschreiber;27.96;2.33
+26188;4033477261885;Notizbuch A6 mit Wendepailletten;34.8;2.9
+26189;4033477261892;Lesezeichen mit Band Schulstart;14.4;1.2
+26190;4033477261908;Lesezeichen mit Band Space;14.4;1.2
+26191;4033477261915;Kugelschreiber Regenbogen-Anhänger;32.94;1.83
+26192;4033477261922;Regenbogen Krims-Krams-Täschchen;9.32;2.33
+26193;4033477261939;Astronauten-Radierer;33.36;1.39
+26194;4033477261946;Radiererset NICE;21.84;1.82
+26195;4033477261953;Bleistift mit Radierer NICE;27.6;1.15
+26196;4033477261960;Perlen-Kugelschreiber ;29.76;1.86
+26200;4033477262004;Code-Kugelschreiber;21.84;1.82
+26201;4033477262011;Anspitzer Ab in die Tonne ;17.28;1.44
+26805;4033477268051;Stempelbox Bauernhoftiere ;19.98;3.33
+26843;4033477268433;Stempelspaß ABC;21.87;7.29
+26869;4033477268693;Kleine Stempelbox Fahrzeuge;19.98;3.33
+27078;4033477270788;Froschkönig Zauberkugel;34.8;2.9
+27165;4033477271655;Slim Pens ;33.12;0.92
+27167;4033477271679;Schlüsselanhänger Leuchtender Glücksbringer;28.8;1.44
+27168;4033477271686;Mini-Wecker Wake up;50.85;3.39
+27170;4033477271709;Luftige Schreiberlinge;39.24;3.27
+27171;4033477271716;Spieluhr Happy Birthday;40.68;3.39
+27172;4033477271723;Mini-Glühbirne;27.48;2.29
+27173;4033477271730;Mini-Lichtbox am Schlüsselbund;27.48;2.29
+27175;4033477271754;Radierer Große Meister der Musik Beethoven;28.95;1.93
+27176;4033477271761;Radierer Große Meister der Musik Mozart;28.95;1.93
+27177;4033477271778;Radierer Große Meister der Musik Bach;28.95;1.93
+27178;4033477271785;Display Radierer Große Meister der Musik;28.95;1.93
+27179;4033477271792;Buzzer;30.96;3.87
+27180;4033477271808;Kleine Schreiber;45.8;2.29
+27181;4033477271815;Kleine Börse;44.8;2.8
+27182;4033477271822;Handlicht Design;44;2.75
+27417;4033477274175;Ed, the Cat Shopper Like mich ;16.02;5.34
+27421;4033477274212;Ed, the Cat Shopper Fette Beute ;16.02;5.34
+27428;4033477274281;Ed, the Cat Täschchen Cats ;16.84;4.21
+27429;4033477274298;Ed, the Cat Täschchen Uups  ;16.84;4.21
+27440;4033477274403;Ed, the Cat Zaubershopper;29.92;3.74
+27444;4033477274441;Ed, the Cat Shopper Krone;16.02;5.34
+27445;4033477274458;Ed, the Cat Shopper Cats allover;16.02;5.34
+27449;4033477274496;Ed, the cat Wärmflasche ;19.46;9.73
+27450;4033477274502;Ed, the cat Stimmungslicht;21.12;7.04
+27452;4033477274526;Ed, the cat Magnet-Set ;43.38;2.41
+27453;4033477274533;Ed, the Cat Cat Case;18.93;6.31
+27455;4033477274557;Ed, the Cat Magnetkörbchen;22.32;1.86
+27456;4033477274564;Ed, the Cat Hot Cat Tasse;17.44;4.36
+27458;4033477274588;Ed, the Cat Türstopper Cat Stop;19.44;9.72
+27459;4033477274595;Ed, the Cat Rucksack Cats all over;26.16;4.36
+27460;4033477274601;Ed, the Cat Rucksack Smile;26.16;4.36
+27461;4033477274618;Ed, the Cat Futterschale Feed me ;19.4;4.85
+27466;4033477274663;Ed, the Cat Lucky Ed;29.1;4.85
+27467;4033477274670;Ed, the Cat Nackenkissen ;19.44;9.72
+27468;4033477274687;Ed, the Cat Wet Cat;46.44;3.87
+27469;4033477274694;Ed, the Cat Shopper Edyoucation;16.02;5.34
+27470;4033477274700;Ed, the Cat Schlüsselanhänger;27.96;2.33
+27471;4033477274717;Ed, the Cat Kuschelsocken;25.26;4.21
+27472;4033477274724;Ed, the Cat Mini-Lichterkette;25.26;4.21
+27473;4033477274731;Ed, the Cat Kugelschreiber;32.94;1.83
+27475;4033477274755;Ed, the Cat Shopper Fell in Love;16.02;5.34
+28029;4033477280299;Streichholzspiele;4.85;4.85
+28030;4033477280305;Zündstoff;8.26;8.26
+28032;4033477280329;Unglaubliche Kartentricks für jede Gelegenheit;5.98;5.98
+28034;4033477280343;Sprengstoff. Das Spiel mit hochexplosiven Fragen;8.26;8.26
+28036;4033477280367;Die magische Welt der Kartentricks ;6.35;6.35
+28040;4033477280404;Die magische Welt der Zaubertricks;10.81;10.81
+28047;4033477280473;Fabelhafte Münzspiele;5.39;5.39
+28050;4033477280503;Meine Freundinnen;4.85;4.85
+28051;4033477280510;Schön war's. Das Buch zum Abschied für liebe Kolleginnen und Kollegen;7.28;7.28
+28052;4033477280527;Wie schön, dass du da bist!;7.29;7.29
+28053;4033477280534;Wie schön, dass ihr euch traut!;7.29;7.29
+29164;4033477291646;Schlüssel-QuEntchen;28.92;2.41
+29165;4033477291653;Kuschel-QuEntchen;30.51;3.39
+29166;4033477291660;Bade-QuEntchen;34.2;2.85
+29168;4033477291684;QuEntchen-Tasse;20.96;5.24
+29169;4033477291691;QuEntchen Wärmflasche;24.32;12.16
+29170;4033477291707;QuEntchen-Kugelschreiber;58;2.9
+29171;4033477291714;QuEntchen-Mints;31.68;2.64
+29172;4033477291721;QuEntchen-Pflaster;17.28;1.44
+29173;4033477291738;QuEntchen Eintragbuch ;19.4;4.85
+29175;4033477291752;QuEntchen Knautschball;23.16;1.93
+29176;4033477291769;QuEntchen Glückskugel;34.8;2.9
+29178;4033477291783;QuEntchen XL-Haftnotizen;17.4;2.9
+30119;4033477301192;Vulkanosaurus;23.16;1.93
+30240;4033477302403;50 streng geheime Tipps für Detektive;4.09;4.09
+30241;4033477302410;50 rätselhafte Fälle für Codeknacker und Junior-Detektive;4.09;4.09
+30242;4033477302427;50 bärenstarke Tierrätsel;4.09;4.09
+30243;4033477302434;50 Knobeleien für Zeitreisende;4.09;4.09
+30244;4033477302441;50 verblüffende Münz- und Kartentricks;4.09;4.09
+30245;4033477302458;50 Spaßrätsel zum Kaputtlachen;4.09;4.09
+30246;4033477302465;50 Spiel- und Bastelideen für Naturfreunde;4.09;4.09
+30247;4033477302472;50 sportliche Rätsel für fitte Köpfe;4.09;4.09
+30407;4033477304070;Fußball-Fieber Pflaster;17.28;1.44
+30518;4033477305183;Einsatzwagen aus Holz mit Sound;22.44;3.74
+30519;4033477305190;Lustige Bauernhof-Freunde aus Holz mit Sound;22.44;3.74
+30520;4033477305206;Glitzernder Flummi-Würfel;24.48;1.36
+30528;4033477305282;Kleiner Narwal aus Plüsch;27.12;3.39
+30529;4033477305299;Narwal Zauberhandtuch;28.92;2.41
+30547;4033477305473;Holzboot mit Gummimotor;16.8;2.8
+30548;4033477305480;Kleines Metall-Portemonnaie;29.76;1.86
+30549;4033477305497;Kleine Holz-Artisten;26.16;3.27
+30552;4033477305527;Bunte Regenbogen Spardose;22.4;2.8
+30553;4033477305534;Regenbogen Portemonnaie;29.92;3.74
+30554;4033477305541;Kleines Regenbogen-Licht;26.16;3.27
+30556;4033477305565;Mein funkelnder Muschelschatz;23.22;3.87
+30557;4033477305572;LED-Speichenlicht ;22.68;1.89
+30562;4033477305626;Leuchtende Space Flummis;27.96;2.33
+30563;4033477305633;Leuchtender Mond;26.16;3.27
+30569;4033477305695;Fröhliche Holzperlen ;25.02;1.39
+30570;4033477305701;Wurfgleiter aus Balsaholz ;28.92;2.41
+30571;4033477305718;Magnetische Holz-Labyrinthe ;40.68;3.39
+30573;4033477305732;Flugzeug mit Gummimotor ;37.86;6.31
+30574;4033477305749;Leuchtende Badetiere Ozean  ;22.32;1.86
+30577;4033477305770;Piratenschatz zum Ausgraben;23.22;3.87
+30577;4033477305770;Piratenschatz zum Ausgraben ;23.22;3.87
+30578;4033477305787;Mini-Schmetterlings-Drachen ;22.8;0.95
+30579;4033477305794;Vogel-Wurfsegler ;11.04;0.46
+30590;4033477305909;Kunterbunte Buchstaben-Perlen ;34.32;4.29
+30592;4033477305923;Zaubermuscheln;27.96;2.33
+30593;4033477305930;Schlüsselanhänger funkelnde Flosse;27.9;1.86
+30598;4033477305985;Bunte Flatterflummis;23.16;1.93
+30600;4033477306005;Treppenhüpfer kunterbunt ;43.5;2.9
+30603;4033477306036;Mein magischer Märchenprinz;27.96;2.33
+30604;4033477306043;Mein wunderbares Glücksschwein;22.32;1.86
+30648;4033477306487;Leuchtende Sternen-Clips ;33.36;1.39
+30657;4033477306579;Weltkugel ;22.68;1.89
+30668;4033477306685;Leuchtender Konfetti-Flummi ;28.92;2.41
+30669;4033477306692;Springball Blauer Planet ;22.86;3.81
+30690;4033477306906;Flaschentaucher Qualle ;22.08;0.92
+30691;4033477306913;Flaschentaucher Pinguin ;22.08;0.92
+30695;4033477306951;Mein zauberhafter Engel;22.32;1.86
+30697;4033477306975;Schwimmende Paddeltiere ;34.56;1.44
+30708;4033477307088;Leuchtender Herzchen-Flummi ;27.96;2.33
+30709;4033477307095;Leuchtkreisel;28.32;1.18
+30710;4033477307101;Kleine Buddy-Guards;34.88;4.36
+30711;4033477307118;Top Secret - Die Detektivbox für geheime Missionen;21.84;7.28
+30712;4033477307125;Top Secret Tagebuch mit Geheimcodestift;14.56;7.28
+30713;4033477307132;Top Secret Geheimcodestift 2-in-1;22.32;1.86
+30714;4033477307149;Top Secret Bewegungs-Alarm;30.96;3.87
+30715;4033477307156;Magnettafel 2-in-1;16.56;8.28
+30716;4033477307163;Zahndose Fee, Pirat & Co.;34.74;1.93
+30717;4033477307170;Leuchtende Lichtschwerter;23.16;1.93
+30718;4033477307187;Coole Tierflitzer;22.24;1.39
+30719;4033477307194;Kleiner Astronaut mit LED;22.32;1.86
+30736;4033477307361;Leuchtende Diamantkreisel;22.08;0.92
+30737;4033477307378;Tagebuch My secrets mit Geheimcodestift;14.56;7.28
+30738;4033477307385;Geheimcodestift mit Zaubertinte 2-in-1;22.32;1.86
+30773;4033477307736;Kleine Stempelbox Prinzessin ;19.98;3.33
+30776;4033477307767;Kleine Stempelbox Waldtiere ;19.98;3.33
+30785;4033477307859;Lustig bunte Radiergummies ;22.08;0.92
+30787;4033477307873;Sticker von der Rolle Mädchen ;24.48;1.36
+30819;4033477308191;Magnetlesezeichen Fußball;8.16;1.36
+31022;4033477310224;Magnetlesezeichen Glück ;8.16;1.36
+31027;4033477310279;Magnetlesezeichen Törtchen ;8.16;1.36
+31041;4033477310415;Magnetlesezeichen Engel ;8.16;1.36
+31042;4033477310422;Magnetlesezeichen Krimi ;8.16;1.36
+31043;4033477310439;Magnetlesezeichen Leseeulen  ;8.16;1.36
+31074;4033477310743;Magnetlesezeichen Federn und Eulen ;32.64;1.36
+31092;4033477310927;Magnetlesezeichen Wintervögel;8.16;1.36
+31092;4033477310927;Magnetlesezeichen Wintervögel;8.16;1.36
+31098;4033477310989;Magnetlesezeichen Katzen ;8.16;1.36
+31108;4033477311085;Magnetlesezeichen Bremen ;8.16;1.36
+31116;4033477311160;Magnetlesezeichen Cats ;8.16;1.36
+31119;4033477311191;Magnetlesezeichen Schutzengel ;8.16;1.36
+31122;4033477311221;Magnetlesezeichen Musik ;8.16;1.36
+31123;4033477311238;Magnetlesezeichen Wald- & Wiesentiere ;8.16;1.36
+31127;4033477311276;Magnetlesezeichen Superhelden;8.16;1.36
+31128;4033477311283;Magnetlesezeichen Happy Birthday;8.16;1.36
+31129;4033477311290;Magnetlesezeichen Kleine Auszeit;8.16;1.36
+31130;4033477311306;Magnetlesezeichen Lesezeit;8.16;1.36
+31132;4033477311320;Magnetlesezeichen It's Magic ;8.16;1.36
+31133;4033477311337;Magnetlesezeichen Ozean;8.16;1.36
+31134;4033477311344;Magnetlesezeichen Folklore;8.16;1.36
+31136;4033477311368;Magnetlesezeichen Catching Waves;8.16;1.36
+31138;4033477311382;Magnetlesezeichen Liebe;8.16;1.36
+31139;4033477311399;Magnetlesezeichen Typografie;8.16;1.36
+31140;4033477311405;Magnetlesezeichen Beauty;8.16;1.36
+31141;4033477311412;Magnetlesezeichen So Sweet;8.16;1.36
+31142;4033477311429;Magnetlesezeichen Froschkönig;8.16;1.36
+31143;4033477311436;Magnetlesezeichen Wintertraum;8.16;1.36
+31144;4033477311443;Magnetlesezeichen Drei Affen;8.16;1.36
+31145;4033477311450;Magnetlesezeichen Zitronen;8.16;1.36
+31146;4033477311467;Magnetlesezeichen Schmetterlinge;8.16;1.36
+31147;4033477311474;Magnetlesezeichen Bunte Beeren;8.16;1.36
+31148;4033477311481;Magnetlesezeichen Horses;8.16;1.36
+31149;4033477311498;Magnetlesezeichen Love Cats;8.16;1.36
+31150;4033477311504;Magnetlesezeichen Nachteulen;8.16;1.36
+35022;4033477350220;Piraten-Kompass ;21.96;1.83
+35023;4033477350237;Schlüsselanhänger Schaurige Piratenschädel;21.96;1.83
+35024;4033477350244;Piraten-Leuchtflummi Verlorenes Piratenauge;23.16;1.93
+35025;4033477350251;Piraten-Bleistiftset;25.02;1.39
+35026;4033477350268;Piratenschädel-Radierer;34.56;1.44
+35027;4033477350275;Piraten-Schatztruhe;29.04;4.84
+37503;4033477375032;Jonglierbälle ;20.34;3.39
+37505;4033477375056;Funkelnde Zauberstäbe ;28.92;2.41
+37506;4033477375063;Bastelset mit Perlen und Pfeifenputzern ;19.4;4.85
+37520;4033477375209;Aufzieh-Baufahrzeuge;31.68;1.76
+37522;4033477375223;Buchstaben-Magnete;18.27;6.09
+37535;4033477375353;Aufblasbarer Globus;42.72;5.34
+37540;4033477375407;Meine Waldfreunde;23.16;1.93
+37542;4033477375421;Knotenflummi Flash;33.6;2.8
+37546;4033477375469;Flummi Weltkugel;25.02;1.39
+37568;4033477375681;Flummy Disco;28.92;2.41
+37573;4033477375735;Schlüsselanhänger Eule;22.32;1.86
+37577;4033477375773;Display Schlüsselanhänger Eule;52.2;1.45
+37581;4033477375810;Schlüsselanhänger Leuchtkatze ;22.32;1.86
+37595;4033477375957;Soft-Bumerang ;14.46;2.41
+37819;4033477378194;Taschendrachen ;91.44;3.81
+37892;4033477378927;Glimmis Regenbogen;14.7;2.45
+37893;4033477378934;Glimmis Kleine Meerjungfrau ;14.7;2.45
+37894;4033477378941;Glimmis Kompass;14.7;2.45
+37896;4033477378965;Glimmis Eule;14.7;2.45
+37897;4033477378972;Glimmis Einhorn;14.7;2.45
+37898;4033477378989;Glimmis Marienkäfer;14.7;2.45
+37899;4033477378996;Glimmis Löwe;14.7;2.45
+37901;4033477379016;Ballonkreisel ;22.44;3.74
+37902;4033477379023;Rennwagen mit Gummimotor;19.62;3.27
+37903;4033477379030;Schneekugel Reh;29.1;4.85
+37904;4033477379047;Meine kleine Meerjungfrau;22.32;1.86
+37905;4033477379054;Wasserspritzende Einhörner;14.4;1.2
+37906;4033477379061;Leuchtflummi Blümchenzauber;27.96;2.33
+37907;4033477379078;Leuchtende Piratenflummis;27.96;2.33
+37908;4033477379085;Coole Elektrokrabbler;34.8;2.9
+37911;4033477379115;Rennwagen aus Holz;28.44;2.37
+37943;4033477379436;Schlüsselanhänger Leucht-Rakete;22.32;1.86
+37944;4033477379443;Schlüsselanhänger Leucht-Eselchen;22.32;1.86
+37945;4033477379450;Kleine Rettungsfahrzeuge;26.64;3.33
+37946;4033477379467;Stäbchenpuzzle;40.68;3.39
+37947;4033477379474;Zaubertafeln;29.28;1.22
+37948;4033477379481;Kofferanhänger für Kinder;34.74;1.93
+37958;4033477379580;Schwimmende Clownfische zum Aufziehen ;25.92;1.44
+37959;4033477379597;Flummi Disco-Fisch ;23.16;1.93
+37961;4033477379610;Kaleidoskope aus Blech;29.43;3.27
+37962;4033477379627;Jojos aus Blech;23.16;1.93
+37963;4033477379634;Insektenaugen aus Blech;17.28;1.44
+37964;4033477379641;Bunte Fallschirmspringer ;22.32;1.86
+37966;4033477379665;Leuchtende Zwitschervögel;22.32;1.86
+37967;4033477379672;Putzige Bärchen;27.2;1.36
+37971;4033477379719;Knacktiere aus Blech;22.8;0.95
+37973;4033477379733;Springseil Punkte und Streifen;19.62;3.27
+37974;4033477379740;Hüpfkreisel aus Blech;28.95;1.93
+37977;4033477379771;Jakobsleiter;27.48;2.29
+37978;4033477379788;Funkenrad;16.92;1.41
+37979;4033477379795;Kleine Märchen-Diashow;27.96;2.33
+37980;4033477379801;Fröhliche Mini-Memos;29.43;3.27
+37981;4033477379818;Kleine Fingerjets;34.8;2.9
+37982;4033477379825;Einhorn Zauberhandtuch;27.96;2.33
+37983;4033477379832;Feuergleiter;39.24;4.36
+37984;4033477379849;Leuchtende LED-Kreisel-Ufos;23.2;2.9
+37985;4033477379856;Einhorn Pflaster ;16.68;1.39
+37987;4033477379870;Glimmis Totenkopf;11.76;1.96
+37988;4033477379887;Glimmis Stern;11.76;1.96
+37989;4033477379894;Glimmis T-Rex;11.76;1.96
+37990;4033477379900;Glimmis Gecko;11.76;1.96
+37992;4033477379924;Glimmis Fußball;11.76;1.96
+37993;4033477379931;Glimmis Schutzengel;11.76;1.96
+37995;4033477379955;Glimmis Gespenst;11.76;1.96
+37996;4033477379962;Glimmis Katze ;11.76;1.96
+37997;4033477379979;Glimmis Lilie;11.76;1.96
+37998;4033477379986;Glimmis Fledermaus ;11.76;1.96
+37999;4033477379993;Glimmis Sortierung ;70.56;1.96
+38011;4033477380111;Pferdeglück Pflaster ;17.28;1.44
+38043;4033477380432;Clip Portemonnaie;46.32;1.93
+38044;4033477380449;Leuchtfiguren Einhorn-Zauberwelt;34.8;2.9
+38045;4033477380456;Das Einhorn aus dem Zauberwald;23.16;1.93
+38046;4033477380463;Freche Zungentiere ;25.92;1.44
+38047;4033477380470;Zauberhafte Fabelwesen;52.2;2.9
+38048;4033477380487;Einhorn Spardose ;28.08;4.68
+38049;4033477380494;Flummi Polartier;25.02;1.39
+38050;4033477380500;Einhorn Flummi;27.96;2.33
+38053;4033477380531;Katzen-Jojos ;33.36;1.39
+38054;4033477380548;Kleine Hundebande ;40.68;3.39
+38055;4033477380555;Leuchtender Bade-Narwal;23.16;1.93
+38056;4033477380562;Wachsender Narwal;17.28;1.44
+38057;4033477380579;Kleine Diashow Sternbilder und Planeten;27.96;2.33
+38059;4033477380593;Glitzernde Diamantflummis;21.24;1.18
+38060;4033477380609;Funkelnde Sternenanhänger ;27.45;1.83
+38061;4033477380616;Funkelnde Juwelen zum Ausgraben;23.22;3.87
+38062;4033477380623;Leuchtende Springbälle;30.51;3.39
+38063;4033477380630;Kletteräffchen;22.44;3.74
+38064;4033477380647;Klassisches Murmelspiel;19.62;3.27
+38065;4033477380654;Lustige Stapeltiere;34.88;4.36
+38066;4033477380661;Leuchtende Mondschein-Murmeln;41.04;1.71
+38067;4033477380678;Leuchtjojos;22.32;1.86
+38068;4033477380685;Klick-Robos ;39.24;4.36
+38069;4033477380692;Glimmis Wal;11.76;1.96
+38070;4033477380708;Glimmis Krönchen;11.76;1.96
+38071;4033477380715;Glitzerlampe Shake and Shine ;33.68;4.21
+38072;4033477380722;Wasserflummi Meerjungfrau;27.96;2.33
+40103;4033477401038;Schlüpfende Dinos im Ei ;22.32;1.86
+40109;4033477401090;Dino Pflaster ;17.28;1.44
+40120;4033477401205;Schlüpfende Dinos im XXL-Ei ;22.4;2.8
+40126;4033477401267;Dino Stempel;20.82;3.47
+40127;4033477401274;Dino Ei Zum Ausgraben;27.6;2.3
+40144;4033477401441;Dino Fossil , 8-fach sortiert;28.92;2.41
+40145;4033477401458;Dino zum Ausgraben;27.12;3.39
+40171;4033477401717;Dino Leuchtendes Dinoskelett, 8-fach sortiert;46.4;2.9
+40173;4033477401731;Coole Dinofiguren;28.32;1.18
+40187;4033477401878;Dino-Babies zum Ausgraben ;39.6;1.65
+40195;4033477401953;Dino Mini-Radierer ;20.88;0.87
+40197;4033477401977;Dino Bunte Dinomaler ;23.22;3.87
+40205;4033477402059;Dino-Magnete;18.27;6.09
+40207;4033477402073;Magische Dino-Tasse;14.04;4.68
+40211;4033477402110;Radierer Dino-Schädel;28.32;1.18
+40212;4033477402127;50 Dinosaurier;4.09;4.09
+40213;4033477402134;Dino-Babies zum Aufziehen;52.2;2.9
+40214;4033477402141;Zauberhandtuch Dino-Ei;28.92;2.41
+40215;4033477402158;Spritzende Dino-Badefreunde ;18.88;1.18
+40216;4033477402165;Dino Spielball;18.72;4.68
+40217;4033477402172;Dino-Skelett zum Ausgraben ;27.96;2.33
+40222;4033477402226;Springball - Die Welt der Dinosaurier;22.32;1.86
+40223;4033477402233;Dino-Hupe;22.44;3.74
+40224;4033477402240;Neon-Leuchtdinos;34.83;3.87
+40225;4033477402257;Wachsender Tyrannosaurus Rex XXL;16.84;4.21
+40226;4033477402264;Cooles Leuchtskelett zum Ausgraben;37.4;3.74
+40227;4033477402271;Dino-Kugelschreiber mit Sound;38.56;2.41
+60022;4033477600226;Geolino Meeresreptilien-Fossil ;40.68;3.39
+60025;4033477600257;Geolino Mini-Ausgrabungssets ;46.32;1.93
+60036;4033477600363;Geolino Bausatz da Vincis Katapult ;12.16;12.16
+60054;4033477600547;GEOlino Na, wer schwimmt denn hier?;6.42;6.42
+60057;4033477600578;Wadenbeißer Freundebuch;4.93;4.93
+60060;4033477600608;GEOlino Bausatz Da Vincis Trebuchet;17.04;17.04
+63007;4033477630070;Happy me Stempelset A-Z ;21.84;7.28
+63075;4033477630759;Happy me Stifte-Set ;34.8;2.9
+63078;4033477630780;Happy me Drehstempel-Geschenkset;17.16;4.29
+63098;4033477630988;Happy me Täschchen Krimskrams;16.84;4.21
+63099;4033477630995;Happy me Täschchen Things;16.84;4.21
+63100;4033477631008;Happy me Täschchen Konfetti;16.84;4.21
+63101;4033477631015;Happy me Shopper Faultier;14.55;4.85
+63102;4033477631022;Happy me Shopper Einhorn;14.55;4.85
+63104;4033477631046;Happy me Sticky Notes Büchlein ;34.8;2.9
+63105;4033477631053;Happy me Lichtbox;30.45;6.09
+63114;4033477631145;Happy me Pflanzset ;36.72;3.06
+63115;4033477631152;Happy me Gutscheinglas;27.48;2.29
+63116;4033477631169;Happy me Notizbuch Groß Octopus;17.44;4.36
+63118;4033477631183;Happy me Set Kugelschreiber und Druckbleistift ;39.24;3.27
+63119;4033477631190;Happy me Mini-Lichterkette;23.22;3.87
+63120;4033477631206;Happy me Stickersammlung Hello;40.68;3.39
+63121;4033477631213;Happy me Label Maker;33.04;8.26
+63125;4033477631251;Happy me Wochenplaner;23.22;3.87
+63126;4033477631268;Happy me Täschchen be happy;16.84;4.21
+63127;4033477631275;Happy me Täschchen Tanzen;16.84;4.21
+63128;4033477631282;Happy me Leucht-Wolke mit Stift;16.5;2.75
+63129;4033477631299;Happy me Letterboard;29.1;4.85
+63130;4033477631305;Happy me Shopper Richtig;14.55;4.85
+63131;4033477631312;Happy me Shopper Namasté;14.55;4.85
+63132;4033477631329;Happy me Be happy-Knautschherz;28.92;2.41
+63133;4033477631336;Happy me Konfetti-Bilderrahmen;16.5;2.75
+63134;4033477631343;Happy me Kugelschreiber 2er Set im Mäppchen;23.16;1.93
+63135;4033477631350;Happy me Gute-Laune-Block ;9.16;2.29
+63136;4033477631367;Happy me Neon-Leuchte Herz;19.4;4.85
+63137;4033477631374;Happy me Neon-Leuchte Wolke;19.4;4.85
+63138;4033477631381;Happy me Glücksmomente Eintragbuch;4.85;4.85
+63139;4033477631398;Happy me Spardose Wunderbares;19.4;4.85
+63140;4033477631404;Happy me Spardose Kleine Dinge ;19.4;4.85
+63142;4033477631428;Happy me Handwärmer ;34.8;2.9
+63143;4033477631435;Happy me Buchstaben-Lichterkette ;29.1;5.82
+63144;4033477631442;Happy me Drück-das-Glück-Kugelschreiber;22.32;1.86
+63145;4033477631459;Happy me Mini-Büro;52.32;4.36
+63200;4033477632005;little helper Mini-Büro;52.32;4.36
+63201;4033477632012;little helper Brillenreparaturset;28.92;2.41
+63202;4033477632029;little helper Mini-Loop-Light;44.64;1.86
+63204;4033477632043;little helper Regenponcho;43.38;2.41
+63205;4033477632050;little helper Handwärmer;22.32;1.86
+63206;4033477632067;little helper Pflaster;28.8;1.44
+63208;4033477632081;little helper LED-Key-Light;30.88;1.93
+63209;4033477632098;little helper Mini-Zollstock;27.48;2.29
+63210;4033477632104;little helper Werkzeug-Kugelschreiber;44.04;3.67
+63211;4033477632111;little helper Multitool-Werkzeug mit LED;52.32;4.36
+63213;4033477632135;little helper Mini-Maßband ;33;2.75
+63214;4033477632142;little helper Sneaker-Putzset ;19.4;4.85
+63215;4033477632159;Display little helper Faltbare Lesehilfe ;46.44;3.87
+63217;4033477632173;little helper Faltbare Lesehilfe Dioptrien + 1.0;7.74;3.87
+63218;4033477632180;little helper Faltbare Lesehilfe Dioptrien + 1.5;7.74;3.87
+63219;4033477632197;little helper Faltbare Lesehilfe Dioptrien+ 2.0;7.74;3.87
+63220;4033477632203;little helper Faltbare Lesehilfe Dioptrien+ 2.5;7.74;3.87
+63221;4033477632210;little helper Faltbare Lesehilfe Dioptrien+ 3.0;7.74;3.87
+80245;4033477802453;Küchenwunder Kochbuchstütze Hummer ;4.79;4.79
+80262;4033477802620;Küchenwunder Kochbuchständer;13.9;13.9
+80263;4033477802637;Küchenwunder Wackelmagnete Hummer ROT;17.5;1.75
+80426;4033477804266;Shopper Lama;14.55;4.85
+80427;4033477804273;Tintenschreiber Lama 3er Set;34.8;2.9
+80428;4033477804280;Täschchen Lama;14.68;3.67
+80429;4033477804297;Tasse Lama;14.68;3.67
+80430;4033477804303;Kugelschreiber Roségold;39.84;1.66
+80437;4033477804372;Papier & Feder Notizbuch A5 Zitronen;11.98;5.99
+80438;4033477804389;Papier & Feder Kugelschreiber The Storybook;17.44;4.36
+80439;4033477804396;Papier & Feder Kugelschreiber de Heem;17.44;4.36
+80454;4033477804549;Papier&Feder Notizheft Verschiedene Muscheln;5.79;1.93
+80455;4033477804556;Papier&Feder Notizheft The Storybook A5;5.79;1.93
+80457;4033477804570;Papier&Feder Notizheft Schreibmaschine;5.79;1.93
+80464;4033477804648;Papier&Feder Notizbuch A5 de Heem;11.98;5.99
+80465;4033477804655;Papier&Feder Notizbuch A5 The Storybook;11.98;5.99
+80466;4033477804662;Papier&Feder Notizbuch A5 Nizza;11.98;5.99
+80467;4033477804679;Papier&Feder Notizbuch A5 Verschiedene Muscheln;11.98;5.99
+80468;4033477804686;Papier&Feder Notizbuch A5 Spielzeugautos;11.98;5.99
+80469;4033477804693;Papier&Feder Notizbuch A5 Melonen ;11.98;5.99
+80470;4033477804709;Papier&Feder Notizbuch A5 Notes;11.98;5.99
+80471;4033477804716;Papier&Feder Notizheft A5 Hey;5.79;1.93
+80472;4033477804723;Papier&Feder Notizheft A5 Kamera;5.79;1.93
+80473;4033477804730;Papier&Feder Notizheft A5 Spielzeugautos;5.79;1.93
+80474;4033477804747;Papier&Feder Notizheft A5 Melonen;5.79;1.93
+80477;4033477804778;Papier&Feder Notizheft A5 Katze;5.79;1.93
+80478;4033477804785;Papier&Feder Notizheft A5 Notes;5.79;1.93
+80491;4033477804914;Papier&Feder Gelschreiber Pure ;22.08;0.92
+80604;4033477806048;Küchenwunder Rezeptordner A4 Hummer;19.44;9.72
+80622;4033477806222;cook & STYLE Magnetisches Mini-Anzuchtset;48.3;3.22
+80623;4033477806239;cook & STYLE Rezeptordner A5 cook & love;17.5;8.75
+80624;4033477806246;cook & STYLE Rezeptordner A5 cook & style;17.5;8.75
+80625;4033477806253;cook & STYLE Wackelmagnet Hummer ;35;1.75
+80626;4033477806260;cook & STYLE Küchen-Etiketten ;40.68;3.39
+80627;4033477806277;cook & STYLE Einkaufszettelblock mit Bleistift;14.46;2.41
+80628;4033477806284;cook & STYLE Küchenpflaster;17.28;1.44
+80630;4033477806307;cook & STYLE Sammelbox;11.61;3.87
+80631;4033477806314;cook & STYLE Freunde-Kochbuch;4.85;4.85
+80632;4033477806321;cook & STYLE Kochbuch-Lesezeichen Hummer;39.24;3.27
+80633;4033477806338;cook & STYLE Rezeptordner Lieblingsrezepte;17.5;8.75
+80634;4033477806345;cook & STYLE Rezeptordner Joy of cooking;17.5;8.75
+80635;4033477806352;cook & STYLE Meine Einkaufsliste Notizblock;17.4;2.9
+80636;4033477806369;cook & STYLE Metallkochbuchständer;7.28;7.28
+80637;4033477806376;cook & STYLE Wackelmagnete Hummer & friend 2er Set;23.28;3.88
+80638;4033477806383;cook & STYLE Kugelschreiber Hummer ;17.4;2.9
+80639;4033477806390;cook & STYLE Stahlseife;38.8;4.85
+80640;4033477806406;cook & STYLE Baumwollshopper Hummer;14.55;4.85
+80641;4033477806413;cook & STYLE Baumwollshopper Good food;14.55;4.85
+80642;4033477806420;cook & STYLE Küchenklingel;27.48;2.29
+80644;4033477806444;cook & STYLE Anzuchtset im Glas;29.1;4.85
+80645;4033477806451;cook & STYLE Rezeptordner Rezepte mit Herz ;17.5;8.75
+80646;4033477806468;cook & STYLE Rezeptordner Good food;17.5;8.75
+80647;4033477806475;cook & STYLE Flaschen-Licht ;21.96;1.83
+80648;4033477806482;cook & STYLE Wackelmagnet Krebs ;35.2;1.76
+80649;4033477806499;cook & STYLE Stickerbuch Küchenliebe;19.4;4.85
+80650;4033477806505;cook & STYLE Eintragbuch Hummer ;14.04;4.68
+80651;4033477806512;cook & STYLE Eintragbuch Besteck ;14.04;4.68
+80653;4033477806536;cook & STYLE Mini-Buchbox;27.96;2.33
+80801;4033477808011;Metall-Korb ;8.86;4.43
+80830;4033477808301;Federstift;26.58;4.43
+80834;4033477808349;Kugelschreiber silber ;18.6;3.1
+80835;4033477808356;Notizblock Blue Dots;12.84;3.21
+80836;4033477808363;Notizblock Watercolor;12.84;3.21
+80840;4033477808400;Täschchen Good day ;10.6;2.65
+80842;4033477808424;Pompom-Bleistift;31.44;1.31
+80843;4033477808431;Stickynotes Lama;10.56;1.76
+80844;4033477808448;Notizhefte Lama 3er Set;13.2;2.2
+80847;4033477808479;Riesen-Büroklammern irisierend;33.6;2.8
+80848;4033477808486;Zipper-Täschchen irisierend;27.48;2.29
+80849;4033477808493;Metallic Tapes;29.28;1.83
+80850;4033477808509;Kugelschreiber mit Diamant;32.94;1.83
+80851;4033477808516;Kugelschreiber Katzen-Charm;32.94;1.83
+80852;4033477808523;Kugelschreiber Flower Power;33.6;2.8
+80853;4033477808530;Papeterie Pompon-Bleistift Pastell;32.64;1.36
+80854;4033477808547;Papeterie Samt-Notizbuch Ampers And;18.4;4.6
+80855;4033477808554;Papeterie Samt-Notizbuch Diamant;18.4;4.6
+80856;4033477808561;Papeterie Puschel-Büroklammern;32.94;1.83
+80857;4033477808578;Papeterie Jumbo-Kugelschreiber;30.96;3.87
+80858;4033477808585;Papeterie Kugelschreiber ;34.8;2.9
+80859;4033477808592;Papeterie Federstift Glitter;26.58;4.43
+80860;4033477808608;Papeterie Notizbuch Eulenwald;17.72;4.43
+80861;4033477808615;Papeterie Notizbuch Nachteulen;17.72;4.43
+80907;4033477809070;Reiner Wein Magnet Kochen VE 3;4.17;1.39
+81043;4033477810434;libri_x Leuchtbuchstaben A und Z im Set Groß;17.03;17.03
+81044;4033477810441;libri_x Tintenroller William Shakespeare;33.04;8.26
+81045;4033477810458;libri_x Tintenroller Jane Austen;33.04;8.26
+81046;4033477810465;libri_x Minilupen;46.32;1.93
+81081;4033477810816;libri_x Leselicht Lumi mini gemischtes Sortiment;38.8;4.85
+81083;4033477810830;libri_x Lumi mini schwarz ;19.4;4.85
+81084;4033477810847;libri_x Lumi mini rot ;19.4;4.85
+81085;4033477810854;libri_x Lumi mini türkis;19.4;4.85
+81247;4033477812476;libri_x LED-Buchlupe;31.08;7.77
+81248;4033477812483;libri_x LED-Handlupe;33.04;8.26
+81266;4033477812667;libri_x Büchertasche Books;22.86;3.81
+81270;4033477812704;libri_x Tintenroller Audrey Hepburn ;33.04;8.26
+81280;4033477812803;Display Lesehilfen Punkte & Streifen;138;4.6
+81282;4033477812827;Lesehilfen Punkte & Streifen 1.0 Nachfüllset;23;4.6
+81283;4033477812834;Lesehilfen Punkte & Streifen 1.5 Nachfüllset;23;4.6
+81284;4033477812841;Lesehilfen Punkte & Streifen 2.0 Nachfüllset;23;4.6
+81285;4033477812858;Lesehilfen Punkte & Streifen 2.5 Nachfüllset;23;4.6
+81286;4033477812865;Lesehilfen Punkte & Streifen 3.0 Nachfüllset;23;4.6
+81339;4033477813398;libri_x Buchstützen A & Z;6.09;6.09
+81350;4033477813503;libri_x Reisenotizen klassisch;14.31;4.77
+81395;4033477813954;libri_x Buchständer SCHWARZ ;14.6;14.6
+81399;4033477813992;libri_x Buchstütze Büchereule;6.09;6.09
+81591;4033477815910;libri_x Tintenroller Twain ;33.04;8.26
+81592;4033477815927;libri_x Tintenroller Heinrich Heine;33.04;8.26
+81593;4033477815934;libri_x Tintenroller Theodor Fontane;33.04;8.26
+81644;4033477816443;libri_x Buchstützen Leseeule;6.09;6.09
+81645;4033477816450;libri_x Buchstützen A & Z weiße Edition;6.09;6.09
+81659;4033477816597;Tintenroller Nachfüllminen blau;8.8;0.88
+81701;4033477817013;Fernweh Magnetlesezeichen London;8.16;1.36
+81702;4033477817020;Fernweh Magnetlesezeichen New York;8.16;1.36
+81703;4033477817037;Fernweh Magnetlesezeichen Paris;8.16;1.36
+81704;4033477817044;Fernweh Magnetlesezeichen Reisen;8.16;1.36
+81705;4033477817051;Fernweh Magnetlesezeichen Berge;8.16;1.36
+81706;4033477817068;Fernweh Magnetlesezeichen Meer;8.16;1.36
+81709;4033477817099;Fernweh Ich-packe-meinen-Koffer Notizblock ;17.1;2.85
+81712;4033477817129;Fernweh Notizhefte Maps 3er Set;11.4;2.85
+81713;4033477817136;Fernweh Eintragbuch Reisenotizen ;14.55;4.85
+81716;4033477817167;Fernweh Karten- und Würfelspiele für unterwegs;4.93;4.93
+81759;4033477817594;Fernweh Handlicht  ;45.6;2.85
+81774;4033477817747;Fernweh Universal-Reiseadapter;36.54;6.09
+81778;4033477817785;Fernweh Digitale Kofferwaage;25.24;6.31
+81798;4033477817983;Fernweh Nackenhörnchen 2-in-1 rot  ;29.16;9.72
+81799;4033477817990;Fernweh Nackenhörnchen 2-in-1 blau  ;29.16;9.72
+81820;4033477818201;moses. Shopper Eulen grün ;23.22;3.87
+81821;4033477818218;moses. Shopper Eulen lila ;23.22;3.87
+81823;4033477818232;moses. Shopper Punkte;23.22;3.87
+81842;4033477818423;moses.-Shopper Beautiful Day ;23.22;3.87
+81858;4033477818584;moses. Shopper Pünktchen  ;23.22;3.87
+81882;4033477818829;moses. Shopper Farbkleckse;23.22;3.87
+81885;4033477818850;moses. Shopper Sterne;23.22;3.87
+81886;4033477818867;moses. Shopper Katze;23.22;3.87
+81887;4033477818874;moses. Shopper Blumen;23.22;3.87
+81896;4033477818966;moses. Shopper Wimpel;23.22;3.87
+81913;4033477819130;Lumi flex schwarz ;29.16;7.29
+81914;4033477819147;Lumi flex rot ;29.16;7.29
+81920;4033477819208;libri_x Tintenroller Ringelnatz ;33.04;8.26
+81966;4033477819666;libri_x Büchertasche EULE ;22.86;3.81
+81973;4033477819734;Magnetlesezeichen Eulen ;8.16;1.36
+81995;4033477819956;Magnet Meine Meinung ;4.17;1.39
+81996;4033477819963;Magnet Eigene Welt ;4.17;1.39
+82085;4033477820853;home office Haftmarker;11.4;1.9
+82086;4033477820860;home office MINI OFFICE Kugelschreiber;17.64;0.49
+82087;4033477820877;home office MINI OFFICE Textmarker  ;26.28;0.73
+82088;4033477820884;home office MINI OFFICE Schere ;34.2;0.95
+82089;4033477820891;home office MINI OFFICE Tacker ;34.2;0.95
+82097;4033477820976;home office Radierer;23.04;1.44
+82099;4033477820990;home office Anti-Stress-Ball;23.16;1.93
+82231;4033477822314;home office XXL-Bleistift mit Radiergummi;34.8;2.9
+82232;4033477822321;home office XXL-Radiergummi;28.95;1.93
+82237;4033477822376;home office Metall-Lineal;23.22;3.87
+82243;4033477822437;home office Kurbel-Anspitzer;17.4;2.9
+82245;4033477822451;home office Art Colour Pencils;29.1;4.85
+82257;4033477822574;home office Multifunktions-Kugelschreiber ;29.12;7.28
+82290;4033477822901;home office Visitenkartenbox ;14.56;7.28
+82297;4033477822970;home office Magnet im Bilde  ;4.17;1.39
+82308;4033477823083;Fernweh Kofferanhänger keep calm  ;12.84;3.21
+82309;4033477823090;Fernweh Kofferanhänger ticket to anywhere;12.84;3.21
+82313;4033477823137;Fernweh ReiseBüro ;46.44;3.87
+82314;4033477823144;Fernweh Haftmarker  ;23.16;1.93
+82315;4033477823151;Fernweh Anti-Stressball ;23.16;1.93
+82326;4033477823267;Fernweh Aufblasbarer Globus;42.72;5.34
+82327;4033477823274;Fernweh Wäschebeutel ;18.93;6.31
+82332;4033477823328;Fernweh Nackenhörnchen 2-in-1 Weltkarte;29.16;9.72
+82333;4033477823335;Fernweh Nackenhörnchen 2-in-1 grau;29.67;9.89
+82335;4033477823359;Fernweh Täschchen Streifen;16.84;4.21
+82336;4033477823366;Fernweh Täschchen Reisefieber;16.84;4.21
+82341;4033477823410;Fernweh Notizhefte Stamps 3er Set;9.64;2.41
+82342;4033477823427;Fernweh Mini-Reisekoffer;34.8;2.9
+82343;4033477823434;Fernweh Kofferanhänger Meer geht immer;12.84;3.21
+82345;4033477823458;Fernweh Kleine Täschchen Bon Voyage 2er Set;27.6;4.6
+82346;4033477823465;Fernweh LED Taschenlampe mit Karabiner;44.8;2.8
+82347;4033477823472;Fernweh Büchertasche Bon Voyage ;16.8;2.8
+82427;4033477824271;Fernweh Zaubershopper Weltkarte;44.88;3.74
+82429;4033477824295;Fernweh Weltkugel-Magnete 4er Set;46.44;3.87
+82432;4033477824325;Fernweh Kofferanhänger Weltenbummler;12.84;3.21
+82434;4033477824349;Fernweh Isolierflasche aus Edelstahl;19.44;9.72
+82435;4033477824356;Fernweh Zauberhandtuch Weltenbummler;28.92;2.41
+82436;4033477824363;Fernweh Jojo Weltenbummler;23.16;1.93
+82437;4033477824370;Fernweh Fernlicht;36.64;2.29
+82438;4033477824387;Fernweh Briefmarken Klebeband;32.64;1.36
+82439;4033477824394;Fernweh Rucksack;49.68;4.14
+82440;4033477824400;Fernweh Koffer Allzweckbox;14.55;4.85
+82443;4033477824431;Fernweh Kugelschreiber Leuchtender Globus;38.52;3.21
+82444;4033477824448;Fernweh Allzweck-Täschchen 2er Set;27.6;4.6
+82445;4033477824455;Fernweh Mini Zipper-Etui;29.28;1.83
+82446;4033477824462;Fernweh Schrittzähler;19.4;4.85
+82447;4033477824479;Fernweh Geschenk-Glas;28.92;2.41
+82448;4033477824486;Fernweh Nackenhörnchen Ankerplatz;29.67;9.89
+82453;4033477824530;Fernweh LED Globus;25.26;4.21
+82454;4033477824547;Fernweh Nackenkissen aufblasbar Weitsicht;42.96;7.16
+82455;4033477824554;Fernweh Kofferwaage analog;28.62;4.77
+82457;4033477824578;Fernweh Fernglas Weitsicht;33.6;8.4
+82458;4033477824585;Fernweh Reisespiegel;19.72;4.93
+82459;4033477824592;Fernweh Büchertasche Weltkarte;16.8;2.8
+82460;4033477824608;Fernweh Multitalent für unterwegs - Stift;34.2;2.85
+82461;4033477824615;Fernweh Rucksack Bon Voyage ;49.68;4.14
+82462;4033477824622;Fernweh Nackenkissen aufblasbar Punkte  ;42.96;7.16
+82507;4033477825070;Magnet Schokolade;4.17;1.39
+82516;4033477825162;libri_x LED-Handlupen Colour Edition  ;50.48;6.31
+82521;4033477825216;libri_x Lesezeichen mit Band Reiselektüre  ;14.4;1.2
+82558;4033477825582;libri_x Lesezeichen mit Band sweet owls  ;14.4;1.2
+82560;4033477825605;libri_x Büchertasche so many books  ;22.86;3.81
+82564;4033477825643;Magnet Ideen  ;4.17;1.39
+82566;4033477825667;libri_x Lesezeichen mit Band so many books  ;14.4;1.2
+82580;4033477825803;libri_x Buchstütze lesende Frau  ;7.74;3.87
+82611;4033477826114;Magnet Hüpfburg;4.17;1.39
+82612;4033477826121;Magnet Das Geld;4.17;1.39
+82617;4033477826176;Magnet Vielleicht  ;4.17;1.39
+82631;4033477826312;libri_x Magnetlesezeichen Herzen;10.98;1.83
+82634;4033477826343;libri_x Tintenroller Goethe  ;33.04;8.26
+82644;4033477826442;libri_x Lesebändchen Katzen ;11.16;1.86
+82650;4033477826503;libri_x Lesebändchen Magic;11.16;1.86
+82657;4033477826572;Magnet zu klein;4.17;1.39
+82658;4033477826589;Magnet Konfetti;4.17;1.39
+82659;4033477826596;libri_x Lesebändchen Circles;11.16;1.86
+82660;4033477826602;libri_x Magnetlesezeichen Colourful;10.98;1.83
+82683;4033477826831;Display libri_x Lesehilfen Klassik;138;4.6
+82684;4033477826848;libri_x Lesehilfen Klassik Dioptrien +1.0;23;4.6
+82685;4033477826855;libri_x Lesehilfen Klassik Dioptrien +1.5;23;4.6
+82686;4033477826862;libri_x Lesehilfen Klassik Dioptrien +2.0;23;4.6
+82687;4033477826879;libri_x Lesehilfen Klassik Dioptrien +2.5;23;4.6
+82688;4033477826886;libri_x Lesehilfen Klassik Dioptrien +3.0;23;4.6
+82692;4033477826923;libri_x Büchertasche Lies dich glücklich;22.86;3.81
+82697;4033477826978;libri_x Magnetlesezeichen Ethno;10.98;1.83
+82698;4033477826985;libri_x Büchertasche Flowers;22.86;3.81
+82699;4033477826992;libri_x Büchertasche ENJOY;22.86;3.81
+82702;4033477827029;libri_x Lesezeichen mit Band Katzen;14.4;1.2
+82705;4033477827050;libri_x Magnetlesezeichen Fisch;10.98;1.83
+82706;4033477827067;libri_x Magnetlesezeichen Katzen;10.98;1.83
+82707;4033477827074;libri_x Magnetlesezeichen Delfter Blau;10.98;1.83
+82708;4033477827081;libri_x Lesebändchen Anker;11.16;1.86
+82709;4033477827098;libri_x Lesebändchen Kaktus;11.16;1.86
+82711;4033477827111;libri_x Buchstützen 3er Set;7.77;7.77
+82715;4033477827159;libri_x Buchstütze Goethe;6.09;6.09
+82721;4033477827210;libri_x Reise-Leselicht mit USB-Anschluss;26.25;8.75
+82722;4033477827227;libri_x Leselupe;19.4;4.85
+82723;4033477827234;libri_x Tintenroller Martin Luther;33.04;8.26
+82724;4033477827241;libri_x Tintenroller Leonardo da Vinci;33.04;8.26
+82726;4033477827265;libri_x Lesezeichen mit Band My home is my bookstore;14.4;1.2
+82729;4033477827296;Display libri_x Lesehilfen Bicolor ;124.38;6.91
+82730;4033477827302;libri_x Lesehilfen Bicolor Dioptrien +1.0;41.46;6.91
+82731;4033477827319;libri_x Lesehilfen Bicolor Dioptrien +1.5;41.46;6.91
+82732;4033477827326;libri_x Lesehilfen Bicolor Dioptrien +2.0 ;41.46;6.91
+82733;4033477827333;libri_x Lesehilfen Bicolor Dioptrien +2.5;41.46;6.91
+82734;4033477827340;libri_x Lesehilfen Bicolor Dioptrien +3.0;41.46;6.91
+82751;4033477827517;libri_x Büchertasche Jane Austen;22.86;3.81
+82752;4033477827524;libri_x Büchertasche Nietzsche;22.86;3.81
+82753;4033477827531;libri_x Magnetlesezeichen Goethe;8.16;1.36
+82754;4033477827548;libri_x Magnetlesezeichen Shakespeare;8.16;1.36
+82755;4033477827555;libri_x Magnetlesezeichen Jane Austen;8.16;1.36
+82756;4033477827562;libri_x Magnetlesezeichen Oscar Wilde;8.16;1.36
+82759;4033477827593;libri_x Shopper Books are magic;14.55;4.85
+82760;4033477827609;libri_x Shopper Happy Book Day;14.55;4.85
+82761;4033477827616;libri_x Shopper Bücher;14.55;4.85
+82764;4033477827647;libri_x Shopper Katzen;14.55;4.85
+82766;4033477827661;libri_x Büchertasche Book;22.86;3.81
+82767;4033477827678;libri_x Shopper Sortiment;38.8;4.85
+82773;4033477827739;libri_x Lesezeichen mit Band Love BOOKS;14.4;1.2
+82774;4033477827746;libri_x Lesezeichen mit Band Bücher;14.4;1.2
+82775;4033477827753;libri_x Lesezeichen mit Band Vivan los libros;14.4;1.2
+82776;4033477827760;libri_x Lesezeichen mit Band Im Regen tanzen;14.4;1.2
+82777;4033477827777;libri_x Radierer Goethe;30.88;1.93
+82778;4033477827784;libri_x Buchstützen Katze;6.09;6.09
+82779;4033477827791;Display libri_x Lesehilfen Style;124.38;6.91
+82901;4033477829016;moses. Shopper Dark Flower;23.22;3.87
+82903;4033477829030;moses. Shopper Vögel;23.22;3.87
+82906;4033477829061;moses. Shopper Sternenzauber;23.22;3.87
+82908;4033477829085;moses. Shopper Dalmatiner Dots ;23.22;3.87
+82911;4033477829115;moses. Shopper Patches & Stripes;23.22;3.87
+82912;4033477829122;moses. Shopper Paris;23.22;3.87
+82913;4033477829139;moses. Shopper Colour Blocking;23.22;3.87
+82914;4033477829146;moses. Shopper Berlin;23.22;3.87
+82916;4033477829160;moses. Shopper Mermaid;23.22;3.87
+82918;4033477829184;moses. Rucksack Ballon;24.84;4.14
+82919;4033477829191;moses. Rucksack Farbkleckse;24.84;4.14
+82920;4033477829207;moses. Rucksack Summer Garden;24.84;4.14
+82921;4033477829214;moses. Rucksack Sterne ;24.84;4.14
+82922;4033477829221;moses. Rucksack ABC;24.84;4.14
+82923;4033477829238;moses. Rucksack Ethno ;24.84;4.14
+82928;4033477829283;moses. Shopper Hummer;23.22;3.87
+82929;4033477829290;moses. Shopper Sternenstaub;23.22;3.87
+82931;4033477829313;moses. Shopper Lemony;23.22;3.87
+82932;4033477829320;moses. Shopper Rainbow;23.22;3.87
+82933;4033477829337;moses. Shopper Diamond heart;23.22;3.87
+82934;4033477829344;moses. Shopper Knoten;23.22;3.87
+82935;4033477829351;moses. Shopper Sail away;23.22;3.87
+82936;4033477829368;moses. Shopper Leo;23.22;3.87
+82938;4033477829382;moses. Shopper Marble ;23.22;3.87
+82939;4033477829399;moses. Shopper Love Cats ;23.22;3.87
+82940;4033477829405;moses. Shopper Eulenwald ;23.22;3.87
+83023;4033477830234;Magnet Am Ende;4.17;1.39
+83024;4033477830241;Magnet Schönste Fehler;4.17;1.39
+83026;4033477830265;Magnet Glitzer;4.17;1.39
+83027;4033477830272;Magnet Falten;4.17;1.39
+83029;4033477830296;Magnet Kalorien;4.17;1.39
+83030;4033477830302;Magnet Wunschkonzert;4.17;1.39
+83031;4033477830319;Magnet Die Pflicht ruft!;4.17;1.39
+83032;4033477830326;Magnet Traummänner;4.17;1.39
+83033;4033477830333;Magnet Vitamin Sea;4.17;1.39
+83034;4033477830340;Magnet Unsinn;4.17;1.39
+83035;4033477830357;Magnet Retro;4.17;1.39
+83036;4033477830364;Magnet Steine;4.17;1.39
+83037;4033477830371;Magnet Freitag;4.17;1.39
+83038;4033477830388;libri_x Lesehilfen Style Dioptrien +1.0;41.46;6.91
+83039;4033477830395;libri_x Lesehilfen Style Dioptrien +1.5;41.46;6.91
+83040;4033477830401;libri_x Lesehilfen Style Dioptrien +2.0;41.46;6.91
+83041;4033477830418;libri_x Lesehilfen Style Dioptrien +2.5;41.46;6.91
+83042;4033477830425;libri_x Lesehilfen Style Dioptrien +3.0;41.46;6.91
+83043;4033477830432;libri_x Buchständer Bambus natur;14.6;14.6
+83045;4033477830456;libri_x Lesezeichen mit Band Miau;14.4;1.2
+83046;4033477830463;libri_x Magnetlesezeichen Edgar Allan Poe;8.16;1.36
+83047;4033477830470;libri_x Magnetlesezeichen Schiller;8.16;1.36
+83048;4033477830487;libri_x Tintenroller Gustav Klimt;33.04;8.26
+83049;4033477830494;libri_x Tintenroller Charlotte Brontë;33.04;8.26
+83055;4033477830555;libri_x Notizbuch Schöner Schreiben groß;14.04;4.68
+83056;4033477830562;libri_x Lesezeichen mit Band Universum Buch;14.4;1.2
+83057;4033477830579;libri_x Lesezeichen mit Band Silence is golden;14.4;1.2
+83058;4033477830586;libri_x Lesezeichen mit Band Voltaire;14.4;1.2
+83059;4033477830593;libri_x Lesezeichen mit Band Blütendecor;14.4;1.2
+83060;4033477830609;libri_x Büchertasche Read more ;22.86;3.81
+83061;4033477830616;libri_x Büchertasche Katzentrio;22.86;3.81
+83062;4033477830623;libri_x Shopper Eule;14.55;4.85
+83063;4033477830630;libri_x Shopper Miau;14.55;4.85
+83064;4033477830647;libri_x Shopper I love books;14.55;4.85
+83065;4033477830654;libri_x Shopper Alphabet;14.55;4.85
+83066;4033477830661;libri_x Lesehilfen Style mit Sonnenschutz Dioptrien +1.0;41.46;6.91
+83067;4033477830678;libri_x Lesehilfen Style mit Sonnschutz Dioptrien +1.5;41.46;6.91
+83068;4033477830685;libri_x Lesehilfen Style mit Sonnenschutz Dioptrien +2.0;41.46;6.91
+83069;4033477830692;libri_x Lesehilfen Style mit Sonnenschutz Dioptrien +2.5;41.46;6.91
+83070;4033477830708;libri_x Lesehilfen Style mit Sonnenschutz Dioptrien +3.0;41.46;6.91
+83071;4033477830715;Display libri_x Lesehilfen Style mit Sonnenschutz ;124.38;6.91
+83073;4033477830739;libri_x Magnetlesezeichen Theodor Fontane;8.16;1.36
+83074;4033477830746;libri_x Magnetlesezeichen Charlotte Brontë;8.16;1.36
+83075;4033477830753;libri_x Magnetlesezeichen Mond ;10.98;1.83
+83076;4033477830760;libri_x Magnetlesezeichen Schwan;10.98;1.83
+83077;4033477830777;libri_x Magnetlesezeichen Hund;10.98;1.83
+83078;4033477830784;libri_x Lesebändchen Bello;11.16;1.86
+83079;4033477830791;libri_x Lesebändchen Kaffeepause;11.16;1.86
+83081;4033477830814;libri_x Schreibfeder;26.58;4.43
+83082;4033477830821;libri_x Radierer Leseeule;30.88;1.93
+83083;4033477830838;libri_x Buchstützen A & Z modern ;6.09;6.09
+83085;4033477830852;Magnet Gin;4.17;1.39
+83086;4033477830869;libri_x Shopper Liebespaare;14.55;4.85
+83087;4033477830876;libri_x Shopper Sleep less;14.55;4.85
+83088;4033477830883;libri_x Samttäschchen Samt & Sonders;19.4;4.85
+83089;4033477830890;libri_x Samttäschchen Ordnung;19.4;4.85
+83090;4033477830906;libri_x Samtmäppchen Feder;23.22;3.87
+83091;4033477830913;libri_x Samtmäppchen Alphabet;23.22;3.87
+83092;4033477830920;libri_x Leuchtbuchstaben A und Z im Set Klein;19.44;9.72
+83093;4033477830937;Magnet Diplomatie;4.17;1.39
+83095;4033477830951;Magnet Glückssträhnchen ;4.17;1.39
+83096;4033477830968;Magnet Das Beste ;4.17;1.39
+83097;4033477830975;Magnet #coffee;4.17;1.39
+83099;4033477830999;libri_x Radierer Schiller ;30.88;1.93
+83100;4033477831002;libri_x Magnetlesezeichen Grußkarte Schlüsselmoment;11.58;1.93
+83101;4033477831019;libri_x Tintenroller Oscar Wilde;33.04;8.26
+83102;4033477831026;libri_x Tintenroller Wilhelm Busch;33.04;8.26
+83103;4033477831033;libri_x Lit. Magnetlesezeichen Wilhelm Busch;8.16;1.36
+83104;4033477831040;libri_x Lit. Magnetlesezeichen Rainer Maria Rilke;8.16;1.36
+83106;4033477831064;libri_x Magnetlesezeichen Grußkarte Lesebrille;11.58;1.93
+83107;4033477831071;libri_x Magnetlesezeichen Grußkarte Leseeule;11.58;1.93
+83108;4033477831088;libri_x Magnetlesezeichen Grußkarte Feder;11.58;1.93
+83109;4033477831095;libri_x Magnetlesezeichen A & Z;10.98;1.83
+83110;4033477831101;libri_x Magnetlesezeichen Read & Relax;10.98;1.83
+83111;4033477831118;libri_x Magnetlesezeichen Kraniche;10.98;1.83
+83112;4033477831125;libri_x Lesebändchen Relax;11.16;1.86
+83113;4033477831132;libri_x Lesebändchen Terrazzo;11.16;1.86
+83114;4033477831149;libri_x Lesebändchen Dschungel;11.16;1.86
+83115;4033477831156;libri_x Lesezeichen mit Band A & Z;14.4;1.2
+83116;4033477831163;libri_x Lesezeichen mit Band Eule pastell;14.4;1.2
+83117;4033477831170;libri_x Lesezeichen mit Band Carpe Noctem;14.4;1.2
+83118;4033477831187;libri_x Lesezeichen mit Band Summer Tales;14.4;1.2
+83119;4033477831194;libri_x Buchstützen A & Z Letters 2er Set;6.31;6.31
+83120;4033477831200;libri_x Büchertasche Leselama;22.86;3.81
+83121;4033477831217;libri_x Büchertasche Nachtlektüre;22.86;3.81
+83122;4033477831224;libri_x Reise-Leselicht Nachthimmel;23.28;5.82
+83123;4033477831231;libri_x Reise-Leselicht Robin Book;23.28;5.82
+83124;4033477831248;libri_x Reise-Leselicht Worldwide;23.28;5.82
+83125;4033477831255;libri_x Shopper Leselama;14.55;4.85
+83126;4033477831262;libri_x Shopper Strandlektüre;14.55;4.85
+83128;4033477831286;libri_x Sonnenbrille Style Black;41.46;6.91
+83129;4033477831293;libri_x Sonnenbrille Style Navy;41.46;6.91
+83130;4033477831309;libri_x Sonnenbrille Style Brown;41.46;6.91
+83132;4033477831323;libri_x Lesehilfen Modern +1.0;28.12;7.03
+83133;4033477831330;libri_x Lesehilfen Modern +1.5;28.12;7.03
+83134;4033477831347;libri_x Lesehilfen Modern Neu +2.0;28.12;7.03
+83135;4033477831354;libri_x Lesehilfen Modern +2.5;28.12;7.03
+83136;4033477831361;libri_x Lesehilfen Modern +3.0;28.12;7.03
+83137;4033477831378;libri_x Leselicht Lumi Plus Schwarz;18.93;6.31
+83139;4033477831392;libri_x Leselicht Lumi Plus Nachtblau;18.93;6.31
+83140;4033477831408;libri_x Leselicht Lumi Plus Katze;18.93;6.31
+83141;4033477831415;libri_x Leselicht Lumi Plus Eule;18.93;6.31
+83142;4033477831422;libri_x Leselicht Lumi Plus Book;18.93;6.31
+83143;4033477831439;libri_x Leselicht Lumi Plus Floral;18.93;6.31
+83144;4033477831446;libri_x Notizbuch Miau groß;14.04;4.68
+83145;4033477831453;libri_x Samtmäppchen Graphics;23.22;3.87
+83146;4033477831460;libri_x Samtmäppchen Jäger & Sammler ;23.22;3.87
+83147;4033477831477;libri_x Bleistiftset Long story short;16.84;4.21
+83148;4033477831484;libri_x Bleistiftset Goethe;16.84;4.21
+83150;4033477831507;Blatt & Blüte Magnet Mücken;4.17;1.39
+83151;4033477831514;Blatt & Blüte Magnet Pumps;4.17;1.39
+83152;4033477831521;Blatt & Blüte Magnet Begleitgrün;4.17;1.39
+83155;4033477831552;Blatt & Blüte Magnet Knusprig;4.17;1.39
+83156;4033477831569;Blatt & Blüte Magnet Selbstpflücker;4.17;1.39
+83157;4033477831576;Blatt & Blüte Magnet Beeten;4.17;1.39
+83175;4033477831750;Magnet Torte;4.17;1.39
+83176;4033477831767;Magnet Fantastisch;4.17;1.39
+83177;4033477831774;Magnet Kaffee;4.17;1.39
+83178;4033477831781;Magnet Mutausbruch;4.17;1.39
+83180;4033477831804;Magnet rund Smile;4.17;1.39
+83181;4033477831811;Magnet rund Big Hugs ;4.17;1.39
+83182;4033477831828;Magnet rund Good Luck;4.17;1.39
+83183;4033477831835;Magnet rund Stay Wild;4.17;1.39
+83184;4033477831842;Magnet rund Yay;4.17;1.39
+83185;4033477831859;Magnet rund Girl Power;4.17;1.39
+83186;4033477831866;Magnet rund Tanzen;4.17;1.39
+83187;4033477831873;Magnet rund Prosecco;4.17;1.39
+83188;4033477831880;Magnet rund Lieblingsplatz;4.17;1.39
+83189;4033477831897;Magnet rund Happy Place;4.17;1.39
+83190;4033477831903;Magnet rund Hurra;4.17;1.39
+83191;4033477831910;Magnet rund Herzüberkopf;4.17;1.39
+83192;4033477831927;Display libri_x Lumi mini ;38.8;4.85
+83193;4033477831934;libri_x Tintenroller Nachfüllminen schwarz;8.8;0.88
+83200;4033477832009;libri_x Tintenroller Ludwig v. Beethoven ;33.04;8.26
+83201;4033477832016;libri_x Tintenroller Antoine de Saint-Exupéry;33.04;8.26
+83202;4033477832023;libri_x Lit. Magnetlesezeichen Sigmund Freud;8.16;1.36
+83203;4033477832030;libri_x Lit. Magnetlesezeichen Jean Paul;8.16;1.36
+83204;4033477832047;libri_x Magnetlesezeichen Schreibmaschine;10.98;1.83
+83205;4033477832054;libri_x Magnetlesezeichen Regenbogen;10.98;1.83
+83206;4033477832061;libri_x Magnetlesezeichen Eyes;10.98;1.83
+83207;4033477832078;libri_x Magnetlesezeichen Grußkarte Vogelschwarm;11.58;1.93
+83208;4033477832085;libri_x Magnetlesezeichen Grußkarte Ampers And;11.58;1.93
+83209;4033477832092;libri_x Lesebändchen Diamant;11.16;1.86
+83210;4033477832108;libri_x Lesebändchen Herz;11.16;1.86
+83211;4033477832115;libri_x Lesebändchen Eule;11.16;1.86
+83212;4033477832122;libri_x Lesezeichen mit Band Worldwide;14.4;1.2
+83213;4033477832139;libri_x Lesezeichen mit Band Leselama;14.4;1.2
+83214;4033477832146;libri_x Lesezeichen mit Band Marble;14.4;1.2
+83215;4033477832153;libri_x Lesezeichen mit Band Stille Nacht ;14.4;1.2
+83216;4033477832160;libri_x Notizbuch Globus;14.04;4.68
+83217;4033477832177;libri_x Büchertasche Good Book;22.86;3.81
+83218;4033477832184;libri_x Büchertasche Bienchen & Bücher;22.86;3.81
+83219;4033477832191;libri_x Shopper Büchereule ;14.55;4.85
+83220;4033477832207;libri_x Shopper Liebesbrief;14.55;4.85
+83221;4033477832214;libri_x Leselicht Lumi Plus Rot;18.93;6.31
+83222;4033477832221;libri_x Leselicht Lumi Plus Anker;18.93;6.31
+83223;4033477832238;libri_x Leselicht Lumi Plus Mond & Sterne;18.93;6.31
+83224;4033477832245;libri_x Leselicht Lumi Plus Beflügelt;18.93;6.31
+83225;4033477832252;Display libri_x Reise-Leselicht;69.84;5.82
+83228;4033477832283;libri_x Sanduhr Lesezeit;16.52;8.26
+83229;4033477832290;libri_x Samttäschchen Eyes;19.4;4.85
+83230;4033477832306;libri_x Samttäschchen Wundervoll;19.4;4.85
+83231;4033477832313;libri_x Bleistiftset Jane Austen;16.84;4.21
+83232;4033477832320;libri_x Bleistiftset Spitze;16.84;4.21
+83233;4033477832337;libri_x LED-Standlupe;14.6;14.6
+83234;4033477832344;libri_x Buchhalter Filz;12.18;6.09
+83236;4033477832368;libri_x Stickerbuch Leseliebe;19.4;4.85
+83238;4033477832382;libri_x Notizbuch ABC;14.04;4.68
+86086;4033477860866;libri_x Büchertasche Garten;22.86;3.81
+87119;4033477871190;Blatt & Blüte Meine Gartennotizen;14.56;7.28
+87120;4033477871206;Blatt & Blüte Blumengarten in Zinkwanne;24.3;8.1
+87121;4033477871213;Blatt & Blüte Grüne Wundertüte;38.79;4.31
+87122;4033477871220;Blatt & Blüte Mini-Gartengeräte im Set;19.4;4.85
+87123;4033477871237;Blatt & Blüte Gartenschild;27.48;2.29
+87124;4033477871244;Blatt & Blüte Kräutergartensteine;30.88;1.93
+87125;4033477871251;Blatt & Blüte Gartenpflaster und Pinzette;22.32;1.86
+87126;4033477871268;Blatt & Blüte Gartentasche;19.4;4.85
+87127;4033477871275;Blatt & Blüte Mini-Solarlichterkette Gartenparty;19.4;4.85
+87128;4033477871282;Blatt & Blüte Gartengarn im Glas;16.84;4.21
+87129;4033477871299;Blatt & Blüte Lichterkette Blätterranke;29.92;3.74
+87130;4033477871305;Blatt & Blüte Tintenschreiber 3er Set ;34.8;2.9
+90015;4033477900159;black stories Das mörderische Drehbuch;9.89;9.89
+90020;4033477900203;black stories - Das Spiel;11.45;11.45
+90021;4033477900210;black stories - Stadt Land Tod ;17.4;2.9
+90041;4033477900418;black stories investigation - BSI;8.9;8.9
+90073;4033477900739;black stories Sebastian Fitzek Edition;7.68;7.68
+90074;4033477900746;black stories Nele Neuhaus Edition;7.68;7.68
+90100;4033477901002;Wortissimo - Der schnelle Wort-Sport;9.89;9.89
+90136;4033477901361;(Come on) Let's quiz again;9.89;9.89
+90137;4033477901378;Te-Trix;4.93;4.93
+90207;4033477902078;Das Quiz der Pferde und Ponys;6.09;6.09
+90208;4033477902085;Das Schlaumeier-Quiz;6.09;6.09
+90211;4033477902115;Ohne Haufen, dumm gelaufen;4.93;4.93
+90218;4033477902184;Die großartige Dino-Maschine;9.39;9.39
+90224;4033477902245;True Stories;7.41;7.41
+90226;4033477902269;Wo ist bitte Umtata? ;9.89;9.89
+90233;4033477902337;Das Junior Fußball-Quiz;6.09;6.09
+90236;4033477902368;True Stories 2;7.41;7.41
+90237;4033477902375;Der Reise-Regen-Rücksitz-Koffer;7.91;7.91
+90238;4033477902382;Wordz - Wer findet mehr Wörter?;7.41;7.41
+90242;4033477902429;Magische Geschichten-Würfel: Piraten;5.92;5.92
+90243;4033477902436;Magische Geschichten-Würfel: Märchen;5.92;5.92
+90251;4033477902511;Kneipenquiz - das Original;12.37;12.37
+90252;4033477902528;Schuhe - Das Must-Have-Memo;7.16;7.16
+90253;4033477902535;Das Quiz der Rekorde;6.09;6.09
+90255;4033477902559;Fische versenken;4.93;4.93
+90256;4033477902566;Pocket-Games;65.28;1.36
+90259;4033477902597;Wer weiß das?;9.89;9.89
+90267;4033477902672;Kriss Kross;4.93;4.93
+90269;4033477902696;Quizical - Wie viel ist dein Wissen wert?;7.41;7.41
+90270;4033477902702;Trumpfen Spielen Quizzen Pferde;2.95;2.95
+90271;4033477902719;Meine kleine Märchen Memo Box;7.41;7.41
+90280;4033477902801;Trumpfen Spielen Quizzen Dinos;2.95;2.95
+90281;4033477902818;Magische Geschichten-Würfel: Gespenster;5.92;5.92
+90284;4033477902849;Kneipeinquiz Neue Fragen;3.45;3.45
+90285;4033477902856;TEAM WORDZ;8.4;8.4
+90286;4033477902863;Big Cityz - MIt 200 Städten um die Welt;9.89;9.89
+90287;4033477902870;Fieber;4.93;4.93
+90288;4033477902887;Sebastian Fitzeks SafeHouse;17.33;17.33
+90291;4033477902917;now goes me a light up;4.44;4.44
+90292;4033477902924;Schicht im Schacht!;4.93;4.93
+90293;4033477902931;Karten- und Würfelspiele für Kinder;4.93;4.93
+90296;4033477902962;Schwarzer Peter ;2.95;2.95
+90298;4033477902986;Lustige Quatschrätsel;4.93;4.93
+90299;4033477902993;Unglaublich, aber wahr! Das Quiz;6.09;6.09
+90303;4033477903037;Yu-ca-tan. Wer hat das größte Würfelglück?;4.93;4.93
+90308;4033477903082;Schusselige Schurken;4.93;4.93
+90311;4033477903112;no secrets;8.9;8.9
+90313;4033477903136;Schaben jagen;8.4;8.4
+90316;4033477903167;Kneipenquiz Brandneue Fragen;3.45;3.45
+90317;4033477903174;Kross the Wordz ;4.93;4.93
+90318;4033477903181;4 1/2 Minuten ... also schwing die Hufe!;4.93;4.93
+90319;4033477903198;Calavera ;4.93;4.93
+90320;4033477903204;Pocket Games Kidz;65.28;1.36
+90321;4033477903211;Mau-Mau für Kinder;2.95;2.95
+90322;4033477903228;Der Phrasenfuchs;7.41;7.41
+90323;4033477903235;Caracho!;8.4;8.4
+90324;4033477903242;Dr. Grips Logikpuzzle;8.4;8.4
+90325;4033477903259;Das Quiz der Erde;6.09;6.09
+90329;4033477903297;No Return;14.85;14.85
+90331;4033477903310;Quizzen und Buzzern: Popquiz;8.9;8.9
+90332;4033477903327;Quizzen und Buzzern: Filmquiz;8.9;8.9
+90333;4033477903334;Quizzen und Buzzern: Allgemeinwissen;8.9;8.9
+90337;4033477903372;Beam me up;4.93;4.93
+90338;4033477903389;Crash Test Bunnies;4.93;4.93
+90339;4033477903396;Small Talk Bingo;8.9;8.9
+90340;4033477903402;Mix Max;2.95;2.95
+90341;4033477903419;Tetragenial;8.4;8.4
+92011;4033477920119;Snake2Cube silver;25.2;8.4
+92049;4033477920492;Up & Down Junior - Lustiges Kugel-Geduldspiel;46.32;1.93
+92050;4033477920508;Be clever! Smart Puzzles bunt ;34.8;2.9
+92051;4033477920515;Be clever! Smart Puzzles Natur ;34.8;2.9
+92057;4033477920577;Up & Down ;46.32;1.93
+92058;4033477920584;Prof Puzzle Puzzleman ;74.4;6.2
+92059;4033477920591;Prof Puzzle Matchbox Puzzles ;108;1.44
+92064;4033477920645;Prof Puzzle Great Minds Die besten Fünf ;35;8.75
+92071;4033477920713;Up & Down 2 ;46.32;1.93
+92072;4033477920720;Offline;28.44;2.37
+92073;4033477920737;Prof Puzzle Crazy Colour Puzzles;68.4;2.85
+92082;4033477920829;Prof Puzzle IQ Test Immer nur 10! ;24.36;6.09
+92085;4033477920850;Prof Puzzle Matchbox Triple Set Herz ;17.44;4.36
+92089;4033477920898;Prof Puzzle Rebound Shuffleboard;9.72;9.72
+92090;4033477920904;Prof Puzzle Desktop Bowling;12.16;12.16
+92092;4033477920928;Professor Puzzle Spacemen – Die Challenge aus dem Weltall;75.72;6.31
+92093;4033477920935;Heavy Metal - Querdenker Puzzles;78.3;2.9
+92094;4033477920942;Prof Puzzle Boules;8.25;8.25
+92095;4033477920959;Kubbs - Wikingerspiel;9.72;9.72
+92098;4033477920980;Prof Puzzle Albert Einsteins Geniestreich;14.6;14.6
+92099;4033477920997;Prof Puzzle Einsteins E=mc² Drahtpuzzles ;25.24;6.31
+92100;4033477921000;Prof Puzzle Einsteins Gravitationswürfel ;25.24;6.31
+92101;4033477921017;Prof Puzzle Roboter Randale;9.72;9.72
+92102;4033477921024;Sherlock Holmes und die rauchende Pfeife;25.68;6.42
+92103;4033477921031;Sherlock Holmes und die mysteriöse Münze;29.64;7.41
+92104;4033477921048;Lustige Kugellabyrinthe;34.8;2.9
+92105;4033477921055;Albert Einsteins Gedankenschloss;25.68;6.42
+92106;4033477921062;Albert Einsteins Atompuzzle;25.2;8.4
+92107;4033477921079;Albert Einsteins erste Geige;20.7;3.45
+92108;4033477921086;Sherlock Holmes und der Schatz im Tresor;35.6;8.9
+99681;4033477996817;Display libri_x Magnetlesezeichen Grußkarten;46.32;1.93
+100002;9783964550002;80 Rätsel tief unten im Meer;9.5;9.5
+100019;9783964550019;Pocket Quiz Allgemeinwissen;3.34;3.34
+100026;9783964550026;Pocket Quiz Querdenken;3.34;3.34
+100033;9783964550033;Pocket Quiz Gehirnjogging;3.34;3.34
+100040;9783964550040;Pocket Quiz Globetrotter;3.34;3.34
+100057;9783964550057;Pocket Quiz Serienjunkies ;3.34;3.34
+100064;9783964550064;Pocket Quiz Schlager;3.34;3.34
+100071;9783964550071;black stories junior: rainbow stories;5.58;5.58
+100088;9783964550088;black stories Junior spooky stories;5.58;5.58
+100101;9783964550101;black stories Fantasy Movies Edition;5.58;5.58
+100118;9783964550118;black stories Killer Ladies Edition;5.58;5.58
+100132;9783964550132;Denksport at Home;5.58;5.58
+100156;9783964550156;Das große Gartenquiz;9.5;9.5
+100163;9783964550163;Krabbelkäfer Was stimmt hier nicht?;4.46;4.46
+100170;9783964550170;Krabbelkäfer Erste Zahlen;4.46;4.46
+100187;9783964550187;Mein Ruckzuck-Rätselblock für gute Laune;3.9;3.9
+100194;9783964550194;Mein Ruckzuck-Rätselblock für kluge Köpfe;3.9;3.9
+100200;9783964550200;Expedition Natur: Malen, Basteln, Staunen - Bäume;4.46;4.46
+100217;9783964550217;Expedition Natur Malen, Basteln, Staunen Insekten;4.46;4.46
+100231;9783964550231;Der magische Lernkoffer Einhörner;5.58;5.58
+100248;9783964550248;Der magische Lernkoffer Piraten;5.58;5.58
+100255;9783964550255;GEOlino Wadenbeißer Band 7;5.58;5.58
+100262;9783964550262;Expedition Natur: Tierspuren & Fährten;4.46;4.46
+100279;9783964550279;Stell dir vor, du wärst... Ein wildes Tier;7.26;7.26
+100293;9783964550293;Pocket Quiz Gedächtnistraining ;3.34;3.34
+100309;9783964550309;Pocket Quiz Royals;3.34;3.34
+100316;9783964550316;Pocket Quiz Realer Irrsinn;3.34;3.34
+100347;9783964550347;Das große Literatur-Quiz von A bis Z;9.5;9.5
+100378;9783964550378;Alle Tiere, die ich (noch nicht) kenne;8.38;8.38
+100408;9783964550408;Mein Ruckzuck-Rätselblock rund um Weihnachten;3.9;3.9
+100415;9783964550415;Super Narwal und Jelly, der Blitz;5.58;5.58
+102380;9783897772380;Mit der Becherlupe auf Entdeckungstour;4.46;4.46
+102397;9783897772397;Heimische Vögel beobachten;4.46;4.46
+102410;9783897772410;Das große Buch der Vergleiche;9.5;9.5
+103287;9783897773288;black stories 3;5.58;5.58
+103486;9783897773486;Expedition Natur: Orientierung in der Natur;4.46;4.46
+103646;9783897773646;black stories - English Edition;5.58;5.58
+103653;9783897773653;Die  besten Optischen Illusionen;2.78;2.78
+104490;9783897774490;black stories 4;5.58;5.58
+104520;9783897774520;Das Autoquiz;8.38;8.38
+104537;9783897774537;Nachts sind alle Katzen schlau;5.58;5.58
+104551;9783897774551;Rätsel to go Denksport-Mix: elegant edition;5.02;5.02
+104568;9783897774568;Rätsel to go Denksport-Mix: sporty edition;5.02;5.02
+104575;9783897774575;Rätsel to go Denksport-Mix: adventure edition;5.02;5.02
+104582;9783897774582;Rätsel to go Denksport-Mix: bunt & wild edition;5.02;5.02
+104599;9783897774599;Clever wie Sherlock;8.38;8.38
+104605;9783897774605;Stell dir vor, du wärst... Ein Tier im Wald;7.26;7.26
+104612;9783897774612;Stell dir vor, du wärst ... Ein Tier im Garten;7.26;7.26
+104681;9783897774681;Expedition Natur: Auf Entdeckungstour im Wald;4.46;4.46
+104735;9783897774735;365 Experimente für jeden Tag;5.58;5.58
+104810;9783897774810;Die 100 besten optischen Illusionen;5.58;5.58
+104834;9783897774834;black stories - Köln Edition;5.58;5.58
+104841;9783897774841;black stories junior: blue stories;5.58;5.58
+104858;9783897774858;black stories junior: green stories;5.58;5.58
+104865;9783897774865;black stories junior: pink stories;5.58;5.58
+104926;9783897774926;Expedition Natur: Tiere bei Nacht entdecken;4.46;4.46
+105336;9783897775336;Dino Maskenbuch;3.9;3.9
+105442;9783897775442;black stories - Real Crime Edition;5.58;5.58
+105459;9783897775459;black stories 5;5.58;5.58
+105473;9783897775473;black stories junior: white stories;5.58;5.58
+105763;9783897775763;Mein Krabbelkäfer-Malbuch;2.21;2.21
+105770;9783897775770;Expedition Natur: Das Becherlupen-Forscherbuch;5.58;5.58
+106012;9783897776012;Das Weihnachts-Quiz;5.02;5.02
+106029;9783897776029;black stories 6;5.58;5.58
+106050;9783897776050;100 unglaubliche optische Illusionen;5.58;5.58
+106166;9783897776166;black stories - Holiday Edition;5.58;5.58
+106173;9783897776173;black stories - Funny Death Edition;5.58;5.58
+106180;9783897776180;Expedition Natur: Das Outdoor-Survivalbuch ;7.26;7.26
+106227;9783897776227;black stories junior: orange stories;5.58;5.58
+106234;9783897776234;black stories junior: pink stories 2;5.58;5.58
+106272;9783897776272;Malandoo für Jungs;2.78;2.78
+106289;9783897776289;Malandoo für Mädchen;2.78;2.78
+106302;9783897776302;black stories 7;5.58;5.58
+106319;9783897776319;black stories - Christmas Edition;5.58;5.58
+106470;9783897776470;Expedition Natur: Abenteuer Geocaching;7.26;7.26
+106524;9783897776524;black stories Mittelalter;5.58;5.58
+106531;9783897776531;black stories Sex and Crime;5.58;5.58
+106746;9783897776746;black stories 8;5.58;5.58
+106920;9783897776920;SuDoku - 100 knifflige Zahlenrätsel für Kinder;3.34;3.34
+106951;9783897776951;Das Warum-Quiz;6.09;6.09
+107002;9783897777002;Mein erstes Becherlupen-Buch;5.02;5.02
+107064;9783897777064;Die schönsten Fadenspiele;5.58;5.58
+107071;9783897777071;Sudoku - Noch mehr knifflige Zahlenrätsel für Kinder;3.34;3.34
+107118;9783897777118;black stories - Shit Happens Edition;5.58;5.58
+107149;9783897777149;black stories junior: golden stories;5.58;5.58
+107163;9783897777163;Pocket Quiz Sonderedition Schweiz;3.9;3.9
+107262;9783897777262;Kaleido Color;3.34;3.34
+107279;9783897777279;Boys' Book Das außergewöhnliche Handbuch für Jungs;7.26;7.26
+107286;9783897777286;Girls' Book Das außergewöhnliche Handbuch für Mädchen;7.26;7.26
+107446;9783897777446;Expedition Natur Das große Outdoor-Abenteuerbuch;5.58;5.58
+107477;9783897777477;black stories 9;5.58;5.58
+107484;9783897777484;black stories - Christmas Edition 2;5.58;5.58
+107569;9783897777569;Das große Pfadfinderbuch ;8.38;8.38
+107750;9783897777750;Expedition Natur - Natur aktiv: GEOCACHING;1.66;1.66
+107774;9783897777774;Expedition Natur - Natur aktiv: NACHTWANDERUNG;1.66;1.66
+107781;9783897777781;Expedition Natur - Natur aktiv: ORIENTIERUNG;1.66;1.66
+107859;9783897777859;Geolino Redaktion Wadenbeißer Bd. 3;5.58;5.58
+107866;9783897777866;Krabbelkäfer Gartenbuch;5.58;5.58
+107873;9783897777873;black stories Medizin Edition;5.58;5.58
+108009;9783897778009;black stories 10;5.58;5.58
+108016;9783897778016;black stories Dark Tales Edition;5.58;5.58
+108023;9783897778023;black stories junior: purple stories;5.58;5.58
+108078;9783897778078;black stories Funny Death Edition 2;5.58;5.58
+108207;9783897778207;Expedition Natur-Natur aktiv: Strand-Schätze sammeln;1.66;1.66
+108214;9783897778214;Expedition Natur-Natur aktiv: Tarnen und Täuschen ;1.66;1.66
+108221;9783897778221;Geolino Redaktion Wadenbeißer Bd. 4;5.58;5.58
+108276;9783897778276;ERFINDER;8.38;8.38
+108283;9783897778283;Geolino Dinosaurier - Erforschen & Ausgraben;7.26;7.26
+108290;9783897778290;Grundkurs für Detektive - Das Standardwerk;7.26;7.26
+108306;9783897778306;black stories - Bibel Edition;5.58;5.58
+108320;9783897778320;Die schönsten Kinderspiele aus aller Welt;8.38;8.38
+108337;9783897778337;Happy me Glücklichmacher für den Alltag Buch;8.38;8.38
+108344;9783897778344;Natur aktiv: Schnitzeljagd und andere Spiele in der Natur;1.66;1.66
+108351;9783897778351;Natur aktiv: Insektenhotels & Co. selbst bauen;1.66;1.66
+108375;9783897778375;365 Sudokus für Kinder ;3.9;3.9
+108399;9783897778399;Geolino Redaktion Wadenbeißer Bd. 1;5.58;5.58
+108450;9783897778450;Quiz-Box Allgemeinwissen;5.02;5.02
+108467;9783897778467;Quiz-Box Optische Illusionen;5.02;5.02
+108474;9783897778474;Quiz-Box Gehirnjogging;5.02;5.02
+108511;9783897778511;100% Mädchen ;9.5;9.5
+108528;9783897778528;Briefe an mein Baby;7.26;7.26
+108535;9783897778535;Briefe an mein Enkelkind;7.26;7.26
+108542;9783897778542;Geolino Redaktion Wadenbeißer Bd. 2;5.58;5.58
+108559;9783897778559;Das Wald-Forscherbuch;7.26;7.26
+108566;9783897778566;110% Querdenken;8.38;8.38
+108580;9783897778580;black stories Scary Music Edition;5.58;5.58
+108610;9783897778610;Ed, the Cat - Katzen sind eben so;3.34;3.34
+108627;9783897778627;GEOlino Quiz Tiere;3.9;3.9
+108634;9783897778634;GEOlino Quiz Erde;3.9;3.9
+108641;9783897778641;GEOlino Quiz Natur;3.9;3.9
+108689;9783897778689;Blüten & Blätter sammeln;8.38;8.38
+108696;9783897778696;Schwimmende Nähnadel ;11.18;11.18
+108801;9783897778801;Das große Quiz der Allgemeinbildung;13.99;13.99
+108900;9783897778900;Die faszinierende Welt der optischen Illusionen;7.26;7.26
+108917;9783897778917;Baue! deine Ritterburg und entdecke das spannende ;7.26;7.26
+108948;9783897778948;Das Taschenmesser-Schnitzbuch;7.26;7.26
+108955;9783897778955;black stories Science Fiction Edition ;5.58;5.58
+108962;9783897778962;black stories 13;5.58;5.58
+108986;9783897778986;black stories Uni Edition;5.58;5.58
+108993;9783897778993;black stories Strange World Edition;5.58;5.58
+109020;9783897779020;How to speak Emoji;5.58;5.58
+109037;9783897779037;Quiz-Box Kopf-Training;5.02;5.02
+109044;9783897779044;Quiz-Box IQ-Workout;5.02;5.02
+109082;9783897779082;Happy me Postkartenbuch Zeit für dich;5.58;5.58
+109099;9783897779099;Hurra! Ich bin ein Wissenschaftler!;7.26;7.26
+109105;9783897779105;Yoga für Kinder;8.38;8.38
+109150;9783897779150;Rätselhafte Labyrinthe;5.58;5.58
+109167;9783897779167;Briefe an meine Liebe;7.26;7.26
+109174;9783897779174;Briefe an das Brautpaar;7.26;7.26
+109181;9783897779181;GEOlino Redaktion Wadenbeißer Bd. 5;5.58;5.58
+109198;9783897779198;GEOlino Experimente mit Wasser;4.46;4.46
+109204;9783897779204;GEOlino Experimente mit Licht & Luft;4.46;4.46
+109211;9783897779211;Quiz Ägypten;3.9;3.9
+109228;9783897779228;Quiz Weltraum;3.9;3.9
+109235;9783897779235;Quiz Erfinder;3.9;3.9
+109242;9783897779242;50 Schritte zum besseren Gedächtnis für Senioren;7.26;7.26
+109259;9783897779259;black stories Superheroes Edition;5.58;5.58
+109266;9783897779266;black stories Tod in Hollywood;5.58;5.58
+109273;9783897779273;black stories Mörderische Bescherung;7.26;7.26
+109280;9783897779280;black stories junior: red stories;5.58;5.58
+109297;9783897779297;black stories Junior christmas stories;5.58;5.58
+109303;9783897779303;Bon appétit!;9.5;9.5
+109310;9783897779310;Das 80er-Kultquiz;8.38;8.38
+109327;9783897779327;Maskenbuch Wilde Tiere;3.9;3.9
+109334;9783897779334;Maskenbuch Monster;3.9;3.9
+109341;9783897779341;Von hier nach da ;7.26;7.26
+109358;9783897779358;Die spannendsten Outdoor-Experimente für Kinder;9.5;9.5
+109365;9783897779365;Happy me Listenweise Glücklichmacher;5.99;5.99
+109389;9783897779389;Das magische Auge;7.26;7.26
+109402;9783897779402;Traumberuf Tierarzt;7.26;7.26
+109419;9783897779419;Traumberuf Astronaut;7.26;7.26
+109426;9783897779426;Der Reise-Regen-Rücksitz-Block;3.9;3.9
+109433;9783897779433;Das Musikquiz;8.38;8.38
+109440;9783897779440;Vögel basteln;7.26;7.26
+109457;9783897779457;Das große Quiz der Religionen;9.5;9.5
+109464;9783897779464;Pauls magische Reise;7.26;7.26
+109471;9783897779471;GEOlino Experimente mit Kraft & Elektrizität;4.46;4.46
+109501;9783897779501;Briefe an mich selbst;7.26;7.26
+109518;9783897779518;Narwal - Das Einhorn der Meere ;5.58;5.58
+109525;9783897779525;Das Globetrotter-Quiz. Der Wissenstest für Weitgereiste;5.58;5.58
+109549;9783897779549;Quiz-Box Querdenken;5.02;5.02
+109563;9783897779563;Pocket-IQ-Test. Wie schlau bist du?;5.58;5.58
+109570;9783897779570;Denksport to go;5.58;5.58
+109587;9783897779587;Bastel dir die Welt;7.26;7.26
+109594;9783897779594;Geheimnisvolle Sticker-Welt: Tiere im Dschungel;4.46;4.46
+109600;9783897779600;Geheimnisvolle Sticker-Welt: Tiere im Meer;4.46;4.46
+109617;9783897779617;Geheimnisvolle Sticker-Welt: Tiere in der Savanne;4.46;4.46
+109624;9783897779624;Geheimnisvolle Sticker-Welt: Tiere im Wald;4.46;4.46
+109631;9783897779631;GEOlino Wadenbeißer Bd. 6;5.58;5.58
+109648;9783897779648;Das ist Weihnachten. Mythen, Fakten, Traditionen;5.02;5.02
+109655;9783897779655;Gärtnern in Beet, Topf & Kasten;7.26;7.26
+109662;9783897779662;110% Denksport;8.38;8.38
+109679;9783897779679;black stories Dark Night Edition;5.58;5.58
+109686;9783897779686;Kopftraining to go. 75 Karten für effektives Gehirnjogging unterwegs;5.58;5.58
+109693;9783897779693;Das große, bunte Krabbelkäfer Mitmachbuch;4.46;4.46
+109716;9783897779716;black stories Daily Disasters;5.58;5.58
+109723;9783897779723;black stories Bloody Cases Edition;5.58;5.58
+109747;9783897779747;Mit 80 Rätseln um die Welt;9.5;9.5
+109754;9783897779754;black stories 5 nach 12 Edition;5.58;5.58
+109761;9783897779761;black stories junior: school stories;5.58;5.58
+109778;9783897779778;Expedition Natur: Das große Winterbuch;7.26;7.26
+109785;9783897779785;Das Riesenbuch der Dinosaurier;9.5;9.5
+109792;9783897779792;Das kleine QuEntchen Glück.Das Buch;7.26;7.26
+109815;9783897779815;Das kleine QuEntchen Glück. 24 glücksbringende Postkarten;5.58;5.58
+109822;9783897779822;Mein Ruckzuck-Rätselblock für lange Autofahrten;3.9;3.9
+109839;9783897779839;Mein Ruckzuck-Rätselblock für die Ferien;3.9;3.9
+109846;9783897779846;Mein Ruckzuck-Rätselblock für zwischendurch;3.9;3.9
+109853;9783897779853;Mein Ruckzuck-Rätselblock rund um Tiere;3.9;3.9
+109860;9783897779860;Die Tiere unserer Erde;9.5;9.5
+109877;9783897779877;50 angesagte Tipps für New York;3.34;3.34
+109884;9783897779884;50 angesagte Tipps für Paris;3.34;3.34
+109891;9783897779891;50 angesagte Tipps für Berlin;3.34;3.34
+109907;9783897779907;50 angesagte Tipps für London;3.34;3.34
+109921;9783897779921;Happy Me Wohlfühlideen für den Alltag;8.38;8.38
+109938;9783897779938;Das Riesenbuch der Meerestiere;9.5;9.5
+109945;9783897779945;Das Riesenbuch der wilden Tiere;9.5;9.5
+109952;9783897779952;GEOlino Wadenbeißer Superviele Krimi-Comics ;8.38;8.38
+109969;9783897779969;Expedition Natur: Tiere im Winter;4.46;4.46
+109976;9783897779976;Expedition Natur: Unser Sternenhimmel;4.46;4.46
+109983;9783897779983;Spiele-Klassiker - Das Knotenbuch ;7.26;7.26
+109990;9783897779990;I will survive. 100 clevere Tipps, die das Leben einfacher machen;3.34;3.34

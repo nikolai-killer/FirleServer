@@ -1,0 +1,2302 @@
+Artikelnummer;Bezeichnung;EAN;Netto
+1;Kreative Bildergeschichten;4005556000012;12.25
+2;tiptoi Stifthülle blau für;4005556000029;3.25
+4;tiptoi Stifthülle grün für;4005556000043;3.25
+5;tiptoi Stifthülle lila für;4005556000050;3.25
+6;Wissen&Quiz:FC Bayern Mün.;4005556000067;5.6
+7;DFZ: verdr. WettlaufspielD;4005556000074;13.45
+8;Wörter-Bilderbuch Tiere   ;4005556000081;9.7
+9;Lese-Lausch-Abent.:Tiefsee;4005556000098;8.55
+10;Pocket wissen: Körper;4005556000104;5.65
+11;Schönste Lieder f.unterweg;4005556000111;9.7
+12;www Unterwegs mit Polizei ;4005556000128;11.4
+13;Lern mit mir!Deutschland  ;4005556000135;8.55
+19;CREATE Galakt.Weltr.-Miss.;4005556000197;11.4
+21;DCA:Cars-das ras.Rennspiel;4005556000210;13.45
+22;Meine schönsten Märchen   ;4005556000227;11.4
+23;Eiskönigin (Disney)       ;4005556000234;11.4
+24;Elfenwald                 ;4005556000241;11.4
+36;tiptoi Der Stift-WLAN-Edit;4005556000364;42.5
+511;Magors Lesezauber         ;4005556005116;15.25
+512;Geheimnis der Zahleninsel ;4005556005123;15.25
+513;Abenteuer Tierwelt        ;4005556005130;11.95
+518;tiptoi Puzzle Ponyhof     ;4005556005185;8.5
+519;tiptoi mem.Rekorde i.Tier ;4005556005192;12.25
+525;Ratespaß auf Reisen       ;4005556005253;8.75
+554;tiptoi Puzzle Im Einsatz  ;4005556005543;8.5
+555;Monsterstarke Musikschule ;4005556005550;12.25
+560;Dein Körper und du        ;4005556005604;16.45
+562;tiptoi Adventsk.Mandelmann;4005556005628;14.5
+564;Tier-Set Bauernhof        ;4005556005642;25.5
+579;Quer durch Europa         ;4005556005796;16.45
+581;WWW6 Unterw.m.d.Feuerwehr ;4005556005819;11.4
+583;WWW3 Die Welt der Musik   ;4005556005833;11.4
+584;WWW4 Sicher i.Strassenverk;4005556005840;11.4
+585;WWW5 Wir lernen Englisch  ;4005556005857;11.4
+587;WWW8 Komm mit in den Wald ;4005556005871;11.4
+598;Mein großer Weltatlas     ;4005556005987;11.4
+608;WWW13 Pferde & Ponys      ;4005556006083;11.4
+609;Lern-Spiel-Abent.:1.Buchs.;4005556006090;11.4
+620;Lern-Spiel-Abent.:1.Zahlen;4005556006205;11.4
+622;WWW12 Die Welt d.Fahrzeuge;4005556006229;11.4
+623;Grundschulwörterbuch Engl.;4005556006236;11.4
+640;Mathe 1. Klasse           ;4005556006403;11.4
+642;Deutsch 1. Klasse         ;4005556006427;11.4
+643;Meine schönsten Kinderlie.;4005556006434;11.4
+657;WWW18 Unsere Jahreszeiten ;4005556006571;11.4
+663;tiptoi®Vorschulwissen     ;4005556006632;11.4
+675;WWW Entdecke den Zoo      ;4005556006755;11.4
+676;Merken und Konzentrieren  ;4005556006762;11.4
+681;Meine schönst.Weih.lieder ;4005556006816;11.4
+682;pockWiss:Baustellenfahrz. ;4005556006823;5.65
+683;pockWiss:Dinosaurier      ;4005556006830;5.65
+684;pockWiss:Pferde u.Ponys D;4005556006847;5.65
+685;pockWiss:Wale u.Delfine   ;4005556006854;5.65
+688;Wörter-Bilderbuch Unterw. ;4005556006885;9.7
+689;pocket-Wissen Ballett     ;4005556006892;5.65
+690;pocket-Wissen Feuerwehr   ;4005556006908;5.65
+692;www Fußball               ;4005556006922;11.4
+706;Der hungr.Zahlen-Roboter  ;4005556007066;12.25
+707;Tier-Set Reiterhof        ;4005556007073;25.5
+713;Spielwelt Prinzessin      ;4005556007134;36.99
+718;Spielwelt Ritter          ;4005556007189;36.99
+733;Wir spielen Schule        ;4005556007332;12.25
+737;Schatzsuche Buchstabenburg;4005556007370;12.25
+742;Tier-Set Falabellas       ;4005556007424;13.1
+746;Tier-Set Dinosaurier      ;4005556007462;13.1
+752;Wissen&Quizzen:Raubtiere  ;4005556007523;4.6
+753;Wissen&Quiz:Menschl.Körper;4005556007530;4.6
+754;Wissen&Quiz:Fasz.Pferde   ;4005556007547;4.6
+757;Die verr. Wetter-Maschine ;4005556007578;12.25
+767;Wissen&Quiz:SüßeTierkinder;4005556007677;4.6
+776;Alle meine Tiere          ;4005556007769;11.95
+779;Rechenspaß mit Taschengeld;4005556007790;11.95
+785;Mein interakt.Jun.Globus D;4005556007851;35.45
+786;Sprichst du Englisch?     ;4005556007868;16.45
+787;tiptoi interakt.Globus'17 ;4005556007875;35.45
+801;tiptoi® - Der Stift       ;4005556008018;29.7
+802;Start.-Set Stift+Buchst.sp;4005556008025;38.6
+803;Start.-Set Stift+Zahlen-Bu;4005556008032;38.6
+804;Start.-Set Stift+Bauernh.B;4005556008049;38.6
+805;CREATE Start.Set Weltreise;4005556008056;38.6
+806;Start.-Set Stift+Wörter-B.;4005556008063;38.6
+829;Wissen&Quiz:Retter&Helfer ;4005556008292;4.6
+830;Rätselspaß auf d.Bauernhof;4005556008308;11.95
+831;Puzzeln, Ent. Deutschland ;4005556008315;8.5
+833;Duell der Super-Quizzer   ;4005556008339;15.95
+837;Die Welt der Technik      ;4005556008377;15.95
+840;tiptoi Adventskalender '18;4005556008407;14.4
+841;CREATE Sound-Quiz         ;4005556008414;12.25
+842;Wiss&Quiz: Welt d.Saurier ;4005556008421;4.6
+847;Wir lernen die Uhr        ;4005556008476;11.95
+848;Fahrzeuge in der Stadt    ;4005556008483;11.95
+849;active Set Dschungel-Olymp;4005556008490;20
+900;Disney Cars               ;4005556009008;11.4
+901;Mein Lern-Spiel-Abent.:Ers;4005556009015;11.4
+902;Lern mit mir: Deutschland ;4005556009022;8.55
+903;Lese-Lausch-Abt.Zauberwald;4005556009039;8.55
+904;CREATE Die magische Insel ;4005556009046;11.4
+905;CREATE Schatzs.i.Dschungel;4005556009053;11.4
+906;CREATE Die verr. Weltreise;4005556009060;11.4
+907;CREATE Sticker Elfen      ;4005556009077;4.25
+908;CREATE Sticker Lust. Tiere;4005556009084;4.25
+909;CREATE Sticker Meerestiere;4005556009091;4.25
+910;CREATE Sticker Weltall    ;4005556009107;4.25
+1315;Ravensb. Familienspiele   ;4005556013159;26.5
+1500;Frohe Ostern              ;4005556015009;2.8
+1501;Die Osterüberraschung     ;4005556015016;3.95
+1502;Superdicker Osterblock    ;4005556015023;4.55
+1503;Mein Zuhause              ;4005556015030;2.8
+1504;Mein Bauernhof            ;4005556015047;2.8
+1505;Alle meine Fahrzeuge      ;4005556015054;2.8
+1506;Wenn kleine Hasen Aua hab.;4005556015061;3.95
+1507;Leise,leise sagt die Meise;4005556015078;4.55
+1508;Entdecke Welt der Fahrz.  ;4005556015085;4.55
+1509;Tag und Nacht             ;4005556015092;5.1
+1510;Meine schönsten Tiergesch.;4005556015108;5.1
+1511;Erste Sachen              ;4005556015115;5.65
+1512;Meine Tiere               ;4005556015122;5.65
+1514;Wir machen Musik          ;4005556015146;7.4
+1515;Wer schläft und schnarcht?;4005556015153;8.55
+1516;Tiere im Wald             ;4005556015160;6.25
+1517;Tiere im Zoo              ;4005556015177;6.25
+1518;Mein Anzieh-Stickerspaß   ;4005556015184;7.4
+1519;der Baustelle         D;4005556015191;7.4
+1520;Alles hat einen Namen     ;4005556015207;7.4
+1521;Der Schusch und der Bär   ;4005556015214;7.4
+1522;Überrasch.für Hase Hibisk.;4005556015221;7.4
+1523;Vorlesegesch.f.starke Mäd.;4005556015238;5.1
+1524;Vorlesegesch.f.starke Jung;4005556015245;5.1
+1525;www70,Abent.u.Entdecker   ;4005556015252;8.55
+1526;www71,Wir entd.heim.Tiere ;4005556015269;8.55
+1527;www72,Entd.Feste u.Bräuche;4005556015276;8.55
+1528;wwwjun66,Helfen,teilen    ;4005556015283;5.65
+1529;wwwjun67,Was macht Astron.;4005556015290;5.65
+1530;wwwjun3, Der Flughafen    ;4005556015306;5.65
+1531;www Erde                  ;4005556015313;2.55
+1532;www Fahrzeuge auf Baustel.;4005556015320;2.55
+1533;Buchstaben-Sticker-Rätsel ;4005556015337;2.85
+1534;Zahlen-Sticker-Rätsel D;4005556015344;2.85
+1535;Das Rav.Kinderlexikon A-Z ;4005556015351;11.4
+1536;Der Rav. Kinder-Weltatlas ;4005556015368;11.4
+1537;Mein Natur-Erlebnisbuch   ;4005556015375;7.4
+1538;MnZ: Regenbogenland       ;4005556015382;2.25
+1539;MnZ: In the Ocean         ;4005556015399;2.25
+1540;#NAME?;4005556015405;4.55
+1541;Das lustige Pferde-Quiz   ;4005556015412;3.95
+1542;Mein Vorschul-Rätselblock ;4005556015429;2.8
+1543;Dicker Kindergartenblock  ;4005556015436;4.55
+1544;Mein dicker Vorschulblock ;4005556015443;4.55
+1545;Stickersp.:Create your Sty;4005556015450;3.95
+1546;Stickerspaß: Ninjas       ;4005556015467;3.95
+1547;Heute feiern wir Weihn.   ;4005556015474;2.8
+1548;Erste Weihn.lieder u.Gesch;4005556015481;4.55
+1549;Weihnachtskugeln (rot)    ;4005556015498;3.95
+1550;Sachen suchen: Fahrzeuge  ;4005556015504;2.8
+1551;Minuteng.:Auf dem Bauernh.;4005556015511;3.95
+1552;Minuteng.:Baden,kämmen,   ;4005556015528;3.95
+1553;Spiel mit kleinen Tieren  ;4005556015535;4.55
+1554;Spiel mit kleinen Fahrzeug;4005556015542;4.55
+1555;Die Traumfee              ;4005556015559;4.55
+1556;Bunt ist meine Lieblingsf.;4005556015566;4.55
+1557;Disn.Kinderliederschatz   ;4005556015573;4.55
+1558;Fingerpuppenb.:Hallo Hund ;4005556015580;5.1
+1559;Fingerpuppenb.:Hallo Maus ;4005556015597;5.1
+1560;Meine Lieblingstiere      ;4005556015603;5.65
+1561;Sachen suchen (AT)        ;4005556015610;5.65
+1562;Zum Fühlen: Bauernhoftiere;4005556015627;5.65
+1563;Schau mal,Lieblingst.(AT) ;4005556015634;5.65
+1564;Schiebebuch Feuerwehr (AT);4005556015641;5.65
+1566;Schiebebuch Kindergarten  ;4005556015665;5.65
+1567;Mein erstes Körperbuch(AT);4005556015672;5.65
+1568;Sachen suchen,hören:Im Zoo;4005556015689;7.4
+1569;Einsteigen-Losfahren      ;4005556015696;8.55
+1570;Puzzle-Spielbuch:Tierkind.;4005556015702;7.4
+1571;Größe Glück der Welt(AT)  ;4005556015719;7.4
+1572;Sandmännchens Traumgeschic;4005556015726;7.4
+1573;Kindergart.-Freunde Jungen;4005556015733;5.1
+1574;Kindergart.-Freunde Mädch.;4005556015740;5.1
+1575;Was macht Zahnarzt?Bd.64  ;4005556015757;5.65
+1576;Weihnachten Bd.44 (AT)    ;4005556015764;5.65
+1577;Tod und Trauer Bd.42 (AT) ;4005556015771;8.55
+1578;Alles über Flugzeuge Bd.20;4005556015788;8.55
+1580;Das große Wimmelwissen    ;4005556015801;14.25
+1581;Fußball (AT)              ;4005556015818;3.95
+1582;Tiere der Welt (AT)       ;4005556015825;3.95
+1583;Mein Schulstart-Buch      ;4005556015832;5.65
+1584;Große RV Bilderlex. A-Z   ;4005556015849;12.55
+1585;Tollsten Tiere der Welt   ;4005556015856;12.55
+1586;Malen n.Zahl.:Süße Tierk. ;4005556015863;3.95
+1587;Mein erster Malblock 1    ;4005556015870;2.8
+1588;Mein erster Malblock 2    ;4005556015887;2.8
+1589;Disney Block 2            ;4005556015894;3.95
+1590;Ferien-Rätselspaß in Natur;4005556015900;3.95
+1591;Mein Reise-Rätsel-Block 1 ;4005556015917;2.8
+1592;Spirit:Sticker-Activity 1 ;4005556015924;3.95
+1593;Stickerspaß: Einhörner    ;4005556015931;3.95
+1594;Exit:Gefangen i.Hotel Bd.1;4005556015948;7.3
+1595;Exit:Gefangen i.Burg Bd.2D;4005556015955;7.3
+2015;Auf dem Bauernhof         ;4005556020157;2.8
+2032;Malbuch- Natur            ;4005556020324;3.95
+2040;Meine allerersten Wörter  ;4005556020409;2.25
+2043;Gute Nacht-alles schläft  ;4005556020430;3.4
+2044;Mein erster Märchenschatz ;4005556020447;3.95
+2045;Ich hab dich lieb, kl.Maus;4005556020454;4.55
+2046;Lass dich trösten,kl. Bär ;4005556020461;4.55
+2047;Töpfchen, Schnuller,Brüd. ;4005556020478;4.55
+2053;Meine 1. großen Fahrzeuge ;4005556020539;3.4
+2056;Was machen die Tiere?   D;4005556020560;5.1
+2058;Was passiert auf der Baust;4005556020584;5.1
+2060;Zähne putzen              ;4005556020607;5.1
+2061;Buchstabenrätsel(1.Lesest.;4005556020614;2.25
+2063;Viele, viele Fahrzeuge    ;4005556020638;5.1
+2071;Minutengesch.: Schlaf gut ;4005556020713;3.95
+2074;Minutengesch.: Fahrzeuge  ;4005556020744;3.95
+2077;Sachen suchen-Wimmelbuch  ;4005556020775;5.1
+2081;WWW15Alles ü.Prinzessinnen;4005556020812;8.55
+2083;WWW Mein großer Tieratlas ;4005556020836;9.7
+2084;WWWjun14Was ich alles kann;4005556020843;5.65
+2085;WWWjun23 Rettungsfahrzeuge;4005556020850;5.65
+2086;WWWjun.Mein Jun.Lexik.Tier;4005556020867;7.4
+2089;Erst.Fühlb.:Meine Sachen  ;4005556020898;5.65
+2090;Wer wohnt auf d.Bauernh.D;4005556020904;5.65
+2091;Mein erstes Ampelbuch   D;4005556020911;5.65
+2102;Mein 1.Gucklochb.-Farben  ;4005556021024;2.25
+2117;Schau mal,wer ist da?Zoo D;4005556021178;5.65
+2118;Meine ersten Weihn.gesch.D;4005556021185;5.65
+2119;Sachen hören:Auf dem Bauer;4005556021192;7.4
+2125;Küssch.,Knudd.,gute Nacht ;4005556021253;7.4
+2128;Unterwegs mit dem Zug    D;4005556021284;2.8
+2134;Emil im Schnee            ;4005556021345;7.4
+2135;WWW Rennfahrzeuge    D;4005556021352;8.55
+2136;WWW Wir entdecken MärchenD;4005556021369;8.55
+2137;WWW Wir feiern Geburts.D;4005556021376;5.65
+2138;WWW Was macht die Polizei?;4005556021383;5.65
+2157;WWW Was macht die Prinzess;4005556021574;5.65
+2165;Wer ist da noch?          ;4005556021659;5.1
+2166;Hier kommen die Fahrzeuge ;4005556021666;4.55
+2167;Meine liebsten Tiere      ;4005556021673;5.65
+2168;Ravensburger Kinderlex.A-Z;4005556021680;11.4
+2169;Sachen suchen-Tiere d.Welt;4005556021697;5.1
+2172;Fahrzeuge auf dem Bauernh.;4005556021727;5.65
+2173;Welches Tier lebt hier?   ;4005556021734;5.65
+2180;Aufladen - Abfahren     D;4005556021802;8.55
+2183;Ravensb.Kinder-Weltatlas D;4005556021833;9.7
+2187;Gute Nacht Geschichten    ;4005556021871;7.4
+2188;Ravensb.Geschichtenkarus. ;4005556021888;7.4
+2213;MnZ Junior Feen           ;4005556022137;2.85
+2217;WWW64Alles über Reptilien ;4005556022175;8.55
+2218;WWW65Alles üb.Einsatzkräf ;4005556022182;8.55
+2219;WWW Groß,größer,am größten;4005556022199;14.25
+2226;WWW59 Pferdesport         ;4005556022267;8.55
+2228;WWW Stickerheft Mode D;4005556022281;3.95
+2229;WWW Stickerheft Piraten D;4005556022298;3.95
+2230;WWW Stickerheft Polizei D;4005556022304;3.95
+2231;WWW Stickerheft Zoo   D;4005556022311;3.95
+2232;WWWjun56Heut,morg,jez,gl. ;4005556022328;5.65
+2234;WWWjun57 Zirkus           ;4005556022342;5.65
+2235;Mein Jun.Lex.:Fahrzeuge   ;4005556022359;7.4
+2238;Mein superdickes Ferienmal;4005556022380;3.95
+2239;Rätselspaß mit Krabbelt.  ;4005556022397;3.95
+2247;WWW Was mach.wir i.Herbst ;4005556022472;5.65
+2249;Stickerspaß:Quatschkoepfe;4005556022496;3.95
+2264;WWW Unterw.m.Bus u.Bahn   ;4005556022649;5.65
+2266;Papa komm,ruft der kl.Bär!;4005556022663;2.25
+2267;Stickerspaß:Meerjungfrauen;4005556022670;3.95
+2269;WWW Dinosaurier           ;4005556022694;3.95
+2273;Natur-Entd. Vögel         ;4005556022731;5.1
+2274;Natur-Entd.Tiere im Wald  ;4005556022748;5.1
+2281;WWW3 Bauernhof            ;4005556022816;8.55
+2292;WWWjun30 Zoo              ;4005556022922;5.65
+2293;WWWjun53 Was essen wir?   ;4005556022939;5.65
+2294;junior-Lexikon: Meine Welt;4005556022946;7.4
+2300;Kleines 1x1               ;4005556023004;2.85
+2302;Kleines 1x1 Kreuz und quer;4005556023028;2.85
+2305;WWW6 Riesenfahrzeuge      ;4005556023059;8.55
+2309;Guinness World Records'19 ;4005556023097;11.4
+2312;Guin.World Rec.Wilde Tiere;4005556023127;9.7
+2314;WWW akitv-Heft Polizei    ;4005556023141;2.55
+2324;WWW Feuerwehr             ;4005556023240;3.95
+2325;WWW Pferde                ;4005556023257;3.95
+2326;WWW Prinzessinnen         ;4005556023264;3.95
+2335;Leserabe Kreuzw.1.Lesest. ;4005556023356;2.25
+2344;Minutengesch.: Tiere      ;4005556023448;3.95
+2345;Für den kl.Zahlenhunger   ;4005556023455;2.85
+2362;Für den kl.Schreibhunger  ;4005556023622;2.85
+2364;Überall Buchstaben        ;4005556023646;4.55
+2379;Zahlenzoo                 ;4005556023790;4.55
+2383;WWW aktiv-Heft Feuerwehr  ;4005556023837;2.55
+2414;Kinderbibliothek:Bauernhof;4005556024148;5.65
+2417;WWW35 Rund um den Fußball ;4005556024179;8.55
+2418;WWWjun52 Zähne putzen,Pipi;4005556024186;5.65
+2420;WWWjun13 Welche Farbe ist ;4005556024209;5.65
+2422;WWW40 Alles über Piraten  ;4005556024223;8.55
+2425;WWW25 Die Uhr u.die Zeit  ;4005556024254;8.55
+2427;Alles was ich wissen will ;4005556024278;7.4
+2432;MnZ: Pferdeträume         ;4005556024322;3.4
+2435;WWW5 Pass auf i.Strassenv.;4005556024353;8.55
+2437;WWW11 Wir entd.d. Ritterb.;4005556024377;8.55
+2439;WWW32 Wir entd. d. Weltr. ;4005556024391;8.55
+2444;WWW10 Unser Wetter        ;4005556024445;8.55
+2446;Mein 1.Fühlbuch-Tierkinder;4005556024469;5.65
+2447;WWW22 Alles über d.Polizei;4005556024476;8.55
+2448;WWW21 Alles ü.Pferd.u.Pon.;4005556024483;8.55
+2452;Sachen suchen: Einsatzfahr;4005556024520;2.8
+2453;WWW33 Tiere u. ihre Kinder;4005556024537;8.55
+2461;WWW14 Ich komme i.d.Schule;4005556024612;8.55
+2465;Alle meine Tierkinder     ;4005556024650;5.65
+2478;Disney Baby-Meine 1.Wörter;4005556024780;4.55
+2479;WWW24Tech. bei uns zu Haus;4005556024797;8.55
+2481;WWW aktiv-Heft Dinosaurier;4005556024810;2.55
+2483;Fahr schnell,kl.Feuerwehra;4005556024834;2.25
+2487;WWWjun.29Der Pinguin      ;4005556024872;5.65
+2488;WWWjun24 Mein Kindergarten;4005556024889;5.65
+2494;WWW aktiv-Heft Pferde     ;4005556024940;2.55
+2498;Bauernhof                 ;4005556024988;2
+2500;Sachen suchen:Im Kinderg. ;4005556025008;2.8
+2503;Fahrzeuge                 ;4005556025039;2
+2520;WWWjun1 Der Bauernhof     ;4005556025206;5.65
+2521;WWWjun2 Die Feuerwehr     ;4005556025213;5.65
+2523;Ich lerne sprechen-M.Tiere;4005556025237;4.55
+2524;WWWjun5 Das bin ICH&D.bist;4005556025244;5.65
+2525;WWWjun6 Der Wald          ;4005556025251;5.65
+2526;WWWjun7 Die Baustelle     ;4005556025268;5.65
+2527;Schau mal, die kl.Tierkin.;4005556025275;5.1
+2529;WWWjun10 Die Jahreszeiten ;4005556025299;5.65
+2535;WWW61Wunder der Natur     ;4005556025350;8.55
+2538;WWWjun11 Autos und Laster ;4005556025381;5.65
+2548;Entdecke Baustellenfahrz. ;4005556025480;5.1
+2555;WWWjun48 Amp,Straße u.Verk;4005556025558;5.65
+2556;Entdecke Bauernh.-Fahrz.  ;4005556025565;5.1
+2557;WWWjun49 Wer lebt im Gart?;4005556025572;5.65
+2558;Mein Spielzeug            ;4005556025589;2
+2563;Mein kleiner Streichelzoo ;4005556025633;5.65
+2567;Meine ersten Kinderlieder ;4005556025671;5.65
+2579;WWW27Wir entd.Meerestiere ;4005556025794;8.55
+2588;WWWMein erstes Vorschulb. ;4005556025886;9.7
+2590;WWWjun55Wer arb.a.d.Baust.;4005556025909;5.65
+2594;WWWjun46 Wo d.Tiere wohnen;4005556025947;5.65
+2599;WWW1 Wir entd.unser.Körper;4005556025992;8.55
+2601;Meine ersten Fingerspiele ;4005556026012;5.65
+2603;Was dreht sich?-Meine Welt;4005556026036;5.65
+2608;MnZ: Pferde und Ponys     ;4005556026081;2.85
+2615;Suche die Zootiere        ;4005556026159;5.65
+2617;Die Maus sucht ein Zuhaus ;4005556026173;5.65
+2621;Wer klopft u.quakt hier?  ;4005556026210;8.55
+2632;WWW38 Alles ü.Laster, Bag.;4005556026326;8.55
+2633;WWW2 Alles ü. d.Feuerwehr ;4005556026333;8.55
+2649;Gucklochb.:Auf Bauernhof  ;4005556026494;2.25
+2651;Mein erst.Stickerb.:Tierk.;4005556026517;6.25
+2653;WWWjun17 Am Meer          ;4005556026531;5.65
+2654;WWWjun18 Die Polizei      ;4005556026548;5.65
+2657;Gucklochb.:Auf Baustelle  ;4005556026579;2.25
+2660;Mein Stickerb.:Bauernh.   ;4005556026609;6.25
+2663;WWWjun47 Sonne,Wind uRegen;4005556026630;5.65
+2678;Baden,kämmen,Pipi machen  ;4005556026784;3.95
+2679;Schiebe u.Entd.-Kl.Tiere  ;4005556026791;7.4
+2685;Lerne sprechen-Meine Welt ;4005556026852;4.55
+2703;Mein großer Geschichtenz. ;4005556027033;7.4
+2704;WWW66 Mode und Kleidung   ;4005556027040;8.55
+2705;WWW67 Umwelt              ;4005556027057;8.55
+2706;WWW Sonderband-Tiere!     ;4005556027064;14.25
+2707;WWW60Was machen wir Som.? ;4005556027071;5.65
+2709;WWW Mein erster Weltatlas ;4005556027095;9.7
+2710;WWW62Rund um die Familie D;4005556027101;8.55
+2711;WWW63Alles übers Fahrrad  ;4005556027118;8.55
+2712;WWW15 Tierkinder          ;4005556027125;5.65
+2714;WWW aktiv-Heft Ballett    ;4005556027149;2.55
+2721;WWWjun59Frühling          ;4005556027217;5.65
+2722;WWWjun62Was macht d.Bauer?;4005556027224;5.65
+2723;WWWjun25 Die Dinosaurier  ;4005556027231;5.65
+2724;WWW aktiv-Heft Flugzeuge  ;4005556027248;2.55
+2726;WWWjun28 Wenn es dunk.wird;4005556027262;5.65
+2732;WWW aktiv-Heft Prinzessin ;4005556027323;2.55
+2733;WWW aktiv-Heft Weltraum   ;4005556027330;2.55
+2734;LR:Feenabent.zum Les.lern ;4005556027347;2.85
+2736;LR:Fußbalbent.zum Les.lern;4005556027361;2.85
+2737;LR:Polizeiabent.z.Les.lern;4005556027378;2.85
+2740;LR:Schulabent.zum Les.lern;4005556027408;2.85
+2743;WWW46 Wir entd. den Wald  ;4005556027439;8.55
+2746;WWWjun33 Bei u.zu Hause   ;4005556027460;5.65
+2747;WWWjun34 Der Traktor      ;4005556027477;5.65
+2748;WWWjun35 Im Streichelzoo  ;4005556027484;5.65
+2750;Ravensburger Vorschulzaub.;4005556027507;5.1
+2752;Mein lustiger Vorschulbl. ;4005556027521;4.55
+2760;Tiere unserer Heimat      ;4005556027606;7.4
+2767;MnZ Junior Mandalas       ;4005556027675;2.85
+2770;MnZ Junior Dinos          ;4005556027705;2.85
+2778;MnZ,Feen,Elfen,Meerjung.  ;4005556027781;3.95
+2824;WWWjun37 Mein Laufrad     ;4005556028245;5.65
+2825;WWWjun32 Ängstl,Wüt,fröh. ;4005556028252;5.65
+2857;WWW53 Im Krankenhaus      ;4005556028573;8.55
+2859;WWWjun38 Der Bagger       ;4005556028597;5.65
+2860;WWWjun40 Unser Werkzeug   ;4005556028603;5.65
+2896;WWW54 Komm mit ins Ballett;4005556028962;8.55
+2897;WWW55 Wir erfor. d. Dinos ;4005556028979;8.55
+2903;MnZ: Prinzessinnen        ;4005556029037;2
+2905;WWWjun42 In den Bergen    ;4005556029051;5.65
+2916;Einhörner u. Zauberponys  ;4005556029167;1.7
+2925;Meine Tiere u.ihre Kinder ;4005556029259;2.25
+2930;Meine 1.Gute-Nacht-G.     ;4005556029303;2.8
+2934;Mein erstes Fühlbuch      ;4005556029341;5.65
+2943;Wenn kl.Tiere wütend sind ;4005556029433;2.8
+2946;WWW57 Fahrz.a. d.Bauernhof;4005556029464;8.55
+2948;WWWjun45 Bald bin i.gesund;4005556029488;5.65
+2976;Feenreich (Malbuch)       ;4005556029761;3.4
+2978;MnZ:Zauberponys           ;4005556029785;2
+3006;Mein 1. Farbpuzzle Tiere  ;4005556030064;4.95
+3007;Alltagsgegenstände        ;4005556030071;4.95
+3008;My 1.play puzzle Bauernhof;4005556030088;13.2
+3203;Niedliche Tierkinder      ;4005556032037;4.25
+3235;Liebste Tierfreunde       ;4005556032358;4.25
+3236;Allererste Fahrzeuge      ;4005556032365;4.25
+3237;FS:Sam und seine Freunde  ;4005556032372;4.25
+3683;Kleiner Bauernhof         ;4005556036837;5.5
+3684;Lieblingsfahrzeuge        ;4005556036844;5.5
+3686;DCA:Die Cars Familie      ;4005556036868;5.5
+3687;Unterwegs im Zoo          ;4005556036875;5.5
+3689;Morgens auf dem Bauernhof ;4005556036899;5.5
+4001;Meine allerersten Sachen  ;4005556040018;2.95
+4002;Mein erst.Spiel-u.Beißbuch;4005556040025;5.35
+4017;Guck mal! Fühl mal!       ;4005556040179;3.55
+4029;Wer wohnt wo?             ;4005556040292;10.2
+4033;Mein Kuller-Spielbuch     ;4005556040339;4.15
+4036;Der kl.Käfer sucht Freund ;4005556040360;6.55
+4043;M.erstes gr.Wörterbuch    ;4005556040438;8.9
+4050;M.erstes gr. Quietschebuch;4005556040506;5.35
+4052;Mein allererst.Rasselbuch ;4005556040520;5.9
+4055;Mein allerer. Knisterbuch ;4005556040551;7.15
+4057;Mein 1.Kribbel-Krab. Buch ;4005556040575;3.55
+4060;Ich gehe in Streichelzoo  ;4005556040605;6.55
+4061;Meine allerersten Tiere   ;4005556040612;2.95
+4062;Mein 1.groß.Gutenacht-Buch;4005556040629;8.9
+4063;Unterwegs auf d. Bauernhof;4005556040636;4.75
+4065;Alle meine Kullertiere    ;4005556040650;5.35
+4066;Mein allererst.Bilderlex. ;4005556040667;5.9
+4067;Was passiert im Kindergar.;4005556040674;5.9
+4073;Alle meine Sachen         ;4005556040735;5.35
+4076;Mein Bauernhof-Schiebebuch;4005556040766;5.9
+4080;Mein allererst.Kuschelbuch;4005556040803;6.55
+4081;Tiere vom Bauernhof       ;4005556040810;5.35
+4082;Kullerbuch: Fahrzeuge     ;4005556040827;5.35
+4083;Schau mal, such mal:Tiere ;4005556040834;7.75
+4084;Fahr los, kleiner Traktor ;4005556040841;6.55
+4085;Los geht's kleine Ente    ;4005556040858;6.55
+4086;Tut!Tut! Alle meine Autos ;4005556040865;5.9
+4088;Guck mal die Fahrzeuge    ;4005556040889;3.55
+4089;Mein allererst.Knabberb.  ;4005556040896;7.75
+4091;Fühl mal Bauernhof-Tiere  ;4005556040919;6.55
+4092;Anziehen,Ausziehen,Umzieh.;4005556040926;5.9
+4094;Was gehört zusammen?      ;4005556040940;10.2
+4096;Mein Ri-Ra-Rasselbuch     ;4005556040964;7.75
+4097;Alles glitzert,alles glänz;4005556040971;5.9
+4098;Hallo kleiner Käfer       ;4005556040988;4.75
+4099;Kullernasen-Kinder        ;4005556040995;5.35
+4100;Meine allererst.Fahrzeuge ;4005556041008;2.95
+4101;Gute Nacht, Locke!        ;4005556041015;4.15
+4103;Augen, Bauch und Hände    ;4005556041039;5.35
+4104;Meine allererst. Vorleseg.;4005556041046;5.35
+4105;Ich mag Früh.,Som.,Herbst ;4005556041053;5.9
+4106;Stoff Fotoalbum           ;4005556041060;11.95
+4107;Mein erstes Stoffbuch     ;4005556041077;6.55
+4108;Was fühlst du hier?       ;4005556041084;5.4
+4109;Himpelchen und Pimpelchen ;4005556041091;3.55
+4110;Schiebespaß:Alle m.Tiere D;4005556041107;6
+4111;Komm spiel mit!           ;4005556041114;7.75
+4112;Puste mal!                ;4005556041121;5.4
+4113;Auf dem Bauernhof       D;4005556041138;10.2
+4114;Meine ersten Bilder       ;4005556041145;6.55
+4115;Hallo Sonne!              ;4005556041152;4.75
+4116;Meine Sachen              ;4005556041169;7.75
+4117;Mein allererst.Tierlexikon;4005556041176;5.9
+4118;Sing mit mir!             ;4005556041183;5.9
+4119;Meine Fahrzeuge           ;4005556041190;5.9
+4120;Schau mal an,was ich kann ;4005556041206;4.15
+4121;Haare waschen, Zähne putz.;4005556041213;5.9
+4122;Mein 1.Knister-Buggybuch  ;4005556041220;5.35
+4123;Mein erstes Schaukelbuch  ;4005556041237;5.35
+4124;Guck mal, die Tiere;4005556041244;5.9
+4125;Mach auf u. schau mal rein;4005556041251;5.35
+4126;Mein erster Bücher-Würfel ;4005556041268;11.95
+4127;Spiel mit mir!            ;4005556041275;5.9
+4129;Knopf auf, Knopf zu       ;4005556041299;8.9
+4130;Entdecke die Fahrzeuge    ;4005556041305;5.9
+4142;Mein Wimmelbild-Spiel     ;4005556041428;7.8
+4143;Kinderlieder-Mitmachspiel ;4005556041435;12.95
+4213;Fühl mal!                 ;4005556042135;3.55
+4221;Mein erstes Kullerbuch    ;4005556042210;4.15
+4249;Mein erstes Knisterbuch   ;4005556042494;4.75
+4258;Mein erst.Buch z.Anbeißen ;4005556042586;5.35
+4283;Wenn kl.Tiere müde sind   ;4005556042838;4.75
+4294;Mein erstes Wörterbuch    ;4005556042944;5.9
+4321;Was gehört wohin?(Magnet) ;4005556043217;10.2
+4342;Tuck, tuck, mein Traktor! ;4005556043422;4.75
+4447;Knister-Blümchen          ;4005556044474;5.75
+4448;Kinderwagen-Kette         ;4005556044481;12.2
+4457;Klingel-Häschen           ;4005556044573;6.3
+4459;Rassel-Käferchen          ;4005556044597;5.55
+4460;Mein klingen.Greifball    ;4005556044603;7.25
+4468;Klingender Beißring       ;4005556044689;5.55
+4469;Musikali.Softwürfel       ;4005556044696;14.9
+4470;Softwürfel Fingerspie.    ;4005556044702;14.9
+4474;Meine liebst.Spielwürf.   ;4005556044740;10.65
+4475;Mein erstes Smart-Phone   ;4005556044757;12.2
+4476;Mein allererstes Tablet   ;4005556044764;15.45
+4485;Bade-Entchen              ;4005556044856;5.5
+4489;Aqua Doodle               ;4005556044894;13.5
+4490;Aqua Doodle Zusatzstift   ;4005556044900;2.85
+4491;Aqua Doodle®XXL           ;4005556044917;25.4
+4492;Aqua Doodle® Travel       ;4005556044924;13.5
+4495;Mein Mäuschen-Farbsp.     ;4005556044955;15.45
+4498;Mein erstes Mitm.-Spiel   ;4005556044986;16.55
+4499;Spiel-und Entdecker-Raupe ;4005556044993;8.9
+4500;Aqua Doodle®Princess      ;4005556045006;25.4
+4501;Fühl-und Knister-Boot     ;4005556045013;6.95
+4503;ministeps Colorino        ;4005556045037;13.9
+4505;Mein Stapel-Puzzle-Turm   ;4005556045051;7.95
+4506;Aqua Doodle® Discover     ;4005556045068;16.95
+4507;Polizei-Flitzer       D;4005556045075;6.3
+4508;Feuerwehr-Flitzer    D;4005556045082;6.3
+4510;Unser Bauernhof-Spiel     ;4005556045105;8.9
+4511;Mein erstes Angelspiel    ;4005556045112;11.45
+4512;Kuschelweiches memory®    ;4005556045129;11.45
+4529;Knistertuch Bär        D;4005556045297;2.55
+4530;Knistertuch Ente       D;4005556045303;2.55
+4531;Knistertuch Schaf      D;4005556045310;2.55
+4532;Spieluhr-Häschen          ;4005556045327;10.1
+4533;Knistertuch Hase       D;4005556045334;2.55
+4534;Krankenwagen-Flitzer   D;4005556045341;6.3
+4535;Mein a.Pz.: Streichelzoo  ;4005556045358;5.1
+4537;Badepuzzle Bauernhof      ;4005556045372;4.9
+4538;Badepuzzle Zoo            ;4005556045389;4.9
+4540;Aqua Doodle® Baby'18      ;4005556045402;17.75
+4541;Aqua Doodle®'18           ;4005556045419;14.1
+4543;Aqua Doodle®XXL'18        ;4005556045433;26.3
+4544;Aqua Doodle® Travel'18    ;4005556045440;14.1
+4545;Aqua Doodle®XXL Color'18  ;4005556045457;26.3
+4546;Mein erstes Anziehspiel   ;4005556045464;10.1
+4547;Lustiges Tierparty-Spiel  ;4005556045471;12.2
+4548;Aqua Doodle®Book          ;4005556045488;9.9
+4549;baliba rot                ;4005556045495;5.5
+4550;baliba blau               ;4005556045501;5.5
+4551;baliba grün               ;4005556045518;5.5
+4553;Multi Fahrspaß-Auto'19    ;4005556045532;12.8
+4554;baliba Rasselball rot     ;4005556045549;6.95
+4555;baliba Rasselball türkis  ;4005556045556;6.95
+4556;baliba Rasselball lila    ;4005556045563;6.95
+4557;Aqua Doodle®Puz.Heim.Tiere;4005556045570;7.85
+4558;Aqua Doodle®Puz.Einsatzfah;4005556045587;7.85
+4559;Mein a.Pz.: Jahreszeiten  ;4005556045594;5.1
+5009;DFZ:Frozen 2              ;4005556050093;4.95
+5010;DFZ: Frozen 2             ;4005556050109;4.95
+5011;DFZ:Frozen 2              ;4005556050116;4.95
+5012;Die Buffycats machen Musik;4005556050123;4.95
+5013;Willkommen bei den 44 Cats;4005556050130;4.95
+5609;Liebe Bauernhoftiere    12;4005556056095;4.5
+5610;Abenteuer unter Wasser    ;4005556056101;4.5
+5611;Dinosaurier Freunde       ;4005556056118;4.5
+5612;Süße Prinzessinnen        ;4005556056125;4.5
+5613;Feuerwehr saust herbei    ;4005556056132;4.5
+6020;Was gehört wohin?         ;4005556060207;3.7
+6035;Glückliches Bauernhofleben;4005556060351;2.6
+6037;Einsatz der Polizei       ;4005556060375;2.6
+6044;Traktor auf dem Bauernhof ;4005556060443;2.6
+6046;Bauernhoftiere auf d.Wiese;4005556060467;2.6
+6052;Zoobesuch                 ;4005556060528;3.7
+6058;Arbeit auf der Baustelle  ;4005556060580;3.7
+6066;Knuffige Tierfreunde      ;4005556060665;2.6
+6114;FS:Sam, der Feuerwehrmann ;4005556061143;3.7
+6115;Feuerwehr,Polizei,Hubsch. ;4005556061150;5.15
+6116;Ausflug in den Zoo        ;4005556061167;2.6
+6119;Tiere auf der Wiese       ;4005556061198;3.7
+6120;Große Baustellenfahrzeuge ;4005556061204;3.7
+6121;BM:Biene Majas Welt       ;4005556061211;2.6
+6123;PP: Peppa am Computer  15p;4005556061235;2.6
+6124;PAW:Paw Patrol            ;4005556061242;2.6
+6125;FS:Sam in Aktion         1;4005556061259;2.6
+6136;Tiere Afrikas             ;4005556061365;2.6
+6139;Arbeit mit Straßenwalze   ;4005556061396;2.6
+6141;DFZ: Anna und Elsa        ;4005556061419;3.7
+6144;Spannende Berufe          ;4005556061440;3.7
+6145;Spaziergang auf dem Land  ;4005556061457;3.7
+6146;Afrikas Tierwelt          ;4005556061464;3.7
+6149;Fröhliche Meeresbewohner  ;4005556061495;3.7
+6151;MW:Der kl. Maulwurf u. s. ;4005556061518;2.6
+6152;Ein Tag am Hafen          ;4005556061525;3.7
+6153;MW:Der kl. Maulwurf hat Sp;4005556061532;3.7
+6154;Blick ins Haus            ;4005556061549;3.7
+6155;PAW: Familienfoto         ;4005556061556;3.7
+6160;HdS:Pauli und seine Freund;4005556061600;2.6
+6161;Am Bahnhof                ;4005556061617;3.7
+6162;Unterwegs mit Müllabfuhr  ;4005556061624;2.6
+6163;Hafenrundfahrt            ;4005556061631;3.7
+6164;Auf dem Pferdehof         ;4005556061648;3.7
+6165;Angriff der Piraten       ;4005556061655;3.7
+6169;Rettung durch Sam         ;4005556061693;3.7
+6170;Krankenwagen im Einsatz   ;4005556061709;2.6
+6171;Dschungelbewohner         ;4005556061716;3.7
+6172;Unterwegs in der Stadt    ;4005556061723;3.7
+6321;Mein Feuerwehrauto        ;4005556063215;2.6
+6332;Auf dem grossen Bauernhof ;4005556063321;3.7
+6346;Müllabfuhr                ;4005556063468;3.7
+6349;MW: Maulwurf als Lokführer;4005556063499;2.6
+6359;Mein Bagger               ;4005556063598;2.6
+6376;Tierkinder des Waldes     ;4005556063765;2.6
+6393;Die Feuerwehr rückt aus   ;4005556063932;3.7
+6571;Gute Tierfreunde          ;4005556065714;5.15
+6573;Bagger,Traktor u.Kipplader;4005556065738;5.15
+6581;110, 112-Eilt herbei!     ;4005556065813;3.7
+6582;Mein kleiner Bauernhof    ;4005556065820;3.7
+6604;Die große Arche Noah      ;4005556066049;3.7
+6618;Tierfamilien              ;4005556066186;3.7
+6641;Weltkarte mit Tieren      ;4005556066414;3.7
+6646;Pferde auf der Koppel     ;4005556066469;3.7
+6661;Besuch im Zoo             ;4005556066612;3.7
+6700;Kleiner Flugplatz         ;4005556067008;3.7
+6768;Rettungseinsatz           ;4005556067688;3.7
+6830;First play puz.-Form.u.Tie;4005556068302;12.25
+6943;Süße Tierfamilien         ;4005556069439;4.95
+6944;Müllabfuhr,Krankenwagen,Ab;4005556069446;5.15
+6946;Meine liebst.Baustellenfa.;4005556069460;4.95
+6951;Niedliche Haustiere       ;4005556069514;4.95
+6952;Süße Gartenbewohner  2/4/6;4005556069521;4.95
+6954;Bei der Arbeit            ;4005556069545;4.95
+6985;My first play puzzle-Zahle;4005556069859;12.25
+7036;Allerlei Fahrzeuge        ;4005556070367;4.95
+7062;Meine Tierfreunde         ;4005556070626;5.15
+7077;Unsere Lieblingstiere     ;4005556070770;4.95
+7313;Tiere im Garten           ;4005556073139;4.95
+7331;Liebenswerte Tiere        ;4005556073313;4.95
+7332;Einsatzfahrzeuge          ;4005556073320;4.95
+7333;Auf dem Bauernhof         ;4005556073337;4.95
+7406;Meine liebsten Fahrzeuge  ;4005556074068;5.75
+7412;Tiere                     ;4005556074129;5.75
+7428;Funkelnde Prinzessinnen   ;4005556074280;3.85
+7432;Fahrzeuge auf d.Bauernhof ;4005556074327;5.75
+7437;FS:Sam,der tapf.Feuerwehrm;4005556074372;3.85
+7463;Mein Bauernhof            ;4005556074631;3.85
+7466;MW:D.kl.Maulwurf im Garten;4005556074662;3.85
+7470;Fahrzeuge im Einsatz      ;4005556074709;3.85
+7554;DCA:McQueen und Freunde   ;4005556075546;4.95
+7556;DFN:Nemo der kl. Ausreißer;4005556075560;4.95
+7558;MW:Lernspaß mit Maulwurf  ;4005556075584;4.95
+7560;Fleißig auf dem Bauernhof ;4005556075607;4.95
+7574;Polizei und Feuerwehr     ;4005556075744;4.95
+7578;Mit Blaulicht unterwegs  2;4005556075782;4.95
+7582;Tierkinder auf dem Land   ;4005556075829;4.95
+7584;FS:Sam im Einsatz         ;4005556075843;4.95
+7586;PAW:Ryder u.die Paw Patrol;4005556075867;4.95
+7590;Glückliche Tierfamilien   ;4005556075904;4.95
+7591;PAW:Paw Patrol im Einsatz ;4005556075911;4.95
+7594;BM:BienMaja auf Blumewie. ;4005556075942;4.95
+7602;Tiere im Zoo              ;4005556076024;4.95
+7607;YAK:Yakaris Abenteuer     ;4005556076079;4.95
+7610;Tiere in unserem Garten   ;4005556076109;4.95
+7611;Bitte einsteigen!         ;4005556076116;4.95
+7616;Baustelle und Bauernhof   ;4005556076161;4.95
+7617;U.m. Müllabfuhr&Kehrmaschi;4005556076178;4.95
+7618;Bing:Bings Abenteuer      ;4005556076185;4.95
+7620;DPR:Welt der Disney Prinz.;4005556076208;4.95
+7622;PJM:Gut gegen Böse        ;4005556076222;4.95
+7623;HdS:Abent.m. Helden d.Stad;4005556076239;4.95
+7624;BM:Ausflug mit Biene Maja ;4005556076246;4.95
+7625;Auf dem Meeresgrund       ;4005556076253;4.95
+7626;Katzen auf Entdeckungsreis;4005556076260;4.95
+7630;Achtung Straßenbaustelle! ;4005556076307;4.95
+7800;Viel zu tun auf der Baust.;4005556078004;4.95
+7801;Verschlafene Kätzchen     ;4005556078011;4.95
+7802;Bagger und Waldtraktor    ;4005556078028;4.95
+7806;Willkommen im Zoo      2x2;4005556078066;4.95
+7812;MLP:Zauberhafte Ponys     ;4005556078127;4.95
+7813;Ein Tag im Zoo            ;4005556078134;4.95
+7814;Helden im Einsatz         ;4005556078141;4.95
+7815;Kunterbunte Unterwasserw. ;4005556078158;4.95
+7816;DCA:Abent.m.Light.McQueen ;4005556078165;4.95
+7819;DCA:Disney Cars           ;4005556078196;4.95
+7820;Süße Koalas und Pandas    ;4005556078202;4.95
+7821;Bing:Bing und seine Freund;4005556078219;4.95
+7823;BM:Biene Maja u. ihre Freu;4005556078233;4.95
+7824;PJM: PJMasks retten den Ta;4005556078240;4.95
+7825;PJM:Abenteuer in der Nacht;4005556078257;4.95
+7826;FS: Wasser marsch mit Sam ;4005556078264;4.95
+7827;HDS:Helden d. Stadt i.Eins;4005556078271;4.95
+7828;Märchenhaftes Einhorn     ;4005556078288;4.95
+7829;Urlaub am Meer            ;4005556078295;4.95
+7830;Tierfreunde/Animal Club  2;4005556078301;4.95
+7831;Abenteuer drinnen und drau;4005556078318;4.95
+7833;Auf dem Pferdehof         ;4005556078332;4.95
+8000;YAK:Yakari,tapf.Indianer  ;4005556080007;4.95
+8002;Süße Katzen und Hunde     ;4005556080021;4.95
+8003;Wilde Giganten            ;4005556080038;4.95
+8008;PAW: Bezaub. Hundemädchen ;4005556080083;4.95
+8011;Liebe Pferde              ;4005556080113;4.95
+8012;Große Maschinen           ;4005556080120;4.95
+8015;DCA:Bunte Flitzer         ;4005556080151;4.95
+8024;DRA:Zauberhaftes Haar  3x4;4005556080243;4.95
+8027;MLP:Abent.mit den Ponys   ;4005556080274;4.95
+8028;Witzige Tierportraits     ;4005556080281;4.95
+8029;Kuschelzeit               ;4005556080298;4.95
+8030;Abenteuer auf hoher See   ;4005556080304;4.95
+8041;Niedliche Häschen         ;4005556080410;4.95
+8042;MB:Abent.m.Mauseschl.u.Bär;4005556080427;4.95
+8043;WD: Disney Freunde        ;4005556080434;4.95
+8044;AL:Alvin und die Chipmunks;4005556080441;4.95
+8045;WG:Im Weltall, Labor u. Un;4005556080458;4.95
+8046;Süße Samtpfötchen         ;4005556080465;4.95
+8050;Tiere in ihren Lebensräume;4005556080502;4.95
+8051;Rapunzel,Rotkäp.&Froschk. ;4005556080519;4.95
+8052;Auf der Skipiste          ;4005556080526;4.95
+8053;DI:Die Unglaublichen      ;4005556080533;4.95
+8054;Juras.World 2:Jagdinstinkt;4005556080540;4.95
+8056;Nick:Nella, die Ritterprin;4005556080564;4.95
+8061;Wunderv.Welt d.Enchantimal;4005556080618;4.95
+8063;Bezaubernde Meerjungfrauen;4005556080632;4.95
+8064;DR: Drachenzähmen leicht g;4005556080649;4.95
+8066;Abenteuer mit TKKG        ;4005556080663;4.95
+8851;Bei der Feuerwehr         ;4005556088515;4.95
+8852;DAF: Mein Freund Bambi    ;4005556088522;4.95
+8861;MW:Der Maulwurf im Garten ;4005556088614;4.95
+8863;MW: Urlaub mit Maulwurf   ;4005556088638;4.95
+8865;DPR:Zauberh.Prinzessinnen ;4005556088652;4.95
+8869;YAK:Yakari und kl.Donner  ;4005556088690;4.95
+8882;Welt der Pferde           ;4005556088829;4.95
+8899;Vorsicht Baustelle!       ;4005556088997;4.95
+8952;DPP: Beste Freunde d. Prin;4005556089529;4.95
+8959;DCA: Neue Abenteuer       ;4005556089598;4.95
+9042;FS:Sam hilft dir in d. Not;4005556090426;4.95
+9064;PAW:Heldenhafte Hunde     ;4005556090648;4.95
+9074;DFZ: Nordlichter          ;4005556090747;4.95
+9085;PAW:Hilfsbereite Spürnasen;4005556090853;4.95
+9086;DSO: Sofias königl.Abenteu;4005556090860;4.95
+9091;HI:Heidi in den Alpen     ;4005556090914;4.95
+9093;BM:Die kleine Biene Maja  ;4005556090938;4.95
+9099;PP: Peppa in der Schule   ;4005556090990;4.95
+9115;DFZ: Schwestern für immer ;4005556091157;4.95
+9117;Tiere des Waldes          ;4005556091171;4.95
+9191;Trubel am Bahnhof         ;4005556091911;4.95
+9192;Bei der Müllabfuhr        ;4005556091928;4.95
+9195;Fröhliches Landleben      ;4005556091959;4.95
+9221;Polizeieinsatz            ;4005556092215;4.95
+9226;Große Baufahrzeuge        ;4005556092260;4.95
+9237;Mein Reiterhof            ;4005556092376;4.95
+9239;PAW:Team auf 4 Pfoten     ;4005556092390;4.95
+9258;DR: Drachenreiter         ;4005556092581;4.95
+9264;DFZ: Abenteuer im Winterl.;4005556092642;4.95
+9265;Wald-/Zoo-/Haustiere      ;4005556092659;4.95
+9269;DFZ: Elsa, Anna & Olaf    ;4005556092697;4.95
+9277;DPR: Schneewittchen       ;4005556092772;4.95
+9281;DCA: Weltw. Rennspass     ;4005556092819;4.95
+9291;Schöne Einhörner          ;4005556092918;4.95
+9298;DRA: Rapunzel             ;4005556092987;4.95
+9301;CLAAS:Axion, Lexion,Xerion;4005556093014;4.95
+9305;DCA: Auf der Rennstrecke  ;4005556093052;4.95
+9317;Faszination Dinosaurier   ;4005556093175;4.95
+9330;Tiere der Erde            ;4005556093304;4.95
+9335;Helfer in der Not         ;4005556093359;4.95
+9339;DPR:Schneewittchen,Aschenp;4005556093397;4.95
+9345;DFD: Findet Dory          ;4005556093458;4.95
+9346;DPP: Belle+Cinderella+Rapu;4005556093465;4.95
+9350;DPR:Abent.d.Prinzessinnen ;4005556093502;4.95
+9358;Herrscher der Urzeit      ;4005556093588;4.95
+9367;Welt der Fabelwesen       ;4005556093670;4.95
+9369;PAW:Helden mit Fell       ;4005556093694;4.95
+9386;FS:Bei Gefahr Sam rufen   ;4005556093861;4.95
+9388;Grosse Landmaschinen      ;4005556093885;4.95
+9401;Feuerwehreinsatz          ;4005556094011;4.95
+9430;Tiere Minipuzzle          ;4005556094301;1.15
+9435;AT Dragons 3              ;4005556094356;1.2
+9437;PAW: Paw Patrol           ;4005556094370;1.15
+9455;DFZ: Frozen Minipuzzle    ;4005556094554;1.2
+10009;Unterwasserparadies       ;4005556100095;5.6
+10015;DR:Drachenzähmen leicht g.;4005556100156;5.6
+10016;Im Weltall                ;4005556100163;5.6
+10021;Einhörner im Abendrot     ;4005556100217;5.6
+10027;DFZ:Elsa, die Eiskönigin  ;4005556100279;5.6
+10038;Unterw. mit der Arche  150;4005556100385;5.6
+10044;Schöner Feenwald          ;4005556100446;5.6
+10045;Lustiges Tierselfie       ;4005556100453;5.6
+10049;Meine Deutschlandkarte    ;4005556100491;5.6
+10050;AL:Alvin und seine Freunde;4005556100507;5.6
+10052;Urzeitriese               ;4005556100521;5.6
+10053;WD:Seifenblasenparadies   ;4005556100538;5.6
+10054;Enchantimals und Begleiter;4005556100545;5.6
+10055;Spirit: wild und frei     ;4005556100552;5.6
+10400;Ostwind - Aris Ankunft    ;4005556104000;5.6
+10407;Abent.mit Drache Kokosnuss;4005556104079;5.6
+10516;DFZ:Im Reich d.Schneeköni.;4005556105168;5.6
+10520;DCA: Cars Neon            ;4005556105205;5.6
+10538;Verschnaufpause           ;4005556105380;5.6
+10540;Tierisch um die Welt      ;4005556105403;5.6
+10549;DR:Ohnezahn u.seine Freun.;4005556105496;5.6
+10557;DFZ: Eisige Unterschiede  ;4005556105571;7.3
+10558;Fahrzeuge in der Stadt    ;4005556105588;5.6
+10577;Pferdeglück auf der Wiese ;4005556105779;5.6
+10595;MB: Reise um die Welt     ;4005556105953;5.6
+10615;DCA: Brisantes Rennen     ;4005556106158;5.6
+10624;Baustelle am Flughafen    ;4005556106240;5.6
+10641;Magischer Ausritt         ;4005556106417;5.6
+10665;Bei den Dinosauriern      ;4005556106653;5.6
+10681;Bunter Ozean              ;4005556106813;5.6
+10689;Versammlung der Tiere     ;4005556106899;5.6
+10693;Im Fußballfieber          ;4005556106936;5.6
+10712;AL:Alvin,Simon,Theodore m.;4005556107124;5.6
+10716;DI:Incredibles 2    100p;4005556107162;5.6
+10730;DFZ: Familienzauber       ;4005556107308;5.6
+10731;WG: Auf Dschungelsafari   ;4005556107315;5.6
+10748;Spirit:Lucky und ihre Freu;4005556107483;5.6
+10750;DRA:Rapunzels neue Abenteu;4005556107506;5.6
+10761;Lustiges Alphabet         ;4005556107612;5.6
+10793;Im Zauberwald             ;4005556107933;5.6
+10822;Unsere Feuerwehr          ;4005556108220;5.6
+10833;Idylle am Teich           ;4005556108336;5.6
+10867;Polizeirevier             ;4005556108671;5.6
+10911;DFZ: Eiszauber            ;4005556109111;5.6
+10915;Juras.World 2:Vulkanausbru;4005556109159;5.6
+10918;DR:Drachenfreunde         ;4005556109180;5.6
+10938;DPR:Zauberhaf.Prinzess.   ;4005556109388;5.6
+10942;Magische Feennacht        ;4005556109425;5.6
+10945;EN: Vereinte Freunde      ;4005556109456;5.6
+10947;DAF:Familie Animal Friends;4005556109470;5.6
+10949;Hasen-Selfie              ;4005556109494;5.6
+10950;Tropisches Paradies       ;4005556109500;5.6
+10951;Riff der Haie             ;4005556109517;5.6
+10955;DR:Die verborgene Welt    ;4005556109555;5.6
+10957;Unter Dinosauriern        ;4005556109579;5.6
+10961;DCA:Vollgas!              ;4005556109616;5.6
+10972;DFR: Meine Fairies        ;4005556109722;5.6
+11080;Batman Nightlight         ;4005556110803;15
+11141;DFZ: Frozen 2 Nightlight  ;4005556111411;15
+11142;DFZ: Frozen 2             ;4005556111428;6.99
+11143;Spirit                    ;4005556111435;6.99
+11144;Dragons 3                 ;4005556111442;6.99
+11145;Dragons 3 Ohnezahn m.Ohren;4005556111459;9.15
+11146;Bundesliga Saison 19/20   ;4005556111466;4.05
+11147;Porsche GT3 Cup           ;4005556111473;17.35
+11149;Taipei bei Nacht          ;4005556111497;19.95
+11152;Sneaker Skyline           ;4005556111527;10.25
+11154;Harry Potter Utensilo     ;4005556111541;5.3
+11156;DFZ: Frozen Schloss       ;4005556111565;44.99
+11157;Disney Frozen Olaf        ;4005556111572;7.5
+11158;Knight Bus Harry Potter   ;4005556111589;18.5
+11159;Globus deutsch'19         ;4005556111596;27
+11160;Kindererde deutsch '19    ;4005556111602;16.35
+11201;Utensilo Skyline          ;4005556112012;5.3
+11215;FC Bayern Utensilo        ;4005556112159;5.5
+11216;FC Bayern Box             ;4005556112166;13.5
+11219;Sneaker, Galaxy Style     ;4005556112197;10.25
+11222;Sneaker Union Jack        ;4005556112227;10.25
+11227;Box - Skyline             ;4005556112272;13.25
+11668;Planetensystem            ;4005556116683;31
+11678;Christmas Puzzle-Ball-Set ;4005556116782;5.95
+11681;Bundesliga Adventskalender;4005556116812;19.95
+11682;DFZ:Frozen2 Blindpack     ;4005556116829;1.49
+11757;Juras.World 2: Jurassic Wo;4005556117574;6.99
+11761;DMM: Mickey Mouse         ;4005556117611;9.15
+11797;PJM:PJ Masks  72p;4005556117970;6.99
+11809;DPR:Disney Princess       ;4005556118090;6.99
+11838;Reich der Dinosaurier     ;4005556118380;6.99
+11840;Kindererde                ;4005556118403;6.99
+11841;Einhorn                   ;4005556118410;6.99
+11842;PAW: Paw Patrol Nachtlicht;4005556118427;15
+11843;Pferde am Strand, Nachtlic;4005556118434;15
+11844;Erde im Nachtdesign, Nacht;4005556118441;15
+11857;FC Bayern München         ;4005556118571;4.95
+11917;PAW:Paw Patrol            ;4005556119172;3.95
+12072;Aufbewahrungsbox Pferde   ;4005556120727;13.25
+12075;Utensilo Pferde           ;4005556120758;5.3
+12085;Sneaker Animal Trend      ;4005556120857;10.25
+12115;Box Unterwasserwelt      2;4005556121151;13.25
+12116;Utensilo Unterwasserwelt 5;4005556121168;5.3
+12118;Herz Unterwasserwelt     5;4005556121182;5.3
+12119;Herz Pferde               ;4005556121199;5.3
+12120;DFZ: Herz Frozen 2        ;4005556121205;5.3
+12121;DFZ: Sneaker Frozen 2     ;4005556121212;10.25
+12122;DFZ: Aufb.box Frozen 2    ;4005556121229;13.25
+12177;FC Bay.Münch.+Lightstand  ;4005556121779;15
+12337;Kindererde deutsch '17    ;4005556123377;16.35
+12435;Globus deutsch            ;4005556124350;27
+12515;Pisa bei Nacht            ;4005556125159;19.95
+12516;Volkswagen T1             ;4005556125166;17.35
+12522;Triumphbogen Night Edition;4005556125227;19.95
+12523;Notre Dame                ;4005556125234;25.95
+12524;Buckingham Palace         ;4005556125241;15.8
+12525;VW T1 Food Truck  162p;4005556125258;17.35
+12526;Allianz Arena             ;4005556125265;26.75
+12528;Porsche 911R             1;4005556125289;17.35
+12529;Buckingh.Palace Night Edit;4005556125296;19.95
+12530;Allianz Arena Night Edit. ;4005556125302;36.5
+12532;Volkswagen T1 Hippie Style;4005556125326;17.35
+12533;Burj al Arab              ;4005556125333;15.8
+12534;London Bus                ;4005556125340;18.5
+12535;Sneaker Graffiti          ;4005556125357;10.25
+12549;Sneaker American Style    ;4005556125494;10.25
+12551;Brandenburger Tor-Berlin  ;4005556125517;30.25
+12554;Big Ben                   ;4005556125548;15.8
+12556;Eiffelturm                ;4005556125562;15.8
+12566;Empire State B. bei Nacht ;4005556125661;19.95
+12573;Schloss Neuschwanstein    ;4005556125739;30.25
+12577;Leuchtturm bei Nacht      ;4005556125777;19.95
+12579;Eiffelturm bei Nacht      ;4005556125791;19.95
+12586;Big Ben mit Uhr           ;4005556125869;19.95
+12587;WD:Disney Schloss         ;4005556125876;39.95
+12588;Big Ben bei Nacht         ;4005556125883;19.95
+12595;Chrysler Build.m.Leuchtm. ;4005556125951;19.95
+12596;Freiheitsstatue bei Nacht ;4005556125968;19.95
+12602;EN:Beste Freunde für immer;4005556126026;5.6
+12611;Scamanders fant.Tierwesen ;4005556126118;5.6
+12613;Prinzessin mit Pferd      ;4005556126132;5.6
+12624;Magischer Feenzauber      ;4005556126248;5.6
+12625;DCA:Quietschende Reifen   ;4005556126255;5.6
+12628;Pferdeglück               ;4005556126286;5.6
+12660;Tiere im Dschungel        ;4005556126606;5.6
+12692;Expedition Weltraum       ;4005556126927;5.6
+12698;WD:Disney Lieblinge       ;4005556126989;5.6
+12718;Im Reich der Giganten     ;4005556127184;5.6
+12721;Schmusende Raubkatze      ;4005556127214;5.6
+12722;Große, weite Welt         ;4005556127221;5.6
+12745;DPR: Die Prinzessinnen    ;4005556127450;5.6
+12746;Niedliche Eulen           ;4005556127467;5.6
+12765;Kuschelige Welpen         ;4005556127658;5.6
+12772;Spirit:Abenteuer mit Lucky;4005556127726;5.6
+12801;DFZ: Arendelle im ewi.Eis ;4005556128013;5.6
+12803;Schwarzer Hengst          ;4005556128037;5.6
+12812;DR:Hicks,Astrid u.d.Drach.;4005556128129;5.6
+12819;DCA: Auf der Rennstrecke  ;4005556128198;5.6
+12828;Entdecker auf vier Pfoten ;4005556128280;5.6
+12837;Politische Europakarte    ;4005556128372;5.6
+12838;Geheimnisvolle Einhörner  ;4005556128389;5.6
+12844;TRO:Jim im Reich d.Trolle ;4005556128440;5.6
+12847;FC Bayern Saison 2019/20  ;4005556128471;5.6
+12848;Bundesliga Sais.19/20     ;4005556128488;5.6
+12867;DFZ: Frozen 2             ;4005556128679;5.6
+12868;DFZ: Frozen 2             ;4005556128686;7.3
+13045;Magisches Einhorn         ;4005556130450;5.6
+13052;Karibisches Lächeln       ;4005556130528;5.6
+13065;Lieber Panda              ;4005556130658;5.6
+13073;Abendsonne am Wasserloch  ;4005556130733;5.6
+13097;Politische Weltkarte      ;4005556130979;5.6
+13180;DFZ: Die Eiskönigin       ;4005556131808;5.6
+13198;DR: Treue Freunde         ;4005556131983;5.6
+13206;Mystical Meeting          ;4005556132065;5.6
+13207;Say cheese!               ;4005556132072;5.6
+13211;GEL:Spaß im Klassenzim.   ;4005556132119;5.6
+13213;FC Bayern Saison 2016/17  ;4005556132133;5.45
+13218;Pferde auf der Blumenwiese;4005556132188;5.6
+13228;Delighted Dogs            ;4005556132287;5.6
+13235;Süße Hunde im Körbchen    ;4005556132355;5.6
+13242;Wilde Schönheit           ;4005556132423;5.6
+13249;FC Bayern Saison 2018/19  ;4005556132492;5.6
+13250;FC Bayern '17/18 J.H.     ;4005556132508;5.55
+13251;Bundesliga             300;4005556132515;5.6
+13252;Spirit:Abenteuer auf Pferd;4005556132522;5.6
+13253;TRO:Abenteuer m.d. Trolljä;4005556132539;5.6
+13254;Scamander gg.Grindelwald  ;4005556132546;5.6
+13257;Tiere rund um die Welt    ;4005556132577;5.6
+13260;TKKG im Einsatz           ;4005556132607;5.6
+13607;Rothenburg o.d.T.         ;4005556136070;5.75
+13610;DFZ: Glitzernder Schnee   ;4005556136100;7.3
+13612;Ausflug ins All           ;4005556136124;7.3
+13616;Katze im Blumenmeer       ;4005556136162;5.75
+13617;Im Reich der Blütenkönigin;4005556136179;7.3
+13641;DFZ: Elsas Schneeflocke   ;4005556136414;7.3
+13647;Mein Schiff 4 im Fjord    ;4005556136476;5.75
+13652;Strandkörbe in Ahlbeck    ;4005556136520;5.75
+13670;Einhörner im Mondschein   ;4005556136704;7.3
+13672;Mühle am Blautopf         ;4005556136728;5.75
+13673;Magische Begegnung        ;4005556136735;7.3
+13678;Leucht. Unterwasserpara.  ;4005556136780;7.3
+13681;Märchenhaftes Schloss     ;4005556136810;5.75
+13682;Putziger Husky            ;4005556136827;5.75
+13685;Blumenarrangement         ;4005556136858;5.75
+13686;Gengenbach im Kinzigtal   ;4005556136865;5.75
+13687;Hallstatt in Österreich   ;4005556136872;5.75
+13695;Welt der Dinosaurier      ;4005556136957;7.3
+13696;Liebste Bauernhoftiere    ;4005556136964;7.3
+13697;Bunte Unterwasserwelt     ;4005556136971;7.3
+13698;Magische Einhörner        ;4005556136988;7.3
+13699;DPR:Bezaubernde Prinzess.1;4005556136995;7.3
+13708;Schloss Moritzburg        ;4005556137084;5.75
+13709;Großmutters Dachboden     ;4005556137091;5.75
+13710;Leuchtende Dragons        ;4005556137107;7.3
+13711;Colmar in Frankreich      ;4005556137114;5.75
+13712;Lauterbrunnen             ;4005556137121;5.75
+13927;Pferdetraum               ;4005556139279;7.3
+13928;Die schönsten Einhörner   ;4005556139286;7.3
+13967;Sylt                      ;4005556139675;7.55
+13968;Three rocks in Cheow,Thail;4005556139682;7.55
+13969;Schlacht auf hoher See    ;4005556139699;41.75
+13970;Leuchtender Wolf          ;4005556139705;8.25
+13971;Alladdin                  ;4005556139712;7.55
+13972;WD: Susi und Strolch      ;4005556139729;7.55
+13973;WD: 101 Dalmatiner        ;4005556139736;7.55
+13974;WD: Dornröschen           ;4005556139743;7.55
+13975;Familie auf Reisen        ;4005556139750;7.55
+13976;SW: Where's Wookie        ;4005556139767;7.55
+13981;Majestätischer Löwe       ;4005556139811;7.55
+13997;FC Bayern Saison 2019/20  ;4005556139972;7.55
+14082;Rome                      ;4005556140824;7.55
+14083;San Francisco             ;4005556140831;7.55
+14084;Cape Town                 ;4005556140848;7.55
+14085;London                    ;4005556140855;7.55
+14086;New York                  ;4005556140862;7.55
+14087;Paris                     ;4005556140879;7.55
+14171;Harmonie im Dschungel     ;4005556141715;5.75
+14179;Golden Retriever          ;4005556141791;5.75
+14195;Zauberhafte Einhörner     ;4005556141951;5.75
+14210;Bucht der Delfine         ;4005556142101;5.75
+14253;Im Herzen Südfrankreichs  ;4005556142538;5.75
+14486;Jaguar Nachwuchs          ;4005556144860;5.75
+14683;Spaziergang durch Paris   ;4005556146833;5.75
+14708;Putzige Hündchen          ;4005556147083;5.75
+14709;Verträumtes Cottage       ;4005556147090;5.75
+14710;Delphine im Korallenriff  ;4005556147106;5.75
+14726;Zarte Stute               ;4005556147267;5.75
+14744;Fröhliche Erdmännchen     ;4005556147441;5.75
+14745;Wolfsfamilie im Sonnensche;4005556147458;5.75
+14755;Weltkarte, politisch      ;4005556147557;5.75
+14756;Comer See, Italien        ;4005556147564;5.75
+14763;Pferde Selfie             ;4005556147632;5.75
+14783;Hund mit Mütze            ;4005556147830;5.75
+14785;Flauschiges Vergnügen     ;4005556147854;5.75
+14786;Beim Fußballspiel         ;4005556147861;5.75
+14787;GEL:Gelini Baby           ;4005556147878;5.75
+14788;Guten Freund.gibt man Küss;4005556147885;5.75
+14789;Walddrache by Anne Stokes ;4005556147892;5.75
+14790;Faultier Selfie           ;4005556147908;5.75
+14791;Löwen Babys               ;4005556147915;5.75
+14792;Cottage im Herbst         ;4005556147922;5.75
+14793;Weiße Raubkatze           ;4005556147939;5.75
+14809;Am Wasserloch             ;4005556148097;5.75
+14811;Tanz der Delphine         ;4005556148110;5.75
+14812;Malerisches London        ;4005556148127;5.75
+14813;Ponys in der Heide        ;4005556148134;5.75
+14814;Faultier Paul             ;4005556148141;5.75
+14816;SW: Star Wars IX          ;4005556148165;5.75
+14820;Grindelwalds Verbrechen   ;4005556148202;5.75
+14821;Harry Potter in Hogwarts  ;4005556148219;5.75
+14824;Katzen im Regal           ;4005556148240;5.75
+14825;Einhorn mit Fohlen        ;4005556148257;5.75
+14826;Koalas im Baum            ;4005556148264;5.75
+14827;Romantischer Teich        ;4005556148271;5.75
+14830;Sei einfach du selbst!    ;4005556148301;5.75
+14831;Pferd im Mohnfeld         ;4005556148318;5.75
+14873;Einhörner am Fluss        ;4005556148738;8.25
+14882;Im Feenwald               ;4005556148820;8.25
+14898;Funkelnder Eiffelturm     ;4005556148981;8.25
+14911;Glitzerndes Pferdepaar    ;4005556149117;8.25
+14951;Einhorn im Glitzerwald    ;4005556149513;8.25
+14952;Wolf im Nordlicht         ;4005556149520;8.25
+14970;Super Mario               ;4005556149704;7.55
+14973;Disney Multiproperty      ;4005556149735;69
+14987;Detective Pikachu/Pokemon ;4005556149872;5.75
+14988;Challange P.-Harry Potter ;4005556149889;7.55
+14989;Challenge Puz.-Star Wars  ;4005556149896;7.55
+14990;SW: Star Wars IX          ;4005556149902;7.55
+14991;SW: Star Wars IX          ;4005556149919;7.55
+15050;Leuchtendes New York      ;4005556150502;7.55
+15064;London bei Nacht          ;4005556150649;7.55
+15075;Jökulsárlón, Island       ;4005556150755;7.55
+15077;Colosseum im Abendrot    1;4005556150779;7.55
+15082;Gondeln in Venedig        ;4005556150823;7.55
+15083;Yosemite Park             ;4005556150830;7.55
+15088;Im Wolkenmeer             ;4005556150885;7.55
+15089;Paris im Morgenglanz      ;4005556150892;7.55
+15094;Sonne über Island         ;4005556150946;7.55
+15102;Mit dem Bulli über Brenner;4005556151028;7.55
+15103;Ooh Lala                  ;4005556151035;7.55
+15104;San Fran.,Oakl.Bay Bridge ;4005556151042;7.55
+15109;WD:Disney Gruppenfoto     ;4005556151097;7.55
+15152;Krypt Gold                ;4005556151523;7.55
+15153;Heißluftball.über Myanmar ;4005556151530;7.55
+15154;Great Ocan Road, Austral. ;4005556151547;7.55
+15155;Ayers Rock in Australien  ;4005556151554;7.55
+15156;Insel Praslin Seychellen  ;4005556151561;7.55
+15157;Stratovulkan Mount Hood   ;4005556151578;7.55
+15158;Regenbog.über Machu Picchu;4005556151585;7.55
+15159;Elefant in Masai Mara Nati;4005556151592;7.55
+15160;Stolzer Löwe              ;4005556151608;7.55
+15161;Schloss Neuschwanstein   1;4005556151615;7.55
+15162;Frankfurt am Main         ;4005556151622;7.55
+15166;Challenge Puz.-Pokémon    ;4005556151660;7.55
+15170;Harry Potter gg.Voldemort ;4005556151707;7.55
+15171;Der Zauberschüler H.Potter;4005556151714;7.55
+15172;Nächtlicher Zauberwald    ;4005556151721;7.55
+15184;Romantisches Cottage      ;4005556151844;7.55
+15185;Wolfsfamilie im Sommer    ;4005556151851;7.55
+15187;Barcelona von Oben        ;4005556151875;7.55
+15258;Chupa Chups I             ;4005556152582;7.55
+15259;Süße Alpakas              ;4005556152599;7.55
+15260;Krypt Black               ;4005556152605;7.55
+15266;DCL:Die schön.DisneyThemen;4005556152667;7.55
+15391;DMM:Retro Mickey          ;4005556153916;7.55
+15401;Frida Kahlo de Rivera     ;4005556154012;7.55
+15434;AX: Asterix Familienfoto  ;4005556154340;7.55
+15652;Politische Weltkarte      ;4005556156528;7.55
+15785;DCL: Disney's Weltkarte   ;4005556157853;7.55
+15786;Malerische Windmühle      ;4005556157860;7.55
+15804;Norwegischer Fjord        ;4005556158041;7.55
+15836;Frauenkirche, Dresden     ;4005556158362;7.55
+15944;Im Morgenglanz            ;4005556159444;7.55
+15964;Krypt Silber              ;4005556159642;7.55
+15967;GEL: Badespaß             ;4005556159673;7.55
+15983;99 atemberaubende Tiere   ;4005556159833;7.55
+15984;Emoji II                  ;4005556159840;7.55
+16099;DMM: Shaped Mickey        ;4005556160990;9.75
+16187;Allianz Arena             ;4005556161874;13.25
+16213;Universum                 ;4005556162130;12.3
+16215;99 beautiful red things   ;4005556162154;12.3
+16221;Ice Cream Shop            ;4005556162215;12.3
+16223;Windmühle an der Ostsee   ;4005556162239;12.3
+16227;Blick auf Cinque Terre    ;4005556162277;12.3
+16235;99 Katzen                 ;4005556162352;12.3
+16241;Passage to Paris          ;4005556162413;12.3
+16254;Geteilte Stadt            ;4005556162543;12.3
+16282;Bergmagie                 ;4005556162826;12.3
+16297;Cottage in England        ;4005556162970;12.3
+16317;Blick auf Rio             ;4005556163175;12.3
+16318;WD:Disney'smag.Märchenbuch;4005556163182;12.3
+16326;Idyllisches Südfrankreich ;4005556163267;12.3
+16345;Malerisches Notre Dame  15;4005556163458;12.3
+16354;Farbtupfer in New York;4005556163540;12.3
+16355;Dubai am Persischen Golf  ;4005556163557;12.3
+16358;Winterliche Schlucht      ;4005556163588;12.3
+16359;Sonnenaufgang im Paradies ;4005556163595;12.3
+16360;Kunterbunte Erde          ;4005556163601;12.3
+16361;Das Krachmacher Regal     ;4005556163618;12.3
+16607;Wasserfälle von Iguazu    ;4005556166077;15.75
+16608;GEL:Küche,Kochen,Leidensch;4005556166084;15.75
+16622;Feuerwerk über Sydney     ;4005556166220;15.1
+16626;Die grüne Insel           ;4005556166268;15.75
+16627;Stimmungsvolles London    ;4005556166275;15.75
+16640;Französische Idylle       ;4005556166404;15.75
+16652;Aimee Steward:Groß.Tierwel;4005556166527;15.75
+16685;Welt der Bücher           ;4005556166855;15.75
+16698;World Wonders             ;4005556166985;15.75
+16699;Hängematte am Strand      ;4005556166992;15.75
+16701;SW: Star Wars Universum   ;4005556167012;15.75
+16702;Versammlung am Wasserloch ;4005556167029;15.75
+16704;Lebendige Unterwasserwelt ;4005556167043;15.75
+16706;Meine liebsten Briefmarken;4005556167067;15.75
+17062;Schloss Neuschw.i.Winter  ;4005556170623;23.5
+17064;GEL: Gelini auf Reisen    ;4005556170647;23.5
+17072;Versteckte Tiger          ;4005556170722;23.5
+17075;Flat Iron Building        ;4005556170753;23.5
+17076;Reisterrassen in Asien    ;4005556170760;23.5
+17080;99 Beaut.Places of Europe ;4005556170807;23.5
+17081;Hamnoy, Lofoten           ;4005556170814;23.5
+17432;WD:Mickey als Künstler    ;4005556174324;41.75
+17433;NY - the City never sleeps;4005556174331;41.75
+17434;GEL:Gelini Puppenhaus     ;4005556174348;41.75
+17825;Magisches Bücherregal XXL ;4005556178254;110
+17826;WD:Unverg.Disney Momente  ;4005556178261;270
+17828;DMM:Mickeys 90. Geburtstag;4005556178285;270
+17829;Paris                     ;4005556178292;110
+17934;Sort Your Puzzle          ;4005556179343;8.15
+17954;Flasche P-Conserv.Permanen;4005556179541;5.95
+17956;Roll Your Puzzle;4005556179565;8.8
+17957;Roll your Puzzle! XXL     ;4005556179572;15.99
+17962;Puzzlemappe für 1000Teile;4005556179626;29.5
+17973;Puzzle Board;4005556179732;70
+18020;WG: Zaubermicros          ;4005556180202;2.9
+18029;String it Midi: Panda&Fox ;4005556180295;8.15
+18030;String it Midi:DPR:Princes;4005556180301;8.15
+18031;String it Midi: Dinosaurs ;4005556180318;8.15
+18032;String it Midi:SPI:Spiderm;4005556180325;8.15
+18033;String it Mini: Heart     ;4005556180332;5.1
+18034;String it Mini: Butterflie;4005556180349;5.1
+18035;String it Mini: Vehicles  ;4005556180356;5.1
+18036;String it Mini: DR: Dragon;4005556180363;5.1
+18047;4S Avengers Spider-Man    ;4005556180479;10.1
+18048;4S Avengers Groot         ;4005556180486;10.1
+18049;4S Transformers           ;4005556180493;10.1
+18051;4S Wild Cats              ;4005556180516;10.1
+18052;String it Maxi: 3D-Star   ;4005556180523;15.25
+18053;My first Mosaic Cute Anima;4005556180530;9.99
+18054;String it Midi:Cute Animal;4005556180547;8.15
+18058;WG: Micros Detektiv       ;4005556180585;3.05
+18059;XOOMY® Fantasy            ;4005556180592;13.3
+18060;Be Creative Webrahmen     ;4005556180608;3.35
+18061;Be Creative Freundschaftsb;4005556180615;3.35
+18062;Be Creative Seepferdchen  ;4005556180622;3.35
+18063;Be Creative Pompontiere   ;4005556180639;3.35
+18065;String it Maxi: 3D-Heart  ;4005556180653;15.25
+18066;String it Mini:Pink Princ.;4005556180660;5.1
+18067;String it Mini: Pinguine  ;4005556180677;5.1
+18068;String it Mini: Rabbit    ;4005556180684;5.1
+18070;Blazelets Style Set       ;4005556180707;4.95
+18071;Blazelets Style Studio    ;4005556180714;17.1
+18072;Blazelets Refill          ;4005556180721;2.99
+18075;Mag. Perlenzauber Frozen  ;4005556180752;15.95
+18076;String it Midi: Frozen D/F;4005556180769;8.15
+18084;Light Doodle              ;4005556180844;15.95
+18086;Lightdoodle Froz.2     D/F;4005556180868;18.95
+18087;Treasure Pearls Friendship;4005556180875;4.95
+18088;Treasure Pearls Beauty    ;4005556180882;4.95
+18089;Treasure Pearls Happiness ;4005556180899;4.95
+18090;Treasure Pearls Surprise  ;4005556180905;2.95
+18150;WG: Leuchtend.Gewächshaus ;4005556181506;5.7
+18181;Elektro-Leuchtturm SXMiniD;4005556181810;5.9
+18192;Alarmanlage SXMini        ;4005556181926;5.9
+18195;SX Mini Elektro Türschild ;4005556181957;5.9
+18214;So Styly Tattoos          ;4005556182145;7.4
+18227;Sticken ohne Nadel        ;4005556182275;3.35
+18228;Strickliesel              ;4005556182282;3.35
+18229;Prickeln                  ;4005556182299;3.35
+18230;Papierflechten            ;4005556182305;3.35
+18280;Freundschaftsbändchen     ;4005556182800;7.4
+18320;Tattoos FB-Cool Summer    ;4005556183203;7.4
+18334;Glitzerbilder Butterflies ;4005556183340;7.4
+18335;Glitzerbilder Lit.Friends ;4005556183357;7.4
+18341;Mosaic Junior 4+: Horses  ;4005556183418;7.2
+18342;Mosaic Junior 4+: Princess;4005556183425;7.2
+18347;Mosaic Midi Tropical      ;4005556183470;7.2
+18348;Mosaic Midi Mermaid       ;4005556183487;7.2
+18351;Mosaic Midi: Cactus       ;4005556183517;7.2
+18353;Mosaic Junior: Cats       ;4005556183531;7.2
+18399;So StylyMag.Perlenzauber  ;4005556183999;7.4
+18513;Mag. Perlenzauber Einhorn ;4005556185139;12.5
+18539;Xoomy Maxi                ;4005556185399;29.99
+18601;XOOMY®Midi Sparkly horses ;4005556186013;13.3
+18607;WG Maxi Urzeit            ;4005556186075;16.25
+18618;WG:Exp.Licht,Wasser,Luft  ;4005556186181;17.1
+18666;XOOMY® girls              ;4005556186662;13.3
+18710;XOOMY® Midi Unicorn       ;4005556187102;13.3
+18712;Perlentiere               ;4005556187126;10.55
+18754;SA Kristal.+Edelst.Relaun.;4005556187546;25
+18756;SA Midi Labor der Experim.;4005556187560;12.1
+18758;WG: Mini Schlingpflanzen  ;4005556187584;5.7
+18879;Abent. Raumfahrt SXMidi   ;4005556188796;12.1
+18906;SX Maxi Triops&Dinosaurier;4005556189069;25
+18937;WOW:Chemielabor SXMaxi    ;4005556189373;25
+18941;Exit Adventskalender 2019 ;4005556189410;13.95
+18944;SA Mini Elektro-Leuchtt.'1;4005556189441;5.9
+18945;SA Mini Alarmanlage'19    ;4005556189458;5.9
+18946;SA Mini Geheimcodes'19    ;4005556189465;5.9
+18951;SA Midi Abent.Raumfahrt'19;4005556189519;12.1
+18952;SA Midi Erneuerb.Energ.'19;4005556189526;12.1
+18953;SA Maxi WOW Chemielabor'19;4005556189533;25
+18954;SA Maxi Triops&Dinos.'19  ;4005556189540;25
+18959;WG: Adventskalender 2019  ;4005556189595;13.9
+18988;WG:5 Fälle für Spürnase   ;4005556189885;5.7
+18992;WG: Mini Wind & Wetter    ;4005556189922;5.7
+18993;WG: Mineralien u.Edelst.  ;4005556189939;5.7
+19004;Antike Weltkarte          ;4005556190041;7.55
+19018;Unter Palmen              ;4005556190188;7.55
+19110;Anne Stokes: Sehnsucht    ;4005556191109;7.55
+19112;Ostseebad Ahlbeck,Usedom  ;4005556191123;7.55
+19137;Magisches Bücherregal     ;4005556191376;7.55
+19138;Grachtenfahrt in Amsterdam;4005556191383;7.55
+19139;Am Thunersee, Bern 1000p;4005556191390;7.55
+19145;Korallenbucht             ;4005556191451;7.55
+19146;Arktische Wölfe  1000p;4005556191468;7.55
+19148;Stolze Leopardenmutter    ;4005556191482;7.55
+19216;Karwendelgebirge, Österr. ;4005556192168;7.55
+19298;Kurioses Küchenregal      ;4005556192984;7.55
+19367;Eibsee m.Wettersteingeb.  ;4005556193677;7.55
+19371;99 Beautiful Plac.on Earth;4005556193714;7.55
+19389;Zen Baum                  ;4005556193899;7.55
+19418;Mag. Bücherregal Nr. 2    ;4005556194186;7.55
+19423;Monte Pelmo,Venetien,Ital.;4005556194230;7.55
+19426;München                   ;4005556194261;7.55
+19427;Im Piemont, Italien 1000p;4005556194278;7.55
+19455;Berlin bei Nacht          ;4005556194551;7.55
+19457;Hamburg                   ;4005556194575;7.55
+19458;Köln                      ;4005556194582;7.55
+19473;sheepw:Schöner Tag zum Ab.;4005556194735;7.55
+19477;Phra Nang Beach,Krabi     ;4005556194773;7.55
+19478;Unterwasserromantik       ;4005556194780;7.55
+19479;Maritime Souvenirs        ;4005556194797;7.55
+19480;Picknick auf der Wiese    ;4005556194803;7.55
+19482;Grandioses Gartenregal    ;4005556194827;7.55
+19483;GEL:Gelini im Bücherregal ;4005556194834;7.55
+19538;Mystisches Licht          ;4005556195381;7.55
+19539;Wasserfall vor Kirkjufell ;4005556195398;7.55
+19549;SW:Das Erwachen der Macht ;4005556195497;7.55
+19606;Fahrräder in Amsterdam    ;4005556196067;7.55
+19608;Bergwiese im Morgenrot    ;4005556196081;7.55
+19611;Abend in Santorini        ;4005556196111;7.55
+19619;Dresden Canaletto Blick   ;4005556196197;7.55
+19620;Nürnberg                 1;4005556196203;7.55
+19621;Heidelberger Abendstimmung;4005556196210;7.55
+19637;Blick auf die Tower Bridge;4005556196371;7.55
+19638;Mystische Drachen         ;4005556196388;7.55
+19642;99 lustige Tiere          ;4005556196425;7.55
+19643;Reise um die Welt         ;4005556196432;7.55
+19644;Verborgene Welt           ;4005556196449;7.55
+19648;FC Bayern M. Saison 16/17 ;4005556196487;7.45
+19664;Patronin der Wölfe        ;4005556196647;7.55
+19673;Vogelparadies             ;4005556196739;7.55
+19674;WD:Schneewittchen         ;4005556196746;7.55
+19675;WD: Fantasia              ;4005556196753;7.55
+19676;WD:Dumbo                  ;4005556196760;7.55
+19677;WD:Bambi                  ;4005556196777;7.55
+19678;WD:Cinderella             ;4005556196784;7.55
+19684;Magische Märchenstunde    ;4005556196845;7.55
+19701;GEL:Gel.im Sommerurlaub   ;4005556197019;7.55
+19702;Berlin Museumsinsel       ;4005556197026;7.55
+19704;Winterwölfe               ;4005556197040;7.55
+19706;Visual Statements         ;4005556197064;7.55
+19710;Erfindergeist            1;4005556197101;7.55
+19711;Auf den Lofoten           ;4005556197118;7.55
+19712;Großartiges New York    10;4005556197125;7.55
+19743;WD:Peter Pan              ;4005556197439;7.55
+19744;WD:Dschungel Buch         ;4005556197446;7.55
+19745;WD:Arielle                ;4005556197453;7.55
+19746;WD:Die Schöne und das Bies;4005556197460;7.55
+19747;WD:Der König der Löwen    ;4005556197477;7.55
+19781;Regensburg,Blick auf Altst;4005556197811;7.55
+19782;Koblenz, Deutsches Eck    ;4005556197828;7.55
+19783;Idyllische Wartburg       ;4005556197835;7.55
+19784;Elbphilharmonie Hamburg   ;4005556197842;7.55
+19790;Opas Schuppen             ;4005556197903;7.55
+19791;Wale im Mondschein        ;4005556197910;7.55
+19792;New York                  ;4005556197927;7.55
+19793;Mystisches Einhorn        ;4005556197934;7.55
+19794;Allerlei Gewürze          ;4005556197941;7.55
+19795;GEL:Spieleab.bei d.Gelini ;4005556197958;7.55
+19822;Tropische Stimmung        ;4005556198221;7.55
+19829;Start living your dream   ;4005556198290;7.55
+19830;Stetind in Nord-Norwegen  ;4005556198306;7.55
+19831;Happy Wife Happy Life     ;4005556198313;7.55
+19832;Dolomitenjuwel            ;4005556198320;7.55
+19833;Prächtige Unterwasserwelt ;4005556198337;7.55
+19834;Merlins Labor             ;4005556198344;7.55
+19836;Afrikanische Impressionen ;4005556198368;7.55
+19837;Abenteuer im Dschungel    ;4005556198375;7.55
+19873;AX:Asterix in Italien     ;4005556198733;7.55
+19877;Sonnenuntergang über Amrum;4005556198771;7.55
+19878;Schloss Ludwigsburg       ;4005556198788;7.55
+19879;FC Bayern Saison 2018/19  ;4005556198795;7.55
+19884;Reif für die Insel St. Pie;4005556198849;7.55
+19890;Sehenswürdigkeiten Weltwei;4005556198900;7.55
+19896;FC Bayern '17/18 J.H.     ;4005556198962;7.5
+19897;Porsche 911R              ;4005556198979;7.55
+19950;Exit 1: Sternwarte        ;4005556199501;7.55
+19951;Exit 2: Tempel in Ankor   ;4005556199518;7.55
+19952;Exit 3: Hexenküche        ;4005556199525;7.55
+19953;Exit 4: Im U-Boot         ;4005556199532;7.55
+19954;Exit 5: Im Drachenlabor   ;4005556199549;7.55
+19955;Exit 6: Im Vampirschloss  ;4005556199556;7.55
+20304;Auto Monster              ;4005556203048;1.35
+20305;Blaulicht                 ;4005556203055;1.35
+20306;Starke Panzer             ;4005556203062;1.35
+20307;Power Traktor             ;4005556203079;1.35
+20308;Superloks                 ;4005556203086;1.35
+20309;Ozeanriesen               ;4005556203093;1.35
+20310;Ultra Jets                ;4005556203109;1.35
+20311;Kraftprotze               ;4005556203116;1.35
+20312;Hot Bikes                 ;4005556203123;1.35
+20323;High Speed                ;4005556203239;1.35
+20328;BM:Biene Maja Schw. Thekla;4005556203284;1.35
+20329;WI:Wickie Mau Mau         ;4005556203291;1.35
+20331;Car Tuning                ;4005556203314;1.35
+20332;Car Racing                ;4005556203321;1.35
+20334;Luxus Klasse              ;4005556203345;1.35
+20335;Heiße Prototypen          ;4005556203352;1.35
+20337;Best of Germany           ;4005556203376;1.35
+20342;Fun & Drive (Supertrumpf) ;4005556203420;1.35
+20343;Hybrid&E-Power (Supertr.) ;4005556203437;1.35
+20344;Starke SUV's (Supertr.)   ;4005556203444;1.35
+20347;MB: Bewegungs Mau Mau     ;4005556203475;1.35
+20348;Heul doch - Mau Mau       ;4005556203482;5.35
+20349;TKKG Gangsterjagd         ;4005556203499;4.2
+20355;Hokus-Pokus Flipibus      ;4005556203550;13.5
+20416;Frozen 2 Jun.Laby. D/F/I/N;4005556204168;13.75
+20420;Hunde                     ;4005556204205;1.35
+20421;Katzen                    ;4005556204212;1.35
+20422;Pferde & Ponys            ;4005556204229;1.35
+20423;Tierkinder                ;4005556204236;1.35
+20425;"DFZ: Lotti Karotti""Hop,Hop";4005556204250;18.95
+20430;Kinder Mau Mau            ;4005556204304;1.35
+20431;Schwarzer Peter Kaminkehr.;4005556204311;1.35
+20432;Schwarzer Peter Schaf     ;4005556204328;1.35
+20433;Lotti Karotti Quartett    ;4005556204335;1.35
+20435;MW:Der Maulwurf  Quartett ;4005556204359;1.35
+20451;44 Cats memory®           ;4005556204519;9.85
+20528;Disney Frozen 2 (MBS)     ;4005556205288;4.2
+20529;Super Mario Dice-Challenge;4005556205295;4.2
+20752;Kuhhandel Master          ;4005556207527;5.35
+20753;Kuhhandel                 ;4005556207534;5.35
+20754;Elfer raus                ;4005556207541;5.35
+20756;Elfer raus! Master        ;4005556207565;5.35
+20760;Elfer raus! Junior        ;4005556207602;5.35
+20761;Scotland Yard Kartenspiel ;4005556207619;5.35
+20762;Abluxxen                  ;4005556207626;5.35
+20764;Dumm gelaufen!            ;4005556207640;5.35
+20765;DREIst                    ;4005556207657;5.35
+20766;Level 8                   ;4005556207664;5.35
+20767;Level 8 Master            ;4005556207671;5.35
+20784;Black Jacky               ;4005556207848;5.35
+20789;Quizduell-Mini '18        ;4005556207893;6.8
+20793;Guiness World Records     ;4005556207930;5.35
+20794;Bay.München Elfer raus'19 ;4005556207947;5.35
+21108;DFZ: Frozen memory®       ;4005556211081;9.85
+21122;memory® XL                ;4005556211227;11.5
+21123;Kakerlaloop               ;4005556211234;24
+21130;Mein erstes memory®       ;4005556211302;8.5
+21157;DFZ:Mein mag.Wettlaufspiel;4005556211579;11
+21200;Flotti Karotti            ;4005556212002;25.75
+21204;FS: My first memory®      ;4005556212040;9.85
+21205;DR:Jun.Labyrinth        D/;4005556212057;13.75
+21210;Junior Labyrinth          ;4005556212101;13.75
+21213;Das verdrehte Labyrinth   ;4005556212132;11.3
+21267;MW:Maulw.u.d.Kullerblumen ;4005556212675;12.1
+21269;Kunterbunter Spielezoo    ;4005556212699;7.5
+21273;DCA:Cars3 Jun.Labyrinth   ;4005556212736;13.75
+21275;Tierkinder memory®        ;4005556212750;8.5
+21282;FS:Fire.Sam Jun.Labyrinth ;4005556212828;13.75
+21291;DCA: Cars 3 memory®       ;4005556212910;9.85
+21298;MB:Wissen,Lachen,Sach.mach;4005556212989;11.1
+21301;Stoopido                  ;4005556213016;13.25
+21322;PJ Masks memory®          ;4005556213221;9.85
+21325;Plitsch-Platsch Pinguin'17;4005556213252;15.95
+21353;Monsterst.Glibber-Klatsch ;4005556213535;12.75
+21354;MB: XL Bewegungsdomino    ;4005556213542;11.1
+21371;Wer war's? Jubi-Ausgabe   ;4005556213719;29.5
+21372;Junior Sagaland           ;4005556213726;9.9
+21398;PJ Masks Helden der Nacht ;4005556213986;12.75
+21402;Was passt zusammen?       ;4005556214020;7.5
+21403;Tiere und ihre Kinder     ;4005556214037;7.5
+21404;Blinde Kuh                ;4005556214044;7.5
+21411;MickeyM.90J.memory®  D/F/I;4005556214112;9.85
+21415;Peppa Pig memory®     D;4005556214150;9.85
+21417;4 erste Spiele            ;4005556214174;12.95
+21420;Tempo, kleine Schnecke!   ;4005556214204;12.95
+21422;Hämmerchen-Spiel          ;4005556214228;12.95
+21423;Welches Tier passt hier?  ;4005556214235;7.5
+21424;Spielhaus                 ;4005556214242;12.95
+21435;Junior Pharao             ;4005556214358;12.75
+21437;M.erstes memory® Fahrzeuge;4005556214372;8.5
+21441;Kinderspiele aus a. Welt  ;4005556214419;12.75
+21444;Dragon 3 memory®          ;4005556214440;9.85
+21452;Junior memory®            ;4005556214525;8.5
+21464;Nuss voraus!              ;4005556214648;22.5
+21470;Eye Eye Captain           ;4005556214709;17.95
+21556;Lotti Karotti             ;4005556215560;14.75
+21570;MW:Maulwurf Lieblingsspiel;4005556215706;11.35
+21854;Wer war's?                ;4005556218547;30.5
+21939;Meine erste Zaubershow    ;4005556219391;10.75
+21940;Die große Zaubershow      ;4005556219407;18.5
+21962;Stapelmännchen            ;4005556219629;7.5
+22009;Make'n' Break Junior      ;4005556220090;14.95
+22093;Schnappt Hubi!            ;4005556220939;30.5
+22167;MW: Maulwurf schaut genau ;4005556221677;7.5
+22171;CLA: Claas memory®        ;4005556221714;8.5
+22207;DPR:Disn.Princess memory® ;4005556222070;9.85
+22212;Kakerlakak                ;4005556222124;20.5
+22236;Äpfelchen                 ;4005556222360;9.75
+22246;Billy Biber               ;4005556222469;15.95
+22267;Sau-Bande!                ;4005556222674;15.95
+22289;Scotland Yard Junior      ;4005556222896;10.75
+22300;Kakerlacula               ;4005556223008;24
+22314;DFZ:Frozen Jun.Labyrinth  ;4005556223145;13.75
+22316;Flippi Flatter            ;4005556223169;21.25
+22334;Break Free                ;4005556223343;17.1
+22337;Angelspiel                ;4005556223374;13.8
+23013;Tierbaby memory®          ;4005556230136;4.2
+23063;Nanu                      ;4005556230631;4.2
+23081;Gruselino                 ;4005556230815;4.2
+23082;Schoko Hexe               ;4005556230822;4.2
+23099;Sticken ohne Nadel        ;4005556230990;4.2
+23103;Kinder memory®            ;4005556231034;4.2
+23114;Affenbande                ;4005556231140;4.2
+23115;Clown                     ;4005556231157;4.2
+23119;Max Mümmelmann            ;4005556231195;4.2
+23160;Kuh & Co.                 ;4005556231607;4.2
+23162;Lotti Karotti             ;4005556231621;4.2
+23163;Zauberkreisel             ;4005556231638;4.2
+23206;Labyrinth das Kartenspiel ;4005556232062;4.2
+23244;MW Maulwurf Versteckspiel ;4005556232444;4.2
+23274;DCA: Piston Cup           ;4005556232741;4.2
+23280;Billy Biber               ;4005556232802;4.2
+23289;MB: Wissen und Lachen     ;4005556232895;4.2
+23293;Wer war's?                ;4005556232932;4.2
+23294;Think® Kids Logik-Rätsel  ;4005556232949;4.2
+23318;Sagaland                  ;4005556233182;4.2
+23334;Tempo, kleine Fische!     ;4005556233342;4.2
+23352;Schnappt Hubi (MBS)       ;4005556233526;4.2
+23354;Zwei erste Spiele         ;4005556233540;4.2
+23381;Scotland Yard             ;4005556233816;4.2
+23382;MB:Wissen&Lachen Deutschl.;4005556233823;4.2
+23390;3 gewinnt!                ;4005556233908;4.2
+23391;Kakerlakak                ;4005556233915;4.2
+23392;La Cucaracha              ;4005556233922;4.2
+23393;Lotti Karotti Wettrennen  ;4005556233939;4.2
+23400;Saubande (MBS)            ;4005556234004;4.2
+23402;DFZ: Auf zum Eispalast    ;4005556234028;4.2
+23406;WI: Schatz ahoi!          ;4005556234066;4.2
+23407;BM: Honig-Wettlauf        ;4005556234073;4.2
+23409;Schwarzer Peter          D;4005556234097;4.2
+23424;Kakerlaloop (MBS)         ;4005556234240;4.2
+23426;Der zerstreute Pharao(MBS);4005556234264;4.2
+23427;Quatsch Koffer packen     ;4005556234271;4.2
+23428;Monster Wanted            ;4005556234288;4.2
+23430;FS: Einsatz für Sam       ;4005556234301;4.2
+23432;DR: Das gr. Drachenrennen ;4005556234325;4.2
+23433;MB: Rund um die Natur     ;4005556234332;4.2
+23436;SW:Angriff auf Todesstern ;4005556234363;4.2
+23437;DCA:Go Lightning McQueen! ;4005556234370;4.2
+23440;Die Maulwurf Company(MBS) ;4005556234400;4.2
+23441;KakerlaCard               ;4005556234417;4.2
+23442;Tor-Duell                 ;4005556234424;4.2
+23443;Biene Maja auf Honigsuche ;4005556234431;4.2
+23444;Make'n'Break (MBS)        ;4005556234448;4.2
+23445;Make'n'Break Circus       ;4005556234455;4.2
+23448;Disney Frozen Pachisi     ;4005556234486;4.2
+23452;DPR: Würfelpuzzle'18      ;4005556234523;4.2
+23459;PJ Masks (MBS)            ;4005556234592;4.2
+23460;DPR:Rapunzel's Mon.Malerei;4005556234608;4.2
+23461;Plitsch Platsch Pinguin   ;4005556234615;4.2
+23462;Faxen Mau-Mau (MBS)       ;4005556234622;4.2
+23463;Tempo, kleines Faultier!  ;4005556234639;4.2
+23464;FS:Fireman Sam Würfelpuz. ;4005556234646;4.2
+23466;DR: Die verborgene Welt   ;4005556234660;4.2
+23467;FC Bayern München Mau Mau ;4005556234677;4.2
+24315;Frozen 2 memory®          ;4005556243150;9.85
+24707;Bauernhof-Theater         ;4005556247073;6.95
+24720;Was passt wohin?          ;4005556247202;6.95
+24721;Komm wir kaufen ein       ;4005556247219;6.95
+24722;Alle meine Fahrzeuge      ;4005556247226;6.95
+24723;Farben- und Formen-Zauber ;4005556247233;6.95
+24726;Wir spielen Baustelle     ;4005556247264;11.5
+24731;Mein Tier zu mir          ;4005556247318;6.95
+24735;Hase hüpf                 ;4005556247356;6.95
+24736;Was ziehe ich an?         ;4005556247363;6.95
+24920;Quips                     ;4005556249206;14.25
+24921;Colorama                  ;4005556249213;10.25
+24930;Differix                  ;4005556249305;7.15
+24931;LogoFix                   ;4005556249312;7.15
+24944;Die freche Sprech-Hexe    ;4005556249442;7.15
+24945;Der verdrehte Sprach-Zoo  ;4005556249459;7.15
+24951;E wie Elefant            D;4005556249510;7.15
+24952;ABC-Insel                 ;4005556249527;7.15
+24955;Wort für Wort             ;4005556249558;10.25
+24956;Die Lese-Ratte            ;4005556249565;7.15
+24964;Zahlen-Zauber             ;4005556249640;7.15
+24969;Die Logikpiraten          ;4005556249695;7.15
+24972;Rechen-Kapitän            ;4005556249725;7.15
+24973;Affenstarke Zahlenbande   ;4005556249732;7.15
+24984;Rund um den Kalender      ;4005556249848;7.15
+24985;Wir spielen Einkaufen     ;4005556249855;7.15
+24990;Entdecke die Welt         ;4005556249909;7.15
+24995;Wer kennt die Uhr?        ;4005556249954;7.15
+24996;Rund ums Taschengeld      ;4005556249961;7.15
+25003;Die freche Sprech-Hexe    ;4005556250035;7.55
+25004;Der verdrehte Sprach-Zoo  ;4005556250042;7.55
+25005;E wie Elefant             ;4005556250059;7.55
+25006;Wort für Wort             ;4005556250066;10.8
+25013;Die Lese-Ratte            ;4005556250134;7.55
+25021;Zahlen-Zauber             ;4005556250219;7.55
+25023;Rechen-Kapitän            ;4005556250233;7.55
+25034;Tiere füttern '18         ;4005556250349;7.15
+25035;Tiere füttern             ;4005556250356;7.55
+25037;Der Natur auf der Spur    ;4005556250370;7.55
+25041;Der Natur auf der Spur    ;4005556250417;7.15
+25042;Logi-Geister              ;4005556250424;15.25
+25047;Häuptling Wackelnix '18   ;4005556250479;17.5
+25048;Erforsche den Körper      ;4005556250486;7.15
+25056;Wer kennt die Uhr?        ;4005556250561;7.55
+25057;Rund um den Kalender      ;4005556250578;7.55
+25058;Wir spielen Einkaufen     ;4005556250585;7.55
+25060;Rund ums Taschengeld      ;4005556250608;7.55
+25062;Errate die Berufe         ;4005556250622;7.55
+26003;Werwölfe Vampirdämmerung  ;4005556260034;6.8
+26010;Scotland Yard Würfelspiel ;4005556260102;6.8
+26022;Bay.München mini mem.'19  ;4005556260225;5.6
+26025;Wer'wörter'               ;4005556260256;6.8
+26028;Hase und Igel '19         ;4005556260287;14.5
+26031;Harry Potter Labyrinth    ;4005556260317;18.25
+26045;Red Peak                  ;4005556260454;16.6
+26050;Toi+ Furious Falco        ;4005556260508;27.99
+26051;Toi+ Compass              ;4005556260515;27.99
+26052;Toi+ Brain board          ;4005556260522;27.99
+26053;Toi+ Core                 ;4005556260539;39.99
+26055;Disney Villainous         ;4005556260553;26
+26056;Yeah / Nope               ;4005556260560;15
+26057;Big Money                 ;4005556260577;15.25
+26063;Super Mario Labyrinth     ;4005556260638;18.25
+26070;Super Mario Level 8       ;4005556260706;5.35
+26083;Logo - Das Spiel          ;4005556260836;20.5
+26113;Das verrückte Labyrinth 3D;4005556261130;19.8
+26116;GraviTrax Seilbahn        ;4005556261161;5.8
+26118;GraviTrax Transfer        ;4005556261185;5.8
+26120;GraviTrax Brücken         ;4005556261208;11.5
+26129;Die Tempel v. El Dorado   ;4005556261291;21.95
+26132;Minecraft Board Game  D/F/;4005556261321;20.5
+26136;Spring in Pfütze Brettsp. ;4005556261369;12.5
+26137;Star Wars IX Labyrinth    ;4005556261376;18
+26138;Star Wars Kartenspiel     ;4005556261383;5.35
+26280;Toi+ Starter-Set          ;4005556262809;62.99
+26301;SpieleMagazin             ;4005556263011;13.1
+26332;Weltreise                 ;4005556263325;24.5
+26421;Europareise               ;4005556264216;24.5
+26423;Die Maulwurf Company      ;4005556264230;15.25
+26424;Sagaland                  ;4005556264247;15.25
+26425;Hexentanz                 ;4005556264254;15.25
+26446;Das ver-rückte Labyrinth  ;4005556264469;16.1
+26492;Deutschlandreise          ;4005556264926;24.5
+26601;Scotland Yard             ;4005556266012;19.5
+26602;Scotland Yard Master(AR)  ;4005556266029;26.5
+26630;Deutschland memory®       ;4005556266302;8.65
+26633;Nature memory®            ;4005556266333;8.65
+26656;Der zerstreute Pharao     ;4005556266562;15.25
+26675;Facecards                 ;4005556266753;6.8
+26687;Labyrinth Glow i.the dark ;4005556266876;17.1
+26700;Nobody is perfect - Mini  ;4005556267002;6.8
+26701;Mau Mau Extreme           ;4005556267019;6.8
+26702;Confusion                 ;4005556267026;6.8
+26703;Werwölfe Vollmondnacht    ;4005556267033;6.8
+26704;Kribbeln                  ;4005556267040;6.8
+26720;El Dorado                 ;4005556267200;20.95
+26729;Werwölfe Morgengrauen     ;4005556267293;6.8
+26733;Krazy WöRDZ Family (RV)   ;4005556267330;10.75
+26736;Fang den Hut!®            ;4005556267361;10.95
+26737;Orig. Malefiz®-Spiel      ;4005556267378;10.95
+26738;Take it easy!             ;4005556267385;10.95
+26750;Make 'n' Break '17        ;4005556267507;18.7
+26751;Make 'n' Break Extreme '17;4005556267514;18.7
+26752;Die Mumien des Pharao     ;4005556267521;15.25
+26772;Nilpferd in d.Achterb.'18 ;4005556267729;17.5
+26773;Sau Mau Mau               ;4005556267736;11.85
+26774;Dackel drauf!             ;4005556267743;6.8
+26775;Cool Runnings             ;4005556267750;14.5
+26777;Woodlands                 ;4005556267774;19.5
+26781;Impact                    ;4005556267811;10.75
+26785;Trans Europa              ;4005556267859;14.25
+26786;The Wall                  ;4005556267866;27.5
+26790;El Dorado - 1.Erweit. D/EN;4005556267903;13.25
+26903;The rise of Queensdale    ;4005556269037;41
+26914;Burgund                   ;4005556269143;18.1
+26917;Broom Service             ;4005556269174;20.25
+26918;Las Vegas Royale          ;4005556269181;26.9
+26919;Carpe Diem                ;4005556269198;18.95
+26938;Las Vegas                 ;4005556269389;12.95
+26971;Burgund - Kartenspiel     ;4005556269716;6.6
+26972;Broom Service-Kartenspiel ;4005556269723;6.6
+26973;Las Vegas - Kartenspiel   ;4005556269730;6.6
+26974;Burgund - Das Würfelspiel ;4005556269747;6.6
+26975;Puerto Rico- Kartenspiel  ;4005556269754;6.6
+26997;Puerto Rico               ;4005556269976;20.25
+27002;Skat, franz.Bild          ;4005556270026;0.73
+27003;Skat,franz.Bild           ;4005556270033;0.75
+27005;Skat,franz.Bild, gr.Eckz. ;4005556270057;1.8
+27010;Skat, Turnierkarte        ;4005556270101;1.8
+27011;Skat, dt.Bild             ;4005556270118;1.15
+27012;Skat, dt.Bild             ;4005556270125;1.15
+27015;Skat, Leinenstruktur      ;4005556270156;2.05
+27022;Doppelkopf, frz.Bild      ;4005556270224;1.5
+27032;Doppelkopf, dt.Bild       ;4005556270323;1.95
+27041;Schafkopf/Tarock,bay.Bild ;4005556270415;1.15
+27042;Schafkopf/Tarock,bay.Bild ;4005556270422;1.15
+27051;Schafk./Tarock, fraenk.B. ;4005556270514;1.35
+27052;Kurze Scharfe,bay.Bild    ;4005556270521;1.15
+27062;Gaigel/Binokel,wuertt.B.  ;4005556270620;1.6
+27067;Poker,int.Bild            ;4005556270675;1.6
+27068;Poker,frz.Bild            ;4005556270682;1.6
+27072;RCB, Stuelp klein         ;4005556270729;2.9
+27073;RCB mit Block u.Stift, Le.;4005556270736;10.65
+27074;RCB, grosse Eckzeichen, PP;4005556270743;4.9
+27075;RCB, versch. Designs      ;4005556270750;2.75
+27096;Würfelbecher + 6 Wuerfel  ;4005556270965;3.25
+27097;12 Wuerfel in Klarsichtbo.;4005556270972;2.3
+27098;Spielteller               ;4005556270989;0.7
+27207;Quizduell Das Brettspiel  ;4005556272075;20.95
+27223;Bluff                     ;4005556272235;18.95
+27225;Nobody is perfect         ;4005556272259;27.75
+27227;Schlag den Raab - Spiel   ;4005556272273;24.5
+27241;Krazy WöRDZ               ;4005556272419;10.75
+27243;Level 8 - Das Brettspiel  ;4005556272433;17.5
+27252;kNOW!                     ;4005556272525;20.5
+27590;Starterset Gravitrax      ;4005556275908;33.5
+27591;GraviTrax Katapult        ;4005556275915;5.8
+27592;Gravitrax Hammerschlag    ;4005556275922;5.8
+27593;GraviTrax Looping         ;4005556275939;5.8
+27594;GraviTrax Gauss Kanone    ;4005556275946;5.8
+27595;GraviTrax Trax            ;4005556275953;11.5
+27596;GraviTrax Bauen           ;4005556275960;11.5
+27611;GraviTrax Lift            ;4005556276110;11.5
+27612;GraviTrax Kaskade         ;4005556276127;5.8
+27613;GraviTrax Trampolin       ;4005556276134;5.8
+27614;GraviTrax Tunnel          ;4005556276141;11.5
+27616;GraviTrax Flip            ;4005556276165;5.8
+27617;GraviTrax Jumper          ;4005556276172;5.8
+27618;GraviTrax TipTube         ;4005556276189;5.8
+27619;GraviTrax Vulkan          ;4005556276196;5.8
+27692;DFZ 2: Freunde fürs Leben;4005556276929;6.45
+27698;DFZ:  Elsa                ;4005556276981;7.5
+27699;DFZ: Anna und Olaf        ;4005556276998;7.5
+27771;DFZ: Die Eiskönigin       ;4005556277711;6.45
+27772;FS: Feuerwehrmann Sam     ;4005556277728;6.45
+27773;Süße Ponys                ;4005556277735;6.45
+27774;Bunte Einhornwelt         ;4005556277742;6.45
+27778;Kleine Prinzessin         ;4005556277780;6.45
+27779;Liebe Bauernhoftiere      ;4005556277797;6.45
+27780;Einhorn                   ;4005556277803;3.65
+27781;Kleines Kätzchen          ;4005556277810;3.65
+27782;Einhorn               D;4005556277827;6.75
+27783;Hundefreundschaft   D;4005556277834;6.75
+27784;Süße Wolfsfamilie         ;4005556277841;7.5
+27785;DDB:Das Dschungelbuch     ;4005556277858;7.5
+27786;DLK:Der König der Löwen   ;4005556277865;7.5
+27787;DPR:Arielle, die Meerjungf;4005556277872;7.5
+27788;DMM:Micky & Minnie       D;4005556277889;7.5
+27789;Hund und Katze            ;4005556277896;8.6
+27790;Paradies der Delfine      ;4005556277902;8.6
+27791;Traumhafter Pegasus       ;4005556277919;8.6
+27792;Kleine Meerjungfrau       ;4005556277926;8.6
+27794;Spirit                    ;4005556277940;8.6
+27831;DM3: Dave und Jerry       ;4005556278312;7.5
+27834;MLP:Magie der Freundschaft;4005556278343;7.5
+27838;Tiefe Freundschaft        ;4005556278381;7.5
+27839;Süße Hundewelpen          ;4005556278398;6.75
+27840;Kätzchen und Häschen      ;4005556278404;6.75
+27841;Lieber Chihuahua          ;4005556278411;7.5
+27842;DFZ:Olaf                  ;4005556278428;7.5
+27843;DCA:Lightning McQueen     ;4005556278435;7.5
+27844;Pferde                    ;4005556278442;7.5
+27845;Delfine                   ;4005556278459;7.5
+27846;Einhorn               D;4005556278466;7.5
+27847;Hund und Katze       D;4005556278473;7.5
+27995;Schlafende Katzen         ;4005556279951;7.5
+28012;Kuschelfreunde            ;4005556280124;6.75
+28015;Tiefer Schlaf             ;4005556280155;6.75
+28016;Funkelnder Sternenhimmel  ;4005556280162;7.5
+28017;Freunde des Meeres        ;4005556280179;6.75
+28018;Haflinger im Mondschein   ;4005556280186;7.5
+28019;Stute Carla               ;4005556280193;6.75
+28020;Delfinglück               ;4005556280209;7.5
+28022;Knuddelhäschen            ;4005556280223;6.75
+28024;Pferdeliebe               ;4005556280247;7.5
+28027;DFZ:Frozen                ;4005556280278;7.5
+28028;Pferdetraum               ;4005556280285;6.75
+28031;Beste Freunde             ;4005556280315;6.75
+28033;DFZ: Winter Magic         ;4005556280339;7.5
+28063;Pferdeportrait            ;4005556280636;6.75
+28064;Süßes Kaninchen           ;4005556280643;6.75
+28065;Zauberhaftes Einhorn      ;4005556280650;7.5
+28147;Lustige Delfine           ;4005556281473;6.45
+28166;Häschen                   ;4005556281664;3.65
+28326;Pferd mit Fohlen         D;4005556283262;8.6
+28329;Jack Russel Welpen        ;4005556283293;8.6
+28342;Zwei Schmusekätzchen      ;4005556283422;8.6
+28343;Süßer Labrador            ;4005556283439;8.6
+28344;Pinguinfamilie            ;4005556283446;8.6
+28426;Träumende Eule            ;4005556284269;12.95
+28431;Singing Cat               ;4005556284313;12.95
+28443;New York City             ;4005556284436;12.95
+28452;Pure Heart                ;4005556284528;12.95
+28458;Singing Tiger             ;4005556284580;12.95
+28459;Paris                     ;4005556284597;8.65
+28460;London                    ;4005556284603;8.65
+28461;New York                  ;4005556284610;8.65
+28463;Fohlen                    ;4005556284634;3.65
+28464;Einhorn                   ;4005556284641;3.65
+28465;Delfin                    ;4005556284658;3.65
+28466;Süße Pinguine             ;4005556284665;3.65
+28467;Kuschelkatzen             ;4005556284672;3.65
+28468;Freundliche Delfine       ;4005556284689;6.75
+28469;Liebevolle Stute          ;4005556284696;6.75
+28470;Knuffiges Häschen         ;4005556284702;7.5
+28471;Stolzer Spirit            ;4005556284719;7.5
+28472;Delfin                    ;4005556284726;7.5
+28473;Einhorn                   ;4005556284733;7.5
+28474;Schmetterling             ;4005556284740;7.5
+28475;Pferd                     ;4005556284757;7.5
+28476;Mutterliebe               ;4005556284764;8.6
+28477;Putzige Freunde           ;4005556284771;8.6
+28478;Treue Pferde              ;4005556284788;8.6
+28479;Husky Kuss                ;4005556284795;8.6
+28480;Mia und Onchao            ;4005556284801;8.6
+28484;DFZ: Fröhlicher Olaf      ;4005556284849;7.5
+28485;DFZ: Schwesternliebe      ;4005556284856;7.5
+28488;In der Weihnachtswerkstatt;4005556284887;8.6
+28491;DFZ 2: Abenteuerreise     ;4005556284917;8.6
+28507;Atelier Pferde            ;4005556285075;19.25
+28521;Delfin                    ;4005556285211;8.1
+28522;Pferd                     ;4005556285228;8.1
+28524;Fantasy Horse             ;4005556285242;8.1
+28553;Majestätischer Tiger      ;4005556285532;8.6
+28554;Kätzchen in der Hängematte;4005556285549;8.6
+28555;Pferdegeflüster           ;4005556285556;8.6
+28556;Fohlen mit Kätzchen       ;4005556285563;8.6
+28561;Kuschelnde Kätzchen       ;4005556285617;8.6
+28563;Magisches Einhorn         ;4005556285631;8.6
+28565;Pferd am Strand           ;4005556285655;8.6
+28566;Glückliche Pferde         ;4005556285662;8.6
+28568;Pferde im Sonnenuntergang ;4005556285686;8.6
+28578;DFZ: Elsa und Anna        ;4005556285785;8.6
+28639;Kleine Löwenbabys         ;4005556286393;8.6
+28641;Stolzer Pegasus          D;4005556286416;8.6
+28646;Elegantes Einhorn         ;4005556286461;8.6
+28647;Flauschige Freunde        ;4005556286478;8.6
+28648;Im Dschungel              ;4005556286485;8.6
+28649;Goldiges Schlappohr       ;4005556286492;8.6
+28651;Katze mit Schmetterling   ;4005556286515;8.6
+28652;Haflinger                 ;4005556286522;8.6
+28653;Kuschelabend              ;4005556286539;8.6
+28654;DPR: Belle & Cinderella   ;4005556286546;8.6
+28655;DPR: Rapunzel             ;4005556286553;8.6
+28819;Afrikanische Impression   ;4005556288199;17.95
+28841;Japanische Kirschblüte    ;4005556288410;17.95
+28843;Cottage Garden            ;4005556288434;17.95
+28897;Brooklyn Bridge           ;4005556288977;17.95
+28898;Sommerliche Bergidylle    ;4005556288984;17.95
+28899;Leuchtendes New York      ;4005556288991;142
+28900;Im Reich des Pegasus      ;4005556289004;9.5
+28901;Flamingo Love     D;4005556289011;12.95
+28902;Schloss Neuschwanstein D;4005556289028;17.95
+28903;Berliner Museumsinsel   D;4005556289035;17.95
+28904;Urlaub an der Ostsee      ;4005556289042;17.95
+28905;Mühle am Blautopf      D;4005556289059;17.95
+28907;Welt der Delfine RL       ;4005556289073;9.5
+28908;Fabelhafte Einhornwelt RL ;4005556289080;9.5
+28909;Tiere der Arktis  RL      ;4005556289097;9.5
+28910;Tierfreundschaft RL       ;4005556289103;9.5
+28911;Liebevolle Pferde         ;4005556289110;9.5
+28912;Frühling in Paris         ;4005556289127;12.95
+28913;Historisches Bamberg      ;4005556289134;17.95
+28914;Vertäumtes Venedig        ;4005556289141;24.5
+28915;Beachlife                 ;4005556289158;14.25
+28951;Skyline von New York      ;4005556289516;24.5
+28954;Farbenfrohe Unterwasserw. ;4005556289547;24.5
+28960;Mystische Freundschaft    ;4005556289608;24.5
+28968;Malerische Dünen          ;4005556289684;24.5
+28969;Wilde Orchidee            ;4005556289691;24.5
+28974;Paris, je t'aime          ;4005556289745;24.5
+28981;Romantisches Rom          ;4005556289813;24.5
+28982;Zauberhaftes Cottage      ;4005556289820;24.5
+29003;Herzliche Grüsse          ;4005556290031;14.25
+29013;Coffee                    ;4005556290130;14.25
+29020;Kaffeeliebe              D;4005556290208;14.25
+29023;Wildblumenfeld            ;4005556290239;14.25
+29025;Mini Mand.-Des.Froz.2  D/F;4005556290253;3.7
+29026;Midi Mand.Desig.Froz.2 D/F;4005556290260;8.95
+29057;Glanzlack VPE 3           ;4005556290574;5.15
+29073;Flüssigkreide lila VPE 3  ;4005556290734;2.79
+29075;Flüssigkreide grün VPE 3  ;4005556290758;2.79
+29076;Flüssigkreide gelb VPE 3  ;4005556290765;2.79
+29077;Flüssigkreide blau VPE3   ;4005556290772;2.79
+29080;Flüssigkreide rot VPE 3   ;4005556290802;2.79
+29087;Schmetterling             ;4005556290871;6.15
+29088;Dinos                     ;4005556290888;6.15
+29089;Pferd                     ;4005556290895;6.15
+29094;Einhorn                   ;4005556290949;6.15
+29098;Delfin                    ;4005556290987;6.15
+29099;Pinselset in Blechdose    ;4005556290994;5.95
+29104;Tigerbaby                 ;4005556291045;3.85
+29105;Pferdeportrait            ;4005556291052;3.85
+29108;Spielende Delfine         ;4005556291083;3.85
+29109;Tukan                     ;4005556291090;3.85
+29110;Katze und Schmetterling   ;4005556291106;3.85
+29111;Fohlen                    ;4005556291113;3.85
+29113;Meerjungfrau              ;4005556291137;3.85
+29114;Pferdeportrait            ;4005556291144;3.85
+29115;Zauberhafte Märchenwelt   ;4005556291151;9.95
+29116;Häschen                   ;4005556291168;3.85
+29117;Welt der Meerjungfrauen   ;4005556291175;9.95
+29118;Verspielte Delfine        ;4005556291182;13.9
+29120;Süße Dschungeltiere       ;4005556291205;9.95
+29121;Flamingo                  ;4005556291212;3.85
+29122;Pferd                     ;4005556291229;3.85
+29123;Delfine                   ;4005556291236;9.95
+29124;Märchenhafte Ponys        ;4005556291243;13.9
+29128;Welt des Pegasus          ;4005556291281;9.95
+29129;Traumhafte Flamingos      ;4005556291298;9.95
+29131;Einhorn                   ;4005556291311;3.85
+29132;Mix.Col.Glow Eindr.Einhör.;4005556291328;5.85
+29133;Mix.Col.Glow Wilde Pferde ;4005556291335;5.85
+29134;Mix.Col.Glow Leucht.Ponys ;4005556291342;5.85
+29135;Mix.Col.Glow Fröhl.Delfine;4005556291359;5.85
+29338;Kuschelzeit               ;4005556293384;9.95
+29346;Pferdefreunde             ;4005556293469;9.95
+29348;Einhorntraum              ;4005556293483;9.95
+29349;Bunte Unterwasserwelt     ;4005556293490;9.95
+29351;Ponys                     ;4005556293513;9.95
+29352;Bunte Ponys               ;4005556293520;9.95
+29353;Paradiesische Vögel       ;4005556293537;8.3
+29411;Zauberhafte Pferde        ;4005556294114;8.3
+29414;Magische Einhörner        ;4005556294145;8.3
+29415;Bunte Schmetterlinge      ;4005556294152;8.3
+29431;Traumhafte Einhörner      ;4005556294312;9.95
+29434;Schmetterlingsparadies    ;4005556294343;9.95
+29435;Welt der Delfine          ;4005556294350;9.95
+29439;Treue Pferde              ;4005556294398;9.95
+29455;Welt der Schmetterlinge   ;4005556294558;13.9
+29456;Tiere am Wasserloch       ;4005556294565;13.9
+29491;Weltstädte                ;4005556294916;13.9
+29544;Kleines Einhorn           ;4005556295449;3.65
+29603;Süßes Einhorn             ;4005556296033;3.65
+29604;Daisy                     ;4005556296040;3.65
+29605;Süßer Tiger               ;4005556296057;3.65
+29607;Pferd                     ;4005556296071;3.65
+29608;Delfin                    ;4005556296088;3.65
+29609;Einhorn                   ;4005556296095;3.65
+29610;Chihuahua                 ;4005556296101;3.65
+29681;Süsse Welpen              ;4005556296811;3.65
+29682;Häschen Flecki            ;4005556296828;3.65
+29684;Chihuahua                 ;4005556296842;3.65
+29685;Pferd im Stall            ;4005556296859;3.65
+29686;Katzenbabys               ;4005556296866;3.65
+29687;Kleines Fohlen            ;4005556296873;3.65
+29690;Süßes Schlappohr          ;4005556296903;3.65
+29699;Junior Spiral-Designer   D;4005556296996;7.75
+29702;DPR: Disn.Princ. MD Midi  ;4005556297023;8.95
+29703;Midi Mand.Desig.Unicorn   ;4005556297030;8.95
+29704;MD Mini Unicorn           ;4005556297047;3.7
+29707;Midi Sand Mand.-Desig.-Neo;4005556297078;8.35
+29708;Mini Spiral Design.Blue   ;4005556297085;3.7
+29709;Mini Spiral Design.Green  ;4005556297092;3.7
+29711;Mini Spiral Design.Orange ;4005556297115;3.7
+29713;Spiral-Designer Maschine  ;4005556297139;26.5
+29714;MD Mini DRA: Rapunzel     ;4005556297146;3.7
+29715;Midi Mand.Desig.Enchantim.;4005556297153;8.95
+29717;Mini Mand. met. Romantic  ;4005556297177;4.5
+29719;Mini Mand. met. Unicorn   ;4005556297191;4.5
+29729;Fantasy MD Sand           ;4005556297290;8.35
+29761;Mini Mand. met. Horses    ;4005556297610;4.5
+29762;Mini Mand. met. Fantasy   ;4005556297627;4.5
+29765;Mini Mand.-Des. Spirit    ;4005556297658;3.7
+29766;Mini Mand.Des.Cute Animals;4005556297665;3.7
+29767;Mini Spiral Desig.turquois;4005556297672;3.7
+29774;Spiral-Designer           ;4005556297740;8.95
+29835;DFZ:Frozen MD Mini        ;4005556298358;3.7
+29841;DFZ:Frozen MD Midi        ;4005556298419;8.95
+29857;Classic MD Mini           ;4005556298570;3.7
+29887;Romantic MD Sand          ;4005556298877;8.35
+29901;Butterflies MD Sand       ;4005556299010;8.35
+29947;Romantic MD Mini          ;4005556299478;3.7
+29986;Horses MD Mini           D;4005556299867;3.7
+29999;Spiral Designer 3D Effect ;4005556299997;8.95
+30051;Bunte Klingelrassel       ;7312350300512;4.95
+30055;VKK Klingelrassel Uni VE12;7312350300550;4.95
+30077;BRIO VKK Rennwagen VE 8;7312350300772;4.95
+30113;BRIO Natur Holzbausteine 5;7312350301137;15.95
+30114;BRIO Bunte Holzbausteine 2;7312350301144;10.95
+30120;BRIO Clown;7312350301205;10.95
+30123;BRIO Magnetische Holzbaust;7312350301236;9.95
+30124;BRIO Magnetischer Holz-Zug;7312350301243;15.45
+30148;BRIO Rote Sortier-Box;7312350301489;13.95
+30165;BRIO Wilde Hummel;7312350301656;11.95
+30180;BRIO Rasselei Set, 2tlg.;7312350301809;6.95
+30181;BRIO Trommel;7312350301816;10.95
+30182;BRIO Xylophon;7312350301823;10.95
+30185;BRIO Motorik-Stapelturm;7312350301854;12.95
+30186;BRIO Nachzieh-Elefant;7312350301861;11.95
+30187;BRIO Nachzieh-Katze;7312350301878;8.95
+30188;BRIO Zahnradspiel;7312350301885;15.45
+30189;BRIO Musikspiel Raupe;7312350301892;20.95
+30200;BRIO Nachzieh-Giraffe;7312350302004;11.95
+30205;BRIO VKK Flugzeuge VE 8;7312350302059;4.95
+30226;BRIO Push & Go Rennwagen;7312350302264;9.95
+30227;BRIO Nachzieh-Hubschrauber;7312350302271;12.95
+30230;BRIO Clown 60. Geburtstag;7312350302301;12.95
+30232;Push & Go Rennwagen Silber;7312350302325;9.95
+30240;BRIO Bunte Nachziehlok;7312350302400;12.95
+30245;BRIO Neuer Holz-Magnet-Zug;7312350302455;15.45
+30250;Sortierbox weiß           ;7312350302509;13.95
+30262;Musikspiel Papagei Polly  ;7312350302622;14.95
+30265;BRIO Traktor mit Pferde-An;7312350302653;14.95
+30267;BRIO Lok mit Kuh-Anhänger;7312350302677;14.95
+30278;BRIO Müllwagen mit Licht u;7312350302783;15.95
+30285;Rutscherauto Rennwagen    ;7312350302851;52.45
+30305;BRIO Hühnerhaus;7312350303056;9.95
+30307;BRIO Traktor mit Frontlade;7312350303070;12.95
+30313;BRIO Farmhaus;7312350303131;25.95
+30316;BRIO Campingset;7312350303162;21.95
+30320;BRIO Marienkäfer VE 4;7312350303209;6.95
+30323;BRIO Nachziehente, weiß;7312350303230;11.95
+30330;BRIO Raupenbaby;7312350303308;4.95
+30332;BRIO Dackel;7312350303322;7.45
+30334;BRIO Großer Dackel;7312350303346;49.95
+30335;BRIO Hummelbaby;7312350303353;4.95
+30336;BRIO Polizeimotorrad;7312350303360;6.95
+30337;BRIO Feuerwehrhelikopter;7312350303377;7.95
+30339;BRIO Stehauf Spielzeug;7312350303391;6.95
+30344;BRIO Sondered. Rennwagen s;7312350303445;4.95
+30346;BRIO Rotes Stadtauto;7312350303469;9.95
+30357;Racecar Special Edition bl;7312350303575;4.95
+30367;BRIO Ameise;7312350303674;12.95
+30377;BRIO Polizei-Flitzer mit L;7312350303773;14.95
+30381;BRIO Krankenwagen m. Licht;7312350303810;14.95
+30383;BRIO Feuerwehrauto m. Lich;7312350303834;14.95
+30388;RC Rennwagen              ;7312350303889;27.45
+30398;BRIO Mein großer Bauernhof;7312350303988;25.95
+30404;Nachzieh-Dalmatiner       ;7312350304046;7.45
+30421;BRIO Beißring;7312350304213;3.95
+30434;BRIO VKK Waldtier-Babyrass;7312350304343;5.45
+30436;BRIO Sensorik-Steine;7312350304367;12.95
+30438;BRIO VKK Waldtier-Schmuset;7312350304381;5.45
+30447;BRIO Lernuhr mit Zählrahme;7312350304473;12.95
+30480;BRIO Farbenfroher Greif- u;7312350304800;4.95
+30505;BRIO Motorik-Rasselbälle, ;7312350305050;5.45
+30515;BRIO Schwarze Klopfbank;7312350305159;10.95
+30519;BRIO Kugel-Hammerspiel;7312350305197;15.45
+30525;Rote Klopfbank            ;7312350305258;10.95
+31350;BRIO Lauflernwagen, rot/ge;7312350313505;26.95
+31351;BRIO Lauflernwagen, schwar;7312350313512;26.95
+31355;BRIO Herd, rot;7312350313550;29.95
+31357;BRIO Herd, weiß;7312350313574;29.95
+31358;BRIO Roter Geschirrspülsch;7312350313581;29.95
+33025;BRIO Straßen & Schienen Sp;7312350330250;165
+33028;BRIO Bahn Acht Set - Class;7312350330281;27.95
+33042;BRIO Bahn Starterset;7312350330427;11.95
+33052;BRIO Straßen & Schienen Ba;7312350330526;164.95
+33061;BRIO Container Hafen Set;7312350330618;26.45
+33086;BRIO Unterteil für Spielpl;7312350330861;120
+33097;BRIO Frachten Set Deluxe;7312350330977;84.95
+33204;BRIO Parkhaus, Straßen&Sch;7312350332049;36.95
+33208;BRIO Straßen und Schienen ;7312350332087;27.95
+33209;BRIO Straßen und Schienen ;7312350332094;34.95
+33210;BRIO Straßen & Schienen St;7312350332100;39.95
+33213;BRIO IR-Frachtlok;7312350332131;20.45
+33214;BRIO Batterie-Frachtlok;7312350332148;14.5
+33215;BRIO Kleine Frachtlok (Bat;7312350332155;9.95
+33253;BRIO Stapelbares Brückensy;7312350332537;6.95
+33254;BRIO Brückenfundament (2 S;7312350332544;5.95
+33280;BRIO Frachtverladestation;7312350332803;17.95
+33306;BRIO Blaues Flugzeug;7312350333060;13.95
+33307;BRIO Schienen- und Weichen;7312350333077;18.45
+33319;BRIO Zug mit Batterielok;7312350333190;17.95
+33332;BRIO Rampengleise (N);7312350333329;4.95
+33333;BRIO 1/4 Gerade Gleise (A2;7312350333336;3.95
+33334;BRIO 1/2 Gerade Gleise (A1;7312350333343;3.95
+33335;BRIO 2/3 Gerade Gleise (A);7312350333350;3.95
+33337;BRIO Kurze gebogene Gleise;7312350333374;3.95
+33341;BRIO 1/1 Gerade Gleise (D);7312350333411;4.95
+33342;BRIO 1/1 Gebogene Gleise (;7312350333428;4.95
+33344;BRIO Mech. Weichenpaar (L1;7312350333442;9.95
+33346;BRIO Bogenweichen (L,M);7312350333466;6.95
+33351;BRIO Unterführung;7312350333510;10.45
+33361;BRIO Mechanische Drehschei;7312350333619;9.95
+33385;BRIO Rampen & Prell-Bock P;7312350333855;4.95
+33388;BRIO Bahnübergang;7312350333886;6.95
+33391;BRIO Einsturzbrücke;7312350333916;14.95
+33393;BRIO 1/4 Ausgleichsschiene;7312350333930;3.95
+33394;BRIO Schienen Starter Pack;7312350333947;12.95
+33401;BRIO Kleines Schienensorti;7312350334012;12.95
+33402;BRIO Mittleres Schienensor;7312350334029;17.95
+33404;BRIO Bauernhof-Zug;7312350334043;11.95
+33406;BRIO Tierwagen mit Kuh;7312350334067;5.95
+33409;BRIO Classic Holz-Transpor;7312350334098;12.45
+33424;BRIO Classic Deluxe-Set;7312350334241;46.45
+33427;BRIO Bus- und Zug-Bahnhof;7312350334272;14.95
+33436;Frontlader                ;7312350334364;5.95
+33472;Tankwagen silber          ;7312350334722;6.45
+33481;BRIO Magischer Tunnel;7312350334814;20.95
+33505;BRIO Roter Reisezug;7312350335057;11.95
+33506;BRIO Blauer Reisezug (Batt;7312350335064;16.95
+33510;BRIO IR - Express Reisezug;7312350335101;20.45
+33511;BRIO Bahn Starter Set Pers;7312350335118;12.95
+33512;BRIO Großes Bahn Reisezug ;7312350335125;59.95
+33513;BRIO Metro Bahn Set;7312350335132;32.45
+33528;BRIO Abschleppwagen mit Au;7312350335286;8.95
+33534;BRIO Containerschiff mit K;7312350335347;11.95
+33569;BRIO Light&Sound Fähre;7312350335699;13.95
+33573;BRIO Gabelstapler;7312350335736;8.95
+33574;BRIO Lokschuppen mit Rollt;7312350335743;12.95
+33577;BRIO Autotransporter mit R;7312350335774;5.95
+33578;BRIO Sprechender Bahnhof;7312350335781;27.95
+33592;BRIO Rote Lola Batterielok;7312350335927;17.45
+33593;BRIO Grüner Gustav Batteri;7312350335934;16.95
+33594;BRIO Gelbe Batterielok;7312350335941;11.95
+33595;BRIO Speedy Green Batterie;7312350335958;12.95
+33599;BRIO Schwarze Akku-Lok mit;7312350335996;20.95
+33615;BRIO Classic Bahnhof;7312350336153;10.45
+33617;BRIO Westernlok;7312350336177;5.95
+33622;BRIO Grüner Reisezug;7312350336221;11.95
+33627;BRIO Reisezug Set mit Busb;7312350336276;46.45
+33649;BRIO Gr. Hauptbahnhof m. T;7312350336498;20.95
+33674;BRIO Signal Station;7312350336740;14.95
+33683;BRIO Hängebrücke;7312350336832;15.45
+33696;BRIO Langholzwagen;7312350336962;5.95
+33697;BRIO Schwarzer Kugelblitz ;7312350336979;8.95
+33698;BRIO Grüner Kranwagen+Anhä;7312350336986;8.95
+33699;BRIO Bahnbrücke mit Auffah;7312350336993;7.95
+33705;BRIO Mein erste Batterielo;7312350337051;12.95
+33707;BRIO Mein erstes Glockensi;7312350337075;4.95
+33708;BRIO Mein erster Waggon mi;7312350337082;7.25
+33709;BRIO Flexibler Tunnel;7312350337099;9.95
+33710;BRIO Mein erstes Bahn Set ;7312350337105;30.95
+33711;BRIO M. erster BRIO Mitneh;7312350337112;17.95
+33719;BRIO Bahn Bauernhof Set;7312350337198;22.95
+33720;BRIO Safari Bahn Set;7312350337204;15.95
+33722;BRIO Safari-Zug;7312350337228;11.95
+33724;BRIO Giraffenwagen;7312350337242;5.95
+33727;BRIO Mein erstes Bahn Spie;7312350337273;20.95
+33732;BRIO Container-Verladekran;7312350337327;12.95
+33735;BRIO Hoher Holz-Tunnel;7312350337358;9.95
+33736;BRIO Großer Ringlokschuppe;7312350337365;42.95
+33743;BRIO Ampel;7312350337433;4.95
+33745;BRIO Bahnhof mit Sound;7312350337457;16.45
+33746;BRIO Roter Akku-Reisezug;7312350337464;20.45
+33748;BRIO Schnellzug mit Sound,;7312350337488;16.25
+33749;BRIO Glockenwagen;7312350337495;3.95
+33750;BRIO Magnetische Kreuzung;7312350337501;8.95
+33754;BRIO Magnetisches Glockens;7312350337549;5.25
+33757;BRIO Hebebrücke;7312350337570;17.95
+33766;BRIO Großes Premium Set in;7312350337662;199.95
+33772;BRIO Großes Schienensortim;7312350337723;31.95
+33773;BRIO Eisenbahn Starter Set;7312350337730;24.95
+33797;BRIO Feuerwehr-Hubschraube;7312350337976;7.95
+33799;BRIO Traktor mit Holz-Anhä;7312350337990;8.95
+33811;BRIO FeuerwehrLeiterfahrze;7312350338119;12.95
+33812;BRIO Polizei Goldtransport;7312350338126;22.95
+33813;BRIO Polizeistation m. Ein;7312350338133;21.95
+33815;BRIO Bahn Feuerwehr Set;7312350338157;25.95
+33819;Auto-Spiels. Stadt u. Land;7312350338195;21.45
+33820;BRIO Polizeiboot m. Licht ;7312350338201;9.95
+33823;BRIO Bahn Reisende mit Kof;7312350338232;5.95
+33825;BRIO Polizeiwagen m.Licht ;7312350338256;8.95
+33826;M. e. BRIO Bauernh.m.Sound;7312350338263;32.45
+33828;BRIO Polizeihubschrauber;7312350338287;7.95
+33833;BRIO Große Feuerwehr-Stati;7312350338331;42.95
+33834;BRIO Smart Tech Zug m.Acti;7312350338348;27.95
+33840;BRIO Bahnhof mit Aufnahmef;7312350338409;16.45
+33844;BRIO Feuerwehr-Löschzug;7312350338447;12.95
+33860;Roter Frachtzug (Spec.E19);7312350338607;9.95
+33861;BRIO Motorrad-Polizist;7312350338614;6.45
+33862;BRIO Blinkendes Bahnsignal;7312350338621;4.95
+33863;BRIO Batterielok Blauer Os;7312350338638;27.95
+33864;BRIO Verkehrszeichen-Set;7312350338645;3.95
+33865;BRIO Spielpäckchen Safari;7312350338652;7.95
+33866;BRIO Eisenbahn-Magnetkran;7312350338669;7.95
+33867;BRIO U-Bahn m. Licht u. So;7312350338676;15.95
+33868;BRIO Magnetische Bahn-Ampe;7312350338683;4.95
+33873;BRIO Großes Smart Tech Rei;7312350338737;52.45
+33874;BRIO Smart Tech Waschanlag;7312350338744;15.45
+33875;BRIO Spielpäckchen Bäuerin;7312350338751;7.95
+33876;BRIO Spielpäckchen Feuerwe;7312350338768;7.95
+33878;BRIO Starterset Güterzug m;7312350338782;21.45
+33879;BRIO Spielpäckchen Bauer m;7312350338799;7.95
+33883;BRIO Flughafen mit Tower;7312350338836;36.45
+33885;BRIO Stapelbrücke mit Ramp;7312350338850;10.45
+33886;BRIO Eisenbahn-Transporthu;7312350338867;20.95
+33887;BRIO Großes Lagerhaus-Set ;7312350338874;54.95
+33888;BRIO Güterzug mit Frachtla;7312350338881;12.95
+33889;BRIO Große Goldmine mit So;7312350338898;31.95
+33890;Tunnel Box Reisezug       ;7312350338904;12.95
+33891;Tunnel Box Frachtzug      ;7312350338911;12.95
+33892;Tunnel Box Dampflockzug   ;7312350338928;12.95
+33893;BRIO Flughafen-Gepäckwagen;7312350338935;10.95
+33894;BRIO Frachtlok mit Fahrer;7312350338942;7.95
+33895;BRIO Heuwagen mit Kippfunk;7312350338959;5.95
+33896;BRIO Goldwaggon mit Licht;7312350338966;6.95
+33897;BRIO Schienenreparatur-Fah;7312350338973;9.95
+33899;Spielpäckchen Straßenbaus.;7312350338997;7.95
+33906;BRIO Bahn Acht Tunnel Set ;7312350339062;19.1
+33907;BRIO Tankwagen mit Anhänge;7312350339079;10.95
+33916;BRIO Country Reisezug Set ;7312350339161;38
+33918;BRIO Smart Tech Eisenbahn-;7312350339185;17.95
+33935;BRIO Smart Tech Action Tun;7312350339352;10.45
+33936;BRIO Smart Tech Bauernhof;7312350339369;26.45
+33937;Sportwagen mit Fahrer     ;7312350339376;7.45
+33938;Container Goldwaggon      ;7312350339383;6.45
+33960;Gr. BRIO Bahn Safari Set  ;7312350339604;32.45
+33961;Smart Tech Hebebrücke     ;7312350339611;17.95
+33962;ST  Gr.Containerverladest.;7312350339628;26.45
+33963;Safari Flugzeug           ;7312350339635;9.95
+33964;Safari-Zug mit Nashorn    ;7312350339642;11.95
+33966;Tierwaggon Löwe           ;7312350339666;5.95
+33967;Tierwaggon Zebra          ;7312350339673;5.95
+33968;Tierwaggon Nashorn        ;7312350339680;5.95
+33969;Tierwaggon Elefant        ;7312350339697;5.95
+33983;BRIO Bahn Acht Tunnel Set ;7312350339833;34.95
+34000;BRIO Labyrinth;7312350340006;17.95
+34017;Holz Flipper Space Safari;7312350340174;26.95
+34020;BRIO Labyrinth mit Übungsp;7312350340204;26.45
+34030;BRIO Labyrinth Ersatzplatt;7312350340303;7.95
+34100;BRIO Mitnehm-Labyrinth;7312350341003;14.95
+34586;BRIO Builder Box 48tlg.;7312350345865;10.95
+34587;BRIO Builder Box 135tlg.;7312350345872;23.95
+34588;BRIO Builder Kindergartens;7312350345889;34.95
+34589;BRIO Builder Kindergartens;7312350345896;44.95
+34591;Builder Motor-Konstr.120t.;7312350345919;32.45
+34592;Builder Soundm.-Konstr.67t;7312350345926;20.95
+24890591;BRIO Wickeltasche, 3fach s;7070398100210;7.95
+24890596;BRIO Bettenset Combi, 3fac;7070398100227;7.5
+24891107;BRIO Puppenwagen Klassik, ;7070398102757;52.45
+24891110;BRIO Puppenwagen Klassik, ;7070398102771;52.45
+24891159;BRIO Puppenwagen Klassik g;7312350000023;52.45
+24891309;BRIO Puppenwagen Combi, fu;7070398102863;57.45
+24891310;BRIO Puppenwagen Combi, vi;7070398102870;57.45
+24891314;BRIO Puppenwagen Combi, Ro;7070398102900;57.45
+24891318;BRIO Puppenwagen Combi, ro;7070398102924;57.45
+24891359;BRIO Puppenwagen Combi, gr;7312350000030;57.45
+24891369;BRIO Puppenw. combi türk. ;7312350002942;57.45
+24891398;BRIO Puppenwagen Premium C;7070398102993;58.95
+24891592;BRIO Puppen-Traget. rot m.;7312350000092;7.5
+24891594;BRIO Puppen-Wickelt. rot m;7312350000108;7.5
+24900000;BRIO Puppenwagen Spin rot ;7312350000078;43.95
+24901000;BRIO Puppenw.Spin blau m. ;7312350000177;43.95
+24904000;BRIO Puppen-Autositz f Spi;7312350249040;23.95
+72019;VKK Kreative Bastelsets VE;4005556720194;62
+72020;VKK ILS Minis VE 24;4005556720200;99.6
+72029;VKK Minipuzzles Paw Patrol;4005556720293;54
+72057;VKK MnZ® Serie F Leuchtfar;4005556720576;70
+72078;VKK Paw Patrol VE 12;4005556720781;48.6
+72098;VKK Mini Mandala-Designer®;4005556720989;90
+72125;VKK Mini Mandala-Designer®;4005556721252;70
+72126;VKK Malen n. Zahlen Serie ;4005556721269;126
+72127;VKK Mixxy Colors VE 30;4005556721276;110.4
+72128;VKK tiptoi® Wissen & Quizz;4005556721283;123.2
+72132;VKK Trend Slim Städte;4005556721320;92.8
+72138;VKK Shaped Minions VE12;4005556721382;61.8
+72184;VKK Minipuzzle Dragons 3 V;4005556721849;54
+72186;DISP Halb-Stapeld.Erwach.p;4005556721863;396.8
+72187;DISP Stapeldispl. Erwachse;4005556721870;840.5
+72190;DISP Halb-Stapeld. Kipu CP;4005556721900;388.3
+72194;DISP Stapeld. Kinderpzl. V;4005556721948;814.1
+72236;VKK Mixxy Colors Midi Glow;4005556722365;93.6
+72240;DISP Blazelets VE 51 V3;4005556722402;290.46
+72278;VKK MnZ Sonderserie E Pail;4005556722785;120
+72284;VKK MnZ Serie F mit Sticke;4005556722846;73
+72341;VKK Mini Metallic Mandala-;4005556723416;90
+72380;VKK ministeps Knistertuch ;4005556723805;30.6
+72385;VKK Supertrumpf Cars VE 44;4005556723850;59.4
+72386;VKK Supertrumpf Specials V;4005556723867;59.4
+72387;VKK Best of Supertrumpf VE;4005556723874;162
+72390;DISP Malen nach Zahlen VE ;4005556723904;351.45
+72419;VKK Mini Spiral Designer® ;4005556724192;71.75
+72452;1/4-Kiste TV-Kinderspiele ;4005556724529;411.5
+72460;DISP String It VE 38 V2;4005556724604;236.5
+72461;DISP Lernspiele VE 32 VI n;4005556724611;228.8
+72462;VKK baliba VE 20;4005556724628;110
+72463;VKK ScienceX® VE32 Micro G;4005556724635;92.8
+72465;DISP MBS, Karte u. flotten;4005556724659;367.2
+72469;Sonderpl.MBS, Karte u. fl.;4005556724697;737.6
+72473;DISP MBS VE72    V1;4005556724734;302.4
+72474;Sonderplatzierung MBS VE 1;4005556724741;588
+72475;Chep-P. Mitbringspiele VE ;4005556724758;2268
+72481;VKK tiptoi® CREATE Sticker;4005556724819;170
+72695;VKK Be Creative VE 24;4005556726950;80.4
+72738;VKK 3D Puzzle-Ball FC Bay.;4005556727384;61.2
+72808;DISP Exit Puzzles VE 24 V2;4005556728084;181.2
+72811;VKK Woozle Goozle Micros D;4005556728114;97.6
+72972;VKK baliba VE 20;4005556729722;110
+72978;Sort.baliba VE 12 inkl. Re;4005556729784;66
+72979;VKK tiptoi® Wissen & Quizz;4005556729791;128.8
+72984;VKK Malen n. Zahlen Serie ;4005556729845;131.4
+72987;VKK Erster Kartenspaß VE 4;4005556729876;59.4
+73055;VKK Minipuzzles Frozen  VE;4005556730551;54
+73163;VKK Derbystar VE 12;4005556731633;48.6
+73237;VKK 27 Tl. Frozen Blindpac;4005556732371;89.4
+73251;Sonderpl. Treasure Pearls ;4005556732517;233.65
+73266;VKK baliba Rasselball VE 2;4005556732661;139
+73267;VKK MnZ Sonderserie E Froz;4005556732678;120
+73296;VKK Minipuzzles Maja u. Wi;4005556732968;48.6
+73304;VKK Woozle Goozle Zaubertr;4005556733040;92.8
+73441;VKK tiptoi pocket Wissen V;4005556734412;113
+73572;Mixxy Colors Paket FJ 2019;4005556735723;75.1
+73595;VKK MnZ Trolls VE 16;4005556735952;113.6
+73953;VKK 12x ministeps Kuller-F;4005556739530;45.6
+76301;Rush Hour                 ;4005556763016;12.25
+76303;Rush Hour Junior          ;4005556763030;12.25
+76305;Rush Hour Deluxe          ;4005556763054;15.25
+76306;Rush Hour Shift           ;4005556763061;16.25
+76307;WordARound                ;4005556763078;8.75
+76310;Geheimnis des Refugiums   ;4005556763108;13.3
+76313;Geheimnis der Sternwarte  ;4005556763139;13.3
+76316;Mathe Würfel Junior       ;4005556763160;6.99
+76317;Mathe Würfel              ;4005556763177;5.15
+76318;Swish                     ;4005556763184;10.5
+76319;Tipover                   ;4005556763191;15.25
+76320;Amaze                     ;4005556763207;7.75
+76325;Solitaire Chess           ;4005556763252;10.5
+76329;Yoga Spinner Game         ;4005556763290;10.5
+76331;Lunar Landing             ;4005556763313;10.5
+76332;WaveBreaker               ;4005556763320;15.25
+76333;Rush Hour 2               ;4005556763337;3.1
+76334;Rush Hour 3               ;4005556763344;3.1
+76335;Rush Hour 4               ;4005556763351;3.1
+76339;Gravity Maze           D/F;4005556763399;20.5
+76341;Circuit Maze           D/F;4005556763412;20.5
+76342;Color Cube Sudoku       D/;4005556763429;16.25
+76343;Roller Coaster Challe. D/F;4005556763436;21.95
+76344;Balance Beans          D/F;4005556763443;10.5
+76345;Code Master            D/F;4005556763450;14.35
+76347;Hoppers                D/F;4005556763474;10.5
+76348;Laser Maze Jr.         D/F;4005556763481;20.5
+76349;River Crossing          D/;4005556763498;14.35
+76350;Laser Chess             D/;4005556763504;33.5
+76351;Zingo                     ;4005556763511;14.35
+76352;Zingo 1-2-3               ;4005556763528;14.35
+76353;Back Spin                 ;4005556763535;10.5
+76354;Clue Master               ;4005556763542;8.75
+76356;Laser Maze                ;4005556763566;20.5
+76366;Cat Crimes                ;4005556763665;8.5
+76369;MBS Rush Hour             ;4005556763696;4.2
+76373;Domino Maze              D;4005556763733;21.95
+76374;Invasion of Cow Snatchers ;4005556763740;20.5
+81243;Burgund                   ;4005556812431;28.9
+93125;MnZ-Paket Kinder Frühjahr ;4005556931255;177.8
+93793;VKK Puzzle-Conserver Perma;4005556937936;71.4
+93906;DISP Girly Girl u. 3D Pzl.;4005556939060;340.26
+94081;VKK Supertrumpf Cars VE 44;4005556940813;55
+94082;VKK Supertrumpf Specials V;4005556940820;55
+94083;VKK Best of Supertrumpf VE;4005556940837;150
+94084;VKK Tier-Quartette VE 44;4005556940844;59.4
+94085;VKK Erster Kartenspaß VE 4;4005556940851;55
+94849;VE 30 Skat gr. Eckz., fran;4005556948499;51
+94854;VE 30 Skat franz. Bild Kar;4005556948543;21.6
+94863;VE 18 Poker franz. Bild Ka;4005556948635;27
+94874;VKK Minipuzzle Tiere VE 45;4005556948741;54

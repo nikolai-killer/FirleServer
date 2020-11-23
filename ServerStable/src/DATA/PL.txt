@@ -1,0 +1,118 @@
+Artikelnummer;Bezeichnung;EAN;Netto
+3090;Kaffee-Service classic 12-teilig;4007275030905;16.65
+3235;Rührschüssel;4007275032350;3.05
+3236;Teigrolle;4007275032367;3.55
+3248;Plätzchenküche 5-teilig;4007275032480;5.2
+3249;Eismeister 3-teilig;4007275032497;2.5
+3401;Straßenbesen Holz;4007275034019;6.55
+3502;Stapelbecher-Set 5-teilig;4007275035023;5.2
+3706;Plansch-Set 5-teilig in der Tragetasche;4007275037065;9.05
+3723;Boot;4007275037232;1.02
+3725;Wellenreiter 4-teilig;4007275037256;3.05
+7201;Eimer groß classic;4007275072011;3.6
+7204;Eimer classic;4007275072042;2.1
+7211;Eimer groß Garten;4007275072110;3.6
+7212;Wunder-Ei fashion 5-teilig;4007275072127;5
+7216;Eimer klein Pirat;4007275072165;2.5
+7217;Eimer klein Prinzessin;4007275072172;2.5
+7218;Pflanztopf Garten;4007275072189;1.02
+7219;Untersetzer Garten;4007275072196;0.52
+7220;Mini Eimer babyfoot classic;4007275072202;3.6
+7221;Wunder-Ei Prinzessin 5-teilig;4007275072219;5
+7222;Wunder-Ei Pirat 5-teilig;4007275072226;5
+7235;Eimer fashion;4007275072356;2.1
+7303;Gießkanne Hippo fashion;4007275073032;3.6
+7304;Gießkanne groß classic;4007275073049;9.6
+7305;Gießkanne groß Garten;4007275073056;9.6
+7323;Gießkanne classic;4007275073230;4.65
+7324;Gießkanne Garten;4007275073247;4.65
+7325;Gießkanne fashion;4007275073254;4.65
+7326;Gießkanne Pirat;4007275073261;4.65
+7327;Gießkanne Prinzessin;4007275073278;4.65
+7328;Gießkanne transluzent rosa;4007275073285;4.65
+7329;Gießkanne transluzent grün;4007275073292;4.65
+7402;Sandförmchen Gugelhupf classic;4007275074022;0.95
+7411;Sandförmchen Ocean classic;4007275074114;0.52
+7412;Eistüte fashion;4007275074121;0.62
+7413;Eis-Duo fashion 5-teilig im Netz;4007275074138;4.1
+7415;Eistüte classic;4007275074152;0.62
+7416;Eis-Duo fashion 5-teilig;4007275074169;4.1
+7417;Sandförmchen Burgbewohner Prinzessin;4007275074176;0.66
+7418;Sandförmchen Pirat;4007275074183;0.66
+7419;Sandförmchen Märchen Prinzessin;4007275074190;0.66
+7420;Sandförmchen Burgbewohner classic;4007275074206;0.66
+7422;Sandförmchen Burgturm classic;4007275074220;1.45
+7423;Sandförmchen Burgmauer classic;4007275074237;1.45
+7424;Sandförmchen Burgtor classic;4007275074244;2
+7425;Burgen-Set classic 3-teilig im Netz;4007275074251;4.4
+7435;Sandförmchen Ocean fashion;4007275074350;0.52
+7436;Sandförmchen Glitzer Edition Prinzessin 3-teilig;4007275074367;2
+7437;Sandförmchen Glitzer Edition Prinzessin;4007275074374;0.66
+7441;Verrückte Tierwelt fashion 6-teilig;4007275074411;3.6
+7442;Unendliche Tierfreunde - Krokodil fashion 3-teilig;4007275074428;2
+7443;Unendliche Tierfreunde - Wurm fashion 3-teilig;4007275074435;2
+7500;Eimer-Mühle-Set classic 3-teilig;4007275075005;5.1
+7503;Burgen-Set classic 6-teilig im Netz;4007275075036;6.4
+7504;Sandbäckerei classic 3-teilig;4007275075043;5.2
+7505;Sand-Set classic 6-teilig im Rucksack;4007275075050;15.2
+7510;Baumeister-Set 3-teilig;4007275075104;5.2
+7511;Prinzessinnen-Set 5-teilig;4007275075111;5.2
+7512;Piraten-Set 5-teilig;4007275075128;5.2
+7516;Sand-Set classic 6-teilig im Matchsack;4007275075166;12.7
+7523;Baby-Set classic 4-teilig in der Reißverschlusstasche;4007275075234;6.55
+7527;Hippo-Set fashion 5-teilig in der Reißverschlusstasche;4007275075272;8.5
+7531;Schatzsucher-Set classic 7-teilig;4007275075319;5.2
+7534;Eimer-Mühle-Set fashion 3-teilig;4007275075340;5.1
+7536;Sand-Set fashion 6-teilig im Matchsack;4007275075364;12.7
+7545;Eis-Duo classic 3-teilig im Netz;4007275075456;3.05
+7556;Kleines Sand-Set fashion 4-teilig im Netz;4007275075562;3.6
+7557;Großes Sand-Set fashion 7-teilig im Netz;4007275075579;5.2
+7601;Maurerkelle;4007275076019;1.45
+7602;Maurerglätte;4007275076026;2.5
+7603;Wasserwaage;4007275076033;2.2
+7604;Maurer-Set 3-teilig;4007275076040;6
+7605;Sandförmchen Backstein;4007275076057;2.5
+7611;Geheimnisvolle Tierspuren fashion 5-teilig;4007275076118;5.15
+7630;Sandbohrer;4007275076309;7.6
+7701;Sieb groß classic;4007275077016;2
+7704;Sieb classic;4007275077047;1.02
+7735;Sieb fashion;4007275077351;1.02
+7800;Strandschaufel classic;4007275078006;5
+7801;Schaufel groß classic;4007275078013;2
+7803;Moby Schaufel fashion;4007275078037;0.95
+7804;Kurzspaten Garten;4007275078044;2.5
+7805;Kurzspaten classic;4007275078051;2.5
+7806;Kurzspaten fashion;4007275078068;2.5
+7807;Gartenschaufel classic;4007275078075;3.9
+7808;Rechen Garten;4007275078082;3.9
+7809;Laubrechen classic;4007275078099;3.9
+7810;Straßenbesen;4007275078105;6.55
+7811;Schaufel Garten;4007275078112;3.9
+7812;Laubrechen Garten;4007275078129;3.9
+7813;Sandlöffel classic;4007275078136;0.95
+7814;Schaufel classic;4007275078143;1.02
+7815;Eisportionierer classic;4007275078150;1.19
+7816;Eisportionierer fashion;4007275078167;1.19
+7817;Pflanzschaufel classic;4007275078174;1.55
+7818;Handrechen classic;4007275078181;1.55
+7819;Garten-Set 2-teilig;4007275078198;3.05
+7820;Besen Garten;4007275078204;6.55
+7827;Pflanzschaufel Garten;4007275078273;1.55
+7835;Schaufel fashion;4007275078358;1.02
+7836;Schaufel Pirat;4007275078365;1.02
+7837;Schaufel Prinzessin;4007275078372;1.02
+7905;Sandmühle classic;4007275079058;9.6
+7083;Thekendisplay Gelateria 112 Teile;4007275070833;130.56
+7085;Thekendisplay Sommer classic 77 Teile;4007275070857;105.81
+7086;Thekendisplay Sommer fashion 107 Teile;4007275070864;106.09
+7103;Thekendisplay Sandförmchen - unbestückt -;4007275071038;5
+7061;Bodendisplay Baumeister 120 Teile;4007275070611;350.1
+7068;Bodendisplay Fashion 251 Teile;4007275070680;380.36
+7080;Bodendisplay Gelateria 237 Teile;4007275070802;367.78
+7081;Bodendisplay Kindergärtnerei 118 Teile;4007275070819;319
+7082;Bodendisplay Prinzessin & Pirat 204 Teile;4007275070826;318.32
+7126;Strandkorb Holzdisplay - unbestückt -;4007275071267;310
+7003;Inhalt Strandkorb 644 Teile ;4007275070024;1,400.08
+7918;Haube zu Display 7126;4007275079188;21.5
+7129;Bodendisplay Holz groß - unbestückt -;4007275071298;200
+7008;Inhalt Bodendisplay Holz groß 368 Teile;4007275070086;788.11

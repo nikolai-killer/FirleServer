@@ -1,0 +1,113 @@
+Artikelnummer;EAN;Bezeichnung;NETTO
+A58221NP;6941057452210;"Wasserspielring ""Big Animal Ring"", 3-6 Jahre, ca. 70x60cm  - VORJAHR DESIGN";1.39 €
+A58263NP;6941057452630;"Schwimmreifen ""Transparent Tube"" ab 9 Jahre, 2 Haltegriffe, Ø 97cm - VORJAHR DESIGN";2.98 €
+A59222NP;6941057452227;"Schwimmring ""Swim Along"", empfohlen 3-6 Jahre, 2 fach sortiert, 77x76cm";0.98 €
+I44672NP;6941057402697;3-D Bop Bags, 2 fach sortiert;3.90 €
+I48674NP;6941057446745;"BallToyz ""Classic 3-Ring"" inkl. 50 Bällen Ø 6,5cm, 1-3 Jahre, 86x25cm";12.13 €
+I49602NP;6941057446028;FunBallz 100 Bälle Ø 6,5cm, ab 2 Jahre, in Tasche, Material PE;10.27 €
+I55601;6941057403250;"Chlorbrille ""Junior"", UV beständig, 3-8 Jahre, 3 farbig sortiert";1.09 €
+I55602;6941057456027;"Chlorbrille ""Play"", UV beständig, 3-8 Jahre, 3 farbig sortiert";1.01 €
+I55603;6941057456034;"Chlorbrille ""Fun"", UV beständig, 3-8 Jahre, 3 farbig sortiert";1.29 €
+I55642;6941057413143;"Schnorchel-Set ""Adventurer"" (55916, 55922), ab 8 Jahre";5.60 €
+I55647;6941057413181;"Schnorchel-Set ""WaveRider"" (55978, 55928) ab 8 Jahre";6.77 €
+I55655;6941057413136;"Tauch-Set ""MasterClass"" (55916, 55922, 55937) ab 8 Jahre";9.03 €
+I55691;6941057403328;"Chlorbrille ""PRO Racing"" 3 farbig sortiert, UV beständig, Anti-Beschlag, Latex-frei, ab 8 Jahre";4.50 €
+I55915;6941057408347;"Tauchermaske ""Fun"" 3-8 Jahre, 2 fach sortiert";3.63 €
+I55922;6941057404837;"Schnorchel ""Hi-Flow"", Latex-frei, 3-10 Jahre, 2 farbig sortiert";1.39 €
+I55928;6941057403397;"Schnorchel ""Easy-Flo"", 3 Farben, Latex-frei, Mundstück- thermoplastischem Gummi, Wasserstopp, ab 8 Jahren";3.09 €
+I55944;6941057408330;"Schnorchel-Set """"Shark"" (55915, 55922), 3-8 Jahre";5.36 €
+I55977;6941057413167;"Tauchermaske ""ReefRider"", 2-farbig sort., ab 14 Jahre";3.94 €
+I55978;6941057413174;"Tauchermaske ""WaveRider"" 2-farbig sort., ab 8 Jahre";3.82 €
+I56263NP;6941057407517;Schwimmreifen Sprinkle Donut Tube, ab 9 Jahre, 114cm;3.98 €
+I56268NP;6941057456263;"Schwimmreifen ""MonsterTruck"" mit 2 Handgriffen, 114cm";4.38 €
+I56274NP;6941057414188;"Schwimmreifen ""transparent Glitter"", ab 9 Jahre, 119cm";8.52 €
+I56283EU;6941057403601;"Badeinsel ""Watermelon Island"" mit Halteleine, 183x23cm";15.98 €
+I56288EU;6941057403588;"Badeinsel ""Mega Flamingo Island"" mit 2 Haltegriffe, 218x211x136cm";28.25 €
+I56441NP;6941057454412;"Pool 4-Ring ""Sunset-Glow"", Wasserbedarf ca. 780 l, Ablassventil, 168x46cm";10.60 €
+I56451NP;6941057454511;"SnapSet Pool ""Palm Trees"", Wasserbedarf ca. 443 l, 152x25cm";7.30 €
+I56452NP;6941057454528;"SnapSet Pool ""Ocean Play"", Wasserbedarf ca. 958 l, 183x38cm";10.58 €
+I56483NP;6941057454832;"Swimcenter ""Family Pool uni transparent"", Wasserbedarf ca. 770 l, Ablassventil, 262x175x56cm";23.15 €
+I56514NP;6941057413051;Princess Carriage, ab 3 Jahre, 145x135x104cm;44.08 €
+I56588EU;6941057455884;"Babysicherheitsring ""Baby Float"" (4 Kammern), bis 15 Kg,  1-2 Jahre";5.04 €
+I57100NP;6941057451008;"BabyPool ""Play Box"", 2 farbig sort., Wasserbedarf ca. 57 l, aufblasbarer Boden, 1-3 Jahre, 85x85x23cm";5.98 €
+I57103NP;6941057417301;"MiniPool ""Glitter"", 1-3 Jahre";8.35 €
+I57106NP;6941057403090;"BabyPool ""Beach Bubbles"", Wasserbedarf ca. 33 l, 3-Ringe, 1-3 Jahre, 61x22cm";3.92 €
+I57114NP;6941057401058;"BabyPool ""Mushroom"" mit Sonnenschutz, Wasserbedarf ca 45l, aufblasbarer Boden, 1-3 Jahre, 102x89cm";9.37 €
+I57141NP;6941057413099;"BabyPool ""RainbowCloud"", 1-3 Jahre, 142x119x84cm";10.12 €
+I57165NP;6941057417875;"Playcenter ""Gator"" ab 2 Jahre";30.87 €
+I57181NP;6941057401072;"Swimcenter ""Mandarin"", Wasserbedarf ca 600l, Ablassventil, ab 3 Jahre, 229x147x46cm";20.60 €
+I57254EU;6941057407487;"Island ""Cool Guy"", 173x27cm";19.18 €
+I57257EU;6941057414195;"Badeinsel ""pink Muschelschale"" 178x165x24cm";31.29 €
+I57281EU;6941057407463;"Island ""Mega Unicorn"", 287x193x165cm";27.76 €
+I57403NP;6941057454030;Babypool Rectangular, Wasserbedarf 90l,  ab 2 Jahre;9.27 €
+I57412NP;6941057457413;"Pool ""Sunset Glow"", Wasserbedarf ca 131l, aufblasbarer Boden, 3- Ringe, ab 2 Jahre, 114x25cm";5.52 €
+I57422NP;6941057454221;"Pool ""Sunset Glow"", Wasserbedarf ca 275l, aufblasbarer Boden, 3- Ringe, ab 2 Jahre, 147x33cm";8.24 €
+I57440NP;6941057413112;"SprayPool ""Whale"", ab 2 Jahre, 201x196x91cm";20.95 €
+I57441NP;6941057407685;"SprayPool ""Mystic Unicorn"", ab 2 Jahre, 272x193x104cm";18.99 €
+I57470NP;6941057402567;"Swimcenter ""Sun Shade"" mit abnehmbarem Sonnenschutz, Wasserbedarf ca 295l, Ablassventil, ab 2 Jahre, 157x157x122cm";20.25 €
+I57500NP;6941057413303;"Flamingo ""DrinkHolder"" (3pcs per Set) ab 3 Jahre, 33x25cm";3.21 €
+I57506NP;6941057413327;"Einhorn "" ""DrinkHolder"" (3pcs per Set), ab 3 Jahre, 41x20cm";3.10 €
+I57524NP;6941057457529;Ride On Little Turtle ;6.65 €
+I57555NP;6941057402994;"RideOn ""Realistic Sea Turtle"", ab 3 Jahre, 191x170cm";14.74 €
+I57558NP;6941057403021;Ride On Flamingo ;10.80 €
+I57559NP;6941057417394;"RideOn ""Tropical Flamingo"" ";12.34 €
+I57561NP;6941057407456;Ride On Unicorn ;10.45 €
+I57564NP;6941057417882;"RideOn ""Cute Lama""";10.21 €
+I58070NP;6941057414171;"Wasserball ""transparent glitter"", 71cm";4.43 €
+I58075NP;6941057413273;"Wasserball ""Melone"", 107cm";4.60 €
+I58165NP;6941057451657;Surfer Joy Rider ;4.25 €
+I58221NP;6941057452210;"Wasserspielring ""Big Animal Ring"", 3-6 Jahre, ca. 70x60cm";1.85 €
+I58263NP;6941057452630;"Schwimmreifen ""Transparent Tube"" ab 9 Jahre, 2 Haltegriffe, Ø 97cm";3.42 €
+I58412NP;6941057402604;Abdeckplane rechtecking (für Swimcenter);5.54 €
+I58426NP;6941057454269;"Pool 3-Ring ""Crystalblue"", Wasserbedarf ca 330l, empfohlen ab 2 Jahre, 147x33cm";6.06 €
+I58431NP;6941057454313;"Pool ""Soft-Side"", Wasserberdarf ca 790l, ab 3 Jahre, Ablassventil, 188x46cm";12.42 €
+I58439NP;6941057454399;"Pool 3-Ring ""Cool Dots"", Wasserbedarf ca 330l, ab 2 Jahre, 147x33cm";8.30 €
+I58446NP;6941057454467;"Pool 3-Ring ""Crystalblue"", Wasserbedarf ca 581l, ab 2 Jahre, 168x38cm";8.20 €
+I58448NP;6941057413105;"Pool 3-Ring ""Watermelon"" ab 2 Jahre, 168x38cm";10.41 €
+I58449NP;6941057454498;"Pool 3-Ring ""Cool Dots"", Wasserbedarf ca 581l, ab 2 Jahre, 168x38cm";12.08 €
+I58480NP;6941057454801;"Swimcenter ""Aquarium"", Wasserbedarf ca 360l, ab 6 Jahre, Ablassventil, aufblasbarer Boden, 152x56cm";14.98 €
+I58484NP;6941057458847;Swimcenter Family Pool, Wasserbedarf 1020l, ab6 Jahre ;29.52 €
+I58523NP;6941057455235;"RideOn ""Kleiner Wal"", ab 3 Jahre, 152x114cm";5.91 €
+I58535NP;6941057455358;"RideOn ""Kleiner Delphin"", ab 3 Jahre, 175x66cm";5.67 €
+I58561NP;6941057455617;"RideOn ""Wal"", ab 3 Jahre, 193x119cm";8.00 €
+I58562NP;6941057458564;"RideOn ""Alligator"", ab 3 Jahre, 203x114cm";10.93 €
+I58590NP;6941057455907;"Badewannentiere ""Puff´n Play"", ab 2 Jahre, 6 fach sortiert";1.05 €
+I58642EU;6941057408774;"Schwimmhilfe ""Deluxe klein"", 3-6 Jahre, 23x15cm";1.04 €
+I58671EU;6941057456713;"Schwimmweste ""Deluxe"", 3-6 Jahre, 50x47cm";2.35 €
+I58681NP;6941057401119;Shell Scavenger Bucket;2.99 €
+I58755EU;6941057404806;"Lounge ""Eis am Stiel"", 178x77cm";3.98 €
+I58757EU;6941057404813;"Lounge ""Eistüte"" 178x81cm";3.98 €
+I58771EU;6941057413334;"Float ""HotDog"", 180x89cm";9.48 €
+I58776EU;6941057408613;"Float ""Potato Chips"" 178x140cm";12.98 €
+I58778EU;6941057413365;"Float ""Infused sparkling"" 178x91cm";9.98 €
+I58781EU;6941057413396;"Badeinsel ""Erbeere"" 168x142cm";12.48 €
+I58786EU;6941057413440;"Lounge ""Engelsflügel"" 251x160cm";25.05 €
+I58802EU;6941057408903;Lounge King Kool;7.92 €
+I58836EU;6941057402369;Lounge Mesh Mat;15.87 €
+I58859EU;6941057458595;"Lounge ""Sit´n Float"", 2 farbig sortiert, 152x99cm";6.49 €
+I58883NP;6941057458830;"Lounge ""Sit´n"" mit Getränkehalter, ab 8 Jahre, Ø 119cm";12.86 €
+I58890EU;6941057458908;"Lounge ""18-Pocket Fashion"", 3 farbig sortiert, 188x71cm";7.75 €
+I58924NP;6941057459240;Pool Sunset Glow, Wasserbedarf 56l, Alter: 1-3;3.74 €
+I59030NP;6941057450308;"Wasserball ""Glossy"", ab 3 Jahre, Ø 61cm";0.82 €
+I59040NP;6941057450407;"Wasserball ""Lively Print"", ab 3 Jahre, 3 fach sortiert, Ø 51cm";0.87 €
+I59223NP;6941057407418;"Schwimmring ""Fish"", 3-6 Jahre, 2-fach sort., 83x81cm";1.48 €
+I59230NP;6941057452302;"Schwimmring ""Lively Print"" 3-6 Jahre, 3 fach sort., Ø 51cm";0.77 €
+I59242NP;6941057452425;Schwimmring transparent, 6-10 Jahre, 3 fach sort., Ø 61cm;1.46 €
+I59256NP;6941057401126;"Schwimmreifen ""Stargaza"", ab 9 Jahre, mit Haltegriffen, 3 fach sort., Ø 91cm";2.53 €
+I59258NP;6941057452586;"Schwimmreifen ""High Gloss"", ab 8 Jahre, mit Haltegriffen, 3 fach sort., Ø 76cm";2.87 €
+I59262NP;6941057452623;"Schwimmreifen ""Neon-Frost"", ab 9 Jahre, 3 fach sortiert, Ø 91cm";1.88 €
+I59380NP;6941057453804;"Baby Boot ""Pool-Cruiser"", 3-6 Jahre, 3 fach sort., ca 110x100cm";3.20 €
+I59416NP;6941057402420;"Pool 3-Ring ""Crysalblue"", Wasserbedarf ca 156l, ab 2 Jahre, 114x25cm";3.89 €
+I59421NP;6941057402406;"Pool 2-Ring ""JUST SO FRUITY"", Wasserbedarf ca 150l, ab 2 Jahre, 122x25cm";5.15 €
+I59431NP;6941057402390;"Pool 3-Ring ""Fishbowl"", Wasserbedarf ca 248l, ab 2 Jahre, 132x28cm";6.25 €
+I59717EU;6941057457178;"Luftmatratze ""Neon Frost"", 3 fach sortiert, 183x76cm";3.48 €
+I59720EU;6941057408859;"Luftmatratze ""Fashion"", 3 fach sortiert, 183x69cm";3.46 €
+I59895EU;6941057408873;"Lounge ""18-Pocket Suntanner"", 2 fach sortiert, 188x71cm";6.10 €
+I66640;6941057413693;Pumpe elektrisch 220V,  mit 3 Verbindungs-Düsen, mit Überhitzungs-Schutz, Pumpleistung ? 650 l/h;9.68 €
+I68610;6941057466101;Fußpumpe 30cm (ca. 2l);6.03 €
+I68615;6941057466156;Doppelhubpumpe 48 cm;6.95 €
+I68757;6941057467573;"Luftbett ""Classic Downy"" blau Twin";8.98 €
+I68758;6941057467580;"Luftbett ""Classic Downy"" blau Full";10.48 €
+I68759;6941057467597;"Luftbett ""Classic Downy"" blau Queen";12.49 €
+I68798;6941057467986;Kasten-Matratze uni SINGLE, 72x189x20cm;6.48 €
+I68950;6941057469508;"Luftbett ""Classic Downy""blau"" COT SIZE";6.98 €

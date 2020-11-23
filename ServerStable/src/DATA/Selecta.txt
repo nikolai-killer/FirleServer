@@ -1,0 +1,198 @@
+Artikelnummer;Artikelbezeichnung;EAN;Netto
+60000;Zoorino-Messlatte, 100 cm    ;4060848600004;16.55
+60007;Movella, Garderobe, 74 x 20,5;4060848600073;18.95
+60009;Hanna, Hampelmann, 26 cm     ;4060848600097;7.5
+60901;Alphabet A, 4er Set          ;4060848609014;1.24
+60902;Alphabet B, 4er Set          ;4060848609021;1.24
+60903;Alphabet C, 4er Set          ;4060848609038;1.24
+60904;Alphabet D, 4er Set          ;4060848609045;1.24
+60905;Alphabet E, 4er Set          ;4060848609052;1.24
+60906;Alphabet F, 4er Set          ;4060848609069;1.24
+60907;Alphabet G, 4er Set          ;4060848609076;1.24
+60908;Alphabet H, 4er Set          ;4060848609083;1.24
+60909;Alphabet I, 4er Set          ;4060848609090;1.24
+60910;Alphabet J, 4er Set          ;4060848609106;1.24
+60911;Alphabet K, 4er Set          ;4060848609113;1.24
+60912;Alphabet L, 4er Set          ;4060848609120;1.24
+60913;Alphabet M, 4er Set          ;4060848609137;1.24
+60914;Alphabet N, 4er Set          ;4060848609144;1.24
+60915;Alphabet O, 4er Set          ;4060848609151;1.24
+60916;Alphabet P, 4er Set          ;4060848609168;1.24
+60917;Alphabet Q, 4er Set          ;4060848609175;1.24
+60918;Alphabet R, 4er Set          ;4060848609182;1.24
+60919;Alphabet S, 4er Set          ;4060848609199;1.24
+60920;Alphabet T, 4er Set          ;4060848609205;1.24
+60921;Alphabet U, 4er Set          ;4060848609212;1.24
+60922;Alphabet V, 4er Set          ;4060848609229;1.24
+60923;Alphabet W, 4er Set          ;4060848609236;1.24
+60924;Alphabet X, 4er Set          ;4060848609243;1.24
+60925;Alphabet Y, 4er Set          ;4060848609250;1.24
+60926;Alphabet Z, 4er Set          ;4060848609267;1.24
+61000;Greifspaÿ Kugel, 9 cm        ;4060848610003;3.45
+61001;Rolldi, 15 cm                ;4060848610010;8
+61002;Rollmi, 13 cm                ;4060848610027;8
+61004;Cubinello, Würfel, 6 cm      ;4060848610041;5.15
+61005;Catina, Katzen-Greifling, 8,5;4060848610058;4.65
+61006;Cubellino, Greifling, 9 cm   ;4060848610065;6.35
+61007;Rondello, Greifling, 7,5 cm  ;4060848610072;5.75
+61008;Space, Greiflingball, 11,5 cm;4060848610089;9.95
+61009;Rombino, Greifling, 9 cm     ;4060848610096;3.95
+61010;Girello, Greifling, 11 cm    ;4060848610102;6.15
+61011;Limbo, Greifling, 9 cm       ;4060848610119;3.45
+61013;Trapezini, Wagenkette, 63 cm ;4060848610133;9.45
+61014;Collina, Wagenkette, 63 cm   ;4060848610140;9.75
+61015;Rosali, Wagenkette, 63 cm    ;4060848610157;9.75
+61016;Crocolini, Wagenkette, 63 cm ;4060848610164;9.75
+61017;Amici, Wagenkette, 63 cm     ;4060848610171;9.75
+61018;Piepolini, Wagenkette, 63 cm ;4060848610188;9.45
+61019;Crocolini, Schnullerkette, 21;4060848610195;4.75
+61020;Collini Frosch, Schnullerkett;4060848610201;4.75
+61021;Rosali, Schnullerkette, 21 cm;4060848610218;4.75
+61022;Collini Giraffe, Schnullerket;4060848610225;4.75
+61025;Giralo, Greifling, eckig, 12 ;4060848610256;6.35
+61027;Girali, Stielgreifling, 10 cm;4060848610270;6.35
+61028;Rolina, Lok-Greifling, 8,5 cm;4060848610287;6.35
+61030;Topino, Maus-Greifling, 8 cm ;4060848610300;4.75
+61031;Erik, Greifling, 17 cm       ;4060848610317;6.35
+61032;Girollo, Greifspielzeug, 7 cm;4060848610324;4.75
+61033;Abacus, 8 cm                 ;4060848610331;4.75
+61034;Mikado, Greifling, 8,5 cm    ;4060848610348;6.65
+61035;Quietschkugel, 4x1 im Polybeu;4060848610355;2.35
+61036;Girondo, Greifling, rund, 10 ;4060848610362;4.75
+61037;Zoolini Giraffe, 7 cm        ;4060848610379;6.65
+61038;Rollina, sortiert, 3x1 im Pol;4060848610386;6.35
+61039;Sonato, Auto, 7 cm           ;4060848610393;6.35
+61040;Zoolini Krokodil, 8 cm       ;4060848610409;6.65
+61041;Vermino, Wagenkette, 63 cm   ;4060848610416;9.75
+61042;Tondelli, rollender Greifling;4060848610423;4.65
+61043;Zippelzappel, Minitrapez, 16 ;4060848610430;8
+61044;Klapper-Kroko, 10 cm         ;4060848610447;6.35
+61045;Klappadu, Minitrapez, 19 cm  ;4060848610454;8
+61046;Klingelu, Minitrapez, 15,5 cm;4060848610461;8
+61047;Musina, Spieltrapez, 60 cm   ;4060848610478;30.1
+61048;Topeto, 7 cm                 ;4060848610485;6.35
+61049;Pepito, mit Klettverschluÿ, 8;4060848610492;7.85
+61050;Pia Iah, mit Klettverschluÿ, ;4060848610508;7.85
+61051;Wackel Pepito                ;4060848610515;7.1
+61052;Wackel Liese                 ;4060848610522;7.1
+61053;Wackel Susi                  ;4060848610539;7.1
+61054;Benno Hund, Schnullerkette, 2;4060848610546;5.5
+61055;Kitti Katze, Schnullerkette, ;4060848610553;5.5
+61056;Ringo Hund, Greifsling mit Qu;4060848610560;7.5
+61057;Anni Hase, Greifsling mit Qui;4060848610577;7.5
+61058;Kiri Vogel, Greifling mit Qui;4060848610584;7.5
+61059;Animino, Quietschkugel, Tiere;4060848610591;3.1
+61060;Selecta-Clip, 3,5 cm, 6x8 Stk;4060848610607;1.5
+61061;Carello, Stielgreifling, 12 c;4060848610614;6.35
+61062;Girali Colori, Stielgreifling;4060848610621;6.35
+61064;Collini, mit Klettverschluÿ, ;4060848610645;7.85
+61065;Kitti, mit Klettverschluÿ, 9 ;4060848610652;7.85
+61066;Wackel Max, 13 cm            ;4060848610669;7.1
+62000;Yambo, Nachzieh Elefant, 13,5;4060848620002;5.35
+62001;Karla, Nachzieh Ente, 10 cm  ;4060848620019;4.95
+62002;Stapelturm, Kugel, 16 cm     ;4060848620026;4.85
+62003;Bilderwürfel, Zoo, 4 Teile   ;4060848620033;4.85
+62004;Puzzle Bauernhof, 5 Teile    ;4060848620040;4.85
+62005;Sortierbox, 14 cm            ;4060848620057;14.75
+62006;Bilderkette, Legespiel, 8 Tei;4060848620064;9.35
+62007;Sortierrolle, 13 cm          ;4060848620071;9.75
+62008;Serpentino, Klickschlange, 19;4060848620088;7.55
+62009;Wackelsteine, max. 6 cm      ;4060848620095;4.75
+62010;Obstsalat, 8 Teile           ;4060848620101;4.75
+62011;Kurbelspaÿ, 20,5 cm          ;4060848620118;12.35
+62012;Wippofant, 15,5 cm           ;4060848620125;7.85
+62013;Farbenschubser, 19 cm        ;4060848620132;10.9
+62014;Tavolini, Motorikspielzeug, 1;4060848620149;10.9
+62015;Quatrino, Sortierbox, 20 cm  ;4060848620156;16.5
+62017;Battino, Klopfbank, 22 cm    ;4060848620170;14.75
+62018;Filino, Nachzieh + Stapel, 15;4060848620187;9.75
+62019;Varianto, Sortierbox, 15 cm  ;4060848620194;19.75
+62020;Picknick, 14 Teile           ;4060848620200;9.75
+62022;Kasper Klip-Klap, Nachzieh Ig;4060848620224;7.35
+62023;Hanna Hoppel, Nachzieh Hase, ;4060848620231;7.35
+62024;Autolino, Nachzieh Auto, 11 c;4060848620248;7.35
+62025;Lilli, Nachzieh Pferd, 12 cm ;4060848620255;7.35
+62026;Nico, Nachzieh Hund, 12 cm   ;4060848620262;7.35
+62027;Tattolo, Schiebefigur, 21 cm ;4060848620279;13.65
+62028;Roller, Schiebefigur, 10 cm  ;4060848620286;12.35
+62029;Trotto, Schiebefigur, 17 cm  ;4060848620293;13.65
+62030;Bako, Nachzieh Raupe, 24 cm  ;4060848620309;13.65
+62031;Karussell, Schiebefigur, 20 c;4060848620316;13.65
+62032;Pedella, Schiebefigur, 14 cm ;4060848620323;14.75
+62033;Ranolo, Nachzieh Frosch, 11 c;4060848620330;7.35
+62034;Smillo, Schiebefigur, 17 cm  ;4060848620347;13.65
+62035;Tinka, Nachzieh Katze, 12 cm ;4060848620354;7.35
+62036;Minitivity, Motorikspielzeug,;4060848620361;10.9
+62037;Collino, Nachzieh + Stapel, 1;4060848620378;8
+62038;Musico, Xylophon, 19,5 cm    ;4060848620385;17.85
+62039;Zwergenstapel, 7 Stk.        ;4060848620392;9.75
+62040;Klettwurm Freddi, 16 cm      ;4060848620408;7.1
+62041;Stapelfrosch Pepito, 10 cm   ;4060848620415;6.65
+62042;Stapelkater Karlo, 10 cm     ;4060848620422;6.65
+62043;Stapelk?fer Kalle, 10 cm     ;4060848620439;6.65
+62044;Formenschubser Tiere, 19 cm  ;4060848620446;10.9
+62045;Puzzle Bauernhof, 5 Teile    ;4060848620453;9.35
+62046;Puzzle Zoo, 5 Teile          ;4060848620460;9.35
+62048;Lieblingstiere, Bilderbuch, 1;4060848620484;3.95
+62049;Farm, Bilderbuch, 10 cm      ;4060848620491;3.95
+62050;Bilderwürfel, Zookinder, 4 Te;4060848620507;8
+62051;Motorik-Acht, 25,5 cm        ;4060848620514;7.1
+62052;Bilderwürfel, Farm, 4 Teile  ;4060848620521;8
+62055;Bilderstraÿe, Legespiel, 10 c;4060848620552;9.35
+62056;Bilderschlange, Legespiel, 20;4060848620569;9.75
+62057;Varialand, Legespiel 80 Teile;4060848620576;12.5
+62058;Arztkoffer, 25x18 cm         ;4060848620583;19.5
+62059;Drehsteckspaÿ, 15,5 cm       ;4060848620590;14.75
+62060;Klopf-Krocket, 22 cm         ;4060848620606;14.75
+62061;F?delwurm                    ;4060848620613;11.85
+62062;Schiebepuzzle Dschungel, 24 c;4060848620620;11.85
+62063;Stapelduo                    ;4060848620637;7.1
+62064;Spintivity, Motorikbrett, 21 ;4060848620644;13.5
+62065;Vicolino, Klett-Stapelspielze;4060848620651;9.95
+62066;Sortino, Sortierbox, 16 cm   ;4060848620668;15.5
+62067;Coloro, Baukl?tze, 25 Teile  ;4060848620675;15.5
+62068;Burger, 12 Teile             ;4060848620682;9.95
+62071;Pingo, Schiebefigur, 13 cm   ;4060848620712;14.75
+62072;Saltino, 23 cm               ;4060848620729;14.75
+62073;Beautykoffer, 25x18 cm       ;4060848620736;19.5
+62074;Werkzeugkoffer, 25x18 cm     ;4060848620743;19.5
+62075;Baustelle, Klett-Stapelspielz;4060848620750;13.65
+62076;Bauernhof, Klett-Stapelspielz;4060848620767;13.65
+62077;Feuerwehr, Klett-Stapelspielz;4060848620774;13.65
+62078;Boot, Klett-Stapelspielzeug, ;4060848620781;8.95
+62079;Flieger, Klett-Stapelspielzeu;4060848620798;8.95
+63001;Balance                      ;4060848630018;6.35
+63002;Stapelnest                   ;4060848630025;10.5
+63004;Würfelzwerge Domino          ;4060848630049;7.55
+63005;F?delraupe                   ;4060848630056;9.75
+63006;Der kunterbunte Ottokar      ;4060848630063;10.5
+63007;Bilderlotto, 30 Teile        ;4060848630070;12.5
+63008;Memo Zoo, 36 Teile           ;4060848630087;12.5
+63009;Memo Pepito und seine Freunde;4060848630094;8.85
+63011;Numero                       ;4060848630117;9.75
+63012;Kunterbunte Autorelli        ;4060848630134;7.85
+63016;Memo Primo, 24 Teile         ;4060848630162;8.85
+63017;Memo Kunterbunt, 36 Teile    ;4060848630179;12.5
+63019;Schwammerl Sammler           ;4060848630193;9.75
+63020;Wuffi Wirrwarr               ;4060848630209;9.75
+64000;Glücksgriff rosa, 7,5 cm     ;4060848640000;6.15
+64001;Sternchenflitzer rosa, 7 cm  ;4060848640017;5.75
+64002;Glücksgriff grau, 7,5 cm     ;4060848640024;6.15
+64003;Wolkenflitzer, 6 cm          ;4060848640031;5.75
+64004;Kleiner Flitzer grau, 10 cm  ;4060848640048;4.75
+64005;Wolken Spaÿ, 15,5 cm         ;4060848640055;9.45
+64006;Wolkenglück, Schnullerkette, ;4060848640062;4.75
+64007;Kleiner Flitzer rot, 10 cm   ;4060848640079;4.75
+64008;Kleiner Flitzer blau, 10 cm  ;4060848640086;4.75
+64009;Sternchen Spaÿ rosa, 15,5 cm ;4060848640093;9.45
+64010;Glücksgriff blau, 7,5 cm     ;4060848640109;6.15
+64011;Sternchenflitzer blau, 7 cm  ;4060848640116;5.75
+64012;Sternenzauber, 8 cm          ;4060848640123;5.75
+64013;Sternchenglück rosa, Schnulle;4060848640130;4.75
+64014;Sternchenglück blau, Schnulle;4060848640147;4.75
+64015;Sternchen Spaÿ blau, 15,5 cm ;4060848640154;9.45
+64016;Sternchen, Wagenkette, 63 cm ;4060848640161;10.95
+64017;Sternchenrolle, Sortierrolle,;4060848640178;10.95
+64018;Sternchenkarusell, Schiebefig;4060848640185;15.5
+64019;Sternchenschleife, 18 cm     ;4060848640192;15.5
+64020;Sternenhimmel, 12 Teile      ;4060848640208;9.45
